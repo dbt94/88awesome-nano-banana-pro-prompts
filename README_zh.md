@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15089** |
+| 📝 提示词总数 | **15088** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年8月5日星期三 UTC 05:00:17** |
+| 🔄 最后更新 | **2026年8月6日星期四 UTC 05:00:25** |
 
 </div>
 
@@ -654,60 +654,7 @@ Grok 的搜索结果
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 个人资料 / 头像 - 明亮 CCD 风格度假生活摄影
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成具有数码 CCD 相机美感的明亮生活度假照片。提示词强调了明亮的灯光、放松的姿态以及具体的服装细节，营造出清新约会风格的视觉效果。
-
-#### 📝 提示词
-
-```
-摄影风格：日间明亮高光 CCD 生活风格
-人像方向：度假生活照
-场景方向：{argument name="scene" default="游艇码头休息区 / 白色栏杆 / 浅色甲板 / 远处船只"}
-服装方向：{argument name="outfit" default="珊瑚粉色修身挂脖短款上衣 + 白色高腰短裤"}
-气质标签：明亮、放松、清新、约会氛围、有吸引力
-五官方向：初恋感清透五官
-身材方向：轻盈纤细
-线条强调：强烈
-镜头方向：半身至大腿
-姿势/动作：{argument name="action" default="站在白色栏杆旁，身体微微侧转，一只手扶着栏杆，回眸看向镜头"}
-光影氛围：以晴天明亮的日光为主，侧前方阳光清晰照亮主体；白色栏杆、甲板和海面的高光提供自然反光补光；极弱的柔和闪光灯轻微补充眼神光和面部阴影
-滤镜效果：高亮度清晰 CCD 色彩 + 干净的白色高光 + 清晰的中调 + 稳定的黑色水平 + 轻微颗粒感 + 极轻微的数码噪点
-画面比例：9:16
-额外要求：珊瑚粉色上衣应明亮清新，不能显脏或发灰；挂脖设计自然突出颈部、锁骨和胸部线条，整体画面应呈现出在阳光明媚的假期中用数码卡片机拍摄的明亮生活照质感。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654884469_bdqj45_HOsh1ZSbUAApH65.jpg" width="600" alt="个人资料 / 头像 - 明亮 CCD 风格度假生活摄影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654883757_yya22p_HOsh2kbaIAAENxi.jpg" width="600" alt="个人资料 / 头像 - 明亮 CCD 风格度假生活摄影 - Image 2">
-</div>
-
-#### 📌 详情
-
-- **作者:** [李岳](https://x.com/liyue_ai)
-- **来源:** [Twitter Post](https://x.com/liyue_ai/status/2083802423496474770)
-- **发布时间:** 2026年8月2日
-- **多语言:** zh
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=30566)**
-
----
-
-### No. 2: 个人资料 / 头像 - 水下微距人像
+### No. 1: 个人资料 / 头像 - 水下微距人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -747,7 +694,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 3: 个人资料 / 头像 - 复古芥末黄连衣裙肖像
+### No. 2: 个人资料 / 头像 - 复古芥末黄连衣裙肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -799,7 +746,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 4: 个人资料 / 头像 - 黄金时刻的抓拍人像
+### No. 3: 个人资料 / 头像 - 黄金时刻的抓拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -833,7 +780,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 5: 个人资料 / 头像 - 油画质感影棚肖像
+### No. 4: 个人资料 / 头像 - 油画质感影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -867,7 +814,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 6: 个人资料 / 头像 - 暗黑电影感皮肤人像
+### No. 5: 个人资料 / 头像 - 暗黑电影感皮肤人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -915,7 +862,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 7: 个人资料 / 头像 - 女超人风格自拍人像
+### No. 6: 个人资料 / 头像 - 女超人风格自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -961,7 +908,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 8: 个人资料 / 头像 - 蜘蛛侠楼顶战衣肖像
+### No. 7: 个人资料 / 头像 - 蜘蛛侠楼顶战衣肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1012,7 +959,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 9: 个人资料 / 头像 - 年轻女性的艺术油画肖像
+### No. 8: 个人资料 / 头像 - 年轻女性的艺术油画肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1046,7 +993,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 10: 个人资料 / 头像 - 影棚人像比心手势
+### No. 9: 个人资料 / 头像 - 影棚人像比心手势
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1086,7 +1033,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 11: 个人资料 / 头像 - 表现主义混合媒介素描肖像
+### No. 10: 个人资料 / 头像 - 表现主义混合媒介素描肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1125,7 +1072,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 12: 个人资料 / 头像 - 赤褐色卷发人像
+### No. 11: 个人资料 / 头像 - 赤褐色卷发人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1165,7 +1112,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 13: 个人资料 / 头像 - 戏剧性黄色丝绸肖像
+### No. 12: 个人资料 / 头像 - 戏剧性黄色丝绸肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1211,7 +1158,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 14: 个人资料 / 头像 - 编辑类插画数字绘画
+### No. 13: 个人资料 / 头像 - 编辑类插画数字绘画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1263,7 +1210,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 15: 个人资料 / 头像 - 泰姬陵旅行人像
+### No. 14: 个人资料 / 头像 - 泰姬陵旅行人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1297,7 +1244,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 16: 个人资料 / 头像 - 水下沉浸式皮肤肖像
+### No. 15: 个人资料 / 头像 - 水下沉浸式皮肤肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1331,7 +1278,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 17: 个人资料 / 头像 - 情绪化油画质感肖像
+### No. 16: 个人资料 / 头像 - 情绪化油画质感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,7 +1312,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 18: 个人资料 / 头像 - 草丛中忧郁的电影感女性肖像
+### No. 17: 个人资料 / 头像 - 草丛中忧郁的电影感女性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1399,7 +1346,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 19: 个人资料 / 头像 - 戏剧性明暗对比风格影棚肖像
+### No. 18: 个人资料 / 头像 - 戏剧性明暗对比风格影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1448,6 +1395,58 @@ Grok 的搜索结果
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=30197)**
+
+---
+
+### No. 19: 个人资料 / 头像 - 霓虹都市赛博朋克风肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张充满赛博朋克氛围的都市夜景肖像，描绘了一名女子在霓虹灯与虚化光影映衬下的街头形象。
+
+#### 📝 提示词
+
+```
+一张电影感的中景镜头，主角是 {argument name="subject" default="一位留着深色短发、拥有明亮蓝眼睛的年轻女性"}，她站在夜晚繁华的城市街道上，被闪烁的霓虹灯照亮。她身穿 {argument name="outfit" default="一件灰色高领毛衣外搭深灰色纹理羊毛大衣"}。画面采用浅景深效果，背景是色彩斑斓的 {argument name="bokeh colors" default="蓝色与洋红色"} 虚化光斑。鲜艳的霓虹光影投射在她的脸庞和手上，营造出一种情绪化、充满氛围感的视觉效果，画面对焦清晰，纹理真实，呈现出极具戏剧性的赛博朋克光影风格。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923362_31zrhx_HOYos-5XEAANbxj.jpg" width="600" alt="个人资料 / 头像 - 霓虹都市赛博朋克风肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923328_3473kc_HOYoxnRXYAAXGF8.jpg" width="600" alt="个人资料 / 头像 - 霓虹都市赛博朋克风肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923622_2696m9_HOYo2GnXkAAU5wp.jpg" width="600" alt="个人资料 / 头像 - 霓虹都市赛博朋克风肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395924278_qcv8km_HOYo5kKWQAA3P3E.jpg" width="600" alt="个人资料 / 头像 - 霓虹都市赛博朋克风肖像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **来源:** [Twitter Post](https://x.com/Minahil42298354/status/2082396899168997827)
+- **发布时间:** 2026年7月29日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=30193)**
 
 ---
 
@@ -2036,7 +2035,41 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 34: 信息图 / 教育视觉图 - 人体工学办公椅电商移动端详情页
+### No. 34: 社交媒体帖子 - 超高细节印度女性肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一张 8K 照片级逼真的肖像，主角是一位身穿豹纹连衣裙的绝美印度女性，配有戏剧性的定向照明。
+
+#### 📝 提示词
+
+```
+创作一张 8K、超高清、超高细节、照片级逼真的肖像图片。绝美的 {argument name="subject" default="年轻白皙的印度女性"}，留着深棕色长波浪卷发，精致的柔光妆容，佩戴金色水滴耳环、吊坠和手镯。身穿 {argument name="outfit" default="豹纹细肩带吊带裙"}，领口垂坠设计，配有透明雪纺不对称下摆。倚靠在 {argument name="location" default="暖米色墙角"}，手触碰头发，眼神自信且直视镜头。采用戏剧性的定向照明，左侧带有锐利的阴影。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="社交媒体帖子 - 超高细节印度女性肖像 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Sarah](https://x.com/AIwithSarah_)
+- **来源:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
+- **发布时间:** 2026年8月1日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=30555)**
+
+---
+
+### No. 35: 信息图 / 教育视觉图 - 人体工学办公椅电商移动端详情页
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2070,7 +2103,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 35: 信息图 / 教育视觉图 - 微缩立体书透视模型
+### No. 36: 信息图 / 教育视觉图 - 微缩立体书透视模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2104,7 +2137,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 36: 信息图 / 教育视觉图 - 复古 20 世纪 70 年代字母图形设计
+### No. 37: 信息图 / 教育视觉图 - 复古 20 世纪 70 年代字母图形设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2138,7 +2171,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 37: 信息图 / 教育视觉图 - Voxel 杂志立体艺术
+### No. 38: 信息图 / 教育视觉图 - Voxel 杂志立体艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2172,7 +2205,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 38: 信息图 / 教育视觉图 - 几何马赛克肖像插画
+### No. 39: 信息图 / 教育视觉图 - 几何马赛克肖像插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +2251,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 39: 信息图 / 教育视觉图 - 技术剖面图
+### No. 40: 信息图 / 教育视觉图 - 技术剖面图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2270,7 +2303,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 40: 信息图 / 教育视觉图 - 消防员故事板信息图
+### No. 41: 信息图 / 教育视觉图 - 消防员故事板信息图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2304,7 +2337,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 41: 信息图 / 教育视觉图 - 3D 医学发光扫描渲染
+### No. 42: 信息图 / 教育视觉图 - 3D 医学发光扫描渲染
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2344,7 +2377,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 42: 信息图 / 教育视觉图 - AR 悬崖风景人像分析
+### No. 43: 信息图 / 教育视觉图 - AR 悬崖风景人像分析
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2449,7 +2482,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 43: 信息图 / 教育视觉图 - 《机动战士高达 THE ORIGIN》信息图生成
+### No. 44: 信息图 / 教育视觉图 - 《机动战士高达 THE ORIGIN》信息图生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2483,7 +2516,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 44: 信息图 / 教育视觉图 - 东德架空历史汽车设计
+### No. 45: 信息图 / 教育视觉图 - 东德架空历史汽车设计
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2517,7 +2550,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 45: 信息图 / 教育视觉图 - 沼泽中的短吻鳄野生动物摄影
+### No. 46: 信息图 / 教育视觉图 - 沼泽中的短吻鳄野生动物摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2557,7 +2590,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 46: 信息图 / 教育视觉图 - 新参数化建筑插画
+### No. 47: 信息图 / 教育视觉图 - 新参数化建筑插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2602,7 +2635,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 47: 信息图 / 教育视觉图 - 粉彩昆虫平铺艺术
+### No. 48: 信息图 / 教育视觉图 - 粉彩昆虫平铺艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2636,7 +2669,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 48: 信息图 / 教育视觉图 - 欧洲旅行生活方式项目
+### No. 49: 信息图 / 教育视觉图 - 欧洲旅行生活方式项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2670,7 +2703,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 49: YouTube 缩略图 - 排版涌现电影海报网格
+### No. 50: YouTube 缩略图 - 排版涌现电影海报网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,7 +2737,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 50: YouTube 缩略图 - 科幻风格咖啡机 Boss 战
+### No. 51: YouTube 缩略图 - 科幻风格咖啡机 Boss 战
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2738,7 +2771,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 51: YouTube 缩略图 - 威尼斯超现实主义巨型女性
+### No. 52: YouTube 缩略图 - 威尼斯超现实主义巨型女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2772,7 +2805,7 @@ first person pov of {argument name="subject" default="你平时看不到的事�
 
 ---
 
-### No. 52: YouTube 缩略图 - 电影级体育纪录片主视觉图
+### No. 53: YouTube 缩略图 - 电影级体育纪录片主视觉图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2806,7 +2839,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 53: YouTube 缩略图 - 雄伟象群云朵摄影
+### No. 54: YouTube 缩略图 - 雄伟象群云朵摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2850,7 +2883,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 54: YouTube 缩略图 - 动漫风格火车站转换
+### No. 55: YouTube 缩略图 - 动漫风格火车站转换
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2884,7 +2917,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 55: YouTube 缩略图 - 憨豆先生与 Mini Cooper 的疯狂时刻
+### No. 56: YouTube 缩略图 - 憨豆先生与 Mini Cooper 的疯狂时刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2938,7 +2971,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 56: YouTube 缩略图 - 电影感月光天台人像拼贴
+### No. 57: YouTube 缩略图 - 电影感月光天台人像拼贴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2978,7 +3011,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 57: YouTube 缩略图 - 街头时尚风格蛋糕刀人像
+### No. 58: YouTube 缩略图 - 街头时尚风格蛋糕刀人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3012,7 +3045,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 58: YouTube 缩略图 - 电影感义警主题海报
+### No. 59: YouTube 缩略图 - 电影感义警主题海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3063,7 +3096,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 59: YouTube 缩略图 - 篮球场馆转播肖像
+### No. 60: YouTube 缩略图 - 篮球场馆转播肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3099,7 +3132,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 60: YouTube 缩略图 - NBA 转播球场截图
+### No. 61: YouTube 缩略图 - NBA 转播球场截图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3133,7 +3166,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 61: YouTube 缩略图 - 奇幻书籍可视化网格
+### No. 62: YouTube 缩略图 - 奇幻书籍可视化网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3167,7 +3200,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 62: YouTube 缩略图 - 歌曲转图像可视化
+### No. 63: YouTube 缩略图 - 歌曲转图像可视化
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3219,7 +3252,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 63: YouTube 缩略图 - 电影感播客工作室人像
+### No. 64: YouTube 缩略图 - 电影感播客工作室人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3253,7 +3286,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 64: YouTube 缩略图 - 日式电视节目风格图像生成
+### No. 65: YouTube 缩略图 - 日式电视节目风格图像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3308,7 +3341,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 65: YouTube 缩略图 - Millie Bobby Brown 的电影感节日摄影作品
+### No. 66: YouTube 缩略图 - Millie Bobby Brown 的电影感节日摄影作品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3366,7 +3399,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 66: YouTube 缩略图 - 电影感街头摄影：男子踩到香蕉皮滑倒
+### No. 67: YouTube 缩略图 - 电影感街头摄影：男子踩到香蕉皮滑倒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3399,7 +3432,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 67: YouTube 缩略图 - 愚人节假新闻图像生成提示词
+### No. 68: YouTube 缩略图 - 愚人节假新闻图像生成提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3450,7 +3483,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 68: 漫画 / 故事板 - 哥特式异想天开的鬼屋
+### No. 69: 漫画 / 故事板 - 哥特式异想天开的鬼屋
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3484,7 +3517,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 69: 漫画 / 故事板 - 宁静的文学花园之旅
+### No. 70: 漫画 / 故事板 - 宁静的文学花园之旅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3518,7 +3551,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 70: 漫画 / 故事板 - 哆啦 A 梦电影风格场景渲染
+### No. 71: 漫画 / 故事板 - 哆啦 A 梦电影风格场景渲染
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3552,7 +3585,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 71: 漫画 / 故事板 - 多面板表情网格
+### No. 72: 漫画 / 故事板 - 多面板表情网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,7 +3625,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 72: 漫画 / 故事板 - 静谧花园文学肖像
+### No. 73: 漫画 / 故事板 - 静谧花园文学肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3638,7 +3671,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 73: 漫画 / 故事板 - 奢华香氛项目布局
+### No. 74: 漫画 / 故事板 - 奢华香氛项目布局
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3672,7 +3705,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 74: 漫画 / 故事板 - 角色交互道具添加
+### No. 75: 漫画 / 故事板 - 角色交互道具添加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3706,7 +3739,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 75: 漫画 / 故事板 - 极简主义时尚编辑素描
+### No. 76: 漫画 / 故事板 - 极简主义时尚编辑素描
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3746,7 +3779,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 76: 漫画 / 故事板 - 电影感空中动作镜头
+### No. 77: 漫画 / 故事板 - 电影感空中动作镜头
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3780,7 +3813,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 77: 漫画 / 故事板 - 宇宙壁画工作室肖像系列
+### No. 78: 漫画 / 故事板 - 宇宙壁画工作室肖像系列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3826,7 +3859,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 78: 漫画 / 故事板 - 女性漫画涂鸦阴影
+### No. 79: 漫画 / 故事板 - 女性漫画涂鸦阴影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3872,7 +3905,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 79: 漫画 / 故事板 - 城市街头肖像与动画伙伴
+### No. 80: 漫画 / 故事板 - 城市街头肖像与动画伙伴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3906,7 +3939,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 80: 漫画 / 故事板 - 神秘学杂志编辑部
+### No. 81: 漫画 / 故事板 - 神秘学杂志编辑部
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3946,7 +3979,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 81: 漫画 / 故事板 - 身穿红裙的微笑女性拼贴画
+### No. 82: 漫画 / 故事板 - 身穿红裙的微笑女性拼贴画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3980,7 +4013,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 82: 漫画 / 故事板 - Nano Banana 2 一致性肖像拼贴
+### No. 83: 漫画 / 故事板 - Nano Banana 2 一致性肖像拼贴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4022,7 +4055,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 83: 漫画 / 故事板 - 日本女性秋日庭院和服
+### No. 84: 漫画 / 故事板 - 日本女性秋日庭院和服
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4056,7 +4089,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 84: 漫画 / 故事板 - 最终话顿悟场景
+### No. 85: 漫画 / 故事板 - 最终话顿悟场景
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4090,7 +4123,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 85: 漫画 / 故事板 - 真人与卡通混合风格肖像
+### No. 86: 漫画 / 故事板 - 真人与卡通混合风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4130,7 +4163,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 86: 漫画 / 故事板 - 高级动漫写实插画
+### No. 87: 漫画 / 故事板 - 高级动漫写实插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4183,7 +4216,7 @@ Make a same 100% with object!
 
 ---
 
-### No. 87: 漫画 / 故事板 - 梦幻 90 年代黑色电影风格肖像
+### No. 88: 漫画 / 故事板 - 梦幻 90 年代黑色电影风格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4214,40 +4247,6 @@ Make a same 100% with object!
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=29264)**
-
----
-
-### No. 88: 产品营销 - 超高细节印度女性肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一张 8K 照片级逼真的肖像，主角是一位身穿豹纹连衣裙的绝美印度女性，配有戏剧性的定向照明。
-
-#### 📝 提示词
-
-```
-创作一张 8K、超高清、超高细节、照片级逼真的肖像图片。绝美的 {argument name="subject" default="年轻白皙的印度女性"}，留着深棕色长波浪卷发，精致的柔光妆容，佩戴金色水滴耳环、吊坠和手镯。身穿 {argument name="outfit" default="豹纹细肩带吊带裙"}，领口垂坠设计，配有透明雪纺不对称下摆。倚靠在 {argument name="location" default="暖米色墙角"}，手触碰头发，眼神自信且直视镜头。采用戏剧性的定向照明，左侧带有锐利的阴影。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="产品营销 - 超高细节印度女性肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Sarah](https://x.com/AIwithSarah_)
-- **来源:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
-- **发布时间:** 2026年8月1日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=30555)**
 
 ---
 
@@ -5600,7 +5599,7 @@ Make a same 100% with object!
 
 <div align="center">
 
-### 🎯 14969 更多提示词未在此显示
+### 🎯 14968 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5663,6 +5662,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-08-05T05:00:17.779Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-08-06T05:00:25.226Z</sub>
 
 </div>

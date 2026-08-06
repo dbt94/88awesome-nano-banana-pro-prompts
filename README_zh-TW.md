@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15089** |
+| 📝 提示詞總數 | **15088** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年8月5日 星期三 清晨5:00:23 [UTC]** |
+| 🔄 最後更新 | **2026年8月6日 星期四 清晨5:00:32 [UTC]** |
 
 </div>
 
@@ -654,60 +654,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 > 📝 按發布日期排序（最新優先）
 
-### No. 1: 個人檔案 / 頭像 - 明亮 CCD 風格度假生活攝影
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-生成具有數位 CCD 相機美學的高光生活度假照片。提示詞指定了明亮的燈光、放鬆的姿勢以及具體的服裝細節，呈現清新的約會風格。
-
-#### 📝 提示詞
-
-```
-攝影風格：日間明亮高光 CCD 生活風格
-人像方向：度假生活照
-場景方向：{argument name="scene" default="遊艇碼頭休息區 / 白色欄杆 / 淺色甲板 / 遠處船隻"}
-服裝方向：{argument name="outfit" default="珊瑚粉色修身掛脖短版上衣 + 白色高腰短褲"}
-氣質標籤：明亮、放鬆、清新、約會氛圍、迷人
-五官方向：初戀感清透五官
-身形方向：輕盈纖細
-線條強調：強烈
-鏡頭方向：半身至大腿
-姿勢/動作：{argument name="action" default="站在白色欄杆旁，身體微微側轉，一隻手扶著欄杆，回頭看向鏡頭"}
-光影氛圍：以晴天明亮的日光為主，側前方陽光清晰照亮主體；白色欄杆、甲板與海面的高光提供自然的反射補光；極弱的柔光閃光燈稍微補充眼神光與面部陰影
-濾鏡效果：高亮度清透 CCD 色彩 + 純淨白色高光 + 清晰中間調 + 穩定的黑色水平 + 輕微顆粒感 + 極淡的數位雜訊
-長寬比：9:16
-額外要求：珊瑚粉色上衣應明亮清新，不可顯髒或灰暗；掛脖設計自然凸顯頸部、鎖骨與胸部線條，整體畫面應呈現出在陽光明媚的度假期間，使用數位卡片相機拍攝的明亮生活照質感。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654884469_bdqj45_HOsh1ZSbUAApH65.jpg" width="600" alt="個人檔案 / 頭像 - 明亮 CCD 風格度假生活攝影 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654883757_yya22p_HOsh2kbaIAAENxi.jpg" width="600" alt="個人檔案 / 頭像 - 明亮 CCD 風格度假生活攝影 - Image 2">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [李岳](https://x.com/liyue_ai)
-- **來源:** [Twitter Post](https://x.com/liyue_ai/status/2083802423496474770)
-- **發布時間:** 2026年8月2日
-- **多語言:** zh
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=30566)**
-
----
-
-### No. 2: 個人檔案 / 頭像 - 水下微距人臉肖像
+### No. 1: 個人檔案 / 頭像 - 水下微距人臉肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -747,7 +694,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 3: 個人檔案 / 頭像 - 復古芥末黃洋裝肖像
+### No. 2: 個人檔案 / 頭像 - 復古芥末黃洋裝肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -799,7 +746,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 4: 個人檔案 / 頭像 - 黃金時刻的自然人像
+### No. 3: 個人檔案 / 頭像 - 黃金時刻的自然人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -833,7 +780,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 5: 個人檔案 / 頭像 - 油畫風格攝影人像
+### No. 4: 個人檔案 / 頭像 - 油畫風格攝影人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -867,7 +814,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 6: 個人檔案 / 頭像 - 暗黑電影感皮膚肖像
+### No. 5: 個人檔案 / 頭像 - 暗黑電影感皮膚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -915,7 +862,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 7: 個人檔案 / 頭像 - 女超人風格自拍人像
+### No. 6: 個人檔案 / 頭像 - 女超人風格自拍人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -961,7 +908,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 8: 個人檔案 / 頭像 - 蜘蛛人屋頂戰衣肖像
+### No. 7: 個人檔案 / 頭像 - 蜘蛛人屋頂戰衣肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1012,7 +959,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 9: 個人檔案 / 頭像 - 年輕女性的精緻藝術油畫肖像
+### No. 8: 個人檔案 / 頭像 - 年輕女性的精緻藝術油畫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1046,7 +993,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 10: 個人檔案 / 頭像 - 攝影棚人像比心手勢
+### No. 9: 個人檔案 / 頭像 - 攝影棚人像比心手勢
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1086,7 +1033,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 11: 個人檔案 / 頭像 - 表現主義混合媒材素描肖像
+### No. 10: 個人檔案 / 頭像 - 表現主義混合媒材素描肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1125,7 +1072,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 12: 個人檔案 / 頭像 - 赤褐色捲髮人像
+### No. 11: 個人檔案 / 頭像 - 赤褐色捲髮人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1165,7 +1112,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 13: 個人檔案 / 頭像 - 戲劇性黃色絲綢肖像
+### No. 12: 個人檔案 / 頭像 - 戲劇性黃色絲綢肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1211,7 +1158,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 14: 個人檔案 / 頭像 - 編輯插畫數位繪畫
+### No. 13: 個人檔案 / 頭像 - 編輯插畫數位繪畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1263,7 +1210,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 15: 個人檔案 / 頭像 - 泰姬瑪哈陵旅遊人像
+### No. 14: 個人檔案 / 頭像 - 泰姬瑪哈陵旅遊人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1297,7 +1244,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 16: 個人檔案 / 頭像 - 水下沉浸式皮膚肖像
+### No. 15: 個人檔案 / 頭像 - 水下沉浸式皮膚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1331,7 +1278,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 17: 個人檔案 / 頭像 - 憂鬱風格油畫肖像
+### No. 16: 個人檔案 / 頭像 - 憂鬱風格油畫肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,7 +1312,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 18: 個人檔案 / 頭像 - 草地中憂鬱的電影感女性肖像
+### No. 17: 個人檔案 / 頭像 - 草地中憂鬱的電影感女性肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1399,7 +1346,7 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 
 ---
 
-### No. 19: 個人檔案 / 頭像 - 戲劇性明暗對比攝影棚肖像
+### No. 18: 個人檔案 / 頭像 - 戲劇性明暗對比攝影棚肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1448,6 +1395,58 @@ M8 — 您知道嗎：3 個事實（來源、科學、全球統計）+ 圖示
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=30197)**
+
+---
+
+### No. 19: 個人檔案 / 頭像 - 霓虹城市賽博龐克風格肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張充滿賽博龐克氛圍的女性肖像，背景為夜晚的城市街道，被鮮豔的霓虹燈與散景效果照亮。
+
+#### 📝 提示詞
+
+```
+一張電影感的中景鏡頭，主角為 {argument name="subject" default="留著深色短髮、擁有明亮藍色雙眼的年輕女性"}，站在夜晚熙攘的城市街道上，被閃爍的霓虹燈照亮。她穿著一件 {argument name="outfit" default="深灰色紋理羊毛大衣，內搭灰色高領毛衣"}。場景呈現淺景深效果，背景是美麗且模糊的 {argument name="bokeh colors" default="藍色與洋紅色"} 散景燈光。鮮豔的霓虹光芒投射在她的臉龐與手上，營造出充滿情緒與氛圍的質感，畫面清晰、紋理寫實，並帶有戲劇性的賽博龐克燈光效果。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923362_31zrhx_HOYos-5XEAANbxj.jpg" width="600" alt="個人檔案 / 頭像 - 霓虹城市賽博龐克風格肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923328_3473kc_HOYoxnRXYAAXGF8.jpg" width="600" alt="個人檔案 / 頭像 - 霓虹城市賽博龐克風格肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923622_2696m9_HOYo2GnXkAAU5wp.jpg" width="600" alt="個人檔案 / 頭像 - 霓虹城市賽博龐克風格肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395924278_qcv8km_HOYo5kKWQAA3P3E.jpg" width="600" alt="個人檔案 / 頭像 - 霓虹城市賽博龐克風格肖像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Minahil](https://x.com/Minahil42298354)
+- **來源:** [Twitter Post](https://x.com/Minahil42298354/status/2082396899168997827)
+- **發布時間:** 2026年7月29日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=30193)**
 
 ---
 
@@ -2036,7 +2035,41 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 34: 資訊圖表 / 教育視覺化內容 - 人體工學辦公椅電商行動版詳情頁
+### No. 34: 社群媒體貼文 - 超細緻印度女性肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一張 8K 照片級寫實肖像，主角為身穿豹紋連身裙的絕美印度女性，搭配戲劇性的定向光影效果。
+
+#### 📝 提示詞
+
+```
+創作一張 8K、超高畫質、超細緻、照片級寫實的肖像圖片。絕美的 {argument name="subject" default="年輕白皙的印度女性"}，留著波浪狀深棕色長髮，精緻的柔霧妝容，配戴金色垂墜耳環、項鍊與手鐲。身穿 {argument name="outfit" default="豹紋細肩帶連身裙"}，領口垂墜設計，搭配不對稱的雪紡裙擺。倚靠在 {argument name="location" default="溫暖米色牆角"}，手輕觸秀髮，眼神自信且直視鏡頭。採用戲劇性的定向光影，左側呈現銳利的陰影。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="社群媒體貼文 - 超細緻印度女性肖像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Sarah](https://x.com/AIwithSarah_)
+- **來源:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
+- **發布時間:** 2026年8月1日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=30555)**
+
+---
+
+### No. 35: 資訊圖表 / 教育視覺化內容 - 人體工學辦公椅電商行動版詳情頁
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2070,7 +2103,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 35: 資訊圖表 / 教育視覺化內容 - 微型立體書場景模型
+### No. 36: 資訊圖表 / 教育視覺化內容 - 微型立體書場景模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2104,7 +2137,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 36: 資訊圖表 / 教育視覺化內容 - 復古 1970 年代字母圖形設計
+### No. 37: 資訊圖表 / 教育視覺化內容 - 復古 1970 年代字母圖形設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2138,7 +2171,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 37: 資訊圖表 / 教育視覺化內容 - Voxel 雜誌立體藝術
+### No. 38: 資訊圖表 / 教育視覺化內容 - Voxel 雜誌立體藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2172,7 +2205,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 38: 資訊圖表 / 教育視覺化內容 - 幾何馬賽克肖像插畫
+### No. 39: 資訊圖表 / 教育視覺化內容 - 幾何馬賽克肖像插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +2251,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 39: 資訊圖表 / 教育視覺化內容 - 技術剖面圖
+### No. 40: 資訊圖表 / 教育視覺化內容 - 技術剖面圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2270,7 +2303,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 40: 資訊圖表 / 教育視覺化內容 - 消防員故事板資訊圖表
+### No. 41: 資訊圖表 / 教育視覺化內容 - 消防員故事板資訊圖表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2304,7 +2337,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 41: 資訊圖表 / 教育視覺化內容 - 3D 醫學發光掃描渲染
+### No. 42: 資訊圖表 / 教育視覺化內容 - 3D 醫學發光掃描渲染
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2344,7 +2377,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 42: 資訊圖表 / 教育視覺化內容 - AR 懸崖風景人像分析
+### No. 43: 資訊圖表 / 教育視覺化內容 - AR 懸崖風景人像分析
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2449,7 +2482,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 43: 資訊圖表 / 教育視覺化內容 - 鋼彈 THE ORIGIN 資訊圖表生成
+### No. 44: 資訊圖表 / 教育視覺化內容 - 鋼彈 THE ORIGIN 資訊圖表生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2483,7 +2516,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 44: 資訊圖表 / 教育視覺化內容 - 東德架空歷史汽車設計
+### No. 45: 資訊圖表 / 教育視覺化內容 - 東德架空歷史汽車設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2517,7 +2550,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 45: 資訊圖表 / 教育視覺化內容 - 沼澤短吻鱷野生動物攝影
+### No. 46: 資訊圖表 / 教育視覺化內容 - 沼澤短吻鱷野生動物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2557,7 +2590,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 46: 資訊圖表 / 教育視覺化內容 - 新參數化建築插畫
+### No. 47: 資訊圖表 / 教育視覺化內容 - 新參數化建築插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2602,7 +2635,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 47: 資訊圖表 / 教育視覺化內容 - 粉彩昆蟲平鋪攝影風格插畫
+### No. 48: 資訊圖表 / 教育視覺化內容 - 粉彩昆蟲平鋪攝影風格插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2636,7 +2669,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 48: 資訊圖表 / 教育視覺化內容 - 歐洲旅遊生活風格專案
+### No. 49: 資訊圖表 / 教育視覺化內容 - 歐洲旅遊生活風格專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2670,7 +2703,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 49: YouTube 縮圖 - 排版湧現電影海報網格
+### No. 50: YouTube 縮圖 - 排版湧現電影海報網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,7 +2737,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 50: YouTube 縮圖 - 科幻風格咖啡機 Boss 戰
+### No. 51: YouTube 縮圖 - 科幻風格咖啡機 Boss 戰
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2738,7 +2771,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 51: YouTube 縮圖 - 威尼斯超現實巨型女子
+### No. 52: YouTube 縮圖 - 威尼斯超現實巨型女子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2772,7 +2805,7 @@ first person pov of {argument name="subject" default="你平常看不到的事�
 
 ---
 
-### No. 52: YouTube 縮圖 - 電影感運動紀錄片主視覺設計
+### No. 53: YouTube 縮圖 - 電影感運動紀錄片主視覺設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2806,7 +2839,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 53: YouTube 縮圖 - 壯麗大象雲朵攝影
+### No. 54: YouTube 縮圖 - 壯麗大象雲朵攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2850,7 +2883,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 54: YouTube 縮圖 - 動漫風格火車站變換
+### No. 55: YouTube 縮圖 - 動漫風格火車站變換
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2884,7 +2917,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 55: YouTube 縮圖 - 豆豆先生與 Mini Cooper 的混亂時刻
+### No. 56: YouTube 縮圖 - 豆豆先生與 Mini Cooper 的混亂時刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2938,7 +2971,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 56: YouTube 縮圖 - 電影感月光屋頂人像拼貼
+### No. 57: YouTube 縮圖 - 電影感月光屋頂人像拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2978,7 +3011,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 57: YouTube 縮圖 - 街頭魅力蛋糕刀肖像
+### No. 58: YouTube 縮圖 - 街頭魅力蛋糕刀肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3012,7 +3045,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 58: YouTube 縮圖 - 電影感義警視覺海報
+### No. 59: YouTube 縮圖 - 電影感義警視覺海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3063,7 +3096,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 59: YouTube 縮圖 - 籃球場轉播風格人像
+### No. 60: YouTube 縮圖 - 籃球場轉播風格人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3099,7 +3132,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 60: YouTube 縮圖 - NBA 轉播球場截圖
+### No. 61: YouTube 縮圖 - NBA 轉播球場截圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3133,7 +3166,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 61: YouTube 縮圖 - 奇幻書籍視覺化網格
+### No. 62: YouTube 縮圖 - 奇幻書籍視覺化網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3167,7 +3200,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 62: YouTube 縮圖 - 歌曲轉圖像視覺化
+### No. 63: YouTube 縮圖 - 歌曲轉圖像視覺化
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3219,7 +3252,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 63: YouTube 縮圖 - 電影感播客攝影棚人像
+### No. 64: YouTube 縮圖 - 電影感播客攝影棚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3253,7 +3286,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 64: YouTube 縮圖 - 日式電視節目風格圖像生成
+### No. 65: YouTube 縮圖 - 日式電視節目風格圖像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3308,7 +3341,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 65: YouTube 縮圖 - Millie Bobby Brown 的電影感節慶照片
+### No. 66: YouTube 縮圖 - Millie Bobby Brown 的電影感節慶照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3366,7 +3399,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 66: YouTube 縮圖 - 電影感街頭攝影：男子踩到香蕉皮滑倒
+### No. 67: YouTube 縮圖 - 電影感街頭攝影：男子踩到香蕉皮滑倒
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3399,7 +3432,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 67: YouTube 縮圖 - 愚人節假新聞圖片生成提示詞
+### No. 68: YouTube 縮圖 - 愚人節假新聞圖片生成提示詞
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3450,7 +3483,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 68: 漫畫 / 分鏡腳本 - 哥德式奇幻鬼屋
+### No. 69: 漫畫 / 分鏡腳本 - 哥德式奇幻鬼屋
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3484,7 +3517,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 69: 漫畫 / 分鏡腳本 - 寧靜文學花園之旅
+### No. 70: 漫畫 / 分鏡腳本 - 寧靜文學花園之旅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3518,7 +3551,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 70: 漫畫 / 分鏡腳本 - 哆啦 A 夢電影風格場景渲染
+### No. 71: 漫畫 / 分鏡腳本 - 哆啦 A 夢電影風格場景渲染
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3552,7 +3585,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 71: 漫畫 / 分鏡腳本 - 多面板表情網格
+### No. 72: 漫畫 / 分鏡腳本 - 多面板表情網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,7 +3625,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 72: 漫畫 / 分鏡腳本 - 寧靜花園文學肖像
+### No. 73: 漫畫 / 分鏡腳本 - 寧靜花園文學肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3638,7 +3671,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 73: 漫畫 / 分鏡腳本 - 奢華香氛專案版面設計
+### No. 74: 漫畫 / 分鏡腳本 - 奢華香氛專案版面設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3672,7 +3705,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 74: 漫畫 / 分鏡腳本 - 角色互動道具新增
+### No. 75: 漫畫 / 分鏡腳本 - 角色互動道具新增
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3706,7 +3739,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - 極簡主義時尚編輯素描
+### No. 76: 漫畫 / 分鏡腳本 - 極簡主義時尚編輯素描
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3746,7 +3779,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 電影感空中動作鏡頭
+### No. 77: 漫畫 / 分鏡腳本 - 電影感空中動作鏡頭
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3780,7 +3813,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - 宇宙壁畫攝影棚人像系列
+### No. 78: 漫畫 / 分鏡腳本 - 宇宙壁畫攝影棚人像系列
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3826,7 +3859,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 女性漫畫塗鴉影子
+### No. 79: 漫畫 / 分鏡腳本 - 女性漫畫塗鴉影子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3872,7 +3905,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 城市街頭肖像與動畫夥伴
+### No. 80: 漫畫 / 分鏡腳本 - 城市街頭肖像與動畫夥伴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3906,7 +3939,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - 神秘學雜誌編輯部
+### No. 81: 漫畫 / 分鏡腳本 - 神秘學雜誌編輯部
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3946,7 +3979,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - 身穿紅裙的微笑女子拼貼畫
+### No. 82: 漫畫 / 分鏡腳本 - 身穿紅裙的微笑女子拼貼畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3980,7 +4013,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 82: 漫畫 / 分鏡腳本 - Nano Banana 2 的一致性人像拼貼
+### No. 83: 漫畫 / 分鏡腳本 - Nano Banana 2 的一致性人像拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4022,7 +4055,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 83: 漫畫 / 分鏡腳本 - 日本女性 秋季庭園 和服
+### No. 84: 漫畫 / 分鏡腳本 - 日本女性 秋季庭園 和服
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4056,7 +4089,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 84: 漫畫 / 分鏡腳本 - 最終回覺醒場景
+### No. 85: 漫畫 / 分鏡腳本 - 最終回覺醒場景
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4090,7 +4123,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 85: 漫畫 / 分鏡腳本 - 真人與卡通混合風格肖像
+### No. 86: 漫畫 / 分鏡腳本 - 真人與卡通混合風格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4130,7 +4163,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 86: 漫畫 / 分鏡腳本 - 頂級動漫寫實插畫
+### No. 87: 漫畫 / 分鏡腳本 - 頂級動漫寫實插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4183,7 +4216,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 87: 漫畫 / 分鏡腳本 - 夢幻 90 年代黑色電影風格肖像
+### No. 88: 漫畫 / 分鏡腳本 - 夢幻 90 年代黑色電影風格肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4214,40 +4247,6 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=29264)**
-
----
-
-### No. 88: 產品行銷 - 超細緻印度女性肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張 8K 照片級寫實肖像，主角為身穿豹紋連身裙的絕美印度女性，搭配戲劇性的定向光影效果。
-
-#### 📝 提示詞
-
-```
-創作一張 8K、超高畫質、超細緻、照片級寫實的肖像圖片。絕美的 {argument name="subject" default="年輕白皙的印度女性"}，留著波浪狀深棕色長髮，精緻的柔霧妝容，配戴金色垂墜耳環、項鍊與手鐲。身穿 {argument name="outfit" default="豹紋細肩帶連身裙"}，領口垂墜設計，搭配不對稱的雪紡裙擺。倚靠在 {argument name="location" default="溫暖米色牆角"}，手輕觸秀髮，眼神自信且直視鏡頭。採用戲劇性的定向光影，左側呈現銳利的陰影。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="產品行銷 - 超細緻印度女性肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Sarah](https://x.com/AIwithSarah_)
-- **來源:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
-- **發布時間:** 2026年8月1日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=30555)**
 
 ---
 
@@ -5600,7 +5599,7 @@ upper body portrait of a high-fashion {argument name="model ethnicity" default="
 
 <div align="center">
 
-### 🎯 14969 更多提示詞未在此顯示
+### 🎯 14968 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5663,6 +5662,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-08-05T05:00:23.819Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-08-06T05:00:32.206Z</sub>
 
 </div>

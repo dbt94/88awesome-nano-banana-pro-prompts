@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15089** |
+| 📝 คำสั่งทั้งหมด | **15088** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 5 สิงหาคม พ.ศ. 2569 เวลา 5 นาฬิกา 00 นาที 47 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 6 สิงหาคม พ.ศ. 2569 เวลา 5 นาฬิกา 00 นาที 53 วินาที UTC** |
 
 </div>
 
@@ -654,60 +654,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายไลฟ์สไตล์วันหยุดสไตล์ CCD สีสันสดใส
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-สร้างสรรค์ภาพถ่ายไลฟ์สไตล์วันหยุดที่มีแสงสว่างสดใสในสไตล์กล้องดิจิทัล CCD โดยคำสั่งนี้เน้นไปที่การจัดแสงที่สว่าง ท่าทางที่เป็นธรรมชาติ และรายละเอียดเครื่องแต่งกายที่เฉพาะเจาะจง เพื่อให้ได้ลุคแบบเดทที่ดูสดชื่น
-
-#### 📝 คำสั่ง
-
-```
-สไตล์การถ่ายภาพ: สไตล์ไลฟ์สไตล์ CCD แสงสว่างสดใสในช่วงเวลากลางวัน
-แนวทางภาพบุคคล: ภาพถ่ายไลฟ์สไตล์วันหยุด
-แนวทางฉาก: {argument name="scene" default="พื้นที่พักผ่อนท่าจอดเรือยอชต์ / ราวกันตกสีขาว / ดาดฟ้าเรือสีอ่อน / เรือที่อยู่ไกลออกไป"}
-แนวทางการแต่งกาย: {argument name="outfit" default="เสื้อครอปคล้องคอเข้ารูปสีชมพูคอรัล + กางเกงขาสั้นเอวสูงสีขาว"}
-แท็กบุคลิกภาพ: สดใส, ผ่อนคลาย, สดชื่น, บรรยากาศการออกเดท, มีเสน่ห์
-แนวทางลักษณะใบหน้า: ใบหน้าสไตล์รักแรกพบที่ดูเบาสบาย
-แนวทางรูปร่าง: โปร่งและเพรียวบาง
-การเน้นเส้นสาย: ชัดเจน
-แนวทางการใช้กล้อง: ครึ่งตัวถึงช่วงต้นขา
-ท่าทาง/การกระทำ: {argument name="action" default="ยืนพิงราวกันตกสีขาว หันตัวเล็กน้อย มือข้างหนึ่งจับราวกันตก หันกลับมามองกล้อง"}
-บรรยากาศแสง: เน้นแสงแดดจัดในวันที่อากาศแจ่มใส แสงแดดจากด้านหน้าเฉียงส่องกระทบตัวแบบอย่างชัดเจน แสงสะท้อนจากราวกันตกสีขาว ดาดฟ้าเรือ และพื้นผิวน้ำช่วยเติมแสงธรรมชาติได้อย่างเป็นธรรมชาติ ใช้แฟลชอ่อนๆ ช่วยเสริมประกายตาและลดเงาบนใบหน้าเล็กน้อย
-เอฟเฟกต์ฟิลเตอร์: สีสัน CCD ที่คมชัดและมีความสว่างสูง + ไฮไลท์สีขาวที่สะอาดตา + โทนกลางที่ชัดเจน + ระดับสีดำที่เสถียร + เกรนภาพเล็กน้อย + สัญญาณรบกวนดิจิทัลเพียงเล็กน้อย
-อัตราส่วนภาพ: 9:16
-ข้อกำหนดเพิ่มเติม: เสื้อสีชมพูคอรัลควรมีสีสดใสและดูสะอาดตา ไม่หม่นหรืออมเทา ดีไซน์แบบคล้องคอช่วยเน้นช่วงคอ ไหปลาร้า และสัดส่วนหน้าอกอย่างเป็นธรรมชาติ ภาพรวมควรดูเหมือนภาพถ่ายไลฟ์สไตล์ที่ถ่ายด้วยกล้องดิจิทัลคอมแพคในช่วงวันหยุดที่มีแดดจ้า
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654884469_bdqj45_HOsh1ZSbUAApH65.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายไลฟ์สไตล์วันหยุดสไตล์ CCD สีสันสดใส - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654883757_yya22p_HOsh2kbaIAAENxi.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพถ่ายไลฟ์สไตล์วันหยุดสไตล์ CCD สีสันสดใส - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [李岳](https://x.com/liyue_ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/liyue_ai/status/2083802423496474770)
-- **เผยแพร่เมื่อ:** 2 สิงหาคม 2569
-- **ภาษา:** zh
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30566)**
-
----
-
-### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตมาโครใบหน้าใต้น้ำ
+### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตมาโครใบหน้าใต้น้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -747,7 +694,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตในชุดเดรสสีมัสตาร์ดสไตล์วินเทจ
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตในชุดเดรสสีมัสตาร์ดสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -799,7 +746,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแคนดิดในช่วงโกลเด้นอาวร์
+### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแคนดิดในช่วงโกลเด้นอาวร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -833,7 +780,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์จิตรกรรมในสตูดิโอ
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์จิตรกรรมในสตูดิโอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -867,7 +814,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวแนว Cinematic โทนดาร์ก
+### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวแนว Cinematic โทนดาร์ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -915,7 +862,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่สไตล์ Supergirl
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่สไตล์ Supergirl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -961,7 +908,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรต Spider-Man บนดาดฟ้าตึก
+### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรต Spider-Man บนดาดฟ้าตึก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1012,7 +959,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพวาดสีน้ำมันแนววิจิตรศิลป์ของหญิงสาว
+### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพวาดสีน้ำมันแนววิจิตรศิลป์ของหญิงสาว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1046,7 +993,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอพร้อมท่าทำมือรูปหัวใจ
+### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอพร้อมท่าทำมือรูปหัวใจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1086,7 +1033,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสเก็ตช์สื่อผสมที่เปี่ยมด้วยอารมณ์
+### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสเก็ตช์สื่อผสมที่เปี่ยมด้วยอารมณ์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1125,7 +1072,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายบุคคลผมสีน้ำตาลแดงหยิก
+### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายบุคคลผมสีน้ำตาลแดงหยิก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1165,7 +1112,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผ้าไหมสีเหลืองสุดดราม่า
+### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผ้าไหมสีเหลืองสุดดราม่า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1211,7 +1158,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพประกอบเชิงบรรณาธิการแบบดิจิทัลเพนท์ติ้ง
+### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพประกอบเชิงบรรณาธิการแบบดิจิทัลเพนท์ติ้ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1263,7 +1210,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายท่องเที่ยวหน้าทัชมาฮาล
+### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายท่องเที่ยวหน้าทัชมาฮาล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1297,7 +1244,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวใต้น้ำแบบจมมิด
+### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวใต้น้ำแบบจมมิด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1331,7 +1278,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์ภาพวาดสุดอาร์ต
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์ภาพวาดสุดอาร์ต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1365,7 +1312,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้หญิงในบรรยากาศหม่นแบบภาพยนตร์ท่ามกลางทุ่งหญ้า
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้หญิงในบรรยากาศหม่นแบบภาพยนตร์ท่ามกลางทุ่งหญ้า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1399,7 +1346,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอสไตล์ Chiaroscuro อันน่าทึ่ง
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอสไตล์ Chiaroscuro อันน่าทึ่ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1448,6 +1395,58 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30197)**
+
+---
+
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวไซเบอร์นัวร์ในเมืองนีออน
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพพอร์ตเทรตแนวไซเบอร์นัวร์สุดเหงาของหญิงสาวบนถนนในเมืองยามค่ำคืน ที่สว่างไสวด้วยแสงนีออนสีสันสดใสและเอฟเฟกต์โบเก้
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายระยะกลางแบบภาพยนตร์ของ {argument name="subject" default="หญิงสาวผมสั้นสีเข้มและนัยน์ตาสีฟ้าสดใส"} ยืนอยู่บนถนนในเมืองที่คึกคักยามค่ำคืนซึ่งสว่างไสวไปด้วยแสงนีออน เธอสวม {argument name="outfit" default="เสื้อโค้ทผ้าขนสัตว์สีเทาเข้มทับเสื้อคอเต่าสีเทา"} ฉากนี้มีระยะชัดตื้นพร้อมพื้นหลังที่เบลออย่างสวยงามของแสง {argument name="bokeh colors" default="สีฟ้าและสีม่วงแดง"} แบบโบเก้ แสงนีออนที่สว่างไสวทอดเงาไฮไลท์บนใบหน้าและมือของเธอ สร้างบรรยากาศที่ดูหม่นและมีอารมณ์ร่วม พร้อมความคมชัดสูง พื้นผิวที่สมจริง และการจัดแสงแนวไซเบอร์นัวร์ที่ดูน่าทึ่ง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923362_31zrhx_HOYos-5XEAANbxj.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวไซเบอร์นัวร์ในเมืองนีออน - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923328_3473kc_HOYoxnRXYAAXGF8.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวไซเบอร์นัวร์ในเมืองนีออน - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395923622_2696m9_HOYo2GnXkAAU5wp.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวไซเบอร์นัวร์ในเมืองนีออน - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395924278_qcv8km_HOYo5kKWQAA3P3E.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแนวไซเบอร์นัวร์ในเมืองนีออน - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Minahil](https://x.com/Minahil42298354)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Minahil42298354/status/2082396899168997827)
+- **เผยแพร่เมื่อ:** 29 กรกฎาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30193)**
 
 ---
 
@@ -2036,7 +2035,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 34: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หน้ารายละเอียดสินค้าเก้าอี้เพื่อสุขภาพสำหรับสำนักงานบนมือถือ
+### No. 34: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตหญิงสาวชาวอินเดียที่มีรายละเอียดสูงพิเศษ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพพอร์ตเทรตสมจริงระดับ 8K ของหญิงสาวชาวอินเดียผู้สวยงามในชุดลายเสือดาว พร้อมการจัดแสงแบบเน้นทิศทางที่ดูมีมิติ
+
+#### 📝 คำสั่ง
+
+```
+สร้างภาพพอร์ตเทรตสมจริงระดับ 8K, Ultra-HD ที่มีรายละเอียดสูงพิเศษ {argument name="subject" default="หญิงสาวชาวอินเดียผิวขาวผ่อง"}, ผมยาวหยักศกสีน้ำตาลเข้ม, แต่งหน้าสไตล์ Soft Glam, ต่างหูระย้าสีทอง, สร้อยคอจี้, กำไลข้อมือ {argument name="outfit" default="ชุดเดรสสายเดี่ยวลายเสือดาว"}, คอถ่วง, ผ้าชีฟองโปร่งชายไม่เท่ากัน พิงอยู่บน {argument name="location" default="มุมผนังสีเบจโทนอุ่น"}, มือแตะผม, สายตามองตรงอย่างมั่นใจ การจัดแสงแบบเน้นทิศทางที่ดูมีมิติ พร้อมเงาคมชัดทางด้านซ้ายของเธอ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตหญิงสาวชาวอินเดียที่มีรายละเอียดสูงพิเศษ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Sarah](https://x.com/AIwithSarah_)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
+- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30555)**
+
+---
+
+### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หน้ารายละเอียดสินค้าเก้าอี้เพื่อสุขภาพสำหรับสำนักงานบนมือถือ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2070,7 +2103,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
+### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2104,7 +2137,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบกราฟิกตัวอักษรสไตล์ย้อนยุคปี 1970
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบกราฟิกตัวอักษรสไตล์ย้อนยุคปี 1970
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2138,7 +2171,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ศิลปะป๊อปอัปในนิตยสาร Voxel
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ศิลปะป๊อปอัปในนิตยสาร Voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2172,7 +2205,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบพอร์ตเทรตโมเสกเรขาคณิต
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบพอร์ตเทรตโมเสกเรขาคณิต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +2251,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผนภาพตัดขวางเชิงเทคนิค
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผนภาพตัดขวางเชิงเทคนิค
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2270,7 +2303,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกสตอรี่บอร์ดนักดับเพลิง
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกสตอรี่บอร์ดนักดับเพลิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2304,7 +2337,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การเรนเดอร์ภาพสแกนทางการแพทย์ 3D แบบเรืองแสง
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การเรนเดอร์ภาพสแกนทางการแพทย์ 3D แบบเรืองแสง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2344,7 +2377,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาสวยงามด้วยเทคโนโลยี AR
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาสวยงามด้วยเทคโนโลยี AR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2449,7 +2482,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิก Gundam Origin
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิก Gundam Origin
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2483,7 +2516,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบรถยนต์ในประวัติศาสตร์ทางเลือกของ GDR
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบรถยนต์ในประวัติศาสตร์ทางเลือกของ GDR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2517,7 +2550,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพถ่ายสัตว์ป่าจระเข้ในหนองน้ำ
+### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพถ่ายสัตว์ป่าจระเข้ในหนองน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2557,7 +2590,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบสถาปัตยกรรมแบบนีโอพารามิเตอร์ (Neo-parametric)
+### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบสถาปัตยกรรมแบบนีโอพารามิเตอร์ (Neo-parametric)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2602,7 +2635,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพวาดชอล์กพาสเทลจัดวางแบบนอลลิ่งรูปแมลง
+### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพวาดชอล์กพาสเทลจัดวางแบบนอลลิ่งรูปแมลง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2636,7 +2669,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - มู้ดบอร์ดไลฟ์สไตล์การท่องเที่ยวในยุโรป
+### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - มู้ดบอร์ดไลฟ์สไตล์การท่องเที่ยวในยุโรป
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2670,7 +2703,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 49: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
+### No. 50: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,7 +2737,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 50: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
+### No. 51: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2738,7 +2771,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
+### No. 52: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2772,7 +2805,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 52: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
+### No. 53: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2806,7 +2839,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
+### No. 54: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2850,7 +2883,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
+### No. 55: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2884,7 +2917,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
+### No. 56: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2938,7 +2971,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
+### No. 57: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2978,7 +3011,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
+### No. 58: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3012,7 +3045,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์
+### No. 59: ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3063,7 +3096,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตการถ่ายทอดสดในสนามบาสเกตบอล
+### No. 60: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตการถ่ายทอดสดในสนามบาสเกตบอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3099,7 +3132,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - ภาพหน้าจอการถ่ายทอดสด NBA ในสนาม
+### No. 61: ภาพขนาดย่อของ YouTube - ภาพหน้าจอการถ่ายทอดสด NBA ในสนาม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3133,7 +3166,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ตารางการสร้างภาพหนังสือเวทมนตร์
+### No. 62: ภาพขนาดย่อของ YouTube - ตารางการสร้างภาพหนังสือเวทมนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3167,7 +3200,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - การสร้างภาพจากบทเพลง
+### No. 63: ภาพขนาดย่อของ YouTube - การสร้างภาพจากบทเพลง
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3219,7 +3252,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 63: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตสตูดิโอพอดแคสต์สไตล์ภาพยนตร์
+### No. 64: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตสตูดิโอพอดแคสต์สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3253,7 +3286,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 64: ภาพขนาดย่อของ YouTube - การสร้างภาพสไตล์รายการโทรทัศน์ญี่ปุ่น
+### No. 65: ภาพขนาดย่อของ YouTube - การสร้างภาพสไตล์รายการโทรทัศน์ญี่ปุ่น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3308,7 +3341,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 65: ภาพขนาดย่อของ YouTube - ภาพถ่ายเทศกาลสไตล์ภาพยนตร์ของ Millie Bobby Brown
+### No. 66: ภาพขนาดย่อของ YouTube - ภาพถ่ายเทศกาลสไตล์ภาพยนตร์ของ Millie Bobby Brown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3366,7 +3399,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 66: ภาพขนาดย่อของ YouTube - ภาพถ่ายแนวสตรีทแบบภาพยนตร์ของชายหนุ่มที่ลื่นเปลือกกล้วย
+### No. 67: ภาพขนาดย่อของ YouTube - ภาพถ่ายแนวสตรีทแบบภาพยนตร์ของชายหนุ่มที่ลื่นเปลือกกล้วย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3399,7 +3432,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 67: ภาพขนาดย่อของ YouTube - พรอมต์สำหรับสร้างภาพข่าวปลอมต้อนรับวัน April Fool's
+### No. 68: ภาพขนาดย่อของ YouTube - พรอมต์สำหรับสร้างภาพข่าวปลอมต้อนรับวัน April Fool's
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3450,7 +3483,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 68: คอมิก / สตอรี่บอร์ด - บ้านผีสิงสไตล์โกธิกสุดแฟนตาซี
+### No. 69: คอมิก / สตอรี่บอร์ด - บ้านผีสิงสไตล์โกธิกสุดแฟนตาซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3484,7 +3517,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 69: คอมิก / สตอรี่บอร์ด - หลีกเร้นสู่สวนวรรณกรรมอันเงียบสงบ
+### No. 70: คอมิก / สตอรี่บอร์ด - หลีกเร้นสู่สวนวรรณกรรมอันเงียบสงบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3518,7 +3551,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 70: คอมิก / สตอรี่บอร์ด - เรนเดอร์ฉากในสไตล์ภาพยนตร์โดราเอมอน
+### No. 71: คอมิก / สตอรี่บอร์ด - เรนเดอร์ฉากในสไตล์ภาพยนตร์โดราเอมอน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3552,7 +3585,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - ตารางแสดงสีหน้าหลายรูปแบบ
+### No. 72: คอมิก / สตอรี่บอร์ด - ตารางแสดงสีหน้าหลายรูปแบบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3592,7 +3625,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตวรรณกรรมในสวนอันเงียบสงบ
+### No. 73: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตวรรณกรรมในสวนอันเงียบสงบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3638,7 +3671,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - เลย์เอาต์สตอรีบอร์ดสำหรับน้ำหอมสุดหรู
+### No. 74: คอมิก / สตอรี่บอร์ด - เลย์เอาต์สตอรีบอร์ดสำหรับน้ำหอมสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3672,7 +3705,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - การเพิ่มพร็อพประกอบตัวละคร
+### No. 75: คอมิก / สตอรี่บอร์ด - การเพิ่มพร็อพประกอบตัวละคร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3706,7 +3739,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - ภาพสเก็ตช์แฟชั่นแนว Editorial แบบมินิมอล
+### No. 76: คอมิก / สตอรี่บอร์ด - ภาพสเก็ตช์แฟชั่นแนว Editorial แบบมินิมอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3746,7 +3779,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - ภาพแอ็กชันกลางอากาศสไตล์ภาพยนตร์
+### No. 77: คอมิก / สตอรี่บอร์ด - ภาพแอ็กชันกลางอากาศสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3780,7 +3813,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - ชุดภาพถ่ายสตูดิโอในธีมภาพวาดฝาผนังจักรวาล
+### No. 78: คอมิก / สตอรี่บอร์ด - ชุดภาพถ่ายสตูดิโอในธีมภาพวาดฝาผนังจักรวาล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3826,7 +3859,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - เงาดูเดิลมังงะสาวน้อย
+### No. 79: คอมิก / สตอรี่บอร์ด - เงาดูเดิลมังงะสาวน้อย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3872,7 +3905,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแนวสตรีทในเมืองพร้อมตัวการ์ตูนคู่หู
+### No. 80: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแนวสตรีทในเมืองพร้อมตัวการ์ตูนคู่หู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3906,7 +3939,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - กองบรรณาธิการนิตยสารเรื่องลี้ลับ
+### No. 81: คอมิก / สตอรี่บอร์ด - กองบรรณาธิการนิตยสารเรื่องลี้ลับ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3946,7 +3979,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - คอลลาจภาพหญิงสาวยิ้มแย้มในชุดเดรสสีแดง
+### No. 82: คอมิก / สตอรี่บอร์ด - คอลลาจภาพหญิงสาวยิ้มแย้มในชุดเดรสสีแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3980,7 +4013,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - การสร้างภาพพอร์ตเทรตคอลลาจที่คงเอกลักษณ์บุคคลสำหรับ Nano Banana 2
+### No. 83: คอมิก / สตอรี่บอร์ด - การสร้างภาพพอร์ตเทรตคอลลาจที่คงเอกลักษณ์บุคคลสำหรับ Nano Banana 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4022,7 +4055,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - หญิงสาวชาวญี่ปุ่นในสวนฤดูใบไม้ร่วงสวมชุดกิโมโน
+### No. 84: คอมิก / สตอรี่บอร์ด - หญิงสาวชาวญี่ปุ่นในสวนฤดูใบไม้ร่วงสวมชุดกิโมโน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4056,7 +4089,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - ฉากการตระหนักรู้ในตอนจบ
+### No. 85: คอมิก / สตอรี่บอร์ด - ฉากการตระหนักรู้ในตอนจบ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4090,7 +4123,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 85: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแบบผสมผสานระหว่างคนจริงและตัวการ์ตูน
+### No. 86: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแบบผสมผสานระหว่างคนจริงและตัวการ์ตูน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4130,7 +4163,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 86: คอมิก / สตอรี่บอร์ด - ภาพประกอบสไตล์อนิเมะสมจริงระดับพรีเมียม
+### No. 87: คอมิก / สตอรี่บอร์ด - ภาพประกอบสไตล์อนิเมะสมจริงระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4183,7 +4216,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 87: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตสไตล์ฟิล์มนัวร์ยุค 90 สุดฝัน
+### No. 88: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตสไตล์ฟิล์มนัวร์ยุค 90 สุดฝัน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4214,40 +4247,6 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=29264)**
-
----
-
-### No. 88: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตหญิงสาวชาวอินเดียที่มีรายละเอียดสูงพิเศษ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพพอร์ตเทรตสมจริงระดับ 8K ของหญิงสาวชาวอินเดียผู้สวยงามในชุดลายเสือดาว พร้อมการจัดแสงแบบเน้นทิศทางที่ดูมีมิติ
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพพอร์ตเทรตสมจริงระดับ 8K, Ultra-HD ที่มีรายละเอียดสูงพิเศษ {argument name="subject" default="หญิงสาวชาวอินเดียผิวขาวผ่อง"}, ผมยาวหยักศกสีน้ำตาลเข้ม, แต่งหน้าสไตล์ Soft Glam, ต่างหูระย้าสีทอง, สร้อยคอจี้, กำไลข้อมือ {argument name="outfit" default="ชุดเดรสสายเดี่ยวลายเสือดาว"}, คอถ่วง, ผ้าชีฟองโปร่งชายไม่เท่ากัน พิงอยู่บน {argument name="location" default="มุมผนังสีเบจโทนอุ่น"}, มือแตะผม, สายตามองตรงอย่างมั่นใจ การจัดแสงแบบเน้นทิศทางที่ดูมีมิติ พร้อมเงาคมชัดทางด้านซ้ายของเธอ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตหญิงสาวชาวอินเดียที่มีรายละเอียดสูงพิเศษ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Sarah](https://x.com/AIwithSarah_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30555)**
 
 ---
 
@@ -5600,7 +5599,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 <div align="center">
 
-### 🎯 14969 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 14968 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5663,6 +5662,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-05T05:00:47.828Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-06T05:00:53.047Z</sub>
 
 </div>
