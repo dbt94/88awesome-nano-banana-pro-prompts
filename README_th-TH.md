@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15105** |
+| 📝 คำสั่งทั้งหมด | **15126** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันอาทิตย์ที่ 9 สิงหาคม พ.ศ. 2569 เวลา 4 นาฬิกา 26 นาที 04 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 10 สิงหาคม พ.ศ. 2569 เวลา 4 นาฬิกา 29 นาที 35 วินาที UTC** |
 
 </div>
 
@@ -654,25 +654,19 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - Lifestyle Indoor Portrait
+### No. 1: โปรไฟล์ / รูปประจำตัว - Burgundy Hair Portrait in Park
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A realistic lifestyle portrait prompt featuring a young woman in a cozy modern room with natural sunlight.
+A high-resolution photographic prompt for an East Asian woman with silky burgundy-red hair sitting on a picnic blanket in an autumn park, focusing on skin texture and soft sunlight.
 
 #### 📝 คำสั่ง
 
 ```
-A realistic lifestyle portrait of a {argument name="subject" default="young adult woman"} with fair skin, soft facial features, and a calm, natural expression. She has smooth medium-length hair styled neatly, with subtle texture and a relaxed appearance. Her eyes look gently toward the camera with a peaceful and confident mood, creating a warm and approachable atmosphere. She is sitting comfortably on a soft textured rug in a relaxed indoor pose, with natural body posture and hands resting casually.
-
-She is wearing a simple fitted sleeveless top paired with comfortable light-colored shorts, creating a minimal and elegant casual style. No visible logos or branding. The outfit has clean lines and a soft fabric texture, complemented by a simple, understated aesthetic.
-
-The environment is a {argument name="setting" default="cozy modern room"} with warm wooden walls, large windows, a small indoor plant, and soft decorative elements. Natural sunlight enters through the windows, creating gentle highlights and realistic shadows across the room. The atmosphere feels peaceful, warm, and inviting with a connection to nature.
-
-Captured with an 85mm portrait lens, shallow depth of field, soft natural window lighting, realistic skin texture, cinematic color grading, high-resolution photography style, ultra-detailed, professional lifestyle photography, balanced composition, warm tones, realistic proportions, subtle background blur, natural shadows, and authentic indoor atmosphere.
+A photorealistic portrait of a beautiful young East Asian woman with {argument name="hair style" default="long, straight, silky burgundy-red hair parted in the middle and cascading over her shoulders and chest"}, soft natural makeup with subtle rosy blush on her cheeks, gentle smile, and warm brown eyes looking directly at the camera. She is wearing a {argument name="outfit" default="fitted light gray long-sleeve knit sweater with a soft V-neckline"}. She is sitting outdoors on a {argument name="setting" default="red-and-white checkered picnic blanket in a quiet park"}, legs casually folded, soft golden sunlight filtering through the bare trees creating gentle dappled light and soft shadows across her face and hair. Background of tall trees with sparse foliage, sandy dirt path, and muted autumn tones. Natural lighting, highly detailed skin texture, realistic fabric folds, shallow depth of field, cinematic composition, 85mm lens look, ultra-realistic photograph.
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -680,161 +674,72 @@ Captured with an 85mm portrait lens, shallow depth of field, soft natural window
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171689045_0pam64_HPLXsNwboAEdsQc.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Lifestyle Indoor Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257239965_qqua7u_HPLAuvkb0AAwOZa.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Burgundy Hair Portrait in Park - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171689048_u87ugx_HPLXt-cboAAlfFr.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Lifestyle Indoor Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786257240021_12wlj9_HPLAuvraMAA10Dw.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Burgundy Hair Portrait in Park - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171689043_sxrxls_HPLXviFbAAAHIkK.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Lifestyle Indoor Portrait - Image 3">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Jodie_Noraa/status/2085966799297020361)
-- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30693)**
-
----
-
-### No. 2: โปรไฟล์ / รูปประจำตัว - Y2K Paparazzi Beauty Shot
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A highly detailed prompt for an authentic early-2000s celebrity paparazzi style photo with realistic hair and skin textures.
-
-#### 📝 คำสั่ง
-
-```
-Use the uploaded photo as the exact facial reference and preserve the person’s identity with maximum accuracy. Keep the same facial structure, proportions, eyes, nose, lips, jawline, cheeks, and natural features without reshaping, slimming, enlarging, beautifying, or applying any artificial face filter. Create an authentic early-2000s Y2K flash photograph with strong direct frontal camera flash, bright natural highlights, subtle digital-camera grain, realistic exposure falloff, and a raw DSLR look that feels like a real celebrity paparazzi beauty shot rather than CGI. Give the subject extremely long, thick, luxurious {argument name="hair color" default="chestnut-brown"} hair with huge crown volume, glamorous blown-out waves, dimensional brunette highlights, individual visible strands, natural flyaways, and a dramatic hair halo surrounding the face, with the hair taking up around half of the frame. Use an extreme low-angle camera positioned clearly below eye level, with the head slightly tilted back, chin raised, and eyes looking upward, while the face fills around 65–70% of the frame in a very tight beauty-editorial crop with minimal clothing and shoulders visible. The expression should intentionally contrast with the glamorous styling: {argument name="expression" default="playful, awkward, weird, slightly chaotic, and naturally funny"}, like an unexpected candid moment. Keep the lips naturally proportioned while giving them a soft pink ombré tone, hydrated glossy finish, subtle highlights, and realistic texture. Preserve authentic skin detail including pores, peach fuzz, fine texture, natural imperfections, and realistic flash reflections, avoiding plastic or overly smooth skin. Add subtle imperfections such as tiny exposure variations, realistic flash hotspots, and gentle digital-camera grain to make the image feel genuinely photographed. Overall, create a photorealistic luxury hair and beauty campaign with a nostalgic Y2K celebrity aesthetic, premium editorial quality, realistic hair and skin, natural lighting behavior, and an unmistakably authentic photographic appearance.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171687068_splkj8_HPK_e4aaEAEed1h.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Y2K Paparazzi Beauty Shot - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Simply Ray](https://x.com/kingofdairyque)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/kingofdairyque/status/2085940142616027524)
-- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30690)**
-
----
-
-### No. 3: โปรไฟล์ / รูปประจำตัว - Parisian Balcony Sunset Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A romantic, high-end travel lifestyle editorial of a woman on a Parisian balcony at sunset with the Eiffel Tower in the background.
-
-#### 📝 คำสั่ง
-
-```
-Ultra-realistic romantic Paris balcony lifestyle editorial portrait of a beautiful young adult woman with {argument name="hair style" default="long voluminous champagne-blonde hair styled in soft loose waves"}, subtle center part, natural movement, delicate flyaway strands, and softly illuminated edges from the sunset. Fair warm ivory skin with visible pores, realistic skin texture, subtle natural freckles across the cheeks, nose, shoulders, chest, and arms, fine facial vellus hair, natural skin variation, soft rosy blush, luminous but realistic complexion, feathered brows, delicate champagne eyeshadow, subtle brown eyeliner, separated wispy lashes, pale blue-gray eyes, and softly glossy natural rose-pink lips with realistic lip texture. She wears a {argument name="clothing" default="romantic pure-white cotton off-the-shoulder mini dress with a fitted corset-inspired bodice"}, gathered sweetheart neckline, short puff sleeves sitting below the shoulders, fitted waist, and softly flowing gathered skirt with realistic cotton folds and stitching. A delicate silver chain necklace with a tiny cross pendant rests naturally against her collarbone. She is seated sideways on a narrow traditional Parisian apartment balcony, body turned slightly toward the camera, knees angled naturally to one side, both hands resting gently near her lap, shoulders relaxed, maintaining direct eye contact with a calm, dreamy expression. Behind her, the Eiffel Tower rises clearly above classic cream Haussmann buildings with gray mansard rooftops, tree-lined Paris streets, wrought-iron balcony railings, and neighboring limestone façades. The sky is a dreamy pastel sunset gradient of warm peach, pale gold, blush pink, and soft blue. Gentle golden-hour light softly illuminates one side of her face and hair while maintaining realistic shadow detail and natural skin tones. Authentic high-end travel lifestyle photography rather than an overly polished studio photograph. Captured with an iPhone 15 Pro main camera aesthetic, 24mm equivalent lens, realistic smartphone HDR, natural perspective, crisp facial and hair detail, moderate natural depth of field, subtle background softness while keeping the Eiffel Tower recognizable, realistic exposure, no artificial portrait-mode cutout. Romantic Parisian summer aesthetic, quiet luxury travel editorial, Pinterest-inspired European vacation photography, Kodak Portra-inspired color rendering, RAW-like clarity, highly detailed hair strands, visible pores and freckles, realistic fabric texture, natural anatomy, ultra photorealistic, high resolution.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171691896_86taza_HPKIjO7bQAALPRH.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Parisian Balcony Sunset Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171692252_c5boju_HPKIu6oaMAAdH5M.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Parisian Balcony Sunset Portrait - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Dockie](https://x.com/Document195)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Document195/status/2085881199436890513)
-- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30700)**
-
----
-
-### No. 4: โปรไฟล์ / รูปประจำตัว - Sunlit Park Picnic Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A serene prompt for generating a realistic photograph of a young East Asian woman enjoying a picnic in a sunlit park with cinematic lighting.
-
-#### 📝 คำสั่ง
-
-```
-Piknik With Sunshine
-
-A beautiful young {argument name="ethnicity" default="East Asian"} woman in her early 20s with fair skin, soft natural makeup, and a bright gentle smile, looking slightly to her left. She has long straight dark brown hair with soft bangs, slightly windswept. She is wearing a {argument name="headwear" default="light pink sun visor"}, a fitted {argument name="top" default="cream-white sleeveless crop top"} with delicate lace trim along the scoop neckline, and light gray athletic shorts with an elastic waistband. She is sitting cross-legged outdoors in a sunlit park, hands resting lightly on her legs. Soft golden-hour sunlight filters through green trees, creating warm bokeh highlights in the background. Natural skin texture, realistic photography style, shallow depth of field, high detail, soft cinematic lighting --ar 3:4 --stylize 250
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171693501_2axycv_HO9D7HybMAEfwDr.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Sunlit Park Picnic Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171693739_1vvvlx_HO9D7HhawAArhAv.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Sunlit Park Picnic Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171693624_7d4y9x_HO9D7HcbsAAv7wF.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Sunlit Park Picnic Portrait - Image 3">
+<img src="https://cms-assets.youmind.com/media/1786257239932_etkwtk_HPLAuvkaEAA8UY0.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Burgundy Hair Portrait in Park - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171694837_mce85g_HO9D7Hsa4AA7xr9.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Sunlit Park Picnic Portrait - Image 4">
+<img src="https://cms-assets.youmind.com/media/1786257240716_sa51uj_HPLAuvrakAEaZxD.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Burgundy Hair Portrait in Park - Image 4">
 </div>
 
 #### 📌 รายละเอียด
 
 - **ผู้เขียน:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/woleswoosh/status/2085848460268384765)
-- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
+- **แหล่งที่มา:** [Twitter Post](https://x.com/woleswoosh/status/2086180648361071030)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30703)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30816)**
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - Cinematic Night Sea Portrait
+### No. 2: โปรไฟล์ / รูปประจำตัว - Hyper-Realistic Skin Detail Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+An obsessive forensic-level skin detail portrait prompt that maintains facial consistency from a reference image.
+
+#### 📝 คำสั่ง
+
+```
+Use the exact same face from the reference image and generate an obsessive skin detail portrait — head tilted very naturally to one side at approximately 15 degrees, the kind of involuntary tilt that happens when someone is genuinely listening or lost in a quiet thought. Not posed, not deliberate — just a human head resting at its most natural comfortable angle. Expression completely unguarded — eyes open and present looking directly into the lens with quiet warmth, lips naturally sealed with zero tension, every facial muscle completely surrendered and at rest. Skin at absolute forensic maximum — every individual pore with its own unique diameter depth and shadow wall structure. Sebaceous filaments across the nose wings. Individual stubble hairs or peach fuzz at follicle level each casting their own micro-shadow. Natural oil distribution — slight sheen at the nose tip and forehead. Capillary flush beneath the surface at the cheeks. Under-eye skin showing its delicate thinness. Every eyelash individually rendered. Iris at collagen fiber microscopic detail. Lip skin showing complete vertical rhytid texture. Zero retouching — every natural imperfection celebrated. The head tilt creating a completely new gravitational relationship between the face and the light — shadows falling at a new angle across the facial planes, the cheekbone on the lower side of the tilt catching light differently, the jaw on the raised side more exposed, the ear on the lower side slightly more visible — the same face made entirely new by 15 degrees of honest human movement. Lighting is a large soft octabox from slightly above and front — clean, wrapping, the perfect skin revealer. Background pure neutral grey seamless. Natural catch lights in both eyes. 6% film grain. "OzairAI" ghost watermark lower-right. Vertical 9:13. Ultra photorealistic 8K 150 megapixel skin truth — the tilt that changes everything.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257238572_l9mgxo_HPM1xAaXcAAo560.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - Hyper-Realistic Skin Detail Portrait - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Ozayrr_irl/status/2086070179692458153)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30815)**
+
+---
+
+### No. 3: โปรไฟล์ / รูปประจำตัว - Cinematic Night Sea Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -888,7 +793,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตมาโครใบหน้าใต้น้ำ
+### No. 4: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตมาโครใบหน้าใต้น้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -928,7 +833,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตในชุดเดรสสีมัสตาร์ดสไตล์วินเทจ
+### No. 5: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตในชุดเดรสสีมัสตาร์ดสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -980,7 +885,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแคนดิดในช่วงโกลเด้นอาวร์
+### No. 6: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแคนดิดในช่วงโกลเด้นอาวร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1014,7 +919,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์จิตรกรรมในสตูดิโอ
+### No. 7: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์จิตรกรรมในสตูดิโอ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1048,7 +953,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวแนว Cinematic โทนดาร์ก
+### No. 8: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวแนว Cinematic โทนดาร์ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1096,7 +1001,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่สไตล์ Supergirl
+### No. 9: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายเซลฟี่สไตล์ Supergirl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1142,7 +1047,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรต Spider-Man บนดาดฟ้าตึก
+### No. 10: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรต Spider-Man บนดาดฟ้าตึก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1193,7 +1098,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพวาดสีน้ำมันแนววิจิตรศิลป์ของหญิงสาว
+### No. 11: โปรไฟล์ / รูปประจำตัว - ภาพวาดสีน้ำมันแนววิจิตรศิลป์ของหญิงสาว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1227,7 +1132,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอพร้อมท่าทำมือรูปหัวใจ
+### No. 12: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตในสตูดิโอพร้อมท่าทำมือรูปหัวใจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1267,7 +1172,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสเก็ตช์สื่อผสมที่เปี่ยมด้วยอารมณ์
+### No. 13: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสเก็ตช์สื่อผสมที่เปี่ยมด้วยอารมณ์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1306,7 +1211,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายบุคคลผมสีน้ำตาลแดงหยิก
+### No. 14: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายบุคคลผมสีน้ำตาลแดงหยิก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1346,7 +1251,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผ้าไหมสีเหลืองสุดดราม่า
+### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายพอร์ตเทรตผ้าไหมสีเหลืองสุดดราม่า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1392,7 +1297,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพประกอบเชิงบรรณาธิการแบบดิจิทัลเพนท์ติ้ง
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพประกอบเชิงบรรณาธิการแบบดิจิทัลเพนท์ติ้ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1444,7 +1349,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายท่องเที่ยวหน้าทัชมาฮาล
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพถ่ายท่องเที่ยวหน้าทัชมาฮาล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1475,6 +1380,74 @@ Aspect ratio: 9:16.
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30201)**
+
+---
+
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวใต้น้ำแบบจมมิด
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+คำสั่ง (Prompt) ที่เน้นรายละเอียดสูงสำหรับการสร้างภาพพอร์ตเทรตใต้น้ำในโทนดาร์กแบบภาพยนตร์ โดยเน้นไปที่รายละเอียดของผิวระดับนิติเวชและการปฏิสัมพันธ์ที่ซับซ้อนของผิวน้ำ
+
+#### 📝 คำสั่ง
+
+```
+ใช้ใบหน้าเดิมจากภาพอ้างอิงและสร้างภาพพอร์ตเทรตในโทนดาร์กแบบภาพยนตร์ {argument name="concept" default="obsessive skin portrait"} ด้วยแนวคิดใหม่ทั้งหมด — ใบหน้า {argument name="pose" default="partially submerged or emerged from water"} โดยให้ผิวสัมผัสกับของเหลวที่ขอบเฟรม เป็นภาพพอร์ตเทรตผิวที่คาดไม่ถึงและทรงพลังที่สุดในซีรีส์นี้ ใบหน้าเอียงไปด้านหลังเล็กน้อย คางเชิดขึ้น ครึ่งล่างของใบหน้า ทั้งกราม ริมฝีปาก และคาง จมอยู่ใต้ผิวน้ำที่นิ่งสนิทและมืดมิด โดยมีเพียงครึ่งบนเท่านั้นที่โผล่พ้นน้ำ ดวงตาเปิดกว้างและจ้องมองตรงขึ้นมายังเลนส์จากตำแหน่งใต้กล้อง เป็นสายตาที่ดูแปลกตาเหมือนมาจากโลกอื่น มองตรงขึ้นไป เห็นตาขาวที่ขอบล่างของม่านตาเล็กน้อย สายตานั้นดูเปราะบาง มีเสน่ห์ดึงดูด และดูแปลกแยกอย่างสิ้นเชิง ผิวน้ำตัดผ่านใบหน้าอย่างแม่นยำที่ระดับริมฝีปากบน เป็นเส้นแบ่งของเหลวแนวนอนที่สมบูรณ์แบบระหว่างโลกที่มองเห็นกับส่วนที่จมอยู่ใต้น้ำ ผิวน้ำถูกเรนเดอร์ด้วยความแม่นยำทางกายภาพอย่างละเอียด — นิ่งสนิทและเหมือนกระจกเงารอบใบหน้า เห็นแรงตึงผิวเป็นเส้นโค้ง (meniscus) บางๆ ตรงจุดที่น้ำสัมผัสกับผิวหนังบริเวณริมฝีปากและแก้ม ผิวหนังที่ระดับผิวน้ำแสดงให้เห็นลักษณะเฉพาะที่น้ำเกาะติดกับผิวหนังมนุษย์ — มีฟิล์มน้ำบางๆ เคลือบอยู่บนผิวเหนือระดับน้ำเล็กน้อย สะท้อนแสงเป็นประกายแวววาว หยดน้ำเล็กๆ สองสามหยดเกาะอยู่บนแก้มและจมูก แต่ละหยดทำหน้าที่เป็นเลนส์ที่สมบูรณ์แบบในการรับและหักเหแสงจากด้านบน แต่ละหยดสะท้อนแสงหลักให้เห็นเป็นภาพบิดเบี้ยวเล็กๆ ภายในพื้นผิวโค้งของมัน ส่วนที่อยู่ใต้น้ำ — ใบหน้าส่วนล่างที่จมอยู่มองเห็นผ่านน้ำด้วยการหักเหของแสงที่เฉพาะตัวของการมองผ่านน้ำนิ่ง กรามและคางดูบิดเบี้ยวไปจากตำแหน่งจริงเล็กน้อยจากการหักเหของน้ำ ริมฝีปากที่อยู่ใต้ผิวน้ำรับแสงที่หักเหเป็นลวดลายแสงสะท้อน (caustic patterns) ที่ซับซ้อน — ลวดลายแสงที่เคลื่อนไหวเต้นระบำอยู่บนผิวที่จมอยู่ใต้น้ำจากการหักเหของผิวน้ำด้านบน น้ำไม่ใช่สีฟ้าหรือสีเขียว แต่เป็นสีมืดลึกเกือบดำ — น้ำสีเข้มที่เป็นความว่างเปล่าเช่นเดียวกับพื้นหลังด้านบน ผิวหนังเหนือระดับน้ำมีความละเอียดระดับนิติเวช — รูขุมขนแต่ละรูมีมิติและเงาที่เป็นเอกลักษณ์ ขนอ่อนแต่ละเส้นรับกับ {argument name="lighting" default="cold overhead light"} พื้นผิวผิวหนังตามธรรมชาติบนสันจมูก โหนกแก้ม และหน้าผาก ถูกเรนเดอร์ด้วยรายละเอียดระดับ 150 ล้านพิกเซล ผิวหนังที่ระดับผิวน้ำโดยเฉพาะ — ลักษณะที่พื้นผิวผิวหนังเปลี่ยนไปที่ขอบรอยต่อน้ำ รูขุมขนที่บวมเล็กน้อยจากการสัมผัสความชื้น และฟิล์มน้ำที่เกาะติดผิวหนังในรูปแบบฟิล์มบางที่ซับซ้อน แสงเป็นสปอตไลท์แคบๆ ที่เย็นเยียบจากด้านบนโดยตรง — ส่องลงมาที่ผิวน้ำและใบหน้าพร้อมกัน แสงที่กระทบผิวน้ำนิ่งสร้างลวดลายแสงสะท้อนที่ซับซ้อนซึ่งเต้นระบำอยู่บนใบหน้าส่วนบนและหน้าผาก — การเคลื่อนไหวของแสงที่เฉพาะตัว
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395937961_tfnjbs_HOaqu66XwAAlGIP.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผิวใต้น้ำแบบจมมิด - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Ozayrr_irl/status/2082539616381649032)
+- **เผยแพร่เมื่อ:** 29 กรกฎาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30209)**
+
+---
+
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์ภาพวาดสุดอาร์ต
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพพอร์ตเทรตด้านข้างที่ดูมีมิติ พร้อมแสงเงาด้านข้างที่อบอุ่นและพื้นหลังที่มีเท็กซ์เจอร์แบบภาพวาด
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตระยะกลางที่ดูมีมิติของ {argument name="subject" default="ผู้หญิงผมสีเข้มที่เกล้าผมแบบยุ่งๆ"} โดยมีปอยผมล้อมกรอบใบหน้าของเธอ เธอถูกถ่ายในมุมด้านข้างขณะหันกลับมามองผ่านไหล่ด้วยสีหน้าครุ่นคิด เธอสวม {argument name="clothing" default="เสื้อเชิ้ตกระดุมสีเหลืองมัสตาร์ดที่มีเท็กซ์เจอร์"} และ {argument name="lighting" default="แสงจากด้านข้างที่อบอุ่น"} ช่วยขับเน้นใบหน้าของเธอให้โดดเด่นตัดกับพื้นหลังสีเข้มที่มีเท็กซ์เจอร์แบบอารมณ์ศิลป์ สร้างบรรยากาศที่ดูเหมือนภาพยนตร์และงานศิลปะ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785395924662_34visz_HOaUHyZXQAAmF4Q.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสไตล์ภาพวาดสุดอาร์ต - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Minahil](https://x.com/Minahil42298354)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Minahil42298354/status/2082514750559465830)
+- **เผยแพร่เมื่อ:** 29 กรกฎาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30192)**
 
 ---
 
@@ -1528,22 +1501,19 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - Editorial Fashion Tennis Shoot
+### No. 21: โพสต์บนโซเชียลมีเดีย - Luxury Rooftop City Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A luxurious editorial lifestyle fashion photography prompt featuring a model on a tennis court with high subject fidelity.
+A detailed portrait prompt for a luxury lifestyle shot on a city rooftop during blue hour.
 
 #### 📝 คำสั่ง
 
 ```
-Use the uploaded image as the SINGLE model reference. The woman in the photo is the exact model. Preserve her appearance with absolute precision. Identity Lock is the top priority. The face must be 100% identical to the reference. Do not change, improve, stylize, change age, or alter any facial features. Preserve exact eyes, eyebrows, eyelashes, nose, lips, jawline, cheekbones, ears, skin tone, facial proportions, expression, hairstyle, hairline, body proportions, and overall look. No deviations from the original.
-Create a luxurious editorial lifestyle-fashion photograph on an outdoor tennis court. The model sits naturally on the court surface next to a tennis net: one leg bent, the other freely extended, a relaxed and elegant pose. She holds a {argument name="accessory" default="bright yellow tennis ball"} near her ear as if talking on the phone, looking thoughtfully to the side. Several tennis balls are naturally scattered around her on the court.
-She wears a {argument name="outfit" default="black sleeveless tennis dress"}, a black Nike visor with a white logo, white Nike socks, and chunky white tennis sneakers. Minimal jewelry. Hair lies freely on her shoulders.
-Warm golden hour light, cinematographic lighting, soft shadows, shallow depth of field, atmosphere of expensive fashion editorial shooting, premium sportswear advertising campaign, natural skin texture with visible pores, ultra-realistic hair strands, rich contrast, soft bokeh, 85mm lens, aperture f/1.8, medium format camera quality, Vogue style, Harper's Bazaar, Saint Laurent Campaign, Nike Women Campaign, ultra-photorealism, HDR, 8K, masterpiece, award-winning fashion photography.
+A photorealistic luxury rooftop lifestyle portrait of a {argument name="subject" default="young woman"} during blue hour in a modern city. She has fair skin with realistic natural texture, softly defined facial features, and shoulder-length {argument name="hair color" default="blonde"} hair styled in a relaxed, slightly tousled manner, with a few loose strands naturally framing her face. Her expression is calm and confident, with a subtle closed-mouth smile and direct eye contact with the camera. She is standing naturally beside a sleek rooftop railing, using one hand lightly against the railing while the other arm rests comfortably at her side. Her posture is relaxed and elegant, with a slight three-quarter turn toward the camera. The composition should feel like a candid luxury travel photograph rather than a heavily posed studio image. She is wearing a {argument name="clothing" default="deep red, elegant one-piece swimsuit"} with wide shoulder straps and clean, structured tailoring. The fabric should have a realistic matte texture with subtle stitching and natural folds. Keep accessories minimal and sophisticated, small understated earrings and a delicate bracelet, with no visible logos or branding. The setting is a high-end rooftop terrace overlooking a large modern city skyline at dusk. Tall illuminated skyscrapers rise in the background, with countless warm city lights gradually appearing as the sky transitions from soft lavender and pink near the horizon to deeper blue above. Include a glass-and-metal balcony railing, contemporary rooftop architecture, subtle architectural lighting, and a few tasteful outdoor furnishings. The city should remain recognizable as an urban environment without referencing a specific celebrity or person. Use soft twilight ambient light combined with subtle warm architectural lighting on the terrace. The woman's face should be naturally illuminated with gentle, balanced highlights while retaining realistic shadows and skin texture. The distant city lights should produce a beautiful soft bokeh effect. Camera and style: shot on an 85mm full-frame portrait lens, natural perspective, medium shallow depth of field, professional luxury lifestyle photography, cinematic blue-hour color grading, realistic skin tones, detailed individual hair strands, accurate fabric texture, high dynamic range, crisp facial details, subtle film grain, realistic city-light bokeh, balanced exposure, sophisticated composition, photorealistic 4K detail.
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1551,87 +1521,579 @@ Warm golden hour light, cinematographic lighting, soft shadows, shallow depth of
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171690383_hrl10z_HPJBxKtWEAAAkF_.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Editorial Fashion Tennis Shoot - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257230813_gfcyzm_HPQclHybEAAoExg.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury Rooftop City Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171690385_jrnpw6_HPJBxKpXUAAbKqe.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Editorial Fashion Tennis Shoot - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786257230871_89p3h7_HPQcoM_bIAAku_d.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury Rooftop City Portrait - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [H A J R A](https://x.com/codewithhajra)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/codewithhajra/status/2085801896867184805)
-- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
+- **ผู้เขียน:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086324027396899297)
+- **เผยแพร่เมื่อ:** 9 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30695)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30807)**
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - Botanical Archive Victorian Portrait
+### No. 22: โพสต์บนโซเชียลมีเดีย - Realistic Korean School Stairwell Candid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A structured, hyper-realistic portrait prompt set in a dense botanical Victorian glasshouse archive, featuring intricate lace and organic spiderweb details.
+A cinematic prompt for generating a heartwarming, candid photo of two students in a school stairwell with soft natural lighting.
+
+#### 📝 คำสั่ง
+
+```
+{argument name="students" default="2 female high school students"} standing on a {argument name="location" default="school staircase"}, warmly hugging each other, subtle happy smiles, looking at each other instead of the camera, unaware of the camera, candid moment, authentic Korean school stairwell, soft afternoon sunlight, shot on iPhone 16 Pro, natural HDR, realistic smartphone photo, handheld, slightly imperfect framing, natural colors, everyday moment, photorealistic,
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257229133_1l30lp_HPQPf_HbgAAUtFB.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Realistic Korean School Stairwell Candid - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257229141_j8j4pz_HPQPgigaUAEraFg.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Realistic Korean School Stairwell Candid - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257229152_nzw0zd_HPQPhEWbUAARAOV.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Realistic Korean School Stairwell Candid - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Maddox](https://x.com/Maddox_Digital)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Maddox_Digital/status/2086309596327817390)
+- **เผยแพร่เมื่อ:** 9 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30806)**
+
+---
+
+### No. 23: โพสต์บนโซเชียลมีเดีย - Celebrity College Student Candid Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+An ultra-photorealistic prompt that reimagines famous celebrities as students in a college classroom setting, seated at desks with stylish outfits.
+
+#### 📝 คำสั่ง
+
+```
+Ultra-photorealistic candid daily-life portrait of {argument name="celebrity name" default="[Celebrity Name]"} as a clearly adult college student, seated at a classroom desk wearing a {argument name="outfit" default="stylish fitted college outfit with a white button-down shirt, tailored pleated skirt, and cardigan"}, confident playful expression, direct eye contact with the camera, relaxed natural posture, books and notebooks on the desk, {argument name="classroom environment" default="realistic university classroom environment"}, soft morning window light, natural skin texture, detailed hair, subtle makeup, cinematic lifestyle photography, authentic candid atmosphere, tasteful fashion editorial aesthetic, vertical 4:5.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257243430_6zl275_HPQPVnIX0AAvOY9.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Celebrity College Student Candid Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257243380_c4era1_HPQPWMXXsAAD9if.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Celebrity College Student Candid Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257243329_tudm2l_HPQPWzcXQAAk-kf.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Celebrity College Student Candid Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257244026_eegdwl_HPQPXX1WAAACalq.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Celebrity College Student Candid Portrait - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Ozayrr_irl/status/2086309430191435851)
+- **เผยแพร่เมื่อ:** 9 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30818)**
+
+---
+
+### No. 24: โพสต์บนโซเชียลมีเดีย - Cinematic Double Exposure Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A complex double-exposure prompt combining a close-up portrait and a full-body figure with watercolor scrapbook aesthetics and hand-drawn doodles.
+
+#### 📝 คำสั่ง
+
+```
+Hyper-realistic cinematic double-exposure portrait composite — photorealistic large close-up combined with a smaller full-body seated portrait of the same woman, soft watercolor-splash scrapbook background, elegant hand-drawn doodle decorations, zero flat AI look.
+
+CONCEPT — EXACT: A layered double portrait where a large close-up face fills the upper-left of the frame, and a smaller full-body seated portrait of the same woman is positioned to the right, set against a cream textured watercolor-splash background with hand-drawn heart, butterfly, and floral line-art doodles, and elegant cursive name script text in the lower-left.
+
+LARGE CLOSE-UP PORTRAIT — EXACT: Close-up head-and-shoulders portrait, head tilted with one hand gently touching the hair near the temple, sunglasses pushed up resting on top of the head, warm joyful open-mouth smile, small bindi on the forehead, gold jhumka earring, loose flowing hair.
+
+SMALLER FULL-BODY FIGURE — EXACT: Full-body seated portrait, woman sitting with knees drawn up, one arm resting on her knee with chin resting on her hand, other arm bent with black bangles stacked on the wrist, warm bright smile, same sunglasses pushed up on the head, matching hairstyle and earrings.
+
+OUTFIT: {argument name="outfit style" default="Vivid mustard-yellow embroidered flowy anarkali-style suit"} with delicate white floral embroidery along the sleeves and hem, matching yellow dupatta draped over the shoulder, stacked black bangles on both wrists, gold jhumka earrings, white platform sandals, delicate anklet with small charms.
+
+DECORATIVE ELEMENTS — EXACT: Hand-drawn grey-toned doodle heart and swirl line accents in the upper-right area, a small illustrated butterfly with dotted flight-trail line, delicate hand-drawn floral branch line-art scattered near the bottom, soft grey watercolor-splash brushstroke texture in the upper-right corner.
+
+TEXT ELEMENT — EXACT: Large elegant black cursive script text in the lower-left corner displaying a name, "{argument name="name" default="Aiza"}" with a thin underline stroke and a small heart accent beneath it.
+
+BACKGROUND — EXACT: Soft cream/off-white textured background with subtle warm golden-yellow watercolor blotches and light grey brushstroke splashes, minimal and airy.
+
+LIGHTING — EXACT: Soft warm even lighting throughout, gentle natural glow on the skin, bright cheerful high-key lighting with no harsh shadows.
+
+COLOR GRADE — EXACT: Warm cream and soft neutral tones dominant in the background, {argument name="accent color" default="vivid mustard-yellow"} outfit providing the strongest color pop, natural warm skin tones, soft romantic scrapbook-style color grading with delicate grey doodle accents.
+
+Ultra clean commercial double-exposure finish — sharp photo cutout edges on both portraits, delicate hand-drawn doodle linework, polished elegant cursive typography. No watermark.
+Gnrat ratio 3:4
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257229087_kf521b_HPPgOU2bkAAyhk-.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cinematic Double Exposure Portrait - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Aiza](https://x.com/AizaAi12)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AizaAi12/status/2086257612065247353)
+- **เผยแพร่เมื่อ:** 9 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30805)**
+
+---
+
+### No. 25: โพสต์บนโซเชียลมีเดีย - European Hamster Wildlife Macro Shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A close-up macro wildlife photography prompt of a European hamster in a field of dry grass eating a leaf.
+
+#### 📝 คำสั่ง
+
+```
+A close-up, eye-level shot captures a {argument name="subject" default="European hamster"} in a field of dry grass. The hamster, with its distinctive brown and black fur, is positioned slightly to the left of the frame, facing right. Its tiny paws are holding a small {argument name="food item" default="green leaf"}, which it appears to be eating. The hamster's dark, beady eyes are sharp and focused, and its long whiskers are prominent.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257237288_yh10on_HO4FP3kXkAAl5eH.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - European Hamster Wildlife Macro Shot - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Heather Green](https://x.com/heathergreen)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/heathergreen/status/2086241045193339116)
+- **เผยแพร่เมื่อ:** 9 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30813)**
+
+---
+
+### No. 26: โพสต์บนโซเชียลมีเดีย - Cozy Kitchen Lifestyle Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A photorealistic lifestyle prompt for a woman in a modern apartment kitchen, emphasizing soft lighting and authentic textures.
+
+#### 📝 คำสั่ง
+
+```
+A photorealistic indoor lifestyle portrait of a {argument name="subject" default="young woman in a modern, cozy apartment"}. She has {argument name="appearance" default="fair skin, long auburn-red hair gathered into a relaxed low ponytail, with a few loose strands naturally framing her face"}. Her expression is warm and friendly, with a subtle genuine smile and relaxed eyes looking toward the camera.
+
+She is seated comfortably in a natural three-quarter pose, turned slightly toward the camera, with one hand resting naturally on her knee and the other positioned comfortably beside her. Her posture should appear relaxed and authentic rather than overly posed.
+
+She wears a {argument name="clothing" default="soft pink floral lounge dress with delicate small flower patterns, thin straps, subtle decorative edging, and natural fabric folds"}. Add a simple understated ring and minimal accessories. Keep the styling casual, tasteful, and everyday, with no visible logos or branding.
+
+The room has a warm contemporary interior with vertical wooden panels, light neutral walls, polished wooden flooring, and a small kitchen area in the background. A straw-colored decorative hat hangs on the wall, while a fruit arrangement containing bananas and oranges adds a natural touch to the setting. Warm interior lighting combines with soft daylight entering from the side.
+
+Camera and style: shot on an 85mm portrait lens, natural eye-level perspective, soft diffused window light, subtle warm indoor illumination, realistic skin texture, detailed individual hair strands, authentic fabric texture, shallow depth of field, cinematic color grading, balanced exposure, natural shadows, professional lifestyle photography, high detail, photorealistic 4K quality.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227037_8esf0a_HPOcAnXaMAAFwz6.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cozy Kitchen Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227032_eqpoh0_HPOcBuNasAEbF6P.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cozy Kitchen Lifestyle Portrait - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086182617775518158)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30802)**
+
+---
+
+### No. 27: โพสต์บนโซเชียลมีเดีย - Celebrity Red Carpet Cinematic Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A cinematic 8k prompt for generating a celebrity-style red carpet photo with fans and luxury cars, while preserving an uploaded face.
+
+#### 📝 คำสั่ง
+
+```
+Generate a hyper-realistic, cinematic 8k image of the uploaded man with his face fully preserved. he is wearing {argument name="eyewear" default="sleek black sunglasses"} and a {argument name="outfit" default="sharp black tailored suit"}, walking confidently on a red carpet in a natural motion. his hands are in his pockets, exuding calm authority and celebrity vibes. surrounding him are excited fans and glamorous women reaching out to touch him, while journalists’ cameras flash from below the frame, adding intense energy and drama. a {argument name="car type" default="luxury lamborghini"} is parked right beside the red carpet, enhancing the high-status atmosphere. the setting should feel crowded, dense, and cinematic, with rich lighting, dramatic shadows, and the color grading of a high-end sony a7s4 camera shot
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257233467_rxhoyc_HPOAB_1WsAEd37v.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Celebrity Red Carpet Cinematic Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257233515_ocjvkm_HPOAB_qWoAAH14m.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Celebrity Red Carpet Cinematic Portrait - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Alex Prompts](https://x.com/AlexPromptsAI)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/AlexPromptsAI/status/2086152064795607261)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30810)**
+
+---
+
+### No. 28: โพสต์บนโซเชียลมีเดีย - Intimate Morning Portrait Photograph
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A serene prompt for capturing two people asleep in a peaceful, natural lit setting, designed for high-end cinematic detail.
+
+#### 📝 คำสั่ง
+
+```
+Intimate, medium-close portrait photograph capturing {argument name="first person" default="[NAME1]"} and {argument name="second person" default="[NAME2]"} deeply asleep and nestled together on a soft white bed, viewed from a slightly elevated angle. [NAME1], on the left, has her long hair tied back in a relaxed, loose bun with delicate strands framing her face, secured by a pink elastic band. [NAME2], on the right, sleeps beside her with her long, flowing hair fanned gently. Both are in a peaceful, profound sleep with serene facial expressions and natural skin glow. [NAME1] wears a ribbed pink tank top with thin spaghetti straps and white lace trim along the neckline. [NAME2] wears a light blue tank top with thin straps, a similar lace trim, and a small buttoned placket on the front. They are lying closely together, heads near each other on a white pillow, softly turned inward, creating an intimate composition. The immediate background consists solely of the white, softly wrinkled bedsheets and pillows, maintaining total focus on the two subjects. They wear small stud earrings. Natural, warm light streams in from a window to the left, highlighting textures, hair, and skin with soft highlights and subtle shadows. The atmosphere is peaceful, intimate, and profoundly calm. Shot on a full-frame camera with an 85mm prime lens; tack-sharp focus on the faces, aperture f/2.8 for depth of field, 1/200 sec, ISO 100 for maximum detail and low noise. (Aspect Ratio 9:16).
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227803_bdrtx1_HPM8-ZlWoAAP8hi.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Intimate Morning Portrait Photograph - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227609_qsyxl0_HPM8-qgXAAAWqbc.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Intimate Morning Portrait Photograph - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Giulia](https://x.com/Giulia_4i)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Giulia_4i/status/2086078104879927508)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30804)**
+
+---
+
+### No. 29: โพสต์บนโซเชียลมีเดีย - Aesthetic Supermarket Lifestyle Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A highly detailed cinematic prompt for a lifestyle photograph of a woman wearing a hijab in a modern Asian-style supermarket aisle, emphasizing natural lighting and fashion details.
+
+#### 📝 คำสั่ง
+
+```
+A beautiful young slim woman wearing a {argument name="headwear" default="hijab"} is in the {argument name="aisle" default="beverage aisle"} of a {argument name="supermarket style" default="modern Asian-style"} supermarket. Vertical 9:16 photo composition, full body, candid lifestyle photography. The camera is positioned slightly lower than chest height (slightly low angle), using a 35mm lens, providing a natural perspective.
+The subject stands relaxed while leaning her left shoulder against the side of the beverage refrigerator. Her head is tilted slightly downward so that her face is mostly hidden by a cap, creating a natural, shy, and candid impression. Her left leg bears her weight, while her right leg is bent backward with the tip of the shoe lifted. Her right hand holds a thin white/silver smartphone, while her left hand is tucked into her pants pocket.
+Wearing a premium ivory-white pashmina hijab made of soft matte chiffon silk that drapes naturally following the shape of her head and shoulders. The hijab is neatly styled with simple folds, modestly covering her neck and chest in front, with the ends tucked into her t-shirt for a clean and minimalist look. No hair is visible.
+Over the hijab, she wears a pastel pink Nike baseball cap with a white swoosh logo on the front. The cap is worn slightly low so her face remains hidden.
+Wearing a vintage-style oversized white t-shirt featuring pastel cartoon illustrations and large light purple text across the chest. The loose t-shirt forms natural fabric folds, partially covering her hips.
+Wearing wide-leg gingham plaid pants in pastel pink and white, made of soft cotton with realistic, natural drapes. Wearing clean, plain white sneakers with thick white soles.
+To her right stands a silver metal shopping cart with gray wheels. Inside the cart are a few products packaged in pink and yellow, while most of the cart remains empty.
+The background features an exceptionally clean, premium modern supermarket. Behind the subject is a display refrigerator filled with neatly arranged fruit juice bottles in yellow, white, red, and orange. White LED lights from inside the fridge cast a soft illumination on the subject. To the right, snack shelves are visible, dominated by yellow, orange, and brown packaging. A modern black ceiling with long linear LED lights adds a touch of luxury.
+The overall tone is warm and soft, dominated by white, pastel pink, yellow, and orange. Korean supermarket aesthetic, Xiaohongshu lifestyle photography, cozy shopping vibes, clean minimal aesthetic, premium fashion editorial.
+Ultra photorealistic, DSLR photography, RAW photo, HDR, realistic lighting, ultra-detailed fabric texture, realistic hijab folds, realistic shopping cart metal texture, detailed beverage bottles, authentic supermarket environment, cinematic lighting, natural shadows, subtle shallow depth of field, crisp focus, 8K UHD, masterpiece, best quality, highly detailed, ultra realistic, true-to-life colors, realistic proportions, premium editorial photography.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227075_sb7vg9_HPMlAkhbcAAhDco.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Aesthetic Supermarket Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227096_jowtiz_HPMlAkYaYAAjhg7.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Aesthetic Supermarket Lifestyle Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257227078_efm8q9_HPMlAkeaIAEd0Sv.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Aesthetic Supermarket Lifestyle Portrait - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [simeon-sanai](https://x.com/Naiknelofar788)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Naiknelofar788/status/2086051754438004802)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30803)**
+
+---
+
+### No. 30: โพสต์บนโซเชียลมีเดีย - Industrial Loft Fashion Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A photorealistic editorial portrait of a woman in a sophisticated industrial loft with exposed brick and large grid windows.
+
+#### 📝 คำสั่ง
+
+```
+A photorealistic editorial lifestyle portrait of a young woman in a sophisticated industrial-style loft. She has fair skin, natural facial features, and {argument name="hair style" default="long auburn-red hair gathered into a relaxed low ponytail"}, with a few soft strands framing her face. Her expression is calm and thoughtful, with her gaze directed slightly upward and toward the side rather than directly at the camera. She is positioned in a relaxed seated pose on a soft textured rug, with one knee raised naturally and one arm extending comfortably toward the side, creating an elegant editorial composition. Her posture should look natural and balanced. She is dressed in a {argument name="top" default="light Green sleeveless fitted top"} and {argument name="trousers" default="matching wide-leg trousers"}, creating a monochromatic, refined outfit. The clothing should have realistic fabric texture, natural folds, and subtle stitching details. Keep the styling tasteful and understated, with minimal jewelry and no visible logos or branding. The setting is a warm industrial loft interior featuring exposed reddish-brown brick walls, large black-framed grid windows, polished wooden flooring, framed artwork, and a tall vintage-style floor mirror. A wooden table with a classic camera and a few simple objects sits toward the side of the room. An elegant contemporary chandelier with warm metallic elements and hanging crystal-like details adds visual interest overhead. The large mirror naturally reflects the woman and part of the room, creating depth and a sophisticated editorial effect. Use soft natural daylight entering through the large windows, combined with subtle warm ambient interior lighting. Sunlight should create gentle highlights on the subject's hair, clothing, wooden floor, and brick textures while maintaining realistic shadows. The overall atmosphere should feel warm, peaceful, artistic, and upscale. Camera and style: shot on an 85mm portrait lens, eye-level perspective, shallow but natural depth of field, realistic perspective, soft window light, cinematic color grading, high dynamic range, detailed skin texture, realistic hair strands, accurate fabric textures, natural shadows, professional fashion-editorial photography, subtle film grain, balanced composition, high resolution, photorealistic detail, sophisticated warm-neutral color palette.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257233993_nq1mp1_HPMcaihbcAAxK2b.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Industrial Loft Fashion Editorial - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257234390_4xf26j_HPMcbgFaUAAKPy9.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Industrial Loft Fashion Editorial - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257234506_zp8v30_HPMcchXagAA01rG.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Industrial Loft Fashion Editorial - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086042344756031598)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30811)**
+
+---
+
+### No. 31: โพสต์บนโซเชียลมีเดีย - Botanical Garden Lifestyle Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A professional lifestyle photography prompt for a woman in a botanical garden setting, focusing on lighting, lens choice, and natural textures.
+
+#### 📝 คำสั่ง
+
+```
+A realistic outdoor lifestyle portrait of a {argument name="subject" default="young woman with fair skin, soft natural facial features, and a calm, confident expression"}. She has {argument name="hair style" default="blonde hair styled in a relaxed low ponytail with a few loose strands framing her face"}, creating a natural and effortless look. Her gaze is directed toward the camera with a gentle, composed expression. She is sitting comfortably on a classic wooden park bench with a relaxed posture, one leg crossed over the other and her hands resting naturally beside her.
+
+She is wearing a {argument name="outfit" default="light blue off-shoulder casual top paired with a denim skirt"}, creating a fresh spring-inspired outfit. She carries a small brown shoulder bag with a simple floral charm detail and wears delicate gold-toned bracelets and minimal accessories that complement the outfit without overpowering the scene.
+
+The environment is a beautiful botanical garden filled with colorful hydrangea flowers, lush green plants, and tall trees in the background. The setting feels peaceful and natural, with soft daylight filtering through the leaves. Gentle shadows, vibrant flowers, and greenery create a warm outdoor atmosphere.
+
+Captured with an 85mm portrait lens, shallow depth of field, soft natural daylight, realistic skin texture, cinematic color grading, high-resolution photography style, detailed fabric textures, natural colors, professional lifestyle photography, balanced composition, subtle background blur, authentic outdoor atmosphere, and ultra-realistic details.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257225969_v9mhfl_HPL-hIRb0AA6DYV.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Botanical Garden Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257226070_u2tk0l_HPL-jRGa8AA8OoT.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Botanical Garden Lifestyle Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257225973_k9036v_HPL-k-LbkAA0K7s.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Botanical Garden Lifestyle Portrait - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086009513250058717)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30801)**
+
+---
+
+### No. 32: โพสต์บนโซเชียลมีเดีย - Cozy Modern Indoor Lifestyle Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A realistic lifestyle portrait of a woman in a sunlit modern room, focusing on natural light and peaceful atmosphere.
+
+#### 📝 คำสั่ง
+
+```
+A realistic lifestyle portrait of a {argument name="subject" default="young adult woman with fair skin, soft facial features"}, and a calm, natural expression. She has smooth medium-length hair styled neatly, with subtle texture and a relaxed appearance. Her eyes look gently toward the camera with a peaceful and confident mood, creating a warm and approachable atmosphere. She is sitting comfortably on a soft textured rug in a relaxed indoor pose, with natural body posture and hands resting casually. She is wearing a {argument name="top" default="simple fitted sleeveless top"} paired with {argument name="bottom" default="comfortable light-colored shorts"}, creating a minimal and elegant casual style. No visible logos or branding. The outfit has clean lines and a soft fabric texture, complemented by a simple, understated aesthetic. The environment is a cozy modern room with warm wooden walls, large windows, a small indoor plant, and soft decorative elements. Natural sunlight enters through the windows, creating gentle highlights and realistic shadows across the room. The atmosphere feels peaceful, warm, and inviting with a connection to nature. Captured with an 85mm portrait lens, shallow depth of field, soft natural window lighting, realistic skin texture, cinematic color grading, high-resolution photography style, ultra-detailed, professional lifestyle photography, balanced composition, warm tones, realistic proportions, subtle background blur, natural shadows, and authentic indoor atmosphere.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257233813_mm98wa_HPLXsNwboAEdsQc.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cozy Modern Indoor Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257233857_v3o8qr_HPLXt-cboAAlfFr.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cozy Modern Indoor Lifestyle Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257233921_lkzpv8_HPLXviFbAAAHIkK.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Cozy Modern Indoor Lifestyle Portrait - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Jodie_Noraa/status/2085966799297020361)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30693)**
+
+---
+
+### No. 33: โพสต์บนโซเชียลมีเดีย - Spiderman Skyscraper Editorial Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A complex JSON prompt for a photorealistic superhero editorial featuring Spiderman clinging to a glass skyscraper.
 
 #### 📝 คำสั่ง
 
 ```
 {
-  "vibe_title": "Silver Botanical Archive",
-  "master_prompt": "A hyper-realistic medium-format portrait of {argument name="subject" default="The Protagonist"} standing amidst a {argument name="setting" default="dense, cluttered botanical archive inside a weathered Victorian glasshouse"} at twilight. The environment is saturated with narrative detail: stacks of crumbling botany journals, hanging dried silver ferns, jars of preserved specimens, and overflowing shelves of rusting tools. The Protagonist wears a surreal, high-fashion garment that appears to be a hybrid of {argument name="clothing" default="antique Victorian lace and living, frosted spiderwebs"} (High-Budget Practical Effect), creating a seamless transition between the textile and the organic surroundings. They are looking slightly upward toward a soft, moon-like light source breaking through the rain-streaked glass roof, their expression hopeful and determined (The Visionary). The lighting creates a cinematic mood: cool cyan twilight serves as the key light, while scattered amber oil lamps provide a warm, volumetric fill in the background. Shot at exact eye level on a Hasselblad X2D with an 80mm f/1.9 lens to capture hyper-realistic skin pores and the specific weave of the lace. The aesthetic mimics Cinestill 800T film stock with subtle halation, atmospheric fog, and visible dust motes dancing in the air. No neon.",
-  "meta": {
-    "intent": "Cinematic Editorial",
-    "priorities": "Texture, Narrative Density, Photorealism",
-    "device_profile": "Hasselblad X2D 100C"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Central Portrait with Dense Framing",
-    "layout": "Cluttered Foreground and Background",
-    "camera_angle": "Exact Eye-Level",
-    "tilt_roll_degrees": "0°"
-  },
+  "prompt_style": "photorealistic superhero editorial photo",
   "subject": {
-    "gender": "Female",
-    "identity": "The Botanical Archivist",
-    "demographics": "Young Adult",
-    "face": "Neutral, natural skin texture with visible pores",
-    "hair": "Textured, slightly wavy, silver or muted cool tones",
-    "body": "Elegant posture, standing tall",
-    "expression": "Hopeful, determined, eyes fixed on a light source above",
-    "pose": "Chin lifted slightly, shoulders squared, The Visionary stance"
+    "Person": "{argument name="subject name" default="Person Name/Uploaded Image"}",
+    "pose": "clinging to the exterior of a glass skyscraper, one arm extended overhead with palm flat against the glass, opposite leg bent and foot braced against the window frame, other arm hanging loosely, body angled diagonally as if caught mid-climb",
+    "expression": "focused, alert, looking off to the side as if scanning the street below",
+    "camera_angle": "slightly low angle, three-quarter view, shot from outside the building looking up and across"
   },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Victorian High-Collar Blouse",
-        "material": "Antique Lace / Frosted Spiderweb Hybrid",
-        "color": "Pale Silver / Ice Blue",
-        "fit": "Structured and Intricate"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Brooch",
-        "color": "Tarnished Silver",
-        "material": "Metal and Crystal",
-        "brand_style": "Vintage Heirloom"
-      }
-    ]
+  "suit_design": {
+    "name": "{argument name="suit version" default="Brand New Day suit (fan-original design)"}",
+    "primary_colors": "bright red torso/arms, deep navy blue lower body and side panels",
+    "chest_emblem": "large black spider symbol, angular modern silhouette, centered on chest",
+    "web_pattern": "fine black web-line stitching across red sections, thinning out on navy sections",
+    "texture": "red areas: matte compression fabric with raised web-stitch detail; navy areas: subtle hexagonal micro-texture, almost like body armor weave",
+    "trim": "black piping along shoulder seams, ribs, and outer arm/leg lines",
+    "gloves": "red, web-patterned, form-fitting",
+    "wrist_gadget": "black mechanical wristband/web-shooter with a small glowing blue light strip, worn on the raised arm",
+    "boots": "red with black sole trim, web-patterned, knee-high, form-fitting",
+    "knee_detail": "reinforced navy knee pads with fine textured paneling",
+    "belt": "black segmented utility band at the waist",
+    "material_feel": "high-end movie-costume quality, slightly reflective under sunlight, not cartoonish or glossy plastic"
   },
-  "environment": {
-    "setting": "Overgrown Victorian Glasshouse Archive",
-    "surfaces": "Wet glass, rusted iron, paper, dried leaves",
-    "depth": "Shallow depth of field with busy, textured bokeh",
-    "atmosphere": "Cold, humid, misty, smelling of ozone and old paper",
-    "lens_interaction": "Rain droplets on outer glass, subtle condensation"
+  "setting": {
+    "location": "exterior of a modern glass office skyscraper, Manhattan",
+    "background": "hazy daytime city skyline, visible landmark spire (One World Trade Center style silhouette) in the distance, soft atmospheric perspective",
+    "surface": "floor-to-ceiling glass curtain wall with visible metal mullions, faint reflection of the character visible in the glass",
+    "time_of_day": "clear daytime, soft directional sunlight from one side"
   }
 }
 ```
@@ -1641,223 +2103,51 @@ A structured, hyper-realistic portrait prompt set in a dense botanical Victorian
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171693502_vxc71o_HPISZ9kXwAAB5rc.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Botanical Archive Victorian Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257237763_15mj7o_HPLB0GgaYAAO7Nz.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Spiderman Skyscraper Editorial Portrait - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171693580_rq7n5o_HPISZ8sWAAAH5fA.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Botanical Archive Victorian Portrait - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/timedoctor_nft/status/2085749818945626181)
-- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30702)**
-
----
-
-### No. 23: โพสต์บนโซเชียลมีเดีย - Japanese Summer Veranda Scene
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-A nostalgic scene of a high school girl sitting on the veranda of an old Japanese folk house during summer, captured from a low angle.
-
-#### 📝 คำสั่ง
-
-```
-Recreate a summer Japanese landscape, under the eaves of an old folk house, sitting on the floor with an electric fan next to it. From inside the house, take a low-angle back shot of a {argument name="clothing" default="girl in a white tank top and a gray tank top"} who looks to be about high school age.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171695800_xoqamc_HPGrOVBasAAWqNX.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Japanese Summer Veranda Scene - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [すしすし](https://x.com/naomikU114)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/naomikU114/status/2085636369330864207)
-- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30704)**
-
----
-
-### No. 24: โพสต์บนโซเชียลมีเดีย - Luxury French Riviera Lifestyle Photography
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-Captures a high-end editorial scene of an elegant woman driving a luxury car along the French Riviera road during golden hour.
-
-#### 📝 คำสั่ง
-
-```
-Use the uploaded photo as the sole and exact reference for the model. Preserve her appearance 1:1, including her identity, facial features, eye shape and color, nose, lips, natural skin tone, body proportions, hair, its length, volume, texture, facial expression, gaze, and overall look. Do not alter her face, age, figure, or appearance in any way.
-An elegant woman confidently drives a {argument name="car model" default="Satin Ivory Aston Martin DB12 Volante"} along the breathtaking coastal roads of the French Riviera. She wears an oversized {argument name="clothing brand" default="The Row"} ivory linen blazer over a champagne silk camisole by Khaite. The look is completed with Saint Laurent sunglasses, Bvlgari earrings, a Cartier Baignoire watch, a Cartier Love bracelet, and a sand beige The Row Margaux bag. Her loose hair, illuminated by soft sun highlights, flows naturally in the sea breeze, maintaining realistic volume, silky texture, and lifelike movement. Her calm, confident expression embodies the essence of modern Quiet Luxury.
-In the background: the azure Mediterranean Sea, pristine white yachts, contemporary cliffside villas, palm trees, and a winding coastal road. Warm golden hour sunlight, natural reflections on the car's bodywork, lifelike skin with visible pores, soft creamy bokeh, and premium editorial color grading.
-The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Editorial. Modern Quiet Luxury. Luxury Travel Campaign. Ultra Photorealistic. Full-Frame Camera. 85mm Lens. Kodak Portra 400. HDR. 8K.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171690647_3qdkk8_HPGGdhBWYAANJYS.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury French Riviera Lifestyle Photography - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171690943_9ju942_HPGGdhAW4AAEBvX.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Luxury French Riviera Lifestyle Photography - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [H A J R A](https://x.com/codewithhajra)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/codewithhajra/status/2085595948554531029)
-- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30697)**
-
----
-
-### No. 25: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นสตรีทแวร์สุดหรูในเมือง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพถ่ายแฟชั่นแนวเอดิทอเรียลของบุคคลในชุดสตรีทแวร์ระดับไฮเอนด์ โดยมีฉากหลังเป็นผนังคอนกรีตดิบในเมือง
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายแฟชั่นแนวเอดิทอเรียลที่สมจริงเป็นพิเศษของ {argument name="subject" default="บุคคลในภาพอ้างอิง"} ยืนอย่างเป็นธรรมชาติหน้า {argument name="background" default="ผนังคอนกรีตดิบเรียบในบรรยากาศเมือง"} มือล้วงกระเป๋าเสื้อแจ็กเก็ต สีหน้ามั่นใจและผ่อนคลาย มองตรงมาที่กล้อง สวมใส่ {argument name="outfit" default="แจ็กเก็ตบอมเบอร์หนังทรงโอเวอร์ไซส์สีดำทับด้วยฮู้ดดี้และเสื้อยืดสีดำ"} กางเกงคาร์โก้สีดำทรงหลวมที่มีพื้นผิวซีดจางเล็กน้อย เครื่องประดับสร้อยเงิน รองเท้าผ้าใบหุ้มส้นสีขาวดำ แสงธรรมชาติในช่วงวันที่มีเมฆมาก โทนสีเทาหม่น ฉากหลังเรียบง่าย สไตล์สตรีทแวร์สุดหรู แคมเปญแฟชั่นระดับไฮเอนด์ จัดวางองค์ประกอบภาพสะอาดตา สีผิวเป็นธรรมชาติ พื้นผิวผ้าสมจริง ระยะชัดลึกตื้น ภาพเต็มตัว เลนส์ 85 มม. สมจริงเหมือนภาพถ่าย รายละเอียดสูง แสงแบบภาพยนตร์ คุณภาพระดับเอดิทอเรียลของ Vogue ความละเอียด 8K
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654877952_s3wtkv_HOsPPQnagAE1IkP.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นสตรีทแวร์สุดหรูในเมือง - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Weinberg](https://x.com/weiinberg)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/weiinberg/status/2083776018763157835)
-- **เผยแพร่เมื่อ:** 2 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30558)**
-
----
-
-### No. 26: โพสต์บนโซเชียลมีเดีย - ฉากแปลกตาในมุมมองบุคคลที่หนึ่ง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่ง (Prompt) ที่เรียบง่ายแต่สร้างสรรค์สำหรับการสร้างภาพในมุมมองบุคคลที่หนึ่งของวัตถุที่แปลกตาหรือหาดูได้ยาก เหมาะอย่างยิ่งสำหรับการเล่าเรื่องหรือคอนเซปต์อาร์ต
-
-#### 📝 คำสั่ง
-
-```
-มุมมองบุคคลที่หนึ่งของ {argument name="subject" default="สิ่งที่คุณไม่ค่อยได้เห็นบ่อยนัก"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654882500_rx54di_HOq-jzOWoAAmnMT.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากแปลกตาในมุมมองบุคคลที่หนึ่ง - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654883399_jlu9p7_HOq-jzSX0AAI823.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากแปลกตาในมุมมองบุคคลที่หนึ่ง - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786257237790_7z6kwp_HPLB0GgakAAwfK1.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Spiderman Skyscraper Editorial Portrait - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654882516_y5gb7v_HOq-jzGXcAAtR6q.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ฉากแปลกตาในมุมมองบุคคลที่หนึ่ง - Image 3">
+<img src="https://cms-assets.youmind.com/media/1786257237816_xodoeb_HPLB0Gra8AA4JGd.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Spiderman Skyscraper Editorial Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257238785_981nla_HPLB0Gsb0AAX8-z.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Spiderman Skyscraper Editorial Portrait - Image 4">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [fofr](https://x.com/fofrAI)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/fofrAI/status/2083747614840045928)
-- **เผยแพร่เมื่อ:** 2 สิงหาคม 2569
+- **ผู้เขียน:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2085943968542634019)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30564)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30814)**
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - ภาพจิตรกรรมฝาผนังการ์ตูนที่คงอัตลักษณ์ใบหน้าเดิม
+### No. 34: โพสต์บนโซเชียลมีเดีย - Y2K Paparazzi Luxury Hair Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-คำสั่ง (Prompt) ขั้นสูงที่ออกแบบมาเพื่อรักษาอัตลักษณ์ใบหน้าจากภาพอ้างอิง ในขณะที่สร้างฉากเฉพาะขึ้นใหม่พร้อมพื้นหลังเป็นภาพจิตรกรรมฝาผนังแนวอนิเมะ/จิบิ
+A highly detailed prompt for an early-2000s Y2K style beauty shot with focus on long, luxurious chestnut hair and realistic flash lighting.
 
 #### 📝 คำสั่ง
 
 ```
-ใช้ภาพอ้างอิงใบหน้าที่จัดเตรียมไว้ให้แยกต่างหากเท่านั้น เพื่อรักษาอัตลักษณ์ใบหน้าของบุคคลให้เหมือนเดิมทุกประการ โดยคงใบหน้าให้เหมือนกับภาพอ้างอิง 100% พร้อมทั้งเก็บรายละเอียดทรงผม สัดส่วนใบหน้า ดวงตา จมูก ริมฝีปาก รอยยิ้ม และอัตลักษณ์โดยรวมให้สมบูรณ์แบบ
-
-สร้างฉากนี้ขึ้นใหม่ให้ใกล้เคียงกับภาพต้นฉบับมากที่สุดเท่าที่จะเป็นไปได้โดยไม่มีการปรับเปลี่ยนเชิงสร้างสรรค์ใดๆ
-
-{argument name="subject description" default="หญิงสาวคนหนึ่งยืนอยู่ข้างกำแพงจิตรกรรมฝาผนังการ์ตูนกลางแจ้งที่มีสีสันสดใส"} เธอสวม {argument name="outfit" default="เสื้อเชิ้ตลายทางตัวโคร่งสีฟ้าอ่อนทับเสื้อครอปสีขาว กางเกงจ็อกเกอร์สีครีมทรงหลวม รองเท้าผ้าใบสีขาว และกระเป๋าสะพายไหล่สีฟ้าที่เข้าชุดกัน"} แขนซ้ายของเธอยกขึ้นแตะภาพจิตรกรรมฝาผนังเหมือนในภาพอ้างอิงทุกประการ ในขณะที่มือขวาล้วงกระเป๋าไว้อย่างเป็นธรรมชาติ ท่าทางของร่างกาย ตำแหน่งขา การวางเท้า มุมแขน ตำแหน่งไหล่ การเอียงศีรษะ สีหน้า ทิศทางการมองของดวงตา และท่าทางโดยรวมจะต้องตรงกับภาพอ้างอิงอย่างแม่นยำ
-
-{argument name="mural background" default="ภาพจิตรกรรมฝาผนังด้านหลังเธอเป็นภาพวาดอนิเมะ/จิบิสุดน่ารักขนาดใหญ่ของหญิงสาวคนเดียวกันที่กำลังนั่งอยู่บนสายรุ้งพร้อมกับขยิบตา"} ตัวละครการ์ตูนจะต้องสวมชุดเดียวกันและมีทรงผมเหมือนกันทุกประการ ท่าทางของตัวละครการ์ตูน การวางมือ ตำแหน่งร่างกาย และสีหน้าจะต้องตรงกับภาพอ้างอิงอย่างแม่นยำ
-
-ผนังเต็มไปด้วยภาพวาดลายเส้นสีสันสดใสที่เหมือนกัน รวมถึงสายรุ้ง ก้อนเมฆ ดอกไม้ ดวงดาว เครื่องบินกระดาษ ผีเสื้อ หน้าอมยิ้ม ภูเขา ลูกโป่ง และภาพประกอบตกแต่งอื่นๆ ที่จัดวางตำแหน่งเหมือนกับภาพอ้างอิงทุกประการ
-
-แสงธรรมชาติที่นุ่มนวล แสงกลางแจ้งที่สมจริง สีพาสเทลสดใส กล้องระดับสายตา องค์ประกอบภาพเต็มตัว เลนส์ 50 มม. ระยะชัดตื้น รายละเอียดสูงพิเศษ สมจริงระดับภาพถ่าย HDR ผลงานชิ้นเอก การถ่ายภาพแฟชั่นระดับพรีเมียม 8K
-
-ข้อกำหนดที่ต้องปฏิบัติตามอย่างเคร่งครัด:
-- ใบหน้าต้องตรงกับภาพอ้างอิงใบหน้าที่ให้มาอย่างแม่นยำ
-- คงองค์ประกอบภาพให้เหมือนเดิมทุกประการ
-- คงท่าทางให้เหมือนเดิมทุกประการ
-- คงมุมกล้องให้เหมือนเดิมทุกประการ
-- คงการจัดเฟรมภาพให้เหมือนเดิมทุกประการ
-- คงแนวคิดของภาพจิตรกรรมฝาผนังให้เหมือนเดิมทุกประการ
-- ภาพวาดการ์ตูนต้องคัดลอกท่าทางของหญิงสาวให้เหมือนเดิมทุกประการ
-- ห้ามเพิ่มวัตถุใดๆ
-- ห้ามตัดวัตถุใดๆ ออก
-- ห้ามเปลี่ยนชุด
-- ห้ามเปลี่ยนสีหน้า
-- ห้ามเปลี่ยนมุมมอง
-- ห้ามออกแบบใหม่
-- ห้ามตีความทางศิลปะเพิ่มเติม
-- สร้างฉากอ้างอิงขึ้นใหม่ให้ซื่อตรงที่สุดเท่าที่จะเป็นไปได้ โดยเปลี่ยนเฉพาะใบหน้าให้เป็นอัตลักษณ์ตามภาพอ้างอิงที่จัดเตรียมไว้ให้เท่านั้น
+Use the uploaded photo as the exact facial reference and preserve the person’s identity with maximum accuracy. Keep the same facial structure, proportions, eyes, nose, lips, jawline, cheeks, and natural features without reshaping, slimming, enlarging, beautifying, or applying any artificial face filter. Create an authentic early-2000s Y2K flash photograph with strong direct frontal camera flash, bright natural highlights, subtle digital-camera grain, realistic exposure falloff, and a raw DSLR look that feels like a real celebrity paparazzi beauty shot rather than CGI. Give the subject extremely long, thick, luxurious {argument name="hair color" default="chestnut-brown"} hair with huge crown volume, glamorous blown-out waves, dimensional brunette highlights, individual visible strands, natural flyaways, and a dramatic hair halo surrounding the face, with the hair taking up around half of the frame. Use an {argument name="camera angle" default="extreme low-angle camera"} positioned clearly below eye level, with the head slightly tilted back, chin raised, and eyes looking upward, while the face fills around 65–70% of the frame in a very tight beauty-editorial crop with minimal clothing and shoulders visible. The expression should intentionally contrast with the glamorous styling: playful, awkward, weird, slightly chaotic, and naturally funny, like an unexpected candid moment. Keep the lips naturally proportioned while giving them a {argument name="lip color" default="soft pink ombré"} tone, hydrated glossy finish, subtle highlights, and realistic texture. Preserve authentic skin detail including pores, peach fuzz, fine texture, natural imperfections, and realistic flash reflections, avoiding plastic or overly smooth skin. Add subtle imperfections such as tiny exposure variations, realistic flash hotspots, and gentle digital-camera grain to make the image feel genuinely photographed. Overall, create a photorealistic luxury hair and beauty campaign with a nostalgic Y2K celebrity aesthetic, premium editorial quality, realistic hair and skin, natural lighting behavior, and an unmistakably authentic photographic appearance.
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1865,67 +2155,37 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654881107_maa71t_HOrgkqjasAAVvn6.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพจิตรกรรมฝาผนังการ์ตูนที่คงอัตลักษณ์ใบหน้าเดิม - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257231033_sfooue_HPK_e4aaEAEed1h.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Y2K Paparazzi Luxury Hair Shot - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Aiza](https://x.com/AizaAi12)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AizaAi12/status/2083724715496243703)
-- **เผยแพร่เมื่อ:** 2 สิงหาคม 2569
+- **ผู้เขียน:** [Simply Ray](https://x.com/kingofdairyque)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/kingofdairyque/status/2085940142616027524)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30562)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30690)**
 
 ---
 
-### No. 28: โพสต์บนโซเชียลมีเดีย - ไซเบอร์พังก์เหนือจริงในสไตล์ดาลี
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับการผสมผสานสไตล์ที่รวมเอาความสวยงามแบบไซเบอร์พังก์เข้ากับเทคนิคเหนือจริงของ Salvador Dali
-
-#### 📝 คำสั่ง
-
-```
-{argument name="style one" default="ไซเบอร์พังก์"} {argument name="style two" default="เหนือจริง"} {argument name="artist" default="Salvador Dali"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654884106_38fv5u_HOrJWtpbYAAR5S2.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ไซเบอร์พังก์เหนือจริงในสไตล์ดาลี - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [クラリネットクラリオンNOBU](https://x.com/NOBU79834619)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/NOBU79834619/status/2083699176945405953)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** ja
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30565)**
-
----
-
-### No. 29: โพสต์บนโซเชียลมีเดีย - เด็กนักเรียนหญิงลอยตัวในความมืด
+### No. 35: โพสต์บนโซเชียลมีเดีย - Paris Sunset Balcony Lifestyle Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-คำสั่ง (prompt) บรรยากาศเรียบง่ายสำหรับภาพเด็กนักเรียนหญิงลอยตัวอยู่ในสภาพแวดล้อมที่มืดมิด เน้นความสวยงามของตัวละคร
+A detailed JSON prompt for generating a romantic lifestyle editorial of a woman on a Parisian balcony during sunset.
 
 #### 📝 คำสั่ง
 
 ```
-{argument name="action" default="ลอยตัว"} ใน {argument name="lighting" default="ความมืด"}
+{
+  "id": "paris_balcony_sunset_editorial_01",
+  "prompt": "Ultra-realistic romantic Paris balcony lifestyle editorial portrait of a {argument name="subject description" default="beautiful young adult woman with long voluminous champagne-blonde hair"} styled in soft loose waves, subtle center part, natural movement, delicate flyaway strands, and softly illuminated edges from the sunset. Fair warm ivory skin with visible pores, realistic skin texture, subtle natural freckles across the cheeks, nose, shoulders, chest, and arms, fine facial vellus hair, natural skin variation, soft rosy blush, luminous but realistic complexion, feathered brows, delicate champagne eyeshadow, subtle brown eyeliner, separated wispy lashes, pale blue-gray eyes, and softly glossy natural rose-pink lips with realistic lip texture. She wears a {argument name="outfit description" default="romantic pure-white cotton off-the-shoulder mini dress"} with a fitted corset-inspired bodice, gathered sweetheart neckline, short puff sleeves sitting below the shoulders, fitted waist, and softly flowing gathered skirt with realistic cotton folds and stitching. A delicate silver chain necklace with a tiny cross pendant rests naturally against her collarbone. She is seated sideways on a narrow traditional Parisian apartment balcony, body turned slightly toward the camera, knees angled naturally to one side, both hands resting gently near her lap, shoulders relaxed, maintaining direct eye contact with a calm, dreamy expression. Behind her, the {argument name="landmark" default="Eiffel Tower"} rises clearly above classic cream Haussmann buildings with gray mansard rooftops, tree-lined Paris streets, wrought-iron balcony railings, and neighboring limestone façades. The sky is a dreamy pastel sunset gradient of warm peach, pale gold, blush pink, and soft blue. Gentle golden-hour light softly illuminates one side of her face and hair while maintaining realistic shadow detail and natural skin tones. Authentic high-end travel lifestyle photography rather than an overly polished studio photograph. Captured with an iPhone 15 Pro main camera aesthetic, 24mm equivalent lens, realistic smartphone HDR, natural perspective, crisp facial and hair detail, moderate natural depth of field, subtle background softness while keeping the Eiffel Tower recognizable, realistic exposure, no artificial portrait-mode cutout. Romantic Parisian summer aesthetic, quiet luxury travel editorial, Pinterest-inspired European vacation photography, Kodak Portra-inspired color rendering, RAW-like clarity, highly detailed hair strands, visible pores and freckles, realistic fabric texture, natural anatomy, ultra photorealistic, high resolution.",
+  "negative_prompt": "cartoon, anime, CGI, illustration, painting, doll-like face, plastic skin, wax skin, airbrushed skin, excessive beauty filter, overly smooth skin, fake pores, excessive makeup, artificial freckles, distorted anatomy, unrealistic body proportions, extra limbs, extra finger"
+}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -1933,79 +2193,39 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654886415_t8vibg_HOq74l3a0AAl03b.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - เด็กนักเรียนหญิงลอยตัวในความมืด - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [元荒川ちゃん❤](https://x.com/mtArakawa)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/mtArakawa/status/2083685009299570866)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30568)**
-
----
-
-### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสวมส่าหรีสีแดงทอง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์นี้จะสร้างภาพถ่ายที่สมจริงของผู้หญิงในชุดเสื้อเบลาส์เลื่อมสีทองและส่าหรีผ้าซาตินสีแดง โดยใช้ภาพอ้างอิงสำหรับโครงหน้า แต่เปลี่ยนองค์ประกอบสไตล์อื่นๆ ทั้งหมด
-
-#### 📝 คำสั่ง
-
-```
-ใช้เพียงโครงหน้าของผู้หญิงจากภาพอ้างอิงเท่านั้น โดยคงลักษณะใบหน้า สีผิว รูปทรงดวงตา คิ้ว จมูก ริมฝีปาก และสัดส่วนใบหน้าโดยรวมไว้ ห้ามคัดลอกทรงผม ท่าโพส เสื้อผ้า เครื่องประดับ พื้นหลัง แสง หรือองค์ประกอบภาพจากภาพอ้างอิง
-
-ชุด: เสื้อเบลาส์ {argument name="blouse style" default="เลื่อมสีทองระยิบระยับ"} จับคู่กับส่าหรีผ้าซาติน {argument name="saree color" default="สีแดงเข้มหรูหรา"} ที่มีการทิ้งตัวของผ้าอย่างสง่างามและรูปทรงที่ทันสมัย เนื้อผ้ามีความเงางามแบบซาตินหรูหราพร้อมรอยพับที่ละเอียดอ่อนซึ่งรับกับแสงได้อย่างเป็นธรรมชาติ
-
-ทรงผม: {argument name="hair style" default="ผมสีเข้มยาวดัดลอนอ่อนๆ"}
-
-สร้างภาพถ่ายที่สมจริงระดับสูงด้วยพื้นผิวผิวที่เป็นธรรมชาติ แสงที่สมจริง และรายละเอียดระดับภาพยนตร์ โดยให้เฉพาะโครงหน้าเท่านั้นที่ตรงกับภาพอ้างอิง ส่วนองค์ประกอบอื่นๆ ทั้งหมดให้เป็นไปตามพรอมต์นี้
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654867709_m5llxh_HOqcztwaMAAkfT4.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสวมส่าหรีสีแดงทอง - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257232392_bmv5ag_HPKIjO7bQAALPRH.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Paris Sunset Balcony Lifestyle Editorial - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654867585_s4yfx4_HOqc0NUbsAAE02X.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตสวมส่าหรีสีแดงทอง - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786257232513_goolz5_HPKIu6oaMAAdH5M.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - Paris Sunset Balcony Lifestyle Editorial - Image 2">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Ankit_patel211/status/2083650206424514969)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
+- **ผู้เขียน:** [Dockie](https://x.com/Document195)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Document195/status/2085881199436890513)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30544)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30700)**
 
 ---
 
-### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตทักซิโด้บนพรมแดงในโทนสีขาวดำ
+### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Realistic Dodo Bird Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-พรอมต์โทนสีขาวดำสุดหรูสำหรับงานพรมแดง เน้นการจัดแสงที่มีคอนทราสต์สูงและคงรายละเอียดของใบหน้าไว้อย่างชัดเจน
+A detailed animal prompt for a dodo bird with natural feather textures and a distinctive cracked-texture beak, optimized for Nano Banana 2.
 
 #### 📝 คำสั่ง
 
 ```
-ภาพ {argument name="subject" default="ชายหนุ่ม"} ยืนอยู่ตรงกลางเฟรมในระยะ Medium shot ร่างกายทำมุม 45 องศา ไหล่ทั้งสองข้างอยู่ในระดับที่สมดุล น้ำหนักตัวลงอย่างมั่นคง สวมใส่ {argument name="outfit" default="ทักซิโด้กระดุมสองแถวสีดำทับเสื้อเชิ้ตสีขาวสะอาดตาพร้อมปกเสื้อ"} ทรงผมจัดแต่งแบบ {argument name="hairstyle" default="ปอมปาดัวร์ที่มีความสูงด้านบนสามนิ้ว"} ด้านข้างไถเฟดสั้น เห็นเท็กซ์เจอร์ของเส้นผมชัดเจนจากผลิตภัณฑ์จัดแต่งทรงผมที่แข็งตัว พร้อมมีไรผมธรรมชาติเล็กน้อย สีหน้าดูจริงจังและเป็นธรรมชาติ ปากปิดสนิท คิ้วขมวด และสายตาจ้องมองลงด้านล่างอย่างเข้มข้น ท่าทางดูตึงเครียด มือซ้ายยื่นไปข้างหน้าเผยให้เห็นข้อมือและนิ้วที่งอเล็กน้อยประดับด้วยแหวนสองวง ในขณะที่มือขวาใช้นิ้วโป้งและนิ้วชี้จับปลายแขนเสื้อเชิ้ตข้างซ้ายไว้แน่นเพื่อปรับแขนเสื้อ ในส่วนเบลอของฉากหน้าด้านล่างซ้าย เห็นส่วนบนของทรงผมสีเข้มที่รวบไว้ของผู้หญิง นำสายตาเข้าสู่ฉากงานพรมแดงที่มีเลเยอร์และระยะชัดลึกที่ตื้น ด้านหลังของชายหนุ่มมีพรมสีเทาอ่อนรองรับฉาก ส่วนพื้นหลังที่เบลอจัดเผยให้เห็นเงาสีเทาเข้มของฝูงชนที่พลุกพล่าน เลนส์กล้องเทเลโฟโต้ที่ดูเก่าอยู่มุมขวาบน และขาของผู้คนที่ถูกบดบังอยู่ทางด้านขวากลาง พาเลตต์สีขาวดำที่มีคอนทราสต์สูงและดูดราม่าช่วยเพิ่มความหรูหราที่แฝงความตึงเครียด แสงแข็งที่พุ่งตรงจากแหล่งกำเนิดแสงหลายจุดด้านบนและด้านหน้าสร้างไฮไลท์ที่สว่างชัดเจนบนหน้าผาก สันจมูก และข้อนิ้วมือที่กำลังปรับแขนเสื้อ พร้อมทอดเงาสีดำเข้มที่คมชัดและสั้นใต้คาง ตามแนวขากรรไกร และลึกลงไปในรอยพับของทักซิโด้ โดยมีความสมดุลจากแสงบรรยากาศที่เป็นกลาง ถ่ายด้วยมุมมองตรงโดยใช้กล้องดิจิทัลที่มีความเร็วชัตเตอร์สูง รูรับแสง f/2.8 และ ISO 400 เพื่อให้ได้โฟกัสที่คมชัดบนตัวแบบท่ามกลางสัญญาณรบกวนดิจิทัลที่น้อยที่สุด สไตล์ภาพถ่ายแบบ Editorial ที่สมจริงและได้รับอิทธิพลจากปาปารัสซี่ได้รับการปรับแต่งในขั้นตอน Post-processing ด้วยการแปลงเป็นขาวดำที่คมชัด การปรับสีดำให้เข้มจัด และความชัดเจนสูง จนได้ภาพที่ดูซับซ้อนในอัตราส่วน 9:16
+a {argument name="bird species" default="dodo bird"}. Its body is plump and rounded, covered in {argument name="feather colors" default="dark gray and brown feathers"} with lighter, intricate patterns. The bird's legs and feet are visible, with scaly skin and sharp claws. The head is a lighter gray, with a prominent, curved beak that has a {argument name="beak texture" default="cracked texture"}.
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -2013,21 +2233,21 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654872281_yitryr_HOqLfg0XQAA9fNU.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตทักซิโด้บนพรมแดงในโทนสีขาวดำ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257242691_8zff74_HO4FJ_2XYAA8VPb.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - Realistic Dodo Bird Illustration - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Aatif J](https://x.com/aatif_j)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aatif_j/status/2083631160740196806)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
+- **ผู้เขียน:** [Heather Green](https://x.com/heathergreen)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/heathergreen/status/2085878662017032685)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30549)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30817)**
 
 ---
 
-### No. 32: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หน้ารายละเอียดสินค้าเก้าอี้เพื่อสุขภาพสำหรับสำนักงานบนมือถือ
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - หน้ารายละเอียดสินค้าเก้าอี้เพื่อสุขภาพสำหรับสำนักงานบนมือถือ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2061,7 +2281,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 33: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2095,7 +2315,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 34: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบกราฟิกตัวอักษรสไตล์ย้อนยุคปี 1970
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบกราฟิกตัวอักษรสไตล์ย้อนยุคปี 1970
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2129,7 +2349,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ศิลปะป๊อปอัปในนิตยสาร Voxel
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ศิลปะป๊อปอัปในนิตยสาร Voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2163,7 +2383,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบพอร์ตเทรตโมเสกเรขาคณิต
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบพอร์ตเทรตโมเสกเรขาคณิต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2209,7 +2429,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผนภาพตัดขวางเชิงเทคนิค
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - แผนภาพตัดขวางเชิงเทคนิค
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2261,7 +2481,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกสตอรี่บอร์ดนักดับเพลิง
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกสตอรี่บอร์ดนักดับเพลิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2295,7 +2515,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การเรนเดอร์ภาพสแกนทางการแพทย์ 3D แบบเรืองแสง
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การเรนเดอร์ภาพสแกนทางการแพทย์ 3D แบบเรืองแสง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2335,7 +2555,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาสวยงามด้วยเทคโนโลยี AR
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การวิเคราะห์ภาพถ่ายบุคคลบนหน้าผาสวยงามด้วยเทคโนโลยี AR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2440,7 +2660,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิก Gundam Origin
+### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การสร้างอินโฟกราฟิก Gundam Origin
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2474,7 +2694,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบรถยนต์ในประวัติศาสตร์ทางเลือกของ GDR
+### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การออกแบบรถยนต์ในประวัติศาสตร์ทางเลือกของ GDR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2508,7 +2728,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพถ่ายสัตว์ป่าจระเข้ในหนองน้ำ
+### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพถ่ายสัตว์ป่าจระเข้ในหนองน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2548,7 +2768,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบสถาปัตยกรรมแบบนีโอพารามิเตอร์ (Neo-parametric)
+### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบสถาปัตยกรรมแบบนีโอพารามิเตอร์ (Neo-parametric)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2593,7 +2813,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพวาดชอล์กพาสเทลจัดวางแบบนอลลิ่งรูปแมลง
+### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพวาดชอล์กพาสเทลจัดวางแบบนอลลิ่งรูปแมลง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2627,41 +2847,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - มู้ดบอร์ดไลฟ์สไตล์การท่องเที่ยวในยุโรป
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพคอลลาจสไตล์สีน้ำที่ถ่ายทอดเรื่องราวการท่องเที่ยว งานฝีมือ และรายละเอียดเชิงศิลป์ในยุโรป
-
-#### 📝 คำสั่ง
-
-```
-มู้ดบอร์ดไลฟ์สไตล์และภาพคอลลาจสไตล์สีน้ำอันงดงามที่ถ่ายทอดแก่นแท้ของการเดินทาง งานฝีมือ และสุนทรียภาพแบบยุโรป โดยมีตัวละครหลักคือ {argument name="subject" default="ชายหนุ่มรูปงามผมสีน้ำตาลหยักศก ไว้เคราจางๆ สวมเสื้อแจ็คเก็ตสนามสีเขียว"} เขากำลังสะพายกระเป๋าดัฟเฟิลผ้าแคนวาสแต่งหนังและถือขวดน้ำ ล้อมรอบด้วยภาพวาดขนาดเล็กเชิงศิลป์ต่างๆ ได้แก่ ชายคนหนึ่งกำลังถ่ายภาพ, ภาพสเก็ตช์ทิวทัศน์แบบพาโนรามาของ {argument name="location" default="เมืองฟลอเรนซ์ ประเทศอิตาลี"}, ชายหนุ่มคนเดิมที่ร้านกาแฟ และร้านเครื่องหนังในฝรั่งเศส งานศิลปะชิ้นนี้โดดเด่นด้วยตัวอักษรเขียนมือที่สง่างามอย่าง "Journey of a Craftsman" และ "Explore the Textures" พร้อมด้วยหัวข้อที่เน้นย้ำถึงรายละเอียดงานฝีมือ โทนสีโดยรวมประกอบด้วยสีเอิร์ธโทน สีเขียว สีน้ำตาล และการลงสีน้ำโทนอุ่นบนพื้นหลังกระดาษสีขาวนวล
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1780818187770_vnjco3_HKHowzHXgAAaTSq.jpg" width="600" alt="อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - มู้ดบอร์ดไลฟ์สไตล์การท่องเที่ยวในยุโรป - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Minahil](https://x.com/Minahil42298354)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Minahil42298354/status/2063186164043903032)
-- **เผยแพร่เมื่อ:** 6 มิถุนายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=24381)**
-
----
-
-### No. 47: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
+### No. 51: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2695,7 +2881,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 48: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
+### No. 52: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2729,7 +2915,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 49: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
+### No. 53: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2763,7 +2949,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 50: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
+### No. 54: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2797,7 +2983,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
+### No. 55: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2841,7 +3027,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 52: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
+### No. 56: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2875,7 +3061,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
+### No. 57: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2929,7 +3115,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
+### No. 58: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2969,7 +3155,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
+### No. 59: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3003,7 +3189,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์
+### No. 60: ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3054,7 +3240,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตการถ่ายทอดสดในสนามบาสเกตบอล
+### No. 61: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตการถ่ายทอดสดในสนามบาสเกตบอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3090,7 +3276,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - ภาพหน้าจอการถ่ายทอดสด NBA ในสนาม
+### No. 62: ภาพขนาดย่อของ YouTube - ภาพหน้าจอการถ่ายทอดสด NBA ในสนาม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3124,7 +3310,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - ตารางการสร้างภาพหนังสือเวทมนตร์
+### No. 63: ภาพขนาดย่อของ YouTube - ตารางการสร้างภาพหนังสือเวทมนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3158,7 +3344,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - การสร้างภาพจากบทเพลง
+### No. 64: ภาพขนาดย่อของ YouTube - การสร้างภาพจากบทเพลง
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3210,7 +3396,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตสตูดิโอพอดแคสต์สไตล์ภาพยนตร์
+### No. 65: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตสตูดิโอพอดแคสต์สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3244,7 +3430,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - การสร้างภาพสไตล์รายการโทรทัศน์ญี่ปุ่น
+### No. 66: ภาพขนาดย่อของ YouTube - การสร้างภาพสไตล์รายการโทรทัศน์ญี่ปุ่น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3299,7 +3485,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 63: ภาพขนาดย่อของ YouTube - ภาพถ่ายเทศกาลสไตล์ภาพยนตร์ของ Millie Bobby Brown
+### No. 67: ภาพขนาดย่อของ YouTube - ภาพถ่ายเทศกาลสไตล์ภาพยนตร์ของ Millie Bobby Brown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3357,7 +3543,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 64: ภาพขนาดย่อของ YouTube - ภาพถ่ายแนวสตรีทแบบภาพยนตร์ของชายหนุ่มที่ลื่นเปลือกกล้วย
+### No. 68: ภาพขนาดย่อของ YouTube - ภาพถ่ายแนวสตรีทแบบภาพยนตร์ของชายหนุ่มที่ลื่นเปลือกกล้วย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3390,7 +3576,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 65: ภาพขนาดย่อของ YouTube - พรอมต์สำหรับสร้างภาพข่าวปลอมต้อนรับวัน April Fool's
+### No. 69: ภาพขนาดย่อของ YouTube - พรอมต์สำหรับสร้างภาพข่าวปลอมต้อนรับวัน April Fool's
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3441,7 +3627,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 66: คอมิก / สตอรี่บอร์ด - Editorial Ghost-Spider Urban Portrait
+### No. 70: คอมิก / สตอรี่บอร์ด - Editorial Ghost-Spider Urban Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3493,7 +3679,7 @@ The lighting is diegetic urban night lighting with rich, preserved deep shadows 
 
 ---
 
-### No. 67: คอมิก / สตอรี่บอร์ด - Dark Fantasy Battlefield Warrior
+### No. 71: คอมิก / สตอรี่บอร์ด - Dark Fantasy Battlefield Warrior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3538,7 +3724,97 @@ Highly detailed cinematic realism, photorealistic textures, realistic human anat
 
 ---
 
-### No. 68: คอมิก / สตอรี่บอร์ด - 3D Paper-Craft Diorama Style
+### No. 72: คอมิก / สตอรี่บอร์ด - Botanical Archive Victorian Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A structured, hyper-realistic portrait prompt set in a dense botanical Victorian glasshouse archive, featuring intricate lace and organic spiderweb details.
+
+#### 📝 คำสั่ง
+
+```
+{
+  "vibe_title": "Silver Botanical Archive",
+  "master_prompt": "A hyper-realistic medium-format portrait of {argument name="subject" default="The Protagonist"} standing amidst a {argument name="setting" default="dense, cluttered botanical archive inside a weathered Victorian glasshouse"} at twilight. The environment is saturated with narrative detail: stacks of crumbling botany journals, hanging dried silver ferns, jars of preserved specimens, and overflowing shelves of rusting tools. The Protagonist wears a surreal, high-fashion garment that appears to be a hybrid of {argument name="clothing" default="antique Victorian lace and living, frosted spiderwebs"} (High-Budget Practical Effect), creating a seamless transition between the textile and the organic surroundings. They are looking slightly upward toward a soft, moon-like light source breaking through the rain-streaked glass roof, their expression hopeful and determined (The Visionary). The lighting creates a cinematic mood: cool cyan twilight serves as the key light, while scattered amber oil lamps provide a warm, volumetric fill in the background. Shot at exact eye level on a Hasselblad X2D with an 80mm f/1.9 lens to capture hyper-realistic skin pores and the specific weave of the lace. The aesthetic mimics Cinestill 800T film stock with subtle halation, atmospheric fog, and visible dust motes dancing in the air. No neon.",
+  "meta": {
+    "intent": "Cinematic Editorial",
+    "priorities": "Texture, Narrative Density, Photorealism",
+    "device_profile": "Hasselblad X2D 100C"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Central Portrait with Dense Framing",
+    "layout": "Cluttered Foreground and Background",
+    "camera_angle": "Exact Eye-Level",
+    "tilt_roll_degrees": "0°"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Botanical Archivist",
+    "demographics": "Young Adult",
+    "face": "Neutral, natural skin texture with visible pores",
+    "hair": "Textured, slightly wavy, silver or muted cool tones",
+    "body": "Elegant posture, standing tall",
+    "expression": "Hopeful, determined, eyes fixed on a light source above",
+    "pose": "Chin lifted slightly, shoulders squared, The Visionary stance"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Victorian High-Collar Blouse",
+        "material": "Antique Lace / Frosted Spiderweb Hybrid",
+        "color": "Pale Silver / Ice Blue",
+        "fit": "Structured and Intricate"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Brooch",
+        "color": "Tarnished Silver",
+        "material": "Metal and Crystal",
+        "brand_style": "Vintage Heirloom"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Overgrown Victorian Glasshouse Archive",
+    "surfaces": "Wet glass, rusted iron, paper, dried leaves",
+    "depth": "Shallow depth of field with busy, textured bokeh",
+    "atmosphere": "Cold, humid, misty, smelling of ozone and old paper",
+    "lens_interaction": "Rain droplets on outer glass, subtle condensation"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786171693502_vxc71o_HPISZ9kXwAAB5rc.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Botanical Archive Victorian Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786171693580_rq7n5o_HPISZ8sWAAAH5fA.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - Botanical Archive Victorian Portrait - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/timedoctor_nft/status/2085749818945626181)
+- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30702)**
+
+---
+
+### No. 73: คอมิก / สตอรี่บอร์ด - 3D Paper-Craft Diorama Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3605,7 +3881,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 69: คอมิก / สตอรี่บอร์ด - บ้านผีสิงสไตล์โกธิกสุดแฟนตาซี
+### No. 74: คอมิก / สตอรี่บอร์ด - บ้านผีสิงสไตล์โกธิกสุดแฟนตาซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3639,7 +3915,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 70: คอมิก / สตอรี่บอร์ด - หลีกเร้นสู่สวนวรรณกรรมอันเงียบสงบ
+### No. 75: คอมิก / สตอรี่บอร์ด - หลีกเร้นสู่สวนวรรณกรรมอันเงียบสงบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3673,7 +3949,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - เรนเดอร์ฉากในสไตล์ภาพยนตร์โดราเอมอน
+### No. 76: คอมิก / สตอรี่บอร์ด - เรนเดอร์ฉากในสไตล์ภาพยนตร์โดราเอมอน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3707,7 +3983,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - ตารางแสดงสีหน้าหลายรูปแบบ
+### No. 77: คอมิก / สตอรี่บอร์ด - ตารางแสดงสีหน้าหลายรูปแบบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3747,7 +4023,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตวรรณกรรมในสวนอันเงียบสงบ
+### No. 78: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตวรรณกรรมในสวนอันเงียบสงบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3793,7 +4069,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - เลย์เอาต์สตอรีบอร์ดสำหรับน้ำหอมสุดหรู
+### No. 79: คอมิก / สตอรี่บอร์ด - เลย์เอาต์สตอรีบอร์ดสำหรับน้ำหอมสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3827,7 +4103,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - การเพิ่มพร็อพประกอบตัวละคร
+### No. 80: คอมิก / สตอรี่บอร์ด - การเพิ่มพร็อพประกอบตัวละคร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3861,7 +4137,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - ภาพสเก็ตช์แฟชั่นแนว Editorial แบบมินิมอล
+### No. 81: คอมิก / สตอรี่บอร์ด - ภาพสเก็ตช์แฟชั่นแนว Editorial แบบมินิมอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3901,7 +4177,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - ภาพแอ็กชันกลางอากาศสไตล์ภาพยนตร์
+### No. 82: คอมิก / สตอรี่บอร์ด - ภาพแอ็กชันกลางอากาศสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3935,7 +4211,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - ชุดภาพถ่ายสตูดิโอในธีมภาพวาดฝาผนังจักรวาล
+### No. 83: คอมิก / สตอรี่บอร์ด - ชุดภาพถ่ายสตูดิโอในธีมภาพวาดฝาผนังจักรวาล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3981,7 +4257,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - เงาดูเดิลมังงะสาวน้อย
+### No. 84: คอมิก / สตอรี่บอร์ด - เงาดูเดิลมังงะสาวน้อย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4027,7 +4303,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแนวสตรีทในเมืองพร้อมตัวการ์ตูนคู่หู
+### No. 85: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแนวสตรีทในเมืองพร้อมตัวการ์ตูนคู่หู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4061,7 +4337,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - กองบรรณาธิการนิตยสารเรื่องลี้ลับ
+### No. 86: คอมิก / สตอรี่บอร์ด - กองบรรณาธิการนิตยสารเรื่องลี้ลับ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4101,7 +4377,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - คอลลาจภาพหญิงสาวยิ้มแย้มในชุดเดรสสีแดง
+### No. 87: คอมิก / สตอรี่บอร์ด - คอลลาจภาพหญิงสาวยิ้มแย้มในชุดเดรสสีแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4135,7 +4411,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - การสร้างภาพพอร์ตเทรตคอลลาจที่คงเอกลักษณ์บุคคลสำหรับ Nano Banana 2
+### No. 88: คอมิก / สตอรี่บอร์ด - การสร้างภาพพอร์ตเทรตคอลลาจที่คงเอกลักษณ์บุคคลสำหรับ Nano Banana 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4177,7 +4453,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - หญิงสาวชาวญี่ปุ่นในสวนฤดูใบไม้ร่วงสวมชุดกิโมโน
+### No. 89: คอมิก / สตอรี่บอร์ด - หญิงสาวชาวญี่ปุ่นในสวนฤดูใบไม้ร่วงสวมชุดกิโมโน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4211,19 +4487,105 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 85: การตลาดผลิตภัณฑ์ - Luxury Water Bottle Commercial
+### No. 90: การตลาดผลิตภัณฑ์ - Surreal Botanical Couture Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-High-end studio product photography prompt for a luxury water bottle with icy blue gradients and splashing water.
+A surreal high-fashion editorial prompt featuring a gown made of living saffron blossoms in a brutalist concrete setting.
 
 #### 📝 คำสั่ง
 
 ```
-Ultra-realistic luxury commercial product photography of a premium transparent {argument name="product" default="water bottle"} standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral. Background features cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text.
+{
+  "vibe_title_en": "Zero-Gravity Botanical Collision of Concrete and Saffron",
+  "master_prompt": "A hyper-realistic, surreal high-fashion editorial. The Protagonist stands center-frame in a colossal, brutalist concrete botanical seed vault. They are wearing an impossible, gravity-defying couture gown made entirely of living, vibrant yellow saffron blossoms and thick botanical vines. The flowers act as a localized anti-gravity field, violently peeling off the dress and floating upward into the air like a localized storm. Captured as a high-budget practical effect: visible microscopic pollen dust, hyper-detailed physical petal textures, and natural light refraction through the floating flora. The Protagonist features voluminous, waist-length deep mahogany waves catching the golden backlight, paired with editorial makeup: high-gloss glass-skin, sharp graphic yellow eyeliner, and stained ochre lips. Their gaze is piercing and intensely confident, directed straight at the lens, matching the fierce energy of an avant-garde muse. Cinematic lighting: thick volumetric golden-hour rays slicing from above through dusty, cold concrete shadows, creating a high-contrast chiaroscuro. Shot on a Hasselblad H6D-100c with an 80mm f/1.9 lens on Kodak Portra 800 film stock. Ultra-detailed skin pores, tangible organic textures, cinematic analog film grain, and a profound shallow depth of field that blurs the heavy brutalist pillars in the background. NO NEON.",
+  "meta": {
+    "intent": "surreal_fashion_editorial",
+    "priorities": "tactile_texture, practical_surrealism, profound_color_contrast",
+    "device_profile": "high_res_medium_format"
+  },
+  "frame": {
+    "aspect": "9:16",
+    "composition": "dynamic_full_body_swirl",
+    "layout": "center_weighted_vertical_action",
+    "camera_angle": "slight_low_angle_heroic",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Protagonist",
+    "demographics": "Ageless avant-garde muse",
+    "face": "High-gloss glass-skin, sharp graphic yellow eyeliner, stained ochre lips, intense confident gaze",
+    "hair": "Voluminous, waist-length deep mahogany waves catching golden backlights",
+    "body": "Statuesque, dynamic posture leaning slightly into the floral wind",
+    "expression": "Fierce, unyielding, dramatically poised",
+    "pose": "Mid-stride, leading with the hips, arms elegantly relaxed as the floral gown bursts upward"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Surreal gravity-defying couture gown",
+        "material": "Living yellow saffron blossoms, heavy botanical vines, and sheer silk organza",
+        "color": "Vibrant golden-yellow",
+        "fit": "Explosive, swirling, organic silhouette"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Invisible monofilament rigging (implied practical effect)",
+        "color": "Transparent",
+        "material": "Nylon",
+        "brand_style": "High-budget Hollywood practical FX"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Colossal, brutalist concrete botanical seed vault",
+    "surfaces": "Rough, grey, cold concrete monolithic pillars, dusty floors",
+    "depth": "Deep, with massive concrete geometry fading into heavy shadow",
+    "atmosphere": "Thick with microscopic golden pollen and heavy volumetric light rays",
+    "lens_interaction": "Optical flare from golden backlights hitting the floating petals and pollen"
+  },
+  "lighting": {
+    "key": "Warm, directional golden spotlight slicing through the ceiling gaps",
+    "fill": "Bounced ambient golden light radiating off the yellow flowers",
+    "rim": "Intense cinematic golden rim light outlining the hair and floating petals",
+    "shadows": "Deep, textured, cool-toned concrete shadows creating chiaroscuro",
+    "color_temperature": "Warm (3200K) subject and flora dominating a cool (6000K) architectural background",
+    "sensor_flare": "Subtle organic golden blooming around the brightest highlights"
+  },
+  "camera": {
+    "lens_type": "Medium Format Prime",
+    "focal_length": "80mm",
+    "aperture": "f/1.9",
+    "focus": "Tack-sharp on the protagonist's eyes and the immediately adjacent floating petals",
+    "sensor_format": "Medium Format (Hasselblad H6D-100c)",
+    "perspective_distortion": "Zero distortion, compressed and heroic framing"
+  },
+  "post_processing": {
+    "color": "High-contrast, vibrant yellow against desaturated cool greys",
+    "tonality": "Rich cinematic shadows, glowing golden highlights",
+    "texture": "Heavy analog film grain (Kodak Portra 800), hyper-tactile skin pores",
+    "digital_sharpening": "None, relying purely on organic medium format lens sharpness",
+    "chromatic_aberration": "Microscopic optical fringing at the extreme edges of the floating petals"
+  },
+  "negative_specifications": [
+    "neon",
+    "cyberpunk",
+    "plastic skin",
+    "CGI look",
+    "3d render",
+    "flat lighting",
+    "short hair",
+    "buzzcut",
+    "bland background",
+    "cartoonish surrealism",
+    "illustration",
+    "painting"
+  ]
+}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -4231,13 +4593,204 @@ Ultra-realistic luxury commercial product photography of a premium transparent {
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171689101_5f14fm_HPKntutaMAAQ3v1.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Water Bottle Commercial - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257232331_b03ljv_HPNO8tqWcAAURny.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Surreal Botanical Couture Fashion Editorial - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171689342_mdrnxj_HPKnuuvakAANICM.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Water Bottle Commercial - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786257232313_jfn3gr_HPNO8uHXgAA_QfB.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Surreal Botanical Couture Fashion Editorial - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/timedoctor_nft/status/2086097861586845739)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30809)**
+
+---
+
+### No. 91: การตลาดผลิตภัณฑ์ - Superhero Soda Promotional Posters
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A series of conceptual prompts for creating cinematic movie posters featuring Marvel characters interacting with various soda brands.
+
+#### 📝 คำสั่ง
+
+```
+[
+  {
+    "concept_id": "iron_man_coke",
+    "visual_breakdown": {
+      "focus_object": "{argument name="brand" default="Coca-Cola Can"}",
+      "character_element": "{argument name="character element" default="Iron Man's Gauntlet"}",
+      "environment": "{argument name="setting" default="Blurred City Skyline"}"
+    },
+    "artistic_direction": {
+      "lighting": "Cinematic/Metallic",
+      "mood": "technological"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Iron Man's gauntlet hovering below a floating Coca-Cola can, cinematic city background, dramatic movie poster lighting. --ar 7:9"
+    }
+  },
+  {
+    "concept_id": "hulk_pepsi",
+    "visual_breakdown": {
+      "focus_object": "Crushed Pepsi Can",
+      "character_element": "Hulk's Giant Hand",
+      "environment": "Smoky City Ruins"
+    },
+    "artistic_direction": {
+      "lighting": "Explosive/High Contrast",
+      "mood": "destructive"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Hulk's giant hand hovering over a crushed Pepsi can embedded in pavement, smoky ruins, explosive action movie style. --ar 7:9"
+    }
+  },
+  {
+    "concept_id": "thor_sprite",
+    "visual_breakdown": {
+      "focus_object": "Sprite Bottle",
+      "character_element": "Thor's Glowing Hand",
+      "environment": "Storm/Lightning"
+    },
+    "artistic_direction": {
+      "lighting": "Electric/Blue-Toned",
+      "mood": "mythological"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Thor's glowing hand holding a floating Sprite bottle amidst crackling lightning and rain, Mjolnir in background, epic poster style. --ar 7:9"
+    }
+  },
+  {
+    "concept_id": "dr_strange_fanta",
+    "visual_breakdown": {
+      "focus_object": "Fanta Bottle",
+      "character_element": "Doctor Strange's Hand",
+      "environment": "Golden Magic Portal"
+    },
+    "artistic_direction": {
+      "lighting": "Magical/Golden Bokeh",
+      "mood": "mystical"
+    },
+    "generation_command": {
+      "aspect_ratio": "7:9",
+      "concise_prompt": "Doctor Strange casting a spell under a spinning Fanta bottle inside a golden magic portal, mystical Sanctum background, cinematic lighting. --ar 7:9"
+    }
+  }
+]
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257231576_nmgg7d_HPLjkY3WgAA0P2O.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Superhero Soda Promotional Posters - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257231632_o0bxz2_HPLjkY2WUAIq9Bh.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Superhero Soda Promotional Posters - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257231581_jn7n6g_HPLjkY1W4AAZzL-.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Superhero Soda Promotional Posters - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257232189_rqffzl_HPLjkY2WgAE2NFS.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Superhero Soda Promotional Posters - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [William AI](https://x.com/wiliam_web3)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/wiliam_web3/status/2085979807297294831)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30808)**
+
+---
+
+### No. 92: การตลาดผลิตภัณฑ์ - Product in Ice Cube Minimalist
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A simple product photography prompt used to compare Grok Imagine 2.0 and Nano Banana 2.
+
+#### 📝 คำสั่ง
+
+```
+{argument name="product" default="iPhone 18 Pro"} inside ice cube, white background
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257225958_njgnpk_HPLRmraa8AAW99W.png" width="600" alt="การตลาดผลิตภัณฑ์ - Product in Ice Cube Minimalist - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Tim Jayas](https://x.com/TimJayas)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/TimJayas/status/2085962225886679161)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30800)**
+
+---
+
+### No. 93: การตลาดผลิตภัณฑ์ - Luxury Water Bottle Product Photography
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+A professional commercial photography prompt for a premium water bottle featuring a dynamic water splash and high-end studio lighting.
+
+#### 📝 คำสั่ง
+
+```
+Ultra-realistic luxury commercial product photography of a {argument name="product" default="premium transparent water bottle"} standing upright on a glossy reflective surface. The bottle is covered with tiny cold water droplets, symbolizing freshness. A {argument name="visual effect" default="dramatic splash of crystal-clear water wraps around the bottle in a dynamic spiral"}. Background features {argument name="background details" default="cool icy blue gradients with soft white lighting, floating ice cubes, light mist, and subtle glowing particles"}. High-end studio lighting with cinematic rim light, premium advertising style, sharp focus, ultra-detailed, photorealistic, 8K, clean composition, luxury beverage campaign, minimalistic yet eye-catching, plenty of copy space for branding and text.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257240981_ipqj1s_HPKntutaMAAQ3v1.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Water Bottle Product Photography - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257240990_szeb2i_HPKnuuvakAANICM.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Water Bottle Product Photography - Image 2">
 </div>
 
 #### 📌 รายละเอียด
@@ -4251,14 +4804,14 @@ Ultra-realistic luxury commercial product photography of a premium transparent {
 
 ---
 
-### No. 86: การตลาดผลิตภัณฑ์ - Experimental Pop-Fashion Photography
+### No. 94: การตลาดผลิตภัณฑ์ - Futuristic Retro Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A creative prompt for generating experimental pop-fashion photographs with a futuristic retro archive feel, featuring layered studio environments and expressive hand-drawn artwork.
+A detailed prompt for generating experimental pop-fashion photographs that combine futuristic and retro aesthetics with hand-drawn graphic elements.
 
 #### 📝 คำสั่ง
 
@@ -4287,7 +4840,7 @@ The final result should resemble a rare experimental fashion editorial discovere
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171690446_91rb1a_HPKZnHHbcAA3MSZ.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Experimental Pop-Fashion Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257225584_0wn1fv_HPKZnHHbcAA3MSZ.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Futuristic Retro Fashion Editorial - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -4301,7 +4854,51 @@ The final result should resemble a rare experimental fashion editorial discovere
 
 ---
 
-### No. 87: การตลาดผลิตภัณฑ์ - Summer Skincare Product Photography
+### No. 95: การตลาดผลิตภัณฑ์ - Luxury Tennis Court Fashion Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+An Identity Lock prompt for creating consistent model imagery in a luxurious tennis-themed fashion shoot, focusing on preserving facial features.
+
+#### 📝 คำสั่ง
+
+```
+Use the uploaded image as the SINGLE model reference. The woman in the photo is the exact model. Preserve her appearance with absolute precision. Identity Lock is the top priority. The face must be 100% identical to the reference. Do not change, improve, stylize, change age, or alter any facial features. Preserve exact eyes, eyebrows, eyelashes, nose, lips, jawline, cheekbones, ears, skin tone, facial proportions, expression, hairstyle, hairline, body proportions, and overall look. No deviations from the original.
+Create a luxurious editorial lifestyle-fashion photograph on an outdoor tennis court. The model sits naturally on the court surface next to a tennis net: one leg bent, the other freely extended, a relaxed and elegant pose. She holds a {argument name="prop" default="bright yellow tennis ball"} near her ear as if talking on the phone, looking thoughtfully to the side. Several tennis balls are naturally scattered around her on the court.
+She wears a {argument name="clothing" default="black sleeveless tennis dress"}, a {argument name="headwear" default="black Nike visor with a white logo"}, white Nike socks, and chunky white tennis sneakers. Minimal jewelry. Hair lies freely on her shoulders.
+Warm golden hour light, cinematographic lighting, soft shadows, shallow depth of field, atmosphere of expensive fashion editorial shooting, premium sportswear advertising campaign, natural skin texture with visible pores, ultra-realistic hair strands, rich contrast, soft bokeh, 85mm lens, aperture f/1.8, medium format camera quality, Vogue style, Harper's Bazaar, Saint Laurent Campaign, Nike Women Campaign, ultra-photorealism, HDR, 8K, masterpiece, award-winning fashion photography.
+Negative prompt: different face, identity change, face drift from reference, altered facial features, different hairstyle, different body proportions, different skin tone, beauty filter, plastic skin, heavy makeup, cartoon style, CGI, illustration, anime, low quality, blurriness, extra fingers, distorted hands, cropped body, body duplication, face duplication, watermark, logo, text.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257229088_7n7hvf_HPJBxKtWEAAAkF_.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Tennis Court Fashion Editorial - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786257229053_2o58f1_HPJBxKpXUAAbKqe.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury Tennis Court Fashion Editorial - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [H A J R A](https://x.com/codewithhajra)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/codewithhajra/status/2085801896867184805)
+- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30695)**
+
+---
+
+### No. 96: การตลาดผลิตภัณฑ์ - Summer Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4353,7 +4950,50 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-### No. 88: การตลาดผลิตภัณฑ์ - Nano Banana Pro Product Collage
+### No. 97: การตลาดผลิตภัณฑ์ - Luxury French Riviera Lifestyle Photography
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+Captures a high-end editorial scene of an elegant woman driving a luxury car along the French Riviera road during golden hour.
+
+#### 📝 คำสั่ง
+
+```
+Use the uploaded photo as the sole and exact reference for the model. Preserve her appearance 1:1, including her identity, facial features, eye shape and color, nose, lips, natural skin tone, body proportions, hair, its length, volume, texture, facial expression, gaze, and overall look. Do not alter her face, age, figure, or appearance in any way.
+An elegant woman confidently drives a {argument name="car model" default="Satin Ivory Aston Martin DB12 Volante"} along the breathtaking coastal roads of the French Riviera. She wears an oversized {argument name="clothing brand" default="The Row"} ivory linen blazer over a champagne silk camisole by Khaite. The look is completed with Saint Laurent sunglasses, Bvlgari earrings, a Cartier Baignoire watch, a Cartier Love bracelet, and a sand beige The Row Margaux bag. Her loose hair, illuminated by soft sun highlights, flows naturally in the sea breeze, maintaining realistic volume, silky texture, and lifelike movement. Her calm, confident expression embodies the essence of modern Quiet Luxury.
+In the background: the azure Mediterranean Sea, pristine white yachts, contemporary cliffside villas, palm trees, and a winding coastal road. Warm golden hour sunlight, natural reflections on the car's bodywork, lifelike skin with visible pores, soft creamy bokeh, and premium editorial color grading.
+The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Editorial. Modern Quiet Luxury. Luxury Travel Campaign. Ultra Photorealistic. Full-Frame Camera. 85mm Lens. Kodak Portra 400. HDR. 8K.
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786171690647_3qdkk8_HPGGdhBWYAANJYS.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury French Riviera Lifestyle Photography - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786171690943_9ju942_HPGGdhAW4AAEBvX.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Luxury French Riviera Lifestyle Photography - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [H A J R A](https://x.com/codewithhajra)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/codewithhajra/status/2085595948554531029)
+- **เผยแพร่เมื่อ:** 7 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30697)**
+
+---
+
+### No. 98: การตลาดผลิตภัณฑ์ - Nano Banana Pro Product Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4393,7 +5033,121 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - พรอมต์ภาพถ่ายเชิงบรรณาธิการแนว Botanical Rebellion
+### No. 99: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นสตรีทแวร์สุดหรูในเมือง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+ภาพถ่ายแฟชั่นแนวเอดิทอเรียลของบุคคลในชุดสตรีทแวร์ระดับไฮเอนด์ โดยมีฉากหลังเป็นผนังคอนกรีตดิบในเมือง
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายแฟชั่นแนวเอดิทอเรียลที่สมจริงเป็นพิเศษของ {argument name="subject" default="บุคคลในภาพอ้างอิง"} ยืนอย่างเป็นธรรมชาติหน้า {argument name="background" default="ผนังคอนกรีตดิบเรียบในบรรยากาศเมือง"} มือล้วงกระเป๋าเสื้อแจ็กเก็ต สีหน้ามั่นใจและผ่อนคลาย มองตรงมาที่กล้อง สวมใส่ {argument name="outfit" default="แจ็กเก็ตบอมเบอร์หนังทรงโอเวอร์ไซส์สีดำทับด้วยฮู้ดดี้และเสื้อยืดสีดำ"} กางเกงคาร์โก้สีดำทรงหลวมที่มีพื้นผิวซีดจางเล็กน้อย เครื่องประดับสร้อยเงิน รองเท้าผ้าใบหุ้มส้นสีขาวดำ แสงธรรมชาติในช่วงวันที่มีเมฆมาก โทนสีเทาหม่น ฉากหลังเรียบง่าย สไตล์สตรีทแวร์สุดหรู แคมเปญแฟชั่นระดับไฮเอนด์ จัดวางองค์ประกอบภาพสะอาดตา สีผิวเป็นธรรมชาติ พื้นผิวผ้าสมจริง ระยะชัดลึกตื้น ภาพเต็มตัว เลนส์ 85 มม. สมจริงเหมือนภาพถ่าย รายละเอียดสูง แสงแบบภาพยนตร์ คุณภาพระดับเอดิทอเรียลของ Vogue ความละเอียด 8K
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654877952_s3wtkv_HOsPPQnagAE1IkP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นสตรีทแวร์สุดหรูในเมือง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Weinberg](https://x.com/weiinberg)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/weiinberg/status/2083776018763157835)
+- **เผยแพร่เมื่อ:** 2 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30558)**
+
+---
+
+### No. 100: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสวมส่าหรีสีแดงทอง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์นี้จะสร้างภาพถ่ายที่สมจริงของผู้หญิงในชุดเสื้อเบลาส์เลื่อมสีทองและส่าหรีผ้าซาตินสีแดง โดยใช้ภาพอ้างอิงสำหรับโครงหน้า แต่เปลี่ยนองค์ประกอบสไตล์อื่นๆ ทั้งหมด
+
+#### 📝 คำสั่ง
+
+```
+ใช้เพียงโครงหน้าของผู้หญิงจากภาพอ้างอิงเท่านั้น โดยคงลักษณะใบหน้า สีผิว รูปทรงดวงตา คิ้ว จมูก ริมฝีปาก และสัดส่วนใบหน้าโดยรวมไว้ ห้ามคัดลอกทรงผม ท่าโพส เสื้อผ้า เครื่องประดับ พื้นหลัง แสง หรือองค์ประกอบภาพจากภาพอ้างอิง
+
+ชุด: เสื้อเบลาส์ {argument name="blouse style" default="เลื่อมสีทองระยิบระยับ"} จับคู่กับส่าหรีผ้าซาติน {argument name="saree color" default="สีแดงเข้มหรูหรา"} ที่มีการทิ้งตัวของผ้าอย่างสง่างามและรูปทรงที่ทันสมัย เนื้อผ้ามีความเงางามแบบซาตินหรูหราพร้อมรอยพับที่ละเอียดอ่อนซึ่งรับกับแสงได้อย่างเป็นธรรมชาติ
+
+ทรงผม: {argument name="hair style" default="ผมสีเข้มยาวดัดลอนอ่อนๆ"}
+
+สร้างภาพถ่ายที่สมจริงระดับสูงด้วยพื้นผิวผิวที่เป็นธรรมชาติ แสงที่สมจริง และรายละเอียดระดับภาพยนตร์ โดยให้เฉพาะโครงหน้าเท่านั้นที่ตรงกับภาพอ้างอิง ส่วนองค์ประกอบอื่นๆ ทั้งหมดให้เป็นไปตามพรอมต์นี้
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654867709_m5llxh_HOqcztwaMAAkfT4.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสวมส่าหรีสีแดงทอง - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654867585_s4yfx4_HOqc0NUbsAAE02X.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสวมส่าหรีสีแดงทอง - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [ANKIT PATEL 🇮🇳 | AI](https://x.com/Ankit_patel211)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Ankit_patel211/status/2083650206424514969)
+- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30544)**
+
+---
+
+### No. 101: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตทักซิโด้บนพรมแดงในโทนสีขาวดำ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์โทนสีขาวดำสุดหรูสำหรับงานพรมแดง เน้นการจัดแสงที่มีคอนทราสต์สูงและคงรายละเอียดของใบหน้าไว้อย่างชัดเจน
+
+#### 📝 คำสั่ง
+
+```
+ภาพ {argument name="subject" default="ชายหนุ่ม"} ยืนอยู่ตรงกลางเฟรมในระยะ Medium shot ร่างกายทำมุม 45 องศา ไหล่ทั้งสองข้างอยู่ในระดับที่สมดุล น้ำหนักตัวลงอย่างมั่นคง สวมใส่ {argument name="outfit" default="ทักซิโด้กระดุมสองแถวสีดำทับเสื้อเชิ้ตสีขาวสะอาดตาพร้อมปกเสื้อ"} ทรงผมจัดแต่งแบบ {argument name="hairstyle" default="ปอมปาดัวร์ที่มีความสูงด้านบนสามนิ้ว"} ด้านข้างไถเฟดสั้น เห็นเท็กซ์เจอร์ของเส้นผมชัดเจนจากผลิตภัณฑ์จัดแต่งทรงผมที่แข็งตัว พร้อมมีไรผมธรรมชาติเล็กน้อย สีหน้าดูจริงจังและเป็นธรรมชาติ ปากปิดสนิท คิ้วขมวด และสายตาจ้องมองลงด้านล่างอย่างเข้มข้น ท่าทางดูตึงเครียด มือซ้ายยื่นไปข้างหน้าเผยให้เห็นข้อมือและนิ้วที่งอเล็กน้อยประดับด้วยแหวนสองวง ในขณะที่มือขวาใช้นิ้วโป้งและนิ้วชี้จับปลายแขนเสื้อเชิ้ตข้างซ้ายไว้แน่นเพื่อปรับแขนเสื้อ ในส่วนเบลอของฉากหน้าด้านล่างซ้าย เห็นส่วนบนของทรงผมสีเข้มที่รวบไว้ของผู้หญิง นำสายตาเข้าสู่ฉากงานพรมแดงที่มีเลเยอร์และระยะชัดลึกที่ตื้น ด้านหลังของชายหนุ่มมีพรมสีเทาอ่อนรองรับฉาก ส่วนพื้นหลังที่เบลอจัดเผยให้เห็นเงาสีเทาเข้มของฝูงชนที่พลุกพล่าน เลนส์กล้องเทเลโฟโต้ที่ดูเก่าอยู่มุมขวาบน และขาของผู้คนที่ถูกบดบังอยู่ทางด้านขวากลาง พาเลตต์สีขาวดำที่มีคอนทราสต์สูงและดูดราม่าช่วยเพิ่มความหรูหราที่แฝงความตึงเครียด แสงแข็งที่พุ่งตรงจากแหล่งกำเนิดแสงหลายจุดด้านบนและด้านหน้าสร้างไฮไลท์ที่สว่างชัดเจนบนหน้าผาก สันจมูก และข้อนิ้วมือที่กำลังปรับแขนเสื้อ พร้อมทอดเงาสีดำเข้มที่คมชัดและสั้นใต้คาง ตามแนวขากรรไกร และลึกลงไปในรอยพับของทักซิโด้ โดยมีความสมดุลจากแสงบรรยากาศที่เป็นกลาง ถ่ายด้วยมุมมองตรงโดยใช้กล้องดิจิทัลที่มีความเร็วชัตเตอร์สูง รูรับแสง f/2.8 และ ISO 400 เพื่อให้ได้โฟกัสที่คมชัดบนตัวแบบท่ามกลางสัญญาณรบกวนดิจิทัลที่น้อยที่สุด สไตล์ภาพถ่ายแบบ Editorial ที่สมจริงและได้รับอิทธิพลจากปาปารัสซี่ได้รับการปรับแต่งในขั้นตอน Post-processing ด้วยการแปลงเป็นขาวดำที่คมชัด การปรับสีดำให้เข้มจัด และความชัดเจนสูง จนได้ภาพที่ดูซับซ้อนในอัตราส่วน 9:16
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1785654872281_yitryr_HOqLfg0XQAA9fNU.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตทักซิโด้บนพรมแดงในโทนสีขาวดำ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Aatif J](https://x.com/aatif_j)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/aatif_j/status/2083631160740196806)
+- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30549)**
+
+---
+
+### No. 102: การตลาดผลิตภัณฑ์ - พรอมต์ภาพถ่ายเชิงบรรณาธิการแนว Botanical Rebellion
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4432,7 +5186,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - ชายหนุ่มแต่งกายมีสไตล์บนทางเดินในสวน
+### No. 103: การตลาดผลิตภัณฑ์ - ชายหนุ่มแต่งกายมีสไตล์บนทางเดินในสวน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4466,251 +5220,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นในร้าน Barbie Boutique
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ภาพถ่ายสมจริงสำหรับการถ่ายแฟชั่นที่มีหญิงสาวผมบลอนด์และตุ๊กตา Barbie แบบ 3D ในร้านบูติกธีมสีชมพู
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายพอร์ตเทรตเต็มตัวที่สมจริงของ {argument name="subject" default="หญิงสาวผมบลอนด์หน้าตายิ้มแย้ม"} ยืนอยู่ภายใน {argument name="setting" default="ร้านแฟชั่นบูติกธีม Barbie สุดเก๋"} เธอสวม {argument name="outfit" default="เสื้อฮู้ดโอเวอร์ไซส์สีเหลืองพาสเทลอ่อนที่มีโลโก้มหาวิทยาลัย 'California' สไตล์คอลเลจสีขาวขนาดใหญ่"} ที่หน้าอก สวมทับเสื้อเชิ้ตคอปกสีขาวสะอาดตาโดยให้เห็นปกเสื้อเหนือคอเสื้อ จับคู่กับกระโปรงเทนนิสพลีทสั้นสีขาว เธอสวมถุงเท้า Nike ทรงสูงสีขาวที่มีโลโก้ swoosh สีดำขนาดเล็กและรองเท้าผ้าใบ Nike Air Force 1 สีขาวสะอาดตา เธอยืนในท่าทางขี้เล่นโดยงอขาข้างหนึ่งไว้ด้านหลัง พร้อมกับโอบไหล่ตุ๊กตา Barbie แบบ 3D ขนาดเท่าตัวจริงอย่างอ่อนโยน เธอมีผมบลอนด์ยาวเป็นลอน แต่งหน้าลุคธรรมชาติ มีรอยยิ้มที่สดใสและดูขี้เล่นเล็กน้อย และมองตรงมาที่กล้อง ข้างๆ เธอมีตุ๊กตา Barbie แบบ 3D ขนาดเท่าตัวจริงผมบลอนด์ยาว สวมชุดเดรสสเกตเตอร์สีชมพูพาสเทลแขนกุด รองเท้าส้นสูงสีชมพู และยืนอยู่บนแท่นโชว์ทรงกลมสีชมพู ฉากหลังเป็นร้านแฟชั่น Barbie ที่มีสีสันสดใสพร้อมป้ายไฟนีออน "Barbie" สีชมพูเรืองแสง จักรยานวินเทจสีชมพู กลุ่มลูกโป่งสีชมพู สีขาว และสีบลัช และการตกแต่งภายในสีชมพูสุดหรู ในส่วนหน้าทางด้านขวาเป็นตู้เสื้อผ้าแบบเปิดที่โชว์เสื้อสเวตเตอร์สีชมพูและเสื้อผ้าเฉดสีชมพูต่างๆ ที่แขวนไว้อย่างเป็นระเบียบ พร้อมชั้นวางรองเท้าที่เข้าชุดกันด้านล่าง สไตล์: ภาพถ่ายสมจริงพิเศษที่ผสมผสานอย่างลงตัวกับการเรนเดอร์ Barbie แบบ 3D ระดับพรีเมียม, แสงสตูดิโอแบบภาพยนตร์, แสงนุ่มนวลกระจายตัว, สีพาสเทลสดใส, ระยะชัดตื้น, โฟกัสที่คมชัดบนตัวเด็กสาวและตุ๊กตา Barbie, สุนทรียศาสตร์แฟชั่นระดับหรู, พื้นผิวที่มีรายละเอียดสูง, การถ่ายภาพในสตูดิโอมืออาชีพ, HDR, 8K, องค์ประกอบภาพแนวตั้ง, อัตราส่วนภาพ 3:4
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654871641_r696ux_HOpkNTLbQAAssk-.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นในร้าน Barbie Boutique - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Anissa](https://x.com/SimplyAnnisa)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/SimplyAnnisa/status/2083587973644251360)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30548)**
-
----
-
-### No. 92: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตนักเล่นแร่แปรธาตุพฤกษศาสตร์แนวอาวองการ์ด
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-ชุดคำสั่ง (Prompt) ที่มีโครงสร้างซับซ้อนสำหรับภาพพอร์ตเทรตแฟชั่นชั้นสูง โดดเด่นด้วยรายละเอียดของใบไม้โครงร่างและเครื่องประดับศีรษะเชิงประติมากรรมในหอจดหมายเหตุที่มืดมิด
-
-#### 📝 คำสั่ง
-
-```
-{"vibe_title_en": "The Amber Spiral", "master_prompt": "ภาพพอร์ตเทรตแบบไฮเปอร์เรียลลิสติกด้วยกล้อง Medium Format ของตัวละครหลัก (The Protagonist) ที่กำลังจ้องมองตรงมายังเลนส์ด้วยสายตาที่เฉียบคมและดูเหนือจริง พวกเขาสวมเครื่องประดับศีรษะและผ้าพันคอเชิงประติมากรรมแนวอาวองการ์ดที่ดูเป็นไปไม่ได้ ซึ่งทำขึ้นจากใบไม้โครงร่างโปร่งแสง ใบไม้ที่มีเส้นใยพืชเป็นเกลียว และตาข่ายอำพันออร์แกนิกที่ซ้อนทับกัน โดยบิดเป็นเกลียวตามสัดส่วนทองคำ (Golden Ratio) รอบศีรษะ ฉากหลังคือหอจดหมายเหตุของนักเล่นแร่แปรธาตุพฤกษศาสตร์ที่มืดมิด รกรุงรัง และเต็มไปด้วยความโกลาหล ด้านหลังของตัวแบบในเงามืดที่แทบมองไม่เห็นคือ กองพืชแห้ง ตัวอย่างอำพัน และฝักเมล็ดพืชที่ดูเหมือนกระดาษแขวนอยู่ สร้างพื้นที่ที่เต็มไปด้วยรายละเอียดและมีความหนาแน่น แสงแบบภาพยนตร์: แสงเงา (Chiaroscuro) ที่มีความเปรียบต่างสูง โดยมีแสงหลักสีทองนุ่มนวลแบบ Rembrandt ส่องกระทบรายละเอียดเล็กๆ ของเส้นใบไม้และรูขุมขนบนผิวหนังของตัวแบบ ถ่ายด้วยกล้อง Hasselblad H6D-100c เลนส์ 100mm f/2.2 โฟกัสคมชัดที่ดวงตาและส่วนหน้าของประติมากรรมใบไม้ ในขณะที่ฉากหลังที่หนาแน่นค่อยๆ เลือนหายไปสู่ความมืดมิดที่มีโบเก้สวยงาม เกรนฟิล์มแท้ๆ ใช้การจัดการสีแบบ Kodak Portra 160 โทนสีเหลืองอำพันและสีเหลืองทองตัดกับสีดำสนิท ห้ามมีแสงนีออน", "meta": {"intent": "สร้างภาพพอร์ตเทรตเชิงบรรณาธิการแนวอาวองการ์ดและเหนือจริง ที่ผสมผสานเอฟเฟกต์แฟชั่นชั้นสูงเข้ากับพฤกษศาสตร์ออร์แกนิกในสภาพแวดล้อมที่มืดมิด", "priorities": "พื้นผิวผิวหนัง รายละเอียดโครงสร้างใบไม้/ตาข่ายที่ซับซ้อน แสงแบบ Chiaroscuro และฉากหลังที่หนาแน่นแต่เต็มไปด้วยเงามืด", "device_profile": "Medium Format Digital"}, "frame": {"aspect": "แนวตั้ง", "composition": "ภาพพอร์ตเทรตครึ่งตัวแบบสมมาตร จัดวางไว้ตรงกลาง", "layout": "ตัวแบบโดดเด่นอยู่ตรงกลาง ห่อหุ้มด้วยโครงสร้างที่เป็นเกลียวอย่างแน่นหนา โดยมีหอจดหมายเหตุพฤกษศาสตร์ที่มืดมิดเติมเต็มพื้นที่ขอบภาพ", "camera_angle": "ระดับสายตา ตรงไปข้างหน้า", "tilt_roll_degrees": "0"}, "subject": {"gender": "หญิง", "identity": "ตัวละครหลัก (The Protagonist)", "demographics": "ไร้อายุ, มีลักษณะก้ำกึ่งระหว่างเพศ, มีลักษณะใบหน้าที่เป็นสากล", "face": "สมมาตร, รูขุมขนบนผิวหนังละเอียดสูง, ไร้ที่ติแต่ดูเป็นธรรมชาติ, ริมฝีปากมีความชุ่มชื้นเล็กน้อย", "hair": "ถูกปกปิดทั้งหมดด้วยเครื่องประดับศีรษะที่เป็นเกลียวออร์แกนิก", "body": "ไหล่และคอถูกห่อหุ้มด้วยโครงสร้างใบไม้เชิงประติมากรรมทั้งหมด", "expression": "นิ่งเฉย, ดูเหนือจริง, เข้มข้น, จ้องมองโดยไม่กะพริบตา", "pose": "นิ่งสนิท หันหน้าตรงเข้าหากล้อง", "wardrobe_accessories": {"garments": [{"item": "เครื่องประดับศีรษะและผ้าพันคอเชิงประติมากรรมแนวอาวองการ์ด", "material": "ใบไม้โครงร่างโปร่งแสง, เส้นใยพืชออร์แกนิก, ตาข่ายอำพันระดับไมโคร", "color": "สีเหลืองทอง, สีเหลืองอมน้ำตาล, สีอำพันโปร่งแสง", "fit": "เชิงสถาปัตยกรรม, เชิงประติมากรรม, พันรอบคออย่างแน่นหนาและขยายออกด้านนอก"}], "accessories": [{"item": "ละอองฝุ่นขนาดเล็กที่ลอยอยู่ในอากาศเลียนแบบละอองเกสร", "color": "ทอง", "material": "ฝุ่นออร์แกนิก", "brand_style": "เอฟเฟกต์มาโครเชิงปฏิบัติ"}]}, "environment": {"setting": "หอจดหมายเหตุของนักเล่นแร่แปรธาตุพฤกษศาสตร์ที่มืดมิดและรกรุงรัง", "surfaces": "พืชแห้ง, ใบไม้เปราะบางเหมือนกระดาษ, ขวดแก้วบรรจุอำพันที่ซ่อนอยู่ในเงามืด", "depth": "ระยะชัดลึกที่มืดมิดและลึก ฉากหลังหนาแน่นแต่จมหายไปในความมืดสนิท", "atmosphere": "เต็มไปด้วยฝุ่น, แห้งแล้ง, โบราณ, เงียบสงัด, มีเงามืดหนาแน่น", "lens_interaction": "โบเก้นุ่มนวลบนองค์ประกอบฉากหลังที่โกลาหล, ความคมชัดระดับไมโครบนเส้นใบไม้ในฉากหน้า"}, "lighting": {"key": "แสงหลักสีทองนุ่มนวล (สไตล์ Rembrandt) จากด้านบนและด้านขวาเล็กน้อย", "fill": "แสงสะท้อนที่เบาบางเพื่อรักษารายละเอียดในเงามืดที่สุดของเครื่องประดับศีรษะ", "rim": "แสงขอบสีอำพันจางๆ เพื่อแยกตัวแบบออกจากฉากหลังที่มืดมิดและวุ่นวาย", "shadows": "สีดำเข้มข้นและลึก แสงเงาแบบ Chiaroscuro ที่มีความเปรียบต่างสูง", "color_temperature": "โทนอุ่น, 3200K", "sensor_flare": "ไม่มี การเรนเดอร์ทางแสงที่สะอาดตา"}, "camera": {"lens_type": "เลนส์พอร์ตเทรตระยะไกล (Prime)", "focal_length": "100mm", "aperture": "f/2.2", "focus": "คมชัดที่ม่านตาของตัวแบบและขอบของประติมากรรมใบไม้ในระยะใกล้", "sensor_format": "Medium Format", "perspective_distortion": "การบีบอัดเล็กน้อยจากเลนส์เทเลโฟโต้ ทำให้เกลียวดูแบนลงเล็กน้อย"}, "post_processing": {"color": "สีเหลืองอมน้ำตาลเข้มข้น, สีเหลืองทอง, สีอำพัน, สีดำสนิท", "tonality": "ความเปรียบต่างสูง, เงามืดลึก, รักษาไฮไลท์ไว้", "texture": "เกรนฟิล์ม Kodak Portra 160 แท้ๆ, ความคมชัดระดับไมโครที่สัมผัสได้บนผิวหนังและใบไม้", "digital_sharpening": "ไม่มี ความคมชัดแบบธรรมชาติของ Medium Format", "chromatic_aberration": "น้อยมากที่ขอบด้านนอกสุดของเฟรม"}, "negative_specifications": ["นีออน", "ไซเบอร์พังค์", "ภาพวาดดิจิทัล", "การเรนเดอร์ 3D", "ภาพประกอบ", "ผิวพลาสติกเรียบเนียน", "ฉากหลังว่างเปล่าแบบมินิมอล", "ฉากหลังสีขาวสว่าง", "เสื้อผ้าลำลอง"]}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654870634_2jbtwz_HOo2wuEWEAAKMy9.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตนักเล่นแร่แปรธาตุพฤกษศาสตร์แนวอาวองการ์ด - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654870695_quxp66_HOo2wnaXcAA-JCq.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตนักเล่นแร่แปรธาตุพฤกษศาสตร์แนวอาวองการ์ด - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654870669_aczure_HOo2wsLWUAAH2zA.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตนักเล่นแร่แปรธาตุพฤกษศาสตร์แนวอาวองการ์ด - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654871455_a1gdt5_HOo2wo3XsAACeOk.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตนักเล่นแร่แปรธาตุพฤกษศาสตร์แนวอาวองการ์ด - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/timedoctor_nft/status/2083537991432090078)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30547)**
-
----
-
-### No. 93: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตหญิงสาวชาวอินเดียที่มีรายละเอียดสูงพิเศษ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพพอร์ตเทรตสมจริงระดับ 8K ของหญิงสาวชาวอินเดียผู้สวยงามในชุดลายเสือดาว พร้อมการจัดแสงแบบเน้นทิศทางที่ดูมีมิติ
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพพอร์ตเทรตสมจริงระดับ 8K, Ultra-HD ที่มีรายละเอียดสูงพิเศษ {argument name="subject" default="หญิงสาวชาวอินเดียผิวขาวผ่อง"}, ผมยาวหยักศกสีน้ำตาลเข้ม, แต่งหน้าสไตล์ Soft Glam, ต่างหูระย้าสีทอง, สร้อยคอจี้, กำไลข้อมือ {argument name="outfit" default="ชุดเดรสสายเดี่ยวลายเสือดาว"}, คอถ่วง, ผ้าชีฟองโปร่งชายไม่เท่ากัน พิงอยู่บน {argument name="location" default="มุมผนังสีเบจโทนอุ่น"}, มือแตะผม, สายตามองตรงอย่างมั่นใจ การจัดแสงแบบเน้นทิศทางที่ดูมีมิติ พร้อมเงาคมชัดทางด้านซ้ายของเธอ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654875998_5r780n_HOosd73a8AAhcFv.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตหญิงสาวชาวอินเดียที่มีรายละเอียดสูงพิเศษ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Sarah](https://x.com/AIwithSarah_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AIwithSarah_/status/2083526681235800143)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30555)**
-
----
-
-### No. 94: การตลาดผลิตภัณฑ์ - ภาพถ่ายนายแบบบนเรือยอชต์สุดหรู
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพถ่ายเชิงพาณิชย์แนวเอดิทอเรียลที่มีคอนทราสต์สูงของนายแบบบนเรือยอชต์สุดหรูในบรรยากาศริเวียร่าที่อาบไปด้วยแสงแดด
-
-#### 📝 คำสั่ง
-
-```
-ชายหนุ่มผู้มั่นใจ {argument name="subject" default="นายแบบ"} ยืนอยู่ตรงกลางหันหน้าเข้าหากล้อง เปล่งประกายความมั่นใจในท่วงท่าที่ดูผ่อนคลาย เขามีทรงผมสั้นปานกลางดัดลอนเป็นชั้นๆ ยาวประมาณ 3 ถึง 4 นิ้วที่ด้านบนและยาวถึงต้นคอ จัดแต่งทรงด้วยโพเมดที่ให้ลุคเปียกเงาแต่ยังคงความเป็นธรรมชาติ เผยให้เห็นเส้นผมที่ชี้ฟูเล็กน้อยบริเวณกระหม่อม เขาสวมใส่ {argument name="outfit" default="เสื้อโปโลไหมพรมแขนยาวสีน้ำเงินกรมท่า"} ปลดกระดุมสีขาวสองเม็ด จับคู่กับกางเกงขายาวสีเข้ม เขามีสีหน้าเรียบเฉยและปิดปากสนิท สื่อถึงความสุขุมนุ่มลึกภายใต้แว่นตากันแดดทรงเหลี่ยมสีดำ มือขวาของเขายกขึ้นมาที่ใบหน้าอย่างตั้งใจ โดยนิ้วชี้และนิ้วโป้งจับที่ขอบล่างของแว่นกันแดดเบาๆ เพื่อปรับตำแหน่ง ในขณะที่มือซ้ายวางตามธรรมชาติใกล้เอว นิ้วมืองอเข้าเล็กน้อยและถูกบดบังบางส่วนด้วยกางเกงขายาวสีเข้มและเงาที่ทอดผ่าน เขายืนอยู่บนดาดฟ้ากลางแจ้งของ {argument name="location" default="เรือยอชต์สุดหรู"} ที่ปูด้วยพื้นไม้สักลายทางสีน้ำตาลอ่อน ในส่วนหน้าของภาพทางด้านซ้าย ราวกันตกเรือสเตนเลสสตีลทรงท่อแนวนอน 3 เส้น และโครงสร้างดาดฟ้าไฟเบอร์กลาสสีขาวเทาที่โค้งมนและเงางาม ช่วยสร้างองค์ประกอบภาพที่มีมิติ ถัดจากดาดฟ้าออกไป ฉากหลังเผยให้เห็นความหรูหราของท้องทะเล โดยมีเรือสปีดโบ๊ทไม้คลาสสิกขนาดเล็กที่มีตัวเรือสีเข้มและผู้โดยสารสวมชุดสีขาวแล่นผ่านทางด้านขวาของภาพ ในขณะที่เรือซูเปอร์ยอชต์ขนาดใหญ่สีขาวสะอาดตา 2 ลำที่มีหน้าต่างกระจกสีเข้มและดาดฟ้าท้ายเรือที่กว้างขวางลอยลำอยู่ในทะเลสีน้ำเงินเข้มที่ห่างไกล บรรยากาศริเวียร่าที่อาบไปด้วยแสงแดดถูกกำหนดด้วยแสงธรรมชาติจากแหล่งกำเนิดเดียวที่ส่องลงมาจากด้านบน สร้างแสงที่แข็งและทรงพลัง แสงที่เข้มข้นนี้ทอดเงาสีดำสนิทที่ยาวและคมชัดในแนวทแยงผ่านช่วงล่างของลำตัว แขนขวา และขาของนายแบบจากวัตถุที่อยู่นอกเฟรม สร้างลำดับภาพที่มีคอนทราสต์สูงและไม่สมมาตร โทนสีเย็นที่อิ่มตัวสูงของสีน้ำเงินกรมท่า สีน้ำทะเล และสีฟ้าของท้องฟ้าครอบคลุมฉากนี้ โดยมีจุดเด่นเป็นสีขาวสว่างและแสงสะท้อนที่แวววาวจากอุปกรณ์โครเมียม ราวโลหะ ไฟเบอร์กลาสขัดเงา รวมถึงเส้นผมและหน้าผากที่เงางามของนายแบบ ภาพนี้ถ่ายด้วยกล้องดิจิทัลเชิงพาณิชย์ที่คมชัดด้วยเลนส์ 50mm ที่ f/8, 1/1000s และ ISO 100 ภาพที่สมจริงนี้มีระยะชัดลึกที่ยอดเยี่ยมพร้อมความคมชัดสูงและปราศจากสัญญาณรบกวน (grain) เสริมด้วยการปรับเกรดสีน้ำเงินในส่วนเงาและท้องฟ้า เพิ่มคอนทราสต์โดยรวม และเน้นสีดำให้เข้มลึกเพื่อตอกย้ำสุนทรียภาพแห่งไลฟ์สไตล์ที่หรูหรา ทั้งหมดนี้ถูกจัดวางอย่างสมบูรณ์แบบในอัตราส่วนภาพ 2:3
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654874507_kt0md3_HNgQfK1WAAAdMPU.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายนายแบบบนเรือยอชต์สุดหรู - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Picts by AI](https://x.com/pictsbyai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/pictsbyai/status/2083463997224030318)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30553)**
-
----
-
-### No. 95: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Editorial ในทุ่งดอกเรปซีด
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ภาพถ่ายแฟชั่นแนว Editorial ที่สมจริงเป็นพิเศษ นำเสนอหญิงสาวชาวเอเชียตะวันออกในทุ่งดอกไม้สีเหลืองบานสะพรั่ง ถ่ายทอดบรรยากาศฤดูร้อนที่ชวนฝันและสไตล์การถ่ายภาพท่องเที่ยวระดับไฮเอนด์
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายแฟชั่นแนว Editorial ที่สมจริงเป็นพิเศษของหญิงสาวชาวเอเชียตะวันออกที่ยืนอยู่กลางทุ่ง {argument name="flower type" default="ดอกเรปซีดสีเหลือง"} ที่บานสะพรั่งสุดลูกหูลูกตาภายใต้ท้องฟ้าสีครามสดใส ถ่ายจากมุมต่ำเล็กน้อยในมุมเฉียงสามส่วนขณะที่เธอกำลังหันหน้ากลับมามองกล้องด้วยสีหน้าที่ดูสงบและชวนฝัน แขนข้างหนึ่งยื่นออกมาทางผู้ชมอย่างเป็นธรรมชาติราวกับกำลังเชิญชวนให้เดินตาม สร้างมิติและความลึกให้กับภาพ ท่าทางของเธอผ่อนคลายด้วยการบิดตัวเล็กน้อย เปิดไหล่ และมีการเคลื่อนไหวที่เป็นธรรมชาติ
-เธอมีผมสีดำสลวยยาวประบ่าพร้อมหน้าม้าบางๆ ผิวพรรณเนียนละเอียดดุจกระเบื้องเคลือบ แต่งหน้าโทนธรรมชาติที่ดูอบอุ่น ริมฝีปากสีคอรัลแวววาว ดวงตารูปอัลมอนด์สีเข้ม และมีไฝเสน่ห์เล็กๆ ใกล้แก้ม เธอสวม {argument name="top style" default="เสื้อสายเดี่ยวคอร์เซ็ตลายดอกไม้สีขาวเนื้อละเอียด"} สายสปาเก็ตตี้บางๆ ผูกริบบิ้นลูกไม้สีขาวไว้ที่คอ สวมเสื้อเชิ้ตลายสก็อตสีฟ้าตัวโคร่งทับแบบหลวมๆ โดยปล่อยไหล่ข้างหนึ่ง และกระโปรงสีขาวเอวสูงพลิ้วไหว สวมกำไลไม้เรียบๆ ที่ข้อมือ
-ฉากหลังเป็นทุ่งดอกไม้สีเหลืองสดใสสุดลูกหูลูกตาจรดขอบฟ้า มีภูเขาสีเขียวทอดตัวยาว และท้องฟ้าฤดูร้อนที่ไร้เมฆ แสงแดดในช่วงโกลเด้นอาวร์สร้างไฮไลท์ที่เป็นธรรมชาติบนใบหน้าและเส้นผมของเธอ เกิดเงาที่สมจริง มิติแบบภาพยนตร์ และคอนทราสต์ของสีที่เข้มข้น
-ถ่ายด้วย {argument name="camera" default="Sony A7R V พร้อมเลนส์ 85mm f/1.4 GM"}, ระยะชัดลึกตื้น, โบเก้ที่นุ่มนวล, HDR, พื้นผิวผิวที่ละเอียดเป็นพิเศษ, รอยพับของผ้าที่สมจริง, เส้นผมที่เป็นธรรมชาติ, แสงที่เหมือนจริง, ช่วงไดนามิกสูง, โฟกัสที่คมชัด, องค์ประกอบภาพแบบภาพยนตร์, สไตล์แฟชั่น Editorial, ภาพถ่ายท่องเที่ยวระดับพรีเมียม, สีสันสดใส, 8K UHD, สมจริงเหมือนภาพถ่าย, ผลงานชิ้นเอก, ภาพถ่ายระดับรางวัล, ไม่มีข้อความ, ไม่มีลายน้ำ, ไม่มีโลโก้, ไม่มีสิ่งแปลกปลอม, ไม่มีความบิดเบี้ยว, ไม่มีนิ้วเกิน, สัดส่วนทางกายวิภาคถูกต้อง, สัดส่วนที่เป็นธรรมชาติ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654869658_m1v0mk_HOnaIc0aMAAQMtj.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Editorial ในทุ่งดอกเรปซีด - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654869541_zmvt4b_HOnaJaWagAADdDU.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Editorial ในทุ่งดอกเรปซีด - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654869715_3eirer_HOnaKaaa4AAXQ4f.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นแนว Editorial ในทุ่งดอกเรปซีด - Image 3">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Shahid Wani](https://x.com/meng_dagg695)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/meng_dagg695/status/2083436187554127874)
-- **เผยแพร่เมื่อ:** 1 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30433)**
-
----
-
-### No. 96: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสไตล์เรโทรไมอามี Ferrari ยุค 80s
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์แนวภาพยนตร์ย้อนยุคสำหรับสร้างภาพชายหนุ่มสุดเท่ที่กำลังพิงรถ Ferrari Testarossa สีขาวในไมอามีช่วงพระอาทิตย์ตก พร้อมเอฟเฟกต์เกรนฟิล์มยุค 80s และสีสันที่สดใส
-
-#### 📝 คำสั่ง
-
-```
-ตัวแบบ: ชายหนุ่มวัยปลาย 20 ปีที่มีเสน่ห์ เครื่องแต่งกาย: เสื้อเบลเซอร์ผ้าลินิน {argument name="clothing brand" default="WHITES"} (พับแขนเสื้อขึ้น), เสื้อยืดสี {argument name="t-shirt color" default="turquoise"}, กางเกงสแล็คจีบสีขาว รองเท้า: รองเท้าโลฟเฟอร์หนังสีขาวแบบไม่ใส่ถุงเท้า เครื่องประดับ: แว่นกันแดดทรงนักบิน (เลนส์ปรอท), สร้อยคอโซ่ทองเส้นหนา, นาฬิกาสีทอง ท่าทาง: พิงรถ {argument name="car model" default="Ferrari Testarossa"} สีขาว มือข้างหนึ่งวางบนประตูรถ มองลอดแว่นกันแดดด้วยท่าทางสุดเท่ การตั้งค่ากล้อง: Canon 1DX Mark III, เลนส์ 35 มม., f/4.0 มุมกล้อง: ภาพระยะกลางแบบกว้าง (Medium wide shot), มุมต่ำ สถานที่: Ocean Drive, ไมอามี, ช่วงพระอาทิตย์ตกพร้อมต้นปาล์ม แสง/อารมณ์/ช่วงเวลา: ช่วงเวลา Golden hour ที่สดใส, ป้ายไฟนีออนเริ่มสว่างขึ้น, อารมณ์ที่เปี่ยมไปด้วยพลังและมีสไตล์ สไตล์และงานภาพ: ภาพยนตร์ย้อนยุค, สีสันสดใสจัดจ้าน, ฉากหลังละลายสวยงาม (Bokeh), เกรนฟิล์มยุค 80s
-คงลักษณะใบหน้าให้เหมือนกับภาพที่แนบมา
-Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีหม่น, ชุดทางการ, ภาพเบลอ, กายวิภาคผิดเพี้ยน, อวัยวะเกิน, คุณภาพต่ำ, มีสัญญาณรบกวน (Noise), หลุดโฟกัส, องค์ประกอบซ้ำซ้อน, พื้นผิวแปลกประหลาด, ดิจิทัล, เสื้อคอเต่าสีเบจ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568113689_tk2k2k_HOj7sKnXgAEeQp3.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสไตล์เรโทรไมอามี Ferrari ยุค 80s - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568113756_ryweir_HOj7sKyXcAAzekA.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตสไตล์เรโทรไมอามี Ferrari ยุค 80s - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Alex Prompts](https://x.com/AlexPromptsAI)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/AlexPromptsAI/status/2083191777557651828)
-- **เผยแพร่เมื่อ:** 31 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30430)**
-
----
-
-### No. 97: ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์
+### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4762,7 +5272,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 98: ภาพหลักสำหรับอีคอมเมิร์ซ - การยกระดับภาพถ่ายผลิตภัณฑ์สู่ระดับพรีเมียม
+### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - การยกระดับภาพถ่ายผลิตภัณฑ์สู่ระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4814,7 +5324,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์ดูแลผิวระดับหรู
+### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์ดูแลผิวระดับหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4866,7 +5376,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - เปลี่ยนโมเดล 3D ให้เป็นภาพเรนเดอร์สินค้าเสมือนจริง
+### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - เปลี่ยนโมเดล 3D ให้เป็นภาพเรนเดอร์สินค้าเสมือนจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4900,7 +5410,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - มาสเตอร์พรอมต์สำหรับกลุ่มผลิตภัณฑ์หรูหรา
+### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - มาสเตอร์พรอมต์สำหรับกลุ่มผลิตภัณฑ์หรูหรา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4964,7 +5474,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - พื้นผิวหน้าจอคอมพิวเตอร์แบบมาโคร
+### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - พื้นผิวหน้าจอคอมพิวเตอร์แบบมาโคร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4998,7 +5508,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสตูดิโอในชุดยีนส์ลุคสบายๆ
+### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสตูดิโอในชุดยีนส์ลุคสบายๆ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5032,7 +5542,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้าสไตล์มินิมอลบนเนินหญ้า
+### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้าสไตล์มินิมอลบนเนินหญ้า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5084,7 +5594,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้าเชิงบรรณาธิการบนหินชนวนเปียก
+### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้าเชิงบรรณาธิการบนหินชนวนเปียก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5124,7 +5634,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพสินค้าไลฟ์สไตล์ริมชายหาด
+### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพสินค้าไลฟ์สไตล์ริมชายหาด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5158,7 +5668,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายพอร์ตเทรตสตูดิโอสไตล์มินิมอลของชายหนุ่ม
+### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายพอร์ตเทรตสตูดิโอสไตล์มินิมอลของชายหนุ่ม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5192,7 +5702,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพโฆษณาผลิตภัณฑ์ดูแลผิวระดับหรู
+### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพโฆษณาผลิตภัณฑ์ดูแลผิวระดับหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5234,7 +5744,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้าหูฟังแบบมินิมอลสำหรับอีคอมเมิร์ซ
+### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้าหูฟังแบบมินิมอลสำหรับอีคอมเมิร์ซ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5280,7 +5790,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - แคมเปญความงามรับฤดูซากุระบาน
+### No. 117: ภาพหลักสำหรับอีคอมเมิร์ซ - แคมเปญความงามรับฤดูซากุระบาน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5314,7 +5824,7 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์สกินแคร์มัทฉะ
+### No. 118: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาผลิตภัณฑ์สกินแคร์มัทฉะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5348,18 +5858,19 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 
 ---
 
-### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาน้ำหอม Rose Gold
+### No. 119: สินทรัพย์เกม - Clockpunk Miniature Greenhouse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-พรอมต์สำหรับแคมเปญสกินแคร์สุดหรู นำเสนอขวดสีชมพูกุหลาบบนแท่นหินอ่อน พร้อมดอกกุหลาบและแสงแบบภาพยนตร์
+A detailed prompt for creating a whimsical miniature world featuring a grand botanical conservatory in a clockpunk aesthetic.
 
 #### 📝 คำสั่ง
 
 ```
-ขวดสีชมพูกุหลาบระดับพรีเมียมพร้อมฝาสีทอง วางบนแท่นหินอ่อนแบบไล่ระดับ ล้อมรอบด้วยดอกกุหลาบสีชมพูที่กำลังบานและผ้าไหมที่พลิ้วไหว มีฟองอากาศลอยละล่อง สไตล์โฆษณาน้ำหอมสุดหรู แสงแบบภาพยนตร์ เงาซอฟต์ละมุน แคมเปญสกินแคร์ที่สมจริงเป็นพิเศษ ความสวยงามระดับไฮเอนด์
+{argument name="atmosphere" default="Whimsical"} miniature world depiction of a {argument name="subject" default="grand botanical greenhouse conservatory"} imagined and rendered in an {argument name="style" default="artistic clockpunk style"}
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -5367,34 +5878,34 @@ Negative Prompt 62: เสื้อผ้าสมัยใหม่, สีห�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1781941376253_wd8jy8_HLL_X5yaIAA0lE1.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาน้ำหอม Rose Gold - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257248830_oedq19_HPNenTpbMAAr1r3.png" width="600" alt="สินทรัพย์เกม - Clockpunk Miniature Greenhouse - Image 1">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [𝐌](https://x.com/Strength04_X)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Strength04_X/status/2067998351887593888)
-- **เผยแพร่เมื่อ:** 19 มิถุนายน 2569
+- **ผู้เขียน:** [sayobonita](https://x.com/sayobonito)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/sayobonito/status/2086115369513848934)
+- **เผยแพร่เมื่อ:** 8 สิงหาคม 2569
 - **ภาษา:** en
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=26200)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30820)**
 
 ---
 
-### No. 113: สินทรัพย์เกม - Baroque Gothic Knight Sculpture
+### No. 120: สินทรัพย์เกม - Baroque Gothic Knight Sculpture
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 คำอธิบาย
 
-A prompt for generating a decorative baroque-style gothic sculpture of a knight in elaborate plate armor with intricate carvings.
+A sophisticated prompt for a highly decorative knight statue in a baroque-gothic style, featuring intricate metalwork and filigree.
 
 #### 📝 คำสั่ง
 
 ```
 {argument name="subject" default="Cathedral Knight"}
-A highly decorative baroque-style gothic sculpture centered on a knight statue. The heavy plate armor covering the entire body is filled with detailed metal carvings and swirling filigree decorations.
+A highly decorative baroque-style gothic sculpture of a knight statue standing in the center. The heavy plate armor covering the entire body is filled with detailed metal carvings and swirling filigree decorations.
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -5402,19 +5913,19 @@ A highly decorative baroque-style gothic sculpture centered on a knight statue. 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171695161_bs7qkz_HPLfAQ2b0AAgKmq.jpg" width="600" alt="สินทรัพย์เกม - Baroque Gothic Knight Sculpture - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786257245723_cqj02c_HPLfAQ2b0AAgKmq.jpg" width="600" alt="สินทรัพย์เกม - Baroque Gothic Knight Sculpture - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171697274_4trvp7_HPLfAhfaAAAhcrA.jpg" width="600" alt="สินทรัพย์เกม - Baroque Gothic Knight Sculpture - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786257246530_vkhfcn_HPLfAhfaAAAhcrA.jpg" width="600" alt="สินทรัพย์เกม - Baroque Gothic Knight Sculpture - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171695161_qk98d8_HPLfAz6aoAA1vm1.jpg" width="600" alt="สินทรัพย์เกม - Baroque Gothic Knight Sculpture - Image 3">
+<img src="https://cms-assets.youmind.com/media/1786257245696_4n1su6_HPLfAz6aoAA1vm1.jpg" width="600" alt="สินทรัพย์เกม - Baroque Gothic Knight Sculpture - Image 3">
 </div>
 
 #### 📌 รายละเอียด
@@ -5428,330 +5939,13 @@ A highly decorative baroque-style gothic sculpture centered on a knight statue. 
 
 ---
 
-### No. 114: สินทรัพย์เกม - ตุ๊กตาวูดูผ้ากระสอบเย็บปัก
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์บรรยายลักษณะของตุ๊กตาวูดูผ้ากระสอบที่มีพื้นผิวสัมผัส โดดเด่นด้วยรายละเอียดการเย็บและเข็มหมุดสีต่าง ๆ
-
-#### 📝 คำสั่ง
-
-```
-{argument name="subject" default="ตุ๊กตาวูดูผ้ากระสอบ"} ที่มี {argument name="heart detail" default="หัวใจสีแดงเย็บอยู่ตรงกลาง"} ตุ๊กตามีตาเป็นรูปกากบาทสีดำและปากที่เย็บติดกัน มี {argument name="pins" default="เข็มหมุดปักอยู่บนตัวตุ๊กตาหลายเล่ม ได้แก่ เข็มหมุดสีชมพูที่ขาซ้าย เข็มหมุดสีฟ้าที่ขาขวา และเข็มหมุดสีแดงที่แขนขวา"} ตัวตุ๊กตาถูกปกคลุมไปด้วยรอยเย็บเล็ก ๆ คล้ายเส้นประ ทำให้ดูมีพื้นผิวสัมผัสที่สมจริง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654872886_nbjrwn_HOPXiqPWUAAiBWa.jpg" width="600" alt="สินทรัพย์เกม - ตุ๊กตาวูดูผ้ากระสอบเย็บปัก - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Heather Green](https://x.com/heathergreen)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/heathergreen/status/2083707098479923473)
-- **เผยแพร่เมื่อ:** 2 สิงหาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30550)**
-
----
-
-### No. 115: สินทรัพย์เกม - หญิงสาวซามูไรญี่ปุ่นในชุดเกราะสีแดง
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ภาพถ่ายสมจริงที่มีรายละเอียดสูงสำหรับภาพพอร์ตเทรตอันทรงพลังของหญิงสาวในชุดเกราะซามูไรเคลือบเงาสีแดงแบบดั้งเดิมภายในห้องเสื่อทาทามิ
-
-#### 📝 คำสั่ง
-
-```
-หญิงสาวชาว {argument name="subject" default="เอเชียตะวันออก"} ที่งดงาม ผิวขาวดุจกระเบื้องเคลือบ ดวงตารูปอัลมอนด์คมเข้ม และริมฝีปากอวบอิ่มสีแดงสด ผมสีเข้มรวบขึ้นเป็นทรงมวยแบบญี่ปุ่นดั้งเดิมที่เรียบหรู นั่งคุกเข่าในท่าเซซะบนเสื่อทาทามิสีอ่อน จ้องมองตรงมาที่กล้องด้วยสีหน้าที่ดุดันและจริงจัง เธอสวม {argument name="armor color" default="ชุดเกราะซามูไร (โยโรอิ)"} เคลือบเงาสี {argument name="outfit" default="แดง"} อย่างประณีต พร้อมอุปกรณ์โลหะสีทองและตราสัญลักษณ์วงกลมที่วิจิตรบรรจง แผ่นเกราะซ้อนทับกันที่ไหล่ (โซเดะ) และหน้าอก (โด) เชือกไหมและพู่สีแดง มีผ้าไหมลวดลายดอกไม้สีฟ้าเทอร์ควอยซ์และสีทองซับในที่แขนเสื้อและปกคอเสื้อ พร้อมถุงมือเกราะ (โคเทะ) และเกราะป้องกันต้นขาที่เข้าชุดกัน กระโปรงเกราะสั้นเผยให้เห็นต้นขา และรองเท้าเกราะสีแดงอมชมพู ดาบคาตานะที่มีฝักดาบ (ซายะ) เคลือบเงาสีแดงสดพาดอยู่บนไหล่ซ้าย แสงธรรมชาติภายในอาคารที่นุ่มนวล ฉากหลังเป็น {argument name="room background" default="ห้องแบบญี่ปุ่นดั้งเดิมพร้อมม้วนภาพพู่กันแขวนผนัง"} และวัตถุโบราณซามูไรสีทอง ภาพถ่ายสมจริงที่มีรายละเอียดสูง สง่างามและทรงพลัง องค์ประกอบภาพแบบภาพยนตร์ ความละเอียด 8k
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118328_is0006_HOiZ4BVbgAAz8t7.jpg" width="600" alt="สินทรัพย์เกม - หญิงสาวซามูไรญี่ปุ่นในชุดเกราะสีแดง - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118378_pzpmff_HOiZ4BEaYAAKukb.jpg" width="600" alt="สินทรัพย์เกม - หญิงสาวซามูไรญี่ปุ่นในชุดเกราะสีแดง - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118517_3pu9l9_HOiZ4BHb0AAc5bn.jpg" width="600" alt="สินทรัพย์เกม - หญิงสาวซามูไรญี่ปุ่นในชุดเกราะสีแดง - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568119350_0dlplk_HOiZ4BVbwAATxUE.jpg" width="600" alt="สินทรัพย์เกม - หญิงสาวซามูไรญี่ปุ่นในชุดเกราะสีแดง - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/woleswoosh/status/2083281545742131563)
-- **เผยแพร่เมื่อ:** 31 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30438)**
-
----
-
-### No. 116: สินทรัพย์เกม - ภาพทิวทัศน์ถนนฤดูหนาวสไตล์ภาพยนตร์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-คำสั่ง (Prompt) โดยละเอียดสำหรับการสร้างภาพฉากฤดูหนาวที่ดูหม่นหมองและสมจริงเป็นพิเศษ โดยมีรถเก๋งวินเทจอยู่บนถนนในป่าที่ปกคลุมไปด้วยหิมะ
-
-#### 📝 คำสั่ง
-
-```
-ฉากถนนฤดูหนาวสไตล์ภาพยนตร์ที่สมจริงเป็นพิเศษ มุมมองด้านหลังของ {argument name="car style" default="รถเก๋งสี่ประตูสีฟ้าเงินฝุ่นๆ ยุค 1990"} ที่กำลังขับไปตามลำพังบนถนนในป่าที่คดเคี้ยวและปกคลุมไปด้วยหิมะ สองข้างทางเต็มไปด้วยต้นเบิร์ชและต้นสนสูงตระหง่านที่ถูกปกคลุมด้วยน้ำค้างแข็ง กิ่งไม้ถูกเคลือบด้วยหิมะสีขาวหนา รอยล้อรถจางๆ บนพื้นยางมะตอยที่เป็นน้ำแข็ง ท้องฟ้ายามโพล้เพล้สีม่วงอมฟ้าที่เย็นเยียบโดยไม่มีแสงอาทิตย์ มีหมอกฤดูหนาวจางๆ และหมอกบรรยากาศในระยะไกล ความเงียบสงบของป่าในแถบนอร์ดิก บรรยากาศที่โดดเดี่ยวและหม่นหมอง พื้นผิวที่มีรายละเอียดสูง การสะท้อนที่สมจริงบนหน้าต่างรถ การสะสมของหิมะตามธรรมชาติ ตำแหน่งกล้องต่ำอยู่ด้านหลังรถ จัดองค์ประกอบภาพไว้ตรงกลาง เลนส์มุมกว้าง 24 มม. แสงแบบ Volumetric สีโทนหม่นพร้อมการเกรดสีแบบภาพยนตร์โทนลาเวนเดอร์และสีฟ้า HDR, Ray-traced global illumination, ระยะชัดลึก (Depth of field), คอนทราสต์แบบภาพยนตร์, 8K, Unreal Engine 5, สมจริงเหมือนภาพถ่าย, ผลงานชิ้นเอก, รายละเอียดสูง, โฟกัสคมชัด, ไม่มีผู้คน, ไม่มีการจราจร, แนวตั้ง 9:16
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482586835_z9jxus_HOeF0Inb0AAH9D8.jpg" width="600" alt="สินทรัพย์เกม - ภาพทิวทัศน์ถนนฤดูหนาวสไตล์ภาพยนตร์ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482586577_b8o2se_HOeF1FFa8AAxt0r.jpg" width="600" alt="สินทรัพย์เกม - ภาพทิวทัศน์ถนนฤดูหนาวสไตล์ภาพยนตร์ - Image 2">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [WeWant Mars](https://x.com/Madhuribhai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Madhuribhai/status/2082780509772685555)
-- **เผยแพร่เมื่อ:** 30 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30333)**
-
----
-
-### No. 117: สินทรัพย์เกม - ภาพถ่ายแฟชั่นในโลกหลังหายนะ ณ กรุงปารีส
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ชุดคำสั่ง (Prompt) แบบมีโครงสร้างที่ซับซ้อนสำหรับการสร้างภาพถ่ายแฟชั่นของหญิงสาวท่ามกลางซากปรักหักพังของกรุงปารีส รวมถึงภาพหอไอเฟลที่พังทลาย
-
-#### 📝 คำสั่ง
-
-```
-{
-  "subject": {
-    "description": "{argument name="subject description" default="หญิงสาวสวยผมบลอนด์ยาวสลวย ผิวขาว และมีใบหน้าโดดเด่นสะดุดตา เธอมีรูปร่างสมส่วนและดูแข็งแรง"}",
-    "pose": "{argument name="pose" default="นั่งอยู่บนบันไดกลางแจ้ง ขาข้างหนึ่งยกงอขึ้น ส่วนอีกข้างเหยียดออก มองมาที่กล้องด้วยสีหน้ามั่นใจ มือข้างหนึ่งวางพักอยู่บนขั้นบันไดข้างตัว"}",
-    "clothing": {
-      "main": "{argument name="clothing" default="เสื้อแขนสั้นสีดำตกแต่งด้วยสีทองและคอเสื้อลึก กระโปรงสั้นสีทองเมทัลลิก ถุงน่องสีดำลายกราฟิก และรองเท้าส้นสูงแบบแพลตฟอร์มสีทอง"}",
-      "modifications": "เพิ่มงานปัก 'Keor' ขนาดเล็กที่ดูหรูหราด้วยตัวอักษรประณีตที่ขอบเสื้อหรือชายกระโปรงให้พอมองเห็นได้ชัดเจน"
-    }
-  },
-  "setting": {
-    "environment": "กรุงปารีสในโลกหลังหายนะที่ถูกทำลาย เธอนั่งอยู่บนบันไดคอนกรีตที่ผุพังท่ามกลางซากอาคาร เศษปรักหักพัง หอไอเฟลที่เหลือเพียงครึ่งเดียว และภูมิทัศน์เมืองที่รกร้างว่างเปล่า",
-    "lighting": "แสงธรรมชาติที่ดูมีมิติพร้อมเงาที่คมชัด"
-  },
-  "style": {
-    "photography": "ภาพถ่ายแฟชั่นสมจริงความละเอียดสูง เก็บรายละเอียดคมชัดทั้งผิวพรรณ เส้นผม เนื้อผ้า และฉากหลังที่เป็นเมืองที่ถูกทำลาย",
-    "mood": "โดดเด่น มั่นใจ และให้บรรยากาศแบบโลกหลังหายนะ",
-    "composition": "ภาพเต็มตัวที่เน้นท่าทางของนางแบบตัดกับฉากหลังของเมืองที่พังทลาย"
-  },
-  "full_prompt": "ภาพถ่ายสมจริงของหญิงสาวผมบลอนด์ที่นั่งอยู่บนบันไดคอนกรีตท่ามกลางซากปรักหักพังของกรุงปารีส เธอสวมเสื้อสีดำตกแต่งสีทองคอเสื้อลึก กระโปรงสั้นสีทองเมทัลลิก ถุงน่องสีดำลายกราฟิก และรองเท้าส้นสูงแบบแพลตฟอร์มสีทอง เพิ่มงานปัก 'Keor' ขนาดเล็กที่ดูหรูหราที่ขอบชุด แสงธรรมชาติที่ดูมีมิติ รายละเอียดผิว เส้นผม เนื้อผ้า และพื้นผิวของเมืองที่พังทลายคมชัดสูง"
-}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944216_6rdone_HOZZKbjXMAEvNWf.jpg" width="600" alt="สินทรัพย์เกม - ภาพถ่ายแฟชั่นในโลกหลังหายนะ ณ กรุงปารีส - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944260_1a2bhy_HOZZKbkWUAAc4Dg.jpg" width="600" alt="สินทรัพย์เกม - ภาพถ่ายแฟชั่นในโลกหลังหายนะ ณ กรุงปารีส - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944260_anhjjf_HOZZKbiXgAAq_m9.jpg" width="600" alt="สินทรัพย์เกม - ภาพถ่ายแฟชั่นในโลกหลังหายนะ ณ กรุงปารีส - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395945285_qi2pte_HOZZKbsXoAA1t2L.jpg" width="600" alt="สินทรัพย์เกม - ภาพถ่ายแฟชั่นในโลกหลังหายนะ ณ กรุงปารีส - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [KeorUnreal](https://x.com/KeorUnreal)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/KeorUnreal/status/2082449930132533671)
-- **เผยแพร่เมื่อ:** 29 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30216)**
-
----
-
-### No. 118: สินทรัพย์เกม - ภาพล้อเลียน CGI สไตล์ Avengers
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-เปลี่ยนเหล่า Avengers ให้กลายเป็นผลงานศิลปะภาพล้อเลียน 3D CGI ที่มีความสมจริงและเงางามระดับมาสเตอร์พีซ
-
-#### 📝 คำสั่ง
-
-```
-{argument name="subject" default="Avengers: Doomsday"} ในรูปแบบผลงานศิลปะภาพล้อเลียน 3D CGI ที่มีความสมจริงและเงางามระดับมาสเตอร์พีซ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137830440_66lfko_HOLCXs2bIAAMgxL.jpg" width="600" alt="สินทรัพย์เกม - ภาพล้อเลียน CGI สไตล์ Avengers - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137831013_g7bj7k_HOLCXshbMAA3Y2x.jpg" width="600" alt="สินทรัพย์เกม - ภาพล้อเลียน CGI สไตล์ Avengers - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137830502_m7n9bh_HOLCXsjaoAAYt2L.jpg" width="600" alt="สินทรัพย์เกม - ภาพล้อเลียน CGI สไตล์ Avengers - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137831691_iplb1u_HOLCXsgaMAE_b3q.jpg" width="600" alt="สินทรัพย์เกม - ภาพล้อเลียน CGI สไตล์ Avengers - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2081440154850677090)
-- **เผยแพร่เมื่อ:** 26 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=29841)**
-
----
-
-### No. 119: สินทรัพย์เกม - การปรับแต่งรายละเอียดเฉพาะจุดในภาพถ่าย
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์พิเศษสำหรับ Nano Banana 2 ที่ออกแบบมาเพื่อแก้ไขรายละเอียดเฉพาะจุดในภาพถ่ายที่มีอยู่ โดยยังคงความสมบูรณ์ของส่วนอื่นๆ ในภาพไว้
-
-#### 📝 คำสั่ง
-
-```
-{argument name="subject part" default="ปากสุนัข"} อยู่ในสถานะ {argument name="state" default="ปิด"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784704462677_321mro_HNxg9jyXYAA4C7H.jpg" width="600" alt="สินทรัพย์เกม - การปรับแต่งรายละเอียดเฉพาะจุดในภาพถ่าย - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Tech Momentum](https://x.com/TechMomentum_)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/TechMomentum_/status/2079643748326420945)
-- **เผยแพร่เมื่อ:** 21 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=29346)**
-
----
-
-### No. 120: สินทรัพย์เกม - งานศิลปะพิกเซลของวิศวกรซอฟต์แวร์ AI แห่งอนาคต
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-แนวคิดงานศิลปะพิกเซลที่จินตนาการถึงชีวิตประจำวันของวิศวกรซอฟต์แวร์ในอนาคตที่ AI รับหน้าที่เขียนโค้ดทั้งหมด
-
-#### 📝 คำสั่ง
-
-```
-ลองจินตนาการว่า {argument name="subject" default="วิศวกรซอฟต์แวร์"} จะทำอะไรในปี {argument name="year" default="2050"} เมื่อโค้ดทั้งหมดถูกเขียนโดย AI {argument name="style" default="งานศิลปะพิกเซล"}
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1784704463878_ey22id_HNwCTLfbYAAuX5s.jpg" width="600" alt="สินทรัพย์เกม - งานศิลปะพิกเซลของวิศวกรซอฟต์แวร์ AI แห่งอนาคต - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [abhisek](https://x.com/abh1sek)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/abh1sek/status/2079539937217753140)
-- **เผยแพร่เมื่อ:** 21 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=29347)**
-
----
-
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 14985 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15006 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5814,6 +6008,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-09T04:26:04.207Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-08-10T04:29:35.877Z</sub>
 
 </div>
