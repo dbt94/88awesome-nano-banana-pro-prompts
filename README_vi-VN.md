@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15146** |
+| 📝 Tổng số câu lệnh | **15158** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 04:32:14 UTC Thứ Tư, 12 tháng 8, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 04:34:02 UTC Thứ Năm, 13 tháng 8, 2026** |
 
 </div>
 
@@ -654,7 +654,122 @@ Tỷ lệ khung hình là 3:4 cho poster dọc. Bao gồm chữ thư pháp Nhậ
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### No. 1: Hồ sơ / Ảnh đại diện - Candid Arcade Claw Machine Portrait
+### No. 1: Hồ sơ / Ảnh đại diện - Glacial Ice Warrior Facial Transformation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A complex image-to-image prompt for transforming a portrait into a supernatural ice warrior while preserving the user's facial identity.
+
+#### 📝 Câu lệnh
+
+```
+Use my uploaded photo as the EXACT facial identity reference. Preserve my real identity with extremely high accuracy. Keep my facial structure, face shape, forehead, eyes, eyebrows, nose, lips, jawline, cheekbones, beard/facial hair, skin texture, and natural proportions recognizable and consistent with my reference photo.
+
+Transform me into an ultra-realistic {argument name="warrior style" default="ancient glacial ice warrior"}, inspired by a terrifying supernatural frozen king. Do NOT replace my face with another person's face. My face must remain clearly recognizable as me.
+
+COMPOSITION:
+Create a dramatic cinematic vertical 4:5 portrait. Head-and-shoulders framing, centered composition, facing directly toward the camera. The camera is positioned at eye level with a slightly intimidating perspective. Strong symmetrical facial composition. My expression is cold, powerful, intimidating and emotionless, with an intense supernatural stare.
+
+GLACIAL TRANSFORMATION:
+My skin appears extremely pale, frozen and slightly translucent, as if my entire body has been exposed to centuries of supernatural winter. Preserve realistic human skin anatomy underneath the transformation.
+
+Cover parts of my face with naturally formed translucent white-blue ice. Create intricate frozen textures around the forehead, temples, cheekbones, eyebrows, beard and jaw. The ice should look physically attached to my skin, with realistic thickness, transparency, frost crystals, tiny cracks and subtle internal depth.
+
+Do not completely cover my face. My facial identity must remain visible and recognizable.
+
+EYES:
+Make my eyes extremely striking and supernatural while retaining the original shape and proportions of my eyes. One eye can have an icy electric-blue glow while the other has a subtle pale amber/orange supernatural glow. The glow must be realistic and integrated into the eyes, not cartoonish.
+
+HAIR:
+Transform my real hairstyle into long, thick, windswept frozen hair while preserving the general character of my original hair. Hair should appear naturally coated with frost and tiny ice crystals. Individual strands must remain highly detailed and photorealistic.
+
+FACIAL ICE:
+Add dramatic frozen formations around portions of the forehead, cheekbones and jaw. Create thin translucent ice sheets, frost patterns and delicate icicles extending naturally from the beard/jaw area.
+
+MOUTH / LOWER FACE:
+Create a dark supernatural frozen respirator-like ice formation over the lower mouth and chin area, constructed entirely from translucent white and blue ice. It should feel organically grown from the frozen environment rather than like a manufactured mask. Keep enough of my facial structure visible to maintain my identity.
+
+CLOTHING:
+Transform my clothing into a dark ancient winter-warrior outfit covered with layers of frost and translucent ice. Add realistic frozen fabric, icy armor-like textures and subtle crystalline details around the shoulders and neck.
+
+ENVIRONMENT:
+Place me in a mass
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518700653_f7yjsl_HPdBZUybkAAD9M2.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Glacial Ice Warrior Facial Transformation - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Snow](https://x.com/iamrealsnow)
+- **Nguồn:** [Twitter Post](https://x.com/iamrealsnow/status/2087208873648406610)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31155)**
+
+---
+
+### No. 2: Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+An ultra-realistic selfie-style portrait prompt for a cosplayer in a plant-themed swimsuit, set in a detailed botanical bedroom.
+
+#### 📝 Câu lệnh
+
+```
+{ "subject": { "description": "Young woman brunette posing confidently. Long hair styled in a casual high ponytail with soft face-framing strands. Smooth luminous skin with realistic texture, faint freckles, natural makeup, winged eyeliner, defined lashes, softly contoured cheeks, hydrated glossy lips, and delicate silver hoop earrings. Thin necklace resting on the collarbone.", "pose": "Close-up wide-angle smartphone selfie perspective with one arm extended toward the camera. Leaning forward slightly with shoulders drawn back in an elegant S-curve posture. Head tilted slightly backward and to the side, chin raised. Soft and flirtatious expression with half-lidded eyes and a subtle confident smirk.", "clothing": { "main": "Fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, smooth stretch fabric, and sleek minimalist design. Features bold leaf symbols and vine-inspired details. Small elegant 'Keor' embroidery on the border. Paired with matching neon green stockings.", "style": "Contours naturally to the body with realistic fabric tension and soft folds around the waist and torso." } }, "setting": { "environment": "Botanical home room — cluttered teenage bedroom with posters of plants, vines and science, a messy desk with notebooks and gadgets, a bed with tangled sheets, bookshelves, and personal belongings creating an authentic lived-in atmosphere.", "lighting": "Soft natural daylight from a nearby window, warm neutral color grading, gentle shadows, smooth skin highlights, realistic light falloff." }, "style": { "photography": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer, high-end lifestyle photography, smartphone camera realism, 35mm equivalent lens, HDR, photorealistic, fashion-editorial quality, ultra-detailed, 8K resolution, no anime style, no posterized effects.", "mood": "Confident, glamorous, and self-assured.", "composition": "Close-up wide-angle POV selfie, camera slightly below face level and angled upward." }, "full_prompt": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer brunette posing confidently in a botanical home room. She wears a fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, bold leaf symbols and vine-inspired details, plus a small 'Keor' embroidery, and neon green stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with plant and science posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture, no anime style, no posterized image." }
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703580_ned4g7_HPcZ2vsXIAA8Vi5.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703385_o8kli4_HPcZ330XUAA8BaE.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703370_kcrw7h_HPcZ45qWkAAMzI7.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703989_ov14k7_HPcZ53TWwAAPTOY.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Botanical Bedroom Selfie Cosplay - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
+- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2087165449741988241)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31158)**
+
+---
+
+### No. 3: Hồ sơ / Ảnh đại diện - Candid Arcade Claw Machine Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -688,7 +803,7 @@ A vibrant candid photograph of a young woman at a {argument name="arcade machine
 
 ---
 
-### No. 2: Hồ sơ / Ảnh đại diện - Realistic lifestyle selfie of a young woman
+### No. 4: Hồ sơ / Ảnh đại diện - Realistic lifestyle selfie of a young woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -734,7 +849,7 @@ Ultra-realistic high-resolution lifestyle selfie of a {argument name="subject" d
 
 ---
 
-### No. 3: Hồ sơ / Ảnh đại diện - East Asian Woman in Modern Apartment Portrait
+### No. 5: Hồ sơ / Ảnh đại diện - East Asian Woman in Modern Apartment Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -786,7 +901,7 @@ A young {argument name="ethnicity" default="East Asian woman"} in her {argument 
 
 ---
 
-### No. 4: Hồ sơ / Ảnh đại diện - Desert Sunset Portrait Photography
+### No. 6: Hồ sơ / Ảnh đại diện - Desert Sunset Portrait Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -840,7 +955,7 @@ Set against an expansive desert dune landscape at sunset, the rich ripple textur
 
 ---
 
-### No. 5: Hồ sơ / Ảnh đại diện - Cozy Indoor Headphones Lifestyle Portrait
+### No. 7: Hồ sơ / Ảnh đại diện - Cozy Indoor Headphones Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -880,7 +995,7 @@ Photorealistic lifestyle portrait of a young woman sitting casually indoors agai
 
 ---
 
-### No. 6: Hồ sơ / Ảnh đại diện - Lifestyle Yoga Indoor Portrait
+### No. 8: Hồ sơ / Ảnh đại diện - Lifestyle Yoga Indoor Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -930,7 +1045,7 @@ Camera & style: Photorealistic editorial lifestyle photography, 35mm lens, low b
 
 ---
 
-### No. 7: Hồ sơ / Ảnh đại diện - Athletic Lifestyle Sports Court Portrait
+### No. 9: Hồ sơ / Ảnh đại diện - Athletic Lifestyle Sports Court Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -980,7 +1095,7 @@ Photorealistic professional lifestyle photography, 50mm lens, vertical portrait 
 
 ---
 
-### No. 8: Hồ sơ / Ảnh đại diện - East Asian Fashion Portrait on Sofa
+### No. 10: Hồ sơ / Ảnh đại diện - East Asian Fashion Portrait on Sofa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1034,7 +1149,7 @@ She wears a {argument name="sweater color" default="burgundy/wine-red"} open-kni
 
 ---
 
-### No. 9: Hồ sơ / Ảnh đại diện - Cozy Bedroom Morning Portrait
+### No. 11: Hồ sơ / Ảnh đại diện - Cozy Bedroom Morning Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1086,7 +1201,7 @@ Photorealistic portrait of a cute young East Asian woman in her early 20s sittin
 
 ---
 
-### No. 10: Hồ sơ / Ảnh đại diện - Candid College Celebrity Portrait
+### No. 12: Hồ sơ / Ảnh đại diện - Candid College Celebrity Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1138,7 +1253,7 @@ Ultra-photorealistic candid daily-life portrait of {argument name="celebrity nam
 
 ---
 
-### No. 11: Hồ sơ / Ảnh đại diện - Double-Exposure Scrapbook Portrait Composite
+### No. 13: Hồ sơ / Ảnh đại diện - Double-Exposure Scrapbook Portrait Composite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1193,7 +1308,7 @@ Gnrat ratio 3:4
 
 ---
 
-### No. 12: Hồ sơ / Ảnh đại diện - Burgundy Hair Portrait in Park
+### No. 14: Hồ sơ / Ảnh đại diện - Burgundy Hair Portrait in Park
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1245,7 +1360,7 @@ A photorealistic portrait of a beautiful young East Asian woman with {argument n
 
 ---
 
-### No. 13: Hồ sơ / Ảnh đại diện - Intimate Sleeping Portrait Photography
+### No. 15: Hồ sơ / Ảnh đại diện - Intimate Sleeping Portrait Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1285,7 +1400,7 @@ Intimate, medium-close portrait photograph capturing {argument name="first perso
 
 ---
 
-### No. 14: Hồ sơ / Ảnh đại diện - Hyper-Realistic Skin Detail Portrait
+### No. 16: Hồ sơ / Ảnh đại diện - Hyper-Realistic Skin Detail Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1318,7 +1433,7 @@ Use the exact same face from the reference image and generate an obsessive skin 
 
 ---
 
-### No. 15: Hồ sơ / Ảnh đại diện - Cinematic Night Sea Portrait
+### No. 17: Hồ sơ / Ảnh đại diện - Cinematic Night Sea Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,7 +1487,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 16: Hồ sơ / Ảnh đại diện - Chân dung cận cảnh dưới nước
+### No. 18: Hồ sơ / Ảnh đại diện - Chân dung cận cảnh dưới nước
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1412,7 +1527,7 @@ Một câu lệnh siêu thực cho ảnh chân dung cận cảnh một khuôn m�
 
 ---
 
-### No. 17: Hồ sơ / Ảnh đại diện - Chân dung thiếu nữ trong chiếc váy vàng mù tạt cổ điển
+### No. 19: Hồ sơ / Ảnh đại diện - Chân dung thiếu nữ trong chiếc váy vàng mù tạt cổ điển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1461,74 +1576,6 @@ Một bức chân dung phong cách tranh sơn dầu mỹ thuật về một thi�
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30552)**
-
----
-
-### No. 18: Hồ sơ / Ảnh đại diện - Chân dung tự nhiên trong ánh hoàng hôn
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức chân dung cận cảnh ấm áp và mơ màng của một cô gái trẻ trong không gian phòng ngủ ấm cúng, với ánh sáng tự nhiên và kết cấu như phim điện ảnh.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung cận cảnh của một {argument name="subject" default="cô gái trẻ người châu Á"} với mái tóc tối màu được búi {argument name="hairstyle" default="búi tóc rối"} cùng vài lọn tóc buông lơi ôm lấy khuôn mặt, đang nháy mắt tinh nghịch và gửi nụ hôn gió về phía ống kính với bàn tay vươn ra. Nụ cười tự nhiên nhẹ nhàng, ánh nắng hoàng hôn ấm áp chiếu qua rèm cửa ở phía sau, bối cảnh phòng ngủ ấm cúng với những tấm ảnh polaroid được ghim trên bức tường màu be và một chậu cây được làm mờ nhẹ ở hậu cảnh. Cô ấy mặc một chiếc {argument name="outfit" default="áo thun oversized màu kem/trắng ngà"} và đeo một sợi dây chuyền vàng mảnh. Độ sâu trường ảnh nông, tông màu ấm áp và mơ màng, kết cấu tự nhiên như phim, ánh sáng khuếch tán mềm mại, tâm trạng thân mật và tự nhiên, chụp bằng ống kính 50mm, hiệu ứng xóa phông nhẹ
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654873250_793wqw_HOo6aT8asAA9jiV.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung tự nhiên trong ánh hoàng hôn - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
-- **Nguồn:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2083542009042915719)
-- **Đã xuất bản:** 1 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30551)**
-
----
-
-### No. 19: Hồ sơ / Ảnh đại diện - Chân dung nghệ thuật phong cách hội họa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một bức chân dung vượt thời gian mang phong cách hội họa về một người phụ nữ thanh lịch với đôi mắt màu hổ phách, được chụp dưới ánh sáng studio ấm áp, dịu nhẹ.
-
-#### 📝 Câu lệnh
-
-```
-Một bức chân dung điện ảnh, độ chi tiết cao về một người phụ nữ trẻ với vẻ ngoài cổ điển, thanh lịch, được chụp với {argument name="lighting" default="ánh sáng studio ấm áp, dịu nhẹ"}. Cô ấy có {argument name="hair" default="mái tóc vàng sáng với phần chân tóc tối màu"}, được búi cao với những lọn tóc buông lơi ôm lấy khuôn mặt. Đôi mắt màu nâu hổ phách nổi bật của cô nhìn xa xăm đầy suy tư, với biểu cảm dịu dàng và trầm ngâm. Cô mặc một chiếc {argument name="outfit" default="váy ren màu hồng tím nhạt"}, kết hợp cùng vòng cổ choker đồng bộ và bộ trang sức dây chuyền, hoa tai bạc tinh tế. Phông nền là bối cảnh studio tối màu, đầy tâm trạng và có kết cấu, làm tôn lên chất lượng nghệ thuật vượt thời gian của bức ảnh.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654876134_38h849_HOodhXeXIAAmKEC.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung nghệ thuật phong cách hội họa - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Minahil](https://x.com/Minahil42298354)
-- **Nguồn:** [Twitter Post](https://x.com/Minahil42298354/status/2083510252150849639)
-- **Đã xuất bản:** 1 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30556)**
 
 ---
 
@@ -1582,14 +1629,388 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Bài đăng trên mạng xã hội - Photorealistic Women Theater Portrait
+### No. 21: Bài đăng trên mạng xã hội - Cozy Home Fitness Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A cinematic portrait prompt featuring two young women in an elegant theater, emphasizing candid interaction, detailed facial expressions, and sophisticated evening attire.
+A high-quality lifestyle portrait prompt designed for generating realistic indoor fitness scenes, focusing on natural lighting, detailed textures, and a candid atmosphere.
+
+#### 📝 Câu lệnh
+
+```
+Create a photorealistic lifestyle portrait of an young woman seated comfortably on a compact indoor exercise machine in a cozy, modern home interior.
+
+1. Subject, hair, skin, expression, pose:
+A young woman with {argument name="hair style" default="long, naturally red/auburn hair"} styled in a high ponytail, with a few soft strands framing her face. Fair skin with realistic natural texture and subtle freckles. Light-colored eyes, neatly shaped eyebrows, and understated everyday makeup. She has a calm, slightly serious expression while looking directly toward the camera. She is seated upright on the exercise equipment with both knees comfortably raised and bent, maintaining a relaxed, balanced posture. One hand gently rests near the side of her hair while the other arm rests naturally beside her. Her pose should feel candid, casual, and comfortable rather than staged.
+
+2. Clothing and accessories:
+She wears a simple {argument name="top color" default="burgundy-red"} sleeveless athletic top layered naturally over a subtle gray underlayer, paired with fitted gray textured workout leggings. Add a delicate necklace with a small pendant. Keep the outfit practical, modest, contemporary, and suitable for light indoor exercise. No unnecessary accessories.
+
+3. Environment and lighting:
+Set the scene inside a warm, tidy residential room. Behind her is a large decorative framed artwork with a botanical-inspired pattern and metallic neutral accents. Include a small side cabinet with a clear glass vase containing soft blue and lavender flowers. The room has neutral walls, understated furniture, and a clean minimalist atmosphere. Use warm ambient indoor lighting combined with soft diffused illumination from the room, creating gentle highlights on the subject while preserving natural skin tones and realistic shadows.
+
+4. Camera / visual style:
+Photorealistic editorial lifestyle photography, vertical portrait composition, approximately 50mm lens, natural perspective, eye-level camera position, shallow-to-moderate depth of field, crisp facial details, realistic fabric textures, authentic skin texture, subtle background separation, balanced exposure, soft highlights, natural shadows, cinematic but believable color grading, high dynamic range, professional photography quality, ultra-detailed, realistic proportions, candid home-photography atmosphere.
+
+5. Overall direction:
+Keep the composition faithful to a casual indoor lifestyle photograph. Prioritize natural anatomy, realistic hands and feet, accurate facial proportions, authentic clothing folds, physically believable lighting, and detailed environmental textures.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699245_cpoq48_HPgIF3BaMAIG6t6.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cozy Home Fitness Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699534_b2h3j9_HPgIJvCaAAAimbc.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cozy Home Fitness Lifestyle Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699280_25qrjx_HPgIK0OaIAAxmid.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cozy Home Fitness Lifestyle Portrait - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **Nguồn:** [Twitter Post](https://x.com/Jodie_Noraa/status/2087427425626214673)
+- **Đã xuất bản:** 12 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31152)**
+
+---
+
+### No. 22: Bài đăng trên mạng xã hội - Cinematic Studio Portrait with Parrots
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A striking studio portrait prompt featuring a woman holding vibrant parrots, emphasizing color contrast and soft lighting.
+
+#### 📝 Câu lệnh
+
+```
+A close up, studio portrait features a fair skinned woman with {argument name="hair color" default="dark brown/black hair"}, eyes closed, tenderly holding a flock of five small {argument name="bird color" default="teal & yellow"} parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699541_q2cdb8_HPfIhgyaYAA97x9.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Studio Portrait with Parrots - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699992_4n6qvs_HPfIiQYbIAAEvz3.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Studio Portrait with Parrots - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699329_okg0xr_HPfIi6waAAAhraB.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Studio Portrait with Parrots - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518700590_ffn0kj_HPfIjkab0AA__Dx.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Studio Portrait with Parrots - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Maddox](https://x.com/Maddox_Digital)
+- **Nguồn:** [Twitter Post](https://x.com/Maddox_Digital/status/2087357477755195469)
+- **Đã xuất bản:** 12 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31153)**
+
+---
+
+### No. 23: Bài đăng trên mạng xã hội - Dark Cinematic Window Lighting Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A sophisticated prompt designed for high-contrast indoor portraits where a single window serves as the sole light source, creating dramatic shadows and architectural geometry on the subject.
+
+#### 📝 Câu lệnh
+
+```
+Use the exact same face from the reference image and generate a dark cinematic portrait where a single window is the only light source in the world — the room in absolute darkness except for the precise column of natural light falling through the glass and striking the face with surgical beauty.
+
+The subject positioned close to a large window — body at a natural angle, one shoulder almost touching the window frame, the face turned partially toward the glass so the window light strikes at a precise 45 to 60 degree angle across the facial planes. Not standing formally — leaning very slightly, completely natural, the specific body language of someone drawn unconsciously toward the only light in a dark room. Wearing a {argument name="clothing" default="dark fitted turtleneck"} or {argument name="alternative clothing" default="heavy dark shirt"} — the clothing dissolving completely into the surrounding darkness, only the face and the very edge of the shoulder existing in the light.
+
+The window itself is the silent protagonist — large steel-framed industrial panes or old wooden-framed glass, the glass slightly imperfect with natural waviness creating very subtle light distortion, the exterior beyond the glass completely overcast or pre-dawn — a flat grey-white light source outside that is bright without being warm, cold natural daylight pressing through the glass into the dark interior. The window frame casting its own precise shadow geometry across the face and wall — the vertical and horizontal frame bars creating a cross-shadow pattern that falls across the cheek and forehead, the window grid shadow dividing the face into geometric light and shadow zones. The specific graphic beauty of window frame shadows on a human face — architectural geometry imposed on biological curves.
+
+Expression is the most quietly devastating yet — eyes directed toward the window light rather than the camera, not looking out but looking at the light itself, the specific expression of someone who has been sitting in darkness for a long time and is feeling the first light touch their face. Lips slightly parted, jaw completely relaxed, every guard completely down. The most private and human expression possible — caught in a moment of solitary communion with natural light.
+
+Skin at full forensic obsession under the specific quality of cold window light — the most honest and unforgiving light that exists, the flat grey natural light from an overcast exterior revealing every skin surface detail simultaneously from every direction without creating harsh shadows that obscure detail. Every individual pore in three-dimensional relief under the window light. Stubble hairs casting micro-shadows across the surrounding skin. The window frame shadow lines crossing the face — the skin texture equally visible in the light zones and the frame-shadow zones, the shadow not obscuring detail but simply darkening it. The specific way cold northern window light renders real skin
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518702570_686zhw_HPfEFjdbwAA1yAN.jpg" width="600" alt="Bài đăng trên mạng xã hội - Dark Cinematic Window Lighting Portrait - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **Nguồn:** [Twitter Post](https://x.com/Ozayrr_irl/status/2087352570620834241)
+- **Đã xuất bản:** 12 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31156)**
+
+---
+
+### No. 24: Bài đăng trên mạng xã hội - Glamorous Marina Yacht Scene
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A jet-set luxury prompt featuring a high-fashion woman and a Porsche sports car in a sun-drenched exclusive marina.
+
+#### 📝 Câu lệnh
+
+```
+A glamorous scene unfolds in an exclusive marina on a bright, sunny day, radiating timeless elegance. A confident woman, exuding high-fashion cool and absolute self-assurance, perches on the glossy fender of a {argument name="car color" default="yellow"} {argument name="car model" default="Porsche cabrio sports car"} with black alloy wheels. She wears a striking {argument name="swimsuit color" default="pink"} one-piece swimsuit with white trim, paired with square-framed sunglasses, high-heeled slides, and gold jewelry. Direct midday sunlight strikes her from high from the front-right, highlighting her toned physique and creating defined shadows on the sun-baked cobblestones. The background is a crisp, clean backdrop of white luxury yachts with a written ‘Keor’ on it docked under a clear, deep cobalt blue sky. It is a stunning cinematic moment, capturing a narrative of timeless jet-set luxury and powerful, statuesque grace in a coastal paradise.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703980_ni3ww4_HPd8fqnXsAAtew6.jpg" width="600" alt="Bài đăng trên mạng xã hội - Glamorous Marina Yacht Scene - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518704035_eli9bk_HPd8fqmXIAAeM7o.jpg" width="600" alt="Bài đăng trên mạng xã hội - Glamorous Marina Yacht Scene - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518704189_xsk983_HPd8fqnXMAITKut.jpg" width="600" alt="Bài đăng trên mạng xã hội - Glamorous Marina Yacht Scene - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518704732_0z1nbj_HPd8fqqWMAAfn3B.jpg" width="600" alt="Bài đăng trên mạng xã hội - Glamorous Marina Yacht Scene - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
+- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2087273846051385705)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31159)**
+
+---
+
+### No. 25: Bài đăng trên mạng xã hội - Cyberpunk Rainy Night Market
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A detailed cinematic prompt for generating a neon-drenched futuristic night market scene with atmospheric rain and reflections.
+
+#### 📝 Câu lệnh
+
+```
+Ultra-cinematic {argument name="theme" default="cyberpunk"} night market in a dense futuristic Asian megacity during heavy rain, viewed from street level. A lone mysterious figure in a long black hooded coat walks away from the camera through a crowded neon-lit alley, carrying a dark shoulder bag. Dozens of transparent umbrellas surround them, with silhouettes of pedestrians fading into the rainy haze. Towering buildings disappear into the dark storm clouds above, covered with layers of glowing neon signs in Japanese, Korean, Chinese and Thai-inspired typography, colorful holographic advertisements, hotel signs, restaurants, street stalls and underground shops.
+
+The wet asphalt is covered in puddles, creating perfect mirror-like reflections of electric blue, magenta, violet, cyan and warm orange neon lights. Steam rises from food stalls, rain falls visibly through the neon glow, subtle mist fills the distant streets, electrical cables stretch overhead, and atmospheric smoke creates incredible depth. A small glowing street-food sign in the foreground adds warm contrast.
+
+Photorealistic cinematic photography, {argument name="aesthetic" default="cyberpunk noir"}, Blade Runner-inspired atmosphere, moody dystopian aesthetic, volumetric lighting, dramatic rim lighting, realistic rain droplets, wet reflective surfaces, deep shadows, rich contrast, atmospheric perspective, extremely detailed architecture, realistic human silhouettes, natural imperfections, shallow depth of field, 35mm cinematic lens, low-angle street photography, HDR, film grain, ultra-realistic textures, 4K, masterpiece, highly immersive, vertical composition, no borders, no watermark, no modern text overlays.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518700933_2grudi_HPc7SB0bcAAICbS.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cyberpunk Rainy Night Market - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [WeWant Mars](https://x.com/Madhuribhai)
+- **Nguồn:** [Twitter Post](https://x.com/Madhuribhai/status/2087202144919400743)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31154)**
+
+---
+
+### No. 26: Bài đăng trên mạng xã hội - Faux Fur Fashion DSLR Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A stylized fashion portrait prompt for a hyper-realistic DSLR photo, featuring a subject in shaggy faux fur against a textured plush background.
+
+#### 📝 Câu lệnh
+
+```
+Create image of a hyper-realistic DSLR cinematic photo: focus on sharp facial features, dynamic pose and full-body, {argument name="subject" default="stylish young man in a shaggy brown/tan faux fur coat over a dark tee with a gold graphic"}. He wears {argument name="pants" default="shiny black faux leather pants, a black belt with a silver buckle, and layered silver chains/rings"}. The background is a {argument name="background" default="dense, soft, dusty pink, long-pile faux fur"}, filling the frame with textured blush color.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518698041_eoedd1_HPcTqwWWQAAfhxZ.jpg" width="600" alt="Bài đăng trên mạng xã hội - Faux Fur Fashion DSLR Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518698076_azrrnk_HPcTqwMXoAAMCLh.jpg" width="600" alt="Bài đăng trên mạng xã hội - Faux Fur Fashion DSLR Portrait - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Alex Prompts](https://x.com/AlexPromptsAI)
+- **Nguồn:** [Twitter Post](https://x.com/AlexPromptsAI/status/2087158841326686559)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31150)**
+
+---
+
+### No. 27: Bài đăng trên mạng xã hội - Action Snowboarder Mountain Shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A dynamic action prompt for generating a snowboarder carving through powder on a sunlit mountain slope.
+
+#### 📝 Câu lệnh
+
+```
+A dynamic action shot of a {argument name="subject" default="man snowboarder"} with a nice hairstyle wearing a modest, structured {argument name="outfit color" default="blue-and-white"} patterned athletic top with extended coverage, matching leggings, and a grey backpack, carving swiftly down a steep, sunlit snowy mountain slope under a brilliant blue sky, kicking up a dramatic spray of powdery snow crystals with cinematic lighting.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518702043_fzgms1_HPb_uOIWIAA76Hy.jpg" width="600" alt="Bài đăng trên mạng xã hội - Action Snowboarder Mountain Shot - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518702178_p94eus_HPb_uOJXAAAF53U.jpg" width="600" alt="Bài đăng trên mạng xã hội - Action Snowboarder Mountain Shot - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [H A J R A](https://x.com/codewithhajra)
+- **Nguồn:** [Twitter Post](https://x.com/codewithhajra/status/2087136651990442388)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31157)**
+
+---
+
+### No. 28: Bài đăng trên mạng xã hội - Garden Lifestyle Outdoor Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A high-resolution outdoor portrait prompt of a woman in a bright yellow outfit set in a lush garden environment with palm trees.
+
+#### 📝 Câu lệnh
+
+```
+Create a photorealistic, high-resolution outdoor lifestyle portrait of a fictional young woman sitting in a peaceful garden setting, capturing a bright summer atmosphere with a natural, elegant look.
+
+Subject description, hair, skin, expression and pose:
+A fictional young woman with fair skin and subtle natural freckles, featuring {argument name="hair color" default="long copper-red hair"} with soft waves flowing naturally down her back. Her hair has a slightly sunlit texture with a few loose strands around her face. She has light-colored eyes, naturally shaped eyebrows, delicate facial features, and a calm, thoughtful expression as she looks back toward the camera. She is seated comfortably on a large natural stone surface with a relaxed posture, her shoulders slightly turned and her hands resting naturally for a candid outdoor portrait. Maintain realistic anatomy, natural proportions, and an authentic relaxed mood.
+
+Clothing and accessories:
+She wears a simple, {argument name="outfit color" default="bright yellow"} one-piece summer outfit with a clean, minimal design and smooth fabric texture. Add subtle, minimal accessories such as a small bracelet or delicate necklace for a refined casual style. Keep the outfit tasteful, modern, and suitable for a sunny outdoor setting. Avoid visible logos or branding.
+
+Environment and lighting:
+Place her in a {argument name="background" default="beautifully landscaped garden with lush green hedges, palm trees, trimmed plants, and a modern outdoor area"} in the background. The subject sits on a textured natural stone surface surrounded by warm outdoor elements. Use bright natural sunlight with a clear blue sky, soft shadows from nearby trees, and gentle highlights on her hair and clothing. Create a fresh summer atmosphere with realistic colors and natural depth.
+
+Camera / photography style:
+Professional outdoor portrait photography, 85mm lens, medium-full body composition, eye-level perspective, shallow depth of field, realistic background blur, natural sunlight, cinematic color grading, high dynamic range, detailed skin texture, realistic hair strands, sharp focus on the subject, balanced exposure, warm summer tones, editorial lifestyle photography, ultra-high resolution, photorealistic quality.
+
+Composition and realism:
+Emphasize the contrast between the vibrant yellow outfit, green garden surroundings, and blue sky. Keep the image natural and realistic with accurate lighting, realistic fabric folds, detailed stone texture, and authentic facial expression.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518706777_a4u7ts_HPbfCCva4AAp0Ru.jpg" width="600" alt="Bài đăng trên mạng xã hội - Garden Lifestyle Outdoor Portrait - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **Nguồn:** [Twitter Post](https://x.com/Jodie_Noraa/status/2087100878197268896)
+- **Đã xuất bản:** 11 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31161)**
+
+---
+
+### No. 29: Bài đăng trên mạng xã hội - Cinematic Theater Event Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A highly detailed editorial portrait prompt for two women in elegant evening wear at a theater event, capturing a candid conversation with shallow depth of field and warm lighting.
 
 #### 📝 Câu lệnh
 
@@ -1597,17 +2018,17 @@ A cinematic portrait prompt featuring two young women in an elegant theater, emp
 Create a high-resolution, photorealistic cinematic portrait of two young women seated together in an elegant theater or private event setting, capturing a candid, natural interaction between them.
 
 Subject description: Woman 1:
-A young woman with fair-to-light skin and long, naturally wavy dark-brown hair styled loosely around her shoulders, with subtle face-framing strands. She has refined facial features, expressive dark eyes, natural eyebrows, and a calm but slightly skeptical expression, with her lips gently pressed together as she looks sideways toward her companion. She sits comfortably with a relaxed posture, her arms resting naturally, conveying a spontaneous candid moment.
+{argument name="first woman" default="A young woman with fair-to-light skin and long, naturally wavy dark-brown hair styled loosely around her shoulders, with subtle face-framing strands. She has refined facial features, expressive dark eyes, natural eyebrows, and a calm but slightly skeptical expression, with her lips gently pressed together as she looks sideways toward her companion."}
 
 Subject description: Woman 2:
-A young woman with fair skin, long copper-red hair flowing naturally over her shoulders and down her back, with soft waves and subtle texture. She has light-colored eyes, delicate facial features, and a warm, cheerful expression. She is turned slightly toward the first woman, smiling naturally as if sharing a lighthearted comment. Her posture is relaxed and conversational, creating an authentic sense of friendship and companionship.
+{argument name="second woman" default="A young woman with fair skin, long copper-red hair flowing naturally over her shoulders and down her back, with soft waves and subtle texture. She has light-colored eyes, delicate facial features, and a warm, cheerful expression. She is turned slightly toward the first woman, smiling naturally as if sharing a lighthearted comment."}
 
 Clothing and accessories:
-Woman 1 wears an elegant contemporary evening outfit in a {argument name="outfit tone" default="muted lavender-gray"} tone with subtle textured detailing and a sophisticated silhouette. Add delicate silver drop earrings and minimal jewelry.
-Woman 2 wears a refined satin-inspired evening outfit in a {argument name="second outfit tone" default="muted rose-plum"} tone with tasteful tailoring and subtle sheen. Add a simple bracelet and understated accessories. Keep both outfits sophisticated, tasteful, and suitable for an upscale evening event.
+Woman 1 wears an elegant contemporary evening outfit in a muted lavender-gray tone with subtle textured detailing and a sophisticated silhouette. Add delicate silver drop earrings and minimal jewelry.
+Woman 2 wears a refined satin-inspired evening outfit in a muted rose-plum tone with tasteful tailoring and subtle sheen. Add a simple bracelet and understated accessories. Keep both outfits sophisticated, tasteful, and suitable for an upscale evening event.
 
 Environment and lighting:
-Place them in a sophisticated theater or event venue with {argument name="curtain color" default="deep burgundy"} curtains in the background. The environment should feel intimate and luxurious without being overly decorated. Use warm theatrical illumination mixed with subtle magenta and amber highlights, creating gentle reflections on their hair and clothing. Maintain realistic skin tones and soft shadows while keeping the background slightly darker for cinematic depth.
+{argument name="environment" default="Place them in a sophisticated theater or event venue with deep burgundy curtains in the background. The environment should feel intimate and luxurious without being overly decorated. Use warm theatrical illumination mixed with subtle magenta and amber highlights, creating gentle reflections on their hair and clothing."}
 
 Camera / photography style:
 Photorealistic editorial photography, 85mm portrait lens, medium close-up composition, shallow depth of field, natural facial proportions, realistic skin texture, accurate hair strands, subtle fabric detail, soft cinematic bokeh, balanced exposure, gentle rim lighting, professional event photography, realistic color reproduction, cinematic color grading, high dynamic range, crisp facial details, natural expressions, authentic candid atmosphere, ultra-detailed, high resolution.
@@ -1621,7 +2042,7 @@ Frame both women from approximately the waist/chest upward, keeping both faces c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431296830_ypl1rx_HPai9awaoAAm1k0.jpg" width="600" alt="Bài đăng trên mạng xã hội - Photorealistic Women Theater Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786518697479_czosjk_HPai9awaoAAm1k0.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Theater Event Portrait - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -1635,7 +2056,47 @@ Frame both women from approximately the waist/chest upward, keeping both faces c
 
 ---
 
-### No. 22: Bài đăng trên mạng xã hội - Realistic Mountain Silhouette at Midnight
+### No. 30: Bài đăng trên mạng xã hội - Cozy Morning Bedroom Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A warm and intimate lifestyle portrait prompt of a woman in a satin robe holding a coffee mug, capturing a peaceful morning atmosphere.
+
+#### 📝 Câu lệnh
+
+```
+An adult woman with {argument name="skin details" default="fair, naturally freckled skin"}, soft facial features, blue-gray eyes, and {argument name="hair" default="long wavy copper-red hair parted near the center"}. A gentle, relaxed closed-lip smile while looking directly into the camera. Seated comfortably on the edge of a bed with one leg crossed over the other, leaning slightly forward and holding a ceramic coffee mug with both hands. A {argument name="outfit" default="champagne-ivory satin robe loosely layered over a matching lace-trimmed camisole"}. Delicate floral lace panels across the shoulders, wide lace cuffs, a softly tied waist, and a fine gold pendant necklace. A cozy, elegant bedroom decorated in warm neutral shades. An unmade cream-colored bed with softly rumpled linens, a pale carved wooden headboard, and a dark wooden dresser blurred in the background. A simple handmade ceramic mug filled with a warm drink. Warm golden morning sunlight entering from the right side of the frame. Soft highlights around her copper hair, gentle illumination across her face and satin robe, warm skin tones, and natural diffused shadows. Peaceful, intimate, cozy, and slow-morning atmosphere. Vertical three-quarter seated portrait framed from above the head to the upper legs. Eye-level camera positioned directly in front of the subject. Approximately 50mm portrait lens with a moderately shallow depth of field. Sharp focus on the eyes, face, hair, lace texture, hands, and mug, with a softly blurred bedroom background. 9:16 aspect ratio, photorealistic, high detail. Natural lifestyle portrait with a polished but authentic editorial appearance. Warm cream, champagne, beige, honey gold, copper, and soft brown palette. Realistic untreated skin with visible pores, subtle freckles, fine facial texture, and natural tonal variation. Soft golden color grading, realistic satin reflections, detailed floral lace, gentle background bokeh, balanced highlights.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518705960_wy82bn_HPZRZN_bsAABrE_.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cozy Morning Bedroom Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518705988_n4jspr_HPZRZSUa8AApW4e.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cozy Morning Bedroom Portrait - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Natty Windstorm](https://x.com/NattyWindstorm)
+- **Nguồn:** [Twitter Post](https://x.com/NattyWindstorm/status/2086950742427136142)
+- **Đã xuất bản:** 10 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31160)**
+
+---
+
+### No. 31: Bài đăng trên mạng xã hội - Realistic Mountain Silhouette at Midnight
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1669,228 +2130,7 @@ masterpiece, realistic photo, landscape, Ground-level shot, {argument name="sky 
 
 ---
 
-### No. 23: Bài đăng trên mạng xã hội - Elegant Swans Heart Formation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-A detailed prompt for a romantic, ethereal scene of two white swans forming a heart shape on a misty lake during sunrise.
-
-#### 📝 Câu lệnh
-
-```
-A pair of elegant {argument name="birds" default="white swans"} floating on a calm, {argument name="setting" default="misty lake"}, their long necks arched toward each other to form a perfect heart shape, their pristine white feathers creating soft ripples on the glassy, dark blue water which perfectly reflects their forms. The background features a serene, foggy marshland with tall reeds silhouetted against the soft pastel light of a sunrise or sunset. The sun is a pale, glowing orb visible through the haze on the horizon, casting gentle orange and pink hues across the tranquil sky and reflecting faintly on the water's surface. The composition is vertical and symmetrical, emphasizing a romantic, peaceful, and ethereal atmosphere. High-resolution nature photography, cinematic lighting, soft focus, serene mood, hyper-realistic, dreamy aesthetic, intricate textures of water and feathers, wide-angle lens, tranquil morning mist, 8k resolution
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431303377_ggn2jj_HPYaPCpXEAAvKq6.jpg" width="600" alt="Bài đăng trên mạng xã hội - Elegant Swans Heart Formation - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Viki](https://x.com/churvikv)
-- **Nguồn:** [Twitter Post](https://x.com/churvikv/status/2086884637352345983)
-- **Đã xuất bản:** 10 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=31064)**
-
----
-
-### No. 24: Bài đăng trên mạng xã hội - Topographic Contour Line Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-An ethereal mixed-media portrait that replaces traditional shading with intricate, organic topographic contour lines inspired by growth rings.
-
-#### 📝 Câu lệnh
-
-```
-A highly refined contemporary mixed-media portrait style combining an ethereal high-key fashion aesthetic with intricate concentric contour-line artwork inspired by natural growth rings and fingerprint-like topographic patterns. The human subject should retain an elegant, soft, luminous, almost dreamlike presence while the entire visual structure is organically constructed through hundreds of delicate continuous concentric and flowing contour lines. Replace conventional flat shading and ordinary outlines with dense nested curved lines that follow the anatomy and three-dimensional structure of the human form. The lines should naturally conform to the contours of the face, forehead, cheeks, nose, lips, jaw, neck, shoulders, clothing, and hair, creating the illusion that the entire subject is sculpted from flowing rings and fine engraved contours. The line patterns should behave like organic topographic growth rings rather than geometric circles. Lines continuously expand, contract, bend, merge, separate, and change direction according to the underlying form. Around the eyes, nose, lips, and facial planes, the contours become tightly concentrated and delicately curved; across larger surfaces they gradually spread into wider flowing rings. Hair should be constructed from extremely fine flowing contour strands, with hundreds of elongated curved lines sweeping outward and merging into larger concentric patterns. The hair should feel weightless and fluid, almost dissolving into the surrounding background while maintaining an intricate line-based structure. Preserve the reference's soft luminous skin, delicate facial modeling, subtle blush, translucent highlights, pale neutral tones, and graceful editorial beauty. The human form should remain recognizable and aesthetically refined beneath the contour-line construction rather than becoming an abstract pattern. Introduce selective high-density black and charcoal contour areas to create depth and visual emphasis. Lines become progressively darker and closer together in recessed areas and shadow regions, while highlights contain sparse, extremely fine pale-gray lines and larger areas of negative space. This creates tonal values entirely through line density and spacing, rather than conventional painted shading. Allow portions of the contour lines to extend beyond the silhouette, forming expansive organic rings and flowing arcs around the subject. These external lines should gradually fade, break apart, become thinner, and dissolve into the background, creating an atmospheric transition between the human figure and the surrounding space. Use a predominantly luminous ivory, white, soft gray, pale beige, and subtle natural skin-tone palette, with deep charcoal-black lines providing controlled contrast. Maintain a clean, airy, almost monochromatic elegance while preserving subtle full-color skin undertones. The surface should have a fine tactile paper or archival-art texture
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344502610_xvq442_HPU_tBzbEAApHG0.jpg" width="600" alt="Bài đăng trên mạng xã hội - Topographic Contour Line Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344503219_as3r0u_HPU_t_2bcAAsxVq.jpg" width="600" alt="Bài đăng trên mạng xã hội - Topographic Contour Line Portrait - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Zayan](https://x.com/HustleXR)
-- **Nguồn:** [Twitter Post](https://x.com/HustleXR/status/2086644081967464550)
-- **Đã xuất bản:** 10 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30941)**
-
----
-
-### No. 25: Bài đăng trên mạng xã hội - Romantic Black and White Studio Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-A romantic black-and-white studio portrait prompt for a couple, featuring dramatic lighting and a heart-shaped background effect.
-
-#### 📝 Câu lệnh
-
-```
-Create a romantic black-and-white studio portrait of a real skinny, not medium weighed, couple standing in front of a wall with a {argument name="light shape" default="heart-shaped"} light projected behind them. The couple must maintain their real and original faces, preserving all authentic facial features and natural hair colors, with no changes. The man is leaning toward the woman, gently smelling her neck with a soft and loving expression, while holding her hand. The woman smiles slightly, with a romantic and affectionate look. Their outfits remain the same: the man wears a {argument name="men's outfit" default="plain fitted white t-shirt and light pants"}, while the woman wears a {argument name="women's outfit" default="sleeveless white top and dark jeans"}. The lighting is dramatic with strong contrast, highlighting the couple within the glowing heart shape. The image should be ultra-high resolution, with hyper-realistic details and a professional editorial photography style.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431298601_ug3c4s_HPUxzC1aEAAj0GW.jpg" width="600" alt="Bài đăng trên mạng xã hội - Romantic Black and White Studio Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431298572_3twajk_HPUxzl-a8AASoXk.jpg" width="600" alt="Bài đăng trên mạng xã hội - Romantic Black and White Studio Portrait - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Maddox](https://x.com/Maddox_Digital)
-- **Nguồn:** [Twitter Post](https://x.com/Maddox_Digital/status/2086628772523253799)
-- **Đã xuất bản:** 10 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30947)**
-
----
-
-### No. 26: Bài đăng trên mạng xã hội - Cinematic Amateur Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Generates a high-end fashion editorial portrait with a raw, flash-driven aesthetic and detailed cinematic lighting specifications.
-
-#### 📝 Câu lệnh
-
-```
-Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotionally intense portrait photography, raw flash-driven beauty editorial with authentic imperfect atmosphere. A breathtaking woman in her {argument name="woman age" default="early 20s"} and a man sitting on soft green grass. **Woman ({argument name="hair color" default="Platinum Blonde"}):** Athletic yet feminine physique, defined collarbones, elegant neck, long toned legs, naturally sculpted body lines. Deep expressive eyes with realistic iris texture, soft confident gaze, minimal high-end editorial makeup, authentic facial asymmetry and micro skin detail. Messy lived-in {argument name="hair color" default="platinum blonde"} hair. **Man:** Tall masculine build with a strong and confident posture. Calm, intense masculine expression. (Face will be referenced separately.) Clothing: **Man:** Brown linen trousers and a blue silky shirt with sleeves rolled up to the elbows. Soft elegant fabric. Small gold ITOUCH embroidery on the shirt cuff. **Woman:** Fitted denim jeans and a soft pink shirt. Casual yet stylish. Soft gold ITOUCH monogram near the shirt collar. Pose & Composition: **Man:** Sitting on the green grass. One knee raised with the foot planted on the ground, elbow resting on that raised knee close to his chest. The other leg bent and resting on the grass. Strong, masculine and relaxed posture, looking toward the camera with calm intensity. **Woman:** Reclining / lying against his raised knee, upper body resting on his thigh, arms gently wrapped or relaxed around his leg. Chin slightly tilted, looking toward the camera with soft confidence. Natural and intimate connection. Lighting: Soft natural daylight mixed with gentle front flash. Beautiful rim lighting on both, soft specular highlights on skin and fabric, natural outdoor glow. Deep f/8 aperture keeping skin texture, fabric details, ITOUCH branding and grass details razor sharp. Background & Setting: Lush green grass field in a peaceful outdoor location. Soft natural environment, distant trees or open sky, calm and luxurious vacation atmosphere. Skin rendering: Extreme micro-detail realism, visible pores, natural peach fuzz, subtle natural glow with light sheen, subsurface scattering, tiny imperfections. Hair: Woman: Messy lived-in {argument name="hair color" default="platinum blonde"} hair with soft natural movement. Man: Short textured dark hair with slight natural volume. Color grading: Soft pink + blue + brown + fresh green tones + warm natural light, heavy cinematic grain, beautiful skin warmth, analog tonal response. Camera: Canon EOS R5, 50mm lens, direct flash attachment, slightly low amateur-fashion perspective, high-resolution RAW aesthetic. Atmosphere: Relaxed and intimate outdoor editorial. Masculine calm presence with soft feminine energy, natural connection, cinematic realism.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497831_m9jy1g_HPS7o1VW8AAZs6b.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Amateur Fashion Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497720_np935v_HPS7pJsW4AA9toI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Amateur Fashion Editorial - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344498022_a9rb8h_HPS7pcnXMAAIOEr.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Amateur Fashion Editorial - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344498573_8pa1rw_HPS7pv9WsAEE_ER.jpg" width="600" alt="Bài đăng trên mạng xã hội - Cinematic Amateur Fashion Editorial - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Aytaç Altıntepe](https://x.com/aytacaltintepe)
-- **Nguồn:** [Twitter Post](https://x.com/aytacaltintepe/status/2086498858532479331)
-- **Đã xuất bản:** 9 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30938)**
-
----
-
-### No. 27: Bài đăng trên mạng xã hội - Emerald Evening Dress Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-A highly detailed prompt for generating a photorealistic fashion editorial image of a woman in an emerald-green dress taking a mirror selfie in a luxury interior.
-
-#### 📝 Câu lệnh
-
-```
-Subject description:
-A Young woman with a refined, natural appearance and {argument name="skin tone" default="fair-to-light"} skin tone. She has long, softly wavy light-brown/blonde hair gathered into a relaxed low ponytail, with a few loose strands framing her face. Her complexion has realistic natural texture, subtle makeup, softly defined eyebrows, and a calm, thoughtful expression. She is looking toward her smartphone screen while taking a mirror photograph. Her posture is relaxed and poised, seated gracefully with her shoulders naturally positioned and her body turned slightly toward the mirror.
-
-Clothing & accessories:
-She wears an {argument name="dress style" default="elegant emerald-green and ivory patterned evening dress"} with flowing fabric, intricate curved geometric detailing, and subtle shimmering texture. The dress has a sophisticated floor-length silhouette and tasteful styling suitable for a fashion editorial. She carries a modern dark-colored smartphone while taking the mirror photograph. Add minimal elegant jewelry, such as a delicate bracelet and small understated earrings. Keep the overall styling polished, sophisticated, and fashion-focused.
-
-Environment & lighting:
-A {argument name="interior style" default="luxurious contemporary interior"} featuring large marble-effect wall panels framed by dark architectural trim. A full-length mirror occupies the right side of the composition, creating a realistic reflection. The floor has a subtle wood texture, complementing the cool marble surroundings. Soft diffused indoor lighting illuminates the subject evenly, while gentle highlights emphasize the texture and shimmer of the green-and-ivory fabric. The atmosphere should feel sophisticated, quiet, modern, and editorial.
-
-Camera & visual style:
-Photorealistic luxury fashion photography, 85mm portrait lens, vertical composition, realistic mirror perspective, soft diffused lighting, shallow depth of field, natural skin texture, highly detailed hair strands, realistic fabric texture, accurate reflections, balanced exposure, subtle cinematic color grading, refined neutral tones with emerald-green accents, professional editorial photography, high dynamic range, crisp focus, realistic proportions, ultra-high detail, high-resolution finish.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344500197_ch78wy_HPSToJibMAIIb2h.jpg" width="600" alt="Bài đăng trên mạng xã hội - Emerald Evening Dress Fashion Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344500167_qfdetp_HPSTqyYaIAAbS51.jpg" width="600" alt="Bài đăng trên mạng xã hội - Emerald Evening Dress Fashion Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344500580_tzcjl5_HPSTr4VaoAA1YTC.jpg" width="600" alt="Bài đăng trên mạng xã hội - Emerald Evening Dress Fashion Portrait - Image 3">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **Nguồn:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086454923294896427)
-- **Đã xuất bản:** 9 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30940)**
-
----
-
-### No. 28: Infographic / Hình ảnh giáo dục - European Hamster Wildlife Photography
+### No. 32: Infographic / Hình ảnh giáo dục - European Hamster Wildlife Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1924,7 +2164,7 @@ A close-up, eye-level shot captures a {argument name="animal type" default="Euro
 
 ---
 
-### No. 29: Infographic / Hình ảnh giáo dục - Realistic Dodo Bird Illustration
+### No. 33: Infographic / Hình ảnh giáo dục - Realistic Dodo Bird Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1958,7 +2198,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 30: Infographic / Hình ảnh giáo dục - Trang chi tiết sản phẩm ghế văn phòng công thái học trên thiết bị di động
+### No. 34: Infographic / Hình ảnh giáo dục - Trang chi tiết sản phẩm ghế văn phòng công thái học trên thiết bị di động
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1992,7 +2232,7 @@ Một trang chi tiết thương mại điện tử trên thiết bị di động
 
 ---
 
-### No. 31: Infographic / Hình ảnh giáo dục - Diorama Sách Pop-up Thu nhỏ
+### No. 35: Infographic / Hình ảnh giáo dục - Diorama Sách Pop-up Thu nhỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2026,7 +2266,7 @@ Lưới 2x2, 16:9, thực hiện cho 4 {argument name="subject" default="thành 
 
 ---
 
-### No. 32: Infographic / Hình ảnh giáo dục - Thiết kế đồ họa bảng chữ cái phong cách Retro thập niên 1970
+### No. 36: Infographic / Hình ảnh giáo dục - Thiết kế đồ họa bảng chữ cái phong cách Retro thập niên 1970
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2060,7 +2300,7 @@ Một bộ sưu tập các chữ cái trong bảng chữ cái, {argument name="l
 
 ---
 
-### No. 33: Infographic / Hình ảnh giáo dục - Nghệ thuật Pop-up trên Tạp chí Voxel
+### No. 37: Infographic / Hình ảnh giáo dục - Nghệ thuật Pop-up trên Tạp chí Voxel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2094,7 +2334,7 @@ Lưới 2x2, 16:9, thực hiện cho không gian công cộng, sách không có 
 
 ---
 
-### No. 34: Infographic / Hình ảnh giáo dục - Minh họa chân dung khảm hình học
+### No. 38: Infographic / Hình ảnh giáo dục - Minh họa chân dung khảm hình học
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2140,7 +2380,7 @@ Một {argument name="style" default="minh họa chân dung khảm hình học"}
 
 ---
 
-### No. 35: Infographic / Hình ảnh giáo dục - Sơ đồ cắt lớp kỹ thuật
+### No. 39: Infographic / Hình ảnh giáo dục - Sơ đồ cắt lớp kỹ thuật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2192,7 +2432,7 @@ Sơ đồ cắt lớp của một {argument name="object" default="thiết bị 
 
 ---
 
-### No. 36: Infographic / Hình ảnh giáo dục - Infographic bảng phân cảnh lính cứu hỏa
+### No. 40: Infographic / Hình ảnh giáo dục - Infographic bảng phân cảnh lính cứu hỏa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2226,7 +2466,7 @@ Tạo một poster infographic dạng bảng phân cảnh sắc nét, sạch s�
 
 ---
 
-### No. 37: Infographic / Hình ảnh giáo dục - Kết xuất hình ảnh quét y tế 3D phát sáng
+### No. 41: Infographic / Hình ảnh giáo dục - Kết xuất hình ảnh quét y tế 3D phát sáng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2266,7 +2506,7 @@ Một bản kết xuất 3D siêu chi tiết, chân thực đến kinh ngạc v�
 
 ---
 
-### No. 38: Infographic / Hình ảnh giáo dục - Phân tích chân dung thực tế tăng cường (AR) trên vách đá
+### No. 42: Infographic / Hình ảnh giáo dục - Phân tích chân dung thực tế tăng cường (AR) trên vách đá
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2371,7 +2611,7 @@ Một câu lệnh công nghệ cao dành cho việc phân tích thực tế tăn
 
 ---
 
-### No. 39: Infographic / Hình ảnh giáo dục - Tạo Infographic về Gundam Origin
+### No. 43: Infographic / Hình ảnh giáo dục - Tạo Infographic về Gundam Origin
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2405,7 +2645,7 @@ Vui lòng tóm tắt {argument name="subject" default="gia tộc Zabi từ Gunda
 
 ---
 
-### No. 40: Infographic / Hình ảnh giáo dục - Thiết kế xe hơi lịch sử giả tưởng GDR
+### No. 44: Infographic / Hình ảnh giáo dục - Thiết kế xe hơi lịch sử giả tưởng GDR
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2439,7 +2679,7 @@ Một gợi ý thiết kế ý tưởng cho sự kết hợp xe hơi trong lịc
 
 ---
 
-### No. 41: Infographic / Hình ảnh giáo dục - Ảnh động vật hoang dã cá sấu trong đầm lầy
+### No. 45: Infographic / Hình ảnh giáo dục - Ảnh động vật hoang dã cá sấu trong đầm lầy
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2479,7 +2719,7 @@ Một câu lệnh (prompt) theo phong cách động vật hoang dã về con cá
 
 ---
 
-### No. 42: Infographic / Hình ảnh giáo dục - Minh họa kiến trúc tân tham số
+### No. 46: Infographic / Hình ảnh giáo dục - Minh họa kiến trúc tân tham số
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2524,7 +2764,7 @@ Minh họa biên tập tân tham số (Neo-Parametric) siêu chi tiết, kết h
 
 ---
 
-### No. 43: Hình thu nhỏ trên YouTube - Lưới áp phích phim Typography Emergence
+### No. 47: Hình thu nhỏ trên YouTube - Lưới áp phích phim Typography Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2558,7 +2798,7 @@ Lưới 2x2, 16:9, thực hiện cho 4 bộ phim nổi tiếng: TYPOGRAPHIC_EMER
 
 ---
 
-### No. 44: Hình thu nhỏ trên YouTube - Trận chiến trùm máy pha cà phê phong cách khoa học viễn tưởng
+### No. 48: Hình thu nhỏ trên YouTube - Trận chiến trùm máy pha cà phê phong cách khoa học viễn tưởng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2592,7 +2832,7 @@ Một câu lệnh (prompt) hài hước theo phong cách meme, tái hiện chi�
 
 ---
 
-### No. 45: Hình thu nhỏ trên YouTube - Người phụ nữ khổng lồ siêu thực tại Venice
+### No. 49: Hình thu nhỏ trên YouTube - Người phụ nữ khổng lồ siêu thực tại Venice
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2626,7 +2866,7 @@ Một khung cảnh siêu thực với {argument name="subject" default="người
 
 ---
 
-### No. 46: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo cho phim tài liệu thể thao điện ảnh
+### No. 50: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo cho phim tài liệu thể thao điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2660,7 +2900,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 47: Hình thu nhỏ trên YouTube - Nhiếp ảnh đám mây hình voi hùng vĩ
+### No. 51: Hình thu nhỏ trên YouTube - Nhiếp ảnh đám mây hình voi hùng vĩ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,7 +2944,7 @@ Tâm trạng: hùng vĩ, bình lặng, siêu thực nhưng đáng tin, chân th�
 
 ---
 
-### No. 48: Hình thu nhỏ trên YouTube - Biến hóa nhà ga tàu hỏa theo phong cách Anime
+### No. 52: Hình thu nhỏ trên YouTube - Biến hóa nhà ga tàu hỏa theo phong cách Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2738,7 +2978,7 @@ Vui lòng tạo nó theo phong cách anime. {argument name="scene description" d
 
 ---
 
-### No. 49: Hình thu nhỏ trên YouTube - Sự hỗn loạn của Mr Bean trên chiếc Mini Cooper
+### No. 53: Hình thu nhỏ trên YouTube - Sự hỗn loạn của Mr Bean trên chiếc Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2792,7 +3032,7 @@ Sống động, hỗn loạn, nhịp độ nhanh, đậm chất điện ảnh, h
 
 ---
 
-### No. 50: Hình thu nhỏ trên YouTube - Ảnh ghép chân dung điện ảnh dưới ánh trăng trên sân thượng
+### No. 54: Hình thu nhỏ trên YouTube - Ảnh ghép chân dung điện ảnh dưới ánh trăng trên sân thượng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2832,7 +3072,7 @@ Sử dụng hình ảnh tham chiếu khuôn mặt đã tải lên làm tham chi�
 
 ---
 
-### No. 51: Hình thu nhỏ trên YouTube - Chân dung Street Glamour với dao cắt bánh
+### No. 55: Hình thu nhỏ trên YouTube - Chân dung Street Glamour với dao cắt bánh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2866,7 +3106,7 @@ Không thay đổi các đường nét trên khuôn mặt. Một bức chân dun
 
 ---
 
-### No. 52: Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù
+### No. 56: Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2917,7 +3157,7 @@ Một poster đồ họa dọc mang phong cách điện ảnh về một ngườ
 
 ---
 
-### No. 53: Hình thu nhỏ trên YouTube - Ảnh chân dung phát sóng tại sân vận động bóng rổ
+### No. 57: Hình thu nhỏ trên YouTube - Ảnh chân dung phát sóng tại sân vận động bóng rổ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2953,7 +3193,7 @@ sử dụng image1 làm điểm nhận diện chính
 
 ---
 
-### No. 54: Hình thu nhỏ trên YouTube - Ảnh chụp màn hình phát sóng trận đấu NBA
+### No. 58: Hình thu nhỏ trên YouTube - Ảnh chụp màn hình phát sóng trận đấu NBA
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2987,7 +3227,7 @@ Một câu lệnh cấu trúc phức tạp được thiết kế để mô phỏ
 
 ---
 
-### No. 55: Hình thu nhỏ trên YouTube - Lưới hình ảnh hóa sách kỳ ảo
+### No. 59: Hình thu nhỏ trên YouTube - Lưới hình ảnh hóa sách kỳ ảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3021,7 +3261,7 @@ Lưới 2x2, thực hiện cho 4 cuốn sách nổi tiếng render_target = ( {a
 
 ---
 
-### No. 56: Hình thu nhỏ trên YouTube - Trực quan hóa bài hát thành hình ảnh
+### No. 60: Hình thu nhỏ trên YouTube - Trực quan hóa bài hát thành hình ảnh
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3073,7 +3313,7 @@ Một câu lệnh sử dụng tên bài hát và nghệ sĩ cụ thể để t�
 
 ---
 
-### No. 57: Hình thu nhỏ trên YouTube - Chân dung studio podcast đậm chất điện ảnh
+### No. 61: Hình thu nhỏ trên YouTube - Chân dung studio podcast đậm chất điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3107,7 +3347,7 @@ Một chuyên gia {argument name="host description" default="người dẫn chư
 
 ---
 
-### No. 58: Hình thu nhỏ trên YouTube - Tạo hình ảnh theo phong cách chương trình truyền hình Nhật Bản
+### No. 62: Hình thu nhỏ trên YouTube - Tạo hình ảnh theo phong cách chương trình truyền hình Nhật Bản
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3162,7 +3402,7 @@ Hãy để AI cân nhắc bầu không khí tổng thể của hình ảnh, bao 
 
 ---
 
-### No. 59: Hình thu nhỏ trên YouTube - Ảnh chụp lễ hội phong cách điện ảnh của Millie Bobby Brown
+### No. 63: Hình thu nhỏ trên YouTube - Ảnh chụp lễ hội phong cách điện ảnh của Millie Bobby Brown
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3220,7 +3460,7 @@ Hình ảnh nên được chụp theo khung hình dọc (9:16), sử dụng góc
 
 ---
 
-### No. 60: Hình thu nhỏ trên YouTube - Ảnh đường phố đậm chất điện ảnh về người đàn ông trượt vỏ chuối
+### No. 64: Hình thu nhỏ trên YouTube - Ảnh đường phố đậm chất điện ảnh về người đàn ông trượt vỏ chuối
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3253,7 +3493,7 @@ Một câu lệnh (prompt) để tạo hình ảnh nhiếp ảnh đường phố
 
 ---
 
-### No. 61: Hình thu nhỏ trên YouTube - Câu lệnh tạo ảnh tin tức giả cho ngày Cá tháng Tư
+### No. 65: Hình thu nhỏ trên YouTube - Câu lệnh tạo ảnh tin tức giả cho ngày Cá tháng Tư
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3304,25 +3544,22 @@ Hãy tạo một ý tưởng độc đáo cho tin tức giả ngày Cá tháng T
 
 ---
 
-### No. 62: Truyện tranh / Bảng phân cảnh - Sophisticated Hybrid Figurative Illustration
+### No. 66: Truyện tranh / Bảng phân cảnh - Fragmented Geometric Figurative Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-An intricate art-book style prompt that blends graphic-novel realism with geometric abstraction and soft pastel colors, creating a translucent and layered aesthetic.
+A sophisticated hybrid style prompt combining graphic-novel realism with fragmented geometric line-art, utilizing a muted pastel palette.
 
 #### 📝 Câu lệnh
 
 ```
 Sophisticated hybrid figurative illustration style combining highly detailed graphic-novel realism with contemporary fragmented geometric line-art aesthetics. Strong yet refined ink contours fused with delicate, irregular flowing construction lines, creating a controlled contrast between solid anatomical definition and translucent abstract fragmentation. Realistic painterly facial and surface rendering integrated with angular faceted planes, semi-transparent overlapping shapes, broken geometric forms, and elegant organic linework. Use precise dark ink accents, selective cross-hatching, fine directional strokes, and subtle engraved textures to define depth, while allowing portions of the artwork to dissolve into airy translucent fragments and loose linear structures.
-Color treatment combines the rich warm dimensionality of cinematic comic illustration with the restrained sophistication of a muted pastel palette: {argument name="color palette" default="warm beige, ivory, soft tan, muted brown, dusty gray, pale blue-gray, desaturated teal, subtle amber, ochre, and restrained orange accents"}. Colors remain clean, luminous, and naturally harmonized rather than oversaturated. Strong warm–cool tonal interplay, with carefully controlled highlights and deep shadow accents.
+Color treatment combines the rich warm dimensionality of cinematic comic illustration with the restrained sophistication of a {argument name="palette" default="muted pastel palette"}: warm beige, ivory, soft tan, muted brown, dusty gray, pale blue-gray, desaturated teal, subtle amber, ochre, and restrained orange accents. Colors remain clean, luminous, and naturally harmonized rather than oversaturated. Strong warm–cool tonal interplay, with carefully controlled highlights and deep shadow accents.
 Blend solid realistic modeling with semi-transparent layered planes, creating a sophisticated “constructed yet dissolving” appearance. Preserve convincing volume and dimensionality while selectively breaking forms into elegant geometric fragments. Hair, fabric, skin, and other surfaces may transition between highly rendered realism, fine ink strokes, faceted shapes, and loose flowing lines. Subtle paper grain, matte printed texture, slightly weathered graphic surface, delicate pigment variation, and refined editorial illustration finish.
-Highly expressive line hierarchy, intricate micro-details, elegant visual rhythm, controlled asymmetry, sophisticated negative space, cinematic tonal depth, premium contemporary art-book aesthetic, experimental fashion-editorial illustration, realistic anatomy combined with abstract fragmentation, ultra-detailed, polished, artistic, sophisticated, dynamic, tactile, {argument name="resolution" default="high-resolution"}.
-
-Negative Style
-photorealistic photography, 3D render, plastic CGI, childish cartoon, flat vector art, excessive cel shading, heavy black outlines everywhere, chaotic scribbles, random crack patterns, excessive neon colors, oversaturated palette, muddy colors, watercolor wash, thick oil impasto, excessive grunge, low detail, blurry rendering, mechanical geometric patterns, repetitive tessellation. {argument name="aspect ratio" default="Ar 9:16"}!
+Highly expressive line hierarchy, intricate micro-details, elegant visual rhythm, controlled asymmetry, sophisticated negative space, cinematic tonal depth, premium contemporary art-book aesthetic, experimental fashion-editorial illustration, realistic anatomy combined with abstract fragmentation, ultra-detailed, polished, artistic, sophisticated, dynamic, tactile, high-resolution.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -3330,13 +3567,13 @@ photorealistic photography, 3D render, plastic CGI, childish cartoon, flat vecto
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431300507_pmgwzg_HPayJmqWAAA66XF.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Sophisticated Hybrid Figurative Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786518703948_36bhmc_HPayJmqWAAA66XF.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Fragmented Geometric Figurative Illustration - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431300493_0a3ocw_HPayJmpXkAAsKhN.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Sophisticated Hybrid Figurative Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786518704088_yel3ni_HPayJmpXkAAsKhN.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Fragmented Geometric Figurative Illustration - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -3350,7 +3587,7 @@ photorealistic photography, 3D render, plastic CGI, childish cartoon, flat vecto
 
 ---
 
-### No. 63: Truyện tranh / Bảng phân cảnh - Editorial Ghost-Spider Urban Portrait
+### No. 67: Truyện tranh / Bảng phân cảnh - Editorial Ghost-Spider Urban Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3402,7 +3639,7 @@ The lighting is diegetic urban night lighting with rich, preserved deep shadows 
 
 ---
 
-### No. 64: Truyện tranh / Bảng phân cảnh - Dark Fantasy Battlefield Warrior
+### No. 68: Truyện tranh / Bảng phân cảnh - Dark Fantasy Battlefield Warrior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3447,7 +3684,7 @@ Highly detailed cinematic realism, photorealistic textures, realistic human anat
 
 ---
 
-### No. 65: Truyện tranh / Bảng phân cảnh - Botanical Archive Victorian Portrait
+### No. 69: Truyện tranh / Bảng phân cảnh - Botanical Archive Victorian Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3537,7 +3774,7 @@ A structured, hyper-realistic portrait prompt set in a dense botanical Victorian
 
 ---
 
-### No. 66: Truyện tranh / Bảng phân cảnh - 3D Paper-Craft Diorama Style
+### No. 70: Truyện tranh / Bảng phân cảnh - 3D Paper-Craft Diorama Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3604,7 +3841,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 67: Truyện tranh / Bảng phân cảnh - Ngôi nhà ma ám phong cách Gothic kỳ ảo
+### No. 71: Truyện tranh / Bảng phân cảnh - Ngôi nhà ma ám phong cách Gothic kỳ ảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3638,7 +3875,7 @@ Một ngôi nhà ma ám đầy kỳ ảo, {argument name="style" default="phong 
 
 ---
 
-### No. 68: Truyện tranh / Bảng phân cảnh - Khu vườn văn chương tĩnh lặng
+### No. 72: Truyện tranh / Bảng phân cảnh - Khu vườn văn chương tĩnh lặng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3672,7 +3909,7 @@ Một {argument name="setting" default="chốn ẩn mình văn chương giữa t
 
 ---
 
-### No. 69: Truyện tranh / Bảng phân cảnh - Kết xuất cảnh phim theo phong cách Doraemon
+### No. 73: Truyện tranh / Bảng phân cảnh - Kết xuất cảnh phim theo phong cách Doraemon
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3706,7 +3943,7 @@ Kết xuất hình ảnh phác thảo tham chiếu thành một cảnh trong b�
 
 ---
 
-### No. 70: Truyện tranh / Bảng phân cảnh - Lưới Biểu Cảm Đa Khung Hình
+### No. 74: Truyện tranh / Bảng phân cảnh - Lưới Biểu Cảm Đa Khung Hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3746,7 +3983,7 @@ Một lưới ảnh đa khung hình hiển thị {argument name="subject" defaul
 
 ---
 
-### No. 71: Truyện tranh / Bảng phân cảnh - Chân dung văn học trong khu vườn thanh bình
+### No. 75: Truyện tranh / Bảng phân cảnh - Chân dung văn học trong khu vườn thanh bình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3792,7 +4029,7 @@ Một không gian văn học thanh bình giữa những tàn tích vườn hoa �
 
 ---
 
-### No. 72: Truyện tranh / Bảng phân cảnh - Bố cục Storyboard cho nước hoa cao cấp
+### No. 76: Truyện tranh / Bảng phân cảnh - Bố cục Storyboard cho nước hoa cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3826,7 +4063,7 @@ Tạo một storyboard cho bản thuyết trình nước hoa cao cấp tỷ lệ
 
 ---
 
-### No. 73: Truyện tranh / Bảng phân cảnh - Thêm đạo cụ tương tác với nhân vật
+### No. 77: Truyện tranh / Bảng phân cảnh - Thêm đạo cụ tương tác với nhân vật
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3860,7 +4097,7 @@ Một {argument name="object" default="tách trà"} trên một {argument name="
 
 ---
 
-### No. 74: Truyện tranh / Bảng phân cảnh - Phác thảo thời trang biên tập tối giản
+### No. 78: Truyện tranh / Bảng phân cảnh - Phác thảo thời trang biên tập tối giản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3898,7 +4135,7 @@ Phần nền là {argument name="background color" default="cam đậm"}! Kỹ t
 
 ---
 
-### No. 75: Truyện tranh / Bảng phân cảnh - Cảnh hành động điện ảnh giữa không trung
+### No. 79: Truyện tranh / Bảng phân cảnh - Cảnh hành động điện ảnh giữa không trung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3932,7 +4169,7 @@ Một cảnh hành động năng động giữa không trung của một {argume
 
 ---
 
-### No. 76: Truyện tranh / Bảng phân cảnh - Chuỗi ảnh chân dung studio với phông nền tranh tường vũ trụ
+### No. 80: Truyện tranh / Bảng phân cảnh - Chuỗi ảnh chân dung studio với phông nền tranh tường vũ trụ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3978,7 +4215,7 @@ Một chuỗi ảnh studio ghi lại cùng một {argument name="subject" defaul
 
 ---
 
-### No. 77: Truyện tranh / Bảng phân cảnh - Ảnh vẽ nguệch ngoạc phong cách Manga của phụ nữ
+### No. 81: Truyện tranh / Bảng phân cảnh - Ảnh vẽ nguệch ngoạc phong cách Manga của phụ nữ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4024,7 +4261,7 @@ Sử dụng hình ảnh tham chiếu đã tải lên làm căn cứ nghiêm ng�
 
 ---
 
-### No. 78: Truyện tranh / Bảng phân cảnh - Chân dung đường phố đô thị cùng nhân vật hoạt hình đồng hành
+### No. 82: Truyện tranh / Bảng phân cảnh - Chân dung đường phố đô thị cùng nhân vật hoạt hình đồng hành
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4058,7 +4295,7 @@ Chuyển đổi hình ảnh này [Tải lên hình ảnh của bạn] thành ả
 
 ---
 
-### No. 79: Truyện tranh / Bảng phân cảnh - Tòa soạn Tạp chí Huyền bí
+### No. 83: Truyện tranh / Bảng phân cảnh - Tòa soạn Tạp chí Huyền bí
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4098,7 +4335,7 @@ Mô tả chi tiết khung cảnh một nhân vật trong tòa soạn tạp chí 
 
 ---
 
-### No. 80: Truyện tranh / Bảng phân cảnh - Ảnh ghép người phụ nữ cười trong chiếc váy đỏ
+### No. 84: Truyện tranh / Bảng phân cảnh - Ảnh ghép người phụ nữ cười trong chiếc váy đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4132,7 +4369,7 @@ Một bức ảnh ghép bao gồm {argument name="number of scenes" default="sá
 
 ---
 
-### No. 81: Truyện tranh / Bảng phân cảnh - Ảnh ghép chân dung nhất quán cho Nano Banana 2
+### No. 85: Truyện tranh / Bảng phân cảnh - Ảnh ghép chân dung nhất quán cho Nano Banana 2
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4174,19 +4411,19 @@ Kết cấu da tự nhiên, ánh sáng điện ảnh, độ sâu trường ảnh
 
 ---
 
-### No. 82: Tiếp thị sản phẩm - Cinematic Spider-Web Product Ad
+### No. 86: Tiếp thị sản phẩm - Cinematic Product Advertisement with Spider Web
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 Mô tả
 
-A professional product advertising prompt that incorporates a spider-web motif into a luxury commercial composition while preserving product integrity.
+A professional product advertising prompt designed to integrate a reference item with a realistic spider web effect and minimalist studio lighting.
 
 #### 📝 Câu lệnh
 
 ```
-Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a panoramic 21:9 format. Use a seamless studio background matching the {argument name="background color" default="dominant color of the product"} (or the user-specified color) with a soft radial gradient and subtle vignette. On the far left, place a {argument name="glove description" default="generic red web- pattern glove"} performing a web-shooting hand gesture. A realistic {argument name="web color" default="white"} spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.
+Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a {argument name="aspect ratio" default="panoramic 21:9"} format. Use a seamless studio background matching the {argument name="background color" default="dominant color of the product"} with a soft radial gradient and subtle vignette. On the far left, place a {argument name="hand gesture" default="generic red web-pattern glove performing a web-shooting hand gesture"}. A realistic white spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -4194,13 +4431,13 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431301955_l692ea_HPZ-iD6bMAAwf-F.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Spider-Web Product Ad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786518697805_jwa3cd_HPZ-iD6bMAAwf-F.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Product Advertisement with Spider Web - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431301978_odynhz_HPZ-ikwacAArGuQ.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Spider-Web Product Ad - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786518698084_80d9zk_HPZ-ikwacAArGuQ.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Product Advertisement with Spider Web - Image 2">
 </div>
 
 #### 📌 Chi tiết
@@ -4214,7 +4451,115 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 
 ---
 
-### No. 83: Tiếp thị sản phẩm - Mixed Media Fashion Studio Art
+### No. 87: Tiếp thị sản phẩm - Cinematic Amateur Fashion Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Generates a high-end fashion editorial portrait with a raw, flash-driven aesthetic and detailed cinematic lighting specifications.
+
+#### 📝 Câu lệnh
+
+```
+Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotionally intense portrait photography, raw flash-driven beauty editorial with authentic imperfect atmosphere. A breathtaking woman in her {argument name="woman age" default="early 20s"} and a man sitting on soft green grass. **Woman ({argument name="hair color" default="Platinum Blonde"}):** Athletic yet feminine physique, defined collarbones, elegant neck, long toned legs, naturally sculpted body lines. Deep expressive eyes with realistic iris texture, soft confident gaze, minimal high-end editorial makeup, authentic facial asymmetry and micro skin detail. Messy lived-in {argument name="hair color" default="platinum blonde"} hair. **Man:** Tall masculine build with a strong and confident posture. Calm, intense masculine expression. (Face will be referenced separately.) Clothing: **Man:** Brown linen trousers and a blue silky shirt with sleeves rolled up to the elbows. Soft elegant fabric. Small gold ITOUCH embroidery on the shirt cuff. **Woman:** Fitted denim jeans and a soft pink shirt. Casual yet stylish. Soft gold ITOUCH monogram near the shirt collar. Pose & Composition: **Man:** Sitting on the green grass. One knee raised with the foot planted on the ground, elbow resting on that raised knee close to his chest. The other leg bent and resting on the grass. Strong, masculine and relaxed posture, looking toward the camera with calm intensity. **Woman:** Reclining / lying against his raised knee, upper body resting on his thigh, arms gently wrapped or relaxed around his leg. Chin slightly tilted, looking toward the camera with soft confidence. Natural and intimate connection. Lighting: Soft natural daylight mixed with gentle front flash. Beautiful rim lighting on both, soft specular highlights on skin and fabric, natural outdoor glow. Deep f/8 aperture keeping skin texture, fabric details, ITOUCH branding and grass details razor sharp. Background & Setting: Lush green grass field in a peaceful outdoor location. Soft natural environment, distant trees or open sky, calm and luxurious vacation atmosphere. Skin rendering: Extreme micro-detail realism, visible pores, natural peach fuzz, subtle natural glow with light sheen, subsurface scattering, tiny imperfections. Hair: Woman: Messy lived-in {argument name="hair color" default="platinum blonde"} hair with soft natural movement. Man: Short textured dark hair with slight natural volume. Color grading: Soft pink + blue + brown + fresh green tones + warm natural light, heavy cinematic grain, beautiful skin warmth, analog tonal response. Camera: Canon EOS R5, 50mm lens, direct flash attachment, slightly low amateur-fashion perspective, high-resolution RAW aesthetic. Atmosphere: Relaxed and intimate outdoor editorial. Masculine calm presence with soft feminine energy, natural connection, cinematic realism.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344497831_m9jy1g_HPS7o1VW8AAZs6b.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Amateur Fashion Editorial - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344497720_np935v_HPS7pJsW4AA9toI.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Amateur Fashion Editorial - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344498022_a9rb8h_HPS7pcnXMAAIOEr.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Amateur Fashion Editorial - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344498573_8pa1rw_HPS7pv9WsAEE_ER.jpg" width="600" alt="Tiếp thị sản phẩm - Cinematic Amateur Fashion Editorial - Image 4">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Aytaç Altıntepe](https://x.com/aytacaltintepe)
+- **Nguồn:** [Twitter Post](https://x.com/aytacaltintepe/status/2086498858532479331)
+- **Đã xuất bản:** 9 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30938)**
+
+---
+
+### No. 88: Tiếp thị sản phẩm - Emerald Evening Dress Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+A highly detailed prompt for generating a photorealistic fashion editorial image of a woman in an emerald-green dress taking a mirror selfie in a luxury interior.
+
+#### 📝 Câu lệnh
+
+```
+Subject description:
+A Young woman with a refined, natural appearance and {argument name="skin tone" default="fair-to-light"} skin tone. She has long, softly wavy light-brown/blonde hair gathered into a relaxed low ponytail, with a few loose strands framing her face. Her complexion has realistic natural texture, subtle makeup, softly defined eyebrows, and a calm, thoughtful expression. She is looking toward her smartphone screen while taking a mirror photograph. Her posture is relaxed and poised, seated gracefully with her shoulders naturally positioned and her body turned slightly toward the mirror.
+
+Clothing & accessories:
+She wears an {argument name="dress style" default="elegant emerald-green and ivory patterned evening dress"} with flowing fabric, intricate curved geometric detailing, and subtle shimmering texture. The dress has a sophisticated floor-length silhouette and tasteful styling suitable for a fashion editorial. She carries a modern dark-colored smartphone while taking the mirror photograph. Add minimal elegant jewelry, such as a delicate bracelet and small understated earrings. Keep the overall styling polished, sophisticated, and fashion-focused.
+
+Environment & lighting:
+A {argument name="interior style" default="luxurious contemporary interior"} featuring large marble-effect wall panels framed by dark architectural trim. A full-length mirror occupies the right side of the composition, creating a realistic reflection. The floor has a subtle wood texture, complementing the cool marble surroundings. Soft diffused indoor lighting illuminates the subject evenly, while gentle highlights emphasize the texture and shimmer of the green-and-ivory fabric. The atmosphere should feel sophisticated, quiet, modern, and editorial.
+
+Camera & visual style:
+Photorealistic luxury fashion photography, 85mm portrait lens, vertical composition, realistic mirror perspective, soft diffused lighting, shallow depth of field, natural skin texture, highly detailed hair strands, realistic fabric texture, accurate reflections, balanced exposure, subtle cinematic color grading, refined neutral tones with emerald-green accents, professional editorial photography, high dynamic range, crisp focus, realistic proportions, ultra-high detail, high-resolution finish.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344500197_ch78wy_HPSToJibMAIIb2h.jpg" width="600" alt="Tiếp thị sản phẩm - Emerald Evening Dress Fashion Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344500167_qfdetp_HPSTqyYaIAAbS51.jpg" width="600" alt="Tiếp thị sản phẩm - Emerald Evening Dress Fashion Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344500580_tzcjl5_HPSTr4VaoAA1YTC.jpg" width="600" alt="Tiếp thị sản phẩm - Emerald Evening Dress Fashion Portrait - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **Nguồn:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086454923294896427)
+- **Đã xuất bản:** 9 tháng 8, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30940)**
+
+---
+
+### No. 89: Tiếp thị sản phẩm - Mixed Media Fashion Studio Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4248,7 +4593,7 @@ A vibrant mixed media composition blending high-end studio fashion photography w
 
 ---
 
-### No. 84: Tiếp thị sản phẩm - Tropical Fashion Editorial Portrait
+### No. 90: Tiếp thị sản phẩm - Tropical Fashion Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4310,7 +4655,7 @@ Low-angle full-body fashion photograph, camera positioned slightly below the sub
 
 ---
 
-### No. 85: Tiếp thị sản phẩm - Luxury Rooftop Blue Hour Portrait
+### No. 91: Tiếp thị sản phẩm - Luxury Rooftop Blue Hour Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4350,7 +4695,7 @@ A photorealistic luxury rooftop lifestyle portrait of a young woman during blue 
 
 ---
 
-### No. 86: Tiếp thị sản phẩm - Surreal Botanical Couture Fashion Editorial
+### No. 92: Tiếp thị sản phẩm - Surreal Botanical Couture Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4476,7 +4821,7 @@ A surreal high-fashion editorial prompt featuring a gown made of living saffron 
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - Industrial Loft Fashion Editorial
+### No. 93: Tiếp thị sản phẩm - Industrial Loft Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4522,7 +4867,7 @@ A photorealistic editorial lifestyle portrait of a young woman in a sophisticate
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - Superhero Soda Promotional Posters
+### No. 94: Tiếp thị sản phẩm - Superhero Soda Promotional Posters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4639,7 +4984,7 @@ A series of conceptual prompts for creating cinematic movie posters featuring Ma
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Product in Ice Cube Minimalist
+### No. 95: Tiếp thị sản phẩm - Product in Ice Cube Minimalist
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4673,7 +5018,7 @@ A simple product photography prompt used to compare Grok Imagine 2.0 and Nano Ba
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - Y2K Paparazzi Luxury Hair Shot
+### No. 96: Tiếp thị sản phẩm - Y2K Paparazzi Luxury Hair Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4707,7 +5052,7 @@ Use the uploaded photo as the exact facial reference and preserve the person’s
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Luxury Water Bottle Product Photography
+### No. 97: Tiếp thị sản phẩm - Luxury Water Bottle Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4747,7 +5092,7 @@ Ultra-realistic luxury commercial product photography of a {argument name="produ
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - Futuristic Retro Fashion Editorial
+### No. 98: Tiếp thị sản phẩm - Futuristic Retro Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4797,7 +5142,7 @@ The final result should resemble a rare experimental fashion editorial discovere
 
 ---
 
-### No. 93: Tiếp thị sản phẩm - Paris Sunset Balcony Lifestyle Editorial
+### No. 99: Tiếp thị sản phẩm - Paris Sunset Balcony Lifestyle Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4841,7 +5186,7 @@ A detailed JSON prompt for generating a romantic lifestyle editorial of a woman 
 
 ---
 
-### No. 94: Tiếp thị sản phẩm - Luxury Tennis Court Fashion Editorial
+### No. 100: Tiếp thị sản phẩm - Luxury Tennis Court Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4885,7 +5230,7 @@ Negative prompt: different face, identity change, face drift from reference, alt
 
 ---
 
-### No. 95: Tiếp thị sản phẩm - Summer Skincare Product Photography
+### No. 101: Tiếp thị sản phẩm - Summer Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4937,7 +5282,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-### No. 96: Tiếp thị sản phẩm - Luxury French Riviera Lifestyle Photography
+### No. 102: Tiếp thị sản phẩm - Luxury French Riviera Lifestyle Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4980,7 +5325,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 97: Tiếp thị sản phẩm - Nano Banana Pro Product Collage
+### No. 103: Tiếp thị sản phẩm - Nano Banana Pro Product Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5020,7 +5365,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 98: Hình ảnh chính thương mại điện tử - Bao bì đồ chơi sưu tầm cách điệu
+### No. 104: Hình ảnh chính thương mại điện tử - Bao bì đồ chơi sưu tầm cách điệu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5072,7 +5417,7 @@ Biến {argument name="subject" default="nhân vật"} thành một món đồ c
 
 ---
 
-### No. 99: Hình ảnh chính thương mại điện tử - Chuyển đổi hình ảnh sản phẩm sang phong cách studio cao cấp
+### No. 105: Hình ảnh chính thương mại điện tử - Chuyển đổi hình ảnh sản phẩm sang phong cách studio cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5124,7 +5469,7 @@ Chuyển đổi studio sản phẩm, {argument name="action" default="tách sả
 
 ---
 
-### No. 100: Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm chăm sóc da cao cấp
+### No. 106: Hình ảnh chính thương mại điện tử - Quảng cáo sản phẩm chăm sóc da cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5176,7 +5521,7 @@ Quảng cáo sản phẩm chăm sóc da cao cấp với {argument name="product"
 
 ---
 
-### No. 101: Hình ảnh chính thương mại điện tử - Chuyển đổi mô hình 3D thành ảnh render sản phẩm chân thực
+### No. 107: Hình ảnh chính thương mại điện tử - Chuyển đổi mô hình 3D thành ảnh render sản phẩm chân thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5210,7 +5555,7 @@ Tạo một bản render ảnh chân thực chất lượng studio từ thiết 
 
 ---
 
-### No. 102: Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp
+### No. 108: Hình ảnh chính thương mại điện tử - Master Prompt cho Cụm Sản phẩm Cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5274,7 +5619,7 @@ Máy ảnh: phong cách ống kính macro, độ sâu trường ảnh nông, khu
 
 ---
 
-### No. 103: Hình ảnh chính thương mại điện tử - Kết cấu màn hình máy tính chụp cận cảnh (Macro)
+### No. 109: Hình ảnh chính thương mại điện tử - Kết cấu màn hình máy tính chụp cận cảnh (Macro)
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5308,7 +5653,7 @@ Một câu lệnh (prompt) chụp ảnh macro cực cận để ghi lại cấu 
 
 ---
 
-### No. 104: Hình ảnh chính thương mại điện tử - Ảnh chân dung studio với phong cách denim thường ngày
+### No. 110: Hình ảnh chính thương mại điện tử - Ảnh chân dung studio với phong cách denim thường ngày
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5342,7 +5687,7 @@ Một câu lệnh (prompt) tạo ảnh chân dung studio chất lượng cao t�
 
 ---
 
-### No. 105: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm tối giản trên đồi cỏ
+### No. 111: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm tối giản trên đồi cỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5394,7 +5739,7 @@ Chụp ảnh sản phẩm tối giản, {argument name="subject" default="sản 
 
 ---
 
-### No. 106: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm phong cách biên tập trên phiến đá ướt
+### No. 112: Hình ảnh chính thương mại điện tử - Ảnh chụp sản phẩm phong cách biên tập trên phiến đá ướt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5434,7 +5779,7 @@ Gợi ý chụp ảnh studio macro cho các sản phẩm trên phiến đá đen
 
 ---
 
-### No. 107: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm phong cách sống bên bờ biển
+### No. 113: Hình ảnh chính thương mại điện tử - Chụp ảnh sản phẩm phong cách sống bên bờ biển
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5468,7 +5813,7 @@ Một cô gái trẻ vui vẻ với {argument name="hair color" default="mái t�
 
 ---
 
-### No. 108: Hình ảnh chính thương mại điện tử - Chân dung studio tối giản của một chàng trai trẻ
+### No. 114: Hình ảnh chính thương mại điện tử - Chân dung studio tối giản của một chàng trai trẻ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5502,7 +5847,7 @@ Một câu lệnh (prompt) tạo ảnh chân dung studio chi tiết về một c
 
 ---
 
-### No. 109: Hình ảnh chính thương mại điện tử - Chụp ảnh thương mại sản phẩm chăm sóc da cao cấp
+### No. 115: Hình ảnh chính thương mại điện tử - Chụp ảnh thương mại sản phẩm chăm sóc da cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5544,7 +5889,7 @@ Chiến dịch chăm sóc da cao cấp siêu thực với cùng một người m
 
 ---
 
-### No. 110: Hình ảnh chính thương mại điện tử - Ảnh sản phẩm tai nghe tối giản cho thương mại điện tử
+### No. 116: Hình ảnh chính thương mại điện tử - Ảnh sản phẩm tai nghe tối giản cho thương mại điện tử
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5590,7 +5935,7 @@ Một hình ảnh thương mại điện tử chính cho {argument name="product
 
 ---
 
-### No. 111: Hình ảnh chính thương mại điện tử - Chiến dịch làm đẹp Hoa Anh Đào
+### No. 117: Hình ảnh chính thương mại điện tử - Chiến dịch làm đẹp Hoa Anh Đào
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5624,7 +5969,7 @@ Hình ảnh sản phẩm điện ảnh đầy mơ mộng cho chiến dịch chă
 
 ---
 
-### No. 112: Tài sản trò chơi - Clockpunk Miniature Greenhouse
+### No. 118: Tài sản trò chơi - Clockpunk Miniature Greenhouse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5658,7 +6003,7 @@ A detailed prompt for creating a whimsical miniature world featuring a grand bot
 
 ---
 
-### No. 113: Tài sản trò chơi - Baroque Gothic Knight Sculpture
+### No. 119: Tài sản trò chơi - Baroque Gothic Knight Sculpture
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5705,7 +6050,7 @@ A highly decorative baroque-style gothic sculpture of a knight statue standing i
 
 ---
 
-### No. 114: Tài sản trò chơi - Spiderman Skyscraper Editorial Portrait
+### No. 120: Tài sản trò chơi - Spiderman Skyscraper Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5785,296 +6130,13 @@ A complex JSON prompt for a photorealistic superhero editorial featuring Spiderm
 
 ---
 
-### No. 115: Tài sản trò chơi - Búp bê Voodoo bằng vải bố khâu tay
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh mô tả cho búp bê voodoo bằng vải bố có kết cấu với các chi tiết khâu tỉ mỉ và ghim màu.
-
-#### 📝 Câu lệnh
-
-```
-Một {argument name="subject" default="búp bê voodoo bằng vải bố"} với một {argument name="heart detail" default="trái tim màu đỏ được khâu ở chính giữa"}. Búp bê có đôi mắt hình chữ thập màu đen và miệng được khâu lại. Một vài {argument name="pins" default="chiếc ghim được cắm vào búp bê: một ghim màu hồng ở chân trái, một ghim màu xanh dương ở chân phải và một ghim màu đỏ ở cánh tay phải"}. Búp bê được bao phủ bởi những đường khâu nhỏ giống như dấu gạch ngang, tạo nên vẻ ngoài đầy kết cấu.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654872886_nbjrwn_HOPXiqPWUAAiBWa.jpg" width="600" alt="Tài sản trò chơi - Búp bê Voodoo bằng vải bố khâu tay - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Heather Green](https://x.com/heathergreen)
-- **Nguồn:** [Twitter Post](https://x.com/heathergreen/status/2083707098479923473)
-- **Đã xuất bản:** 2 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30550)**
-
----
-
-### No. 116: Tài sản trò chơi - Nữ sinh lơ lửng trong bóng tối
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) đơn giản tạo không khí về một nữ sinh đang lơ lửng trong môi trường tối, làm nổi bật vẻ đẹp của nhân vật.
-
-#### 📝 Câu lệnh
-
-```
-{argument name="action" default="lơ lửng"} trong {argument name="lighting" default="bóng tối"}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654886415_t8vibg_HOq74l3a0AAl03b.jpg" width="600" alt="Tài sản trò chơi - Nữ sinh lơ lửng trong bóng tối - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [元荒川ちゃん❤](https://x.com/mtArakawa)
-- **Nguồn:** [Twitter Post](https://x.com/mtArakawa/status/2083685009299570866)
-- **Đã xuất bản:** 1 tháng 8, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30568)**
-
----
-
-### No. 117: Tài sản trò chơi - Nữ võ sĩ Samurai Nhật Bản trong bộ giáp đỏ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) chi tiết, chân thực cho bức chân dung đầy quyền năng của một người phụ nữ mặc bộ giáp samurai sơn mài màu đỏ truyền thống trong căn phòng tatami.
-
-#### 📝 Câu lệnh
-
-```
-Một {argument name="subject" default="người phụ nữ Đông Á"} trẻ tuổi tuyệt đẹp với làn da trắng sứ, đôi mắt hạnh sắc sảo và đôi môi đỏ mọng, mái tóc đen được búi gọn gàng theo kiểu truyền thống Nhật Bản, đang quỳ trong tư thế seiza trên chiếu tatami sáng màu, nhìn thẳng vào ống kính với biểu cảm dữ dội, đầy uy lực. Cô mặc bộ {argument name="outfit" default="giáp samurai (yoroi)"} sơn mài {argument name="armor color" default="màu đỏ"} tinh xảo với các chi tiết kim loại vàng và phù hiệu tròn trang trí công phu, các lớp vảy giáp chồng lên nhau ở phần vai (sode) và ngực (dō), dây lụa và tua rua màu đỏ, lớp lót lụa họa tiết hoa văn màu ngọc lam và vàng lộ ra ở phần tay áo và cổ áo, găng tay giáp (kote) và giáp đùi đồng bộ, váy giáp ngắn để lộ đùi, ủng giáp màu đỏ hồng. Một thanh katana với vỏ kiếm (saya) sơn mài đỏ rực đặt trên vai trái của cô. Ánh sáng tự nhiên trong nhà dịu nhẹ, {argument name="room background" default="phông nền căn phòng kiểu Nhật truyền thống với cuộn thư pháp treo tường"} và các cổ vật samurai bằng vàng, độ chân thực cao, thanh lịch và mạnh mẽ, bố cục điện ảnh, 8k
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118328_is0006_HOiZ4BVbgAAz8t7.jpg" width="600" alt="Tài sản trò chơi - Nữ võ sĩ Samurai Nhật Bản trong bộ giáp đỏ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118378_pzpmff_HOiZ4BEaYAAKukb.jpg" width="600" alt="Tài sản trò chơi - Nữ võ sĩ Samurai Nhật Bản trong bộ giáp đỏ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118517_3pu9l9_HOiZ4BHb0AAc5bn.jpg" width="600" alt="Tài sản trò chơi - Nữ võ sĩ Samurai Nhật Bản trong bộ giáp đỏ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568119350_0dlplk_HOiZ4BVbwAATxUE.jpg" width="600" alt="Tài sản trò chơi - Nữ võ sĩ Samurai Nhật Bản trong bộ giáp đỏ - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **Nguồn:** [Twitter Post](https://x.com/woleswoosh/status/2083281545742131563)
-- **Đã xuất bản:** 31 tháng 7, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30438)**
-
----
-
-### No. 118: Tài sản trò chơi - Phong cảnh đường mùa đông đậm chất điện ảnh
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh chi tiết để tạo ra khung cảnh mùa đông siêu thực, đầy tâm trạng với chiếc sedan cổ điển trên con đường rừng phủ đầy tuyết.
-
-#### 📝 Câu lệnh
-
-```
-Khung cảnh đường mùa đông siêu thực đậm chất điện ảnh, góc nhìn từ phía sau của {argument name="car style" default="chiếc sedan 4 cửa đời 1990 màu xanh bạc bám bụi"} đang chạy đơn độc dọc theo con đường rừng quanh co phủ đầy tuyết, hai bên là những hàng cây bạch dương và thông cao vút phủ sương giá, cành cây bao phủ bởi lớp tuyết trắng dày, vết lốp xe mờ trên mặt đường nhựa đóng băng, bầu trời chạng vạng màu tím xanh lạnh lẽo không thấy mặt trời, sương mù mùa đông tinh tế, làn sương mờ ảo ở phía xa, vùng hoang dã Bắc Âu tĩnh lặng, tâm trạng cô đơn và u buồn, kết cấu siêu chi tiết, phản chiếu chân thực trên cửa sổ xe, tuyết tích tụ tự nhiên, máy ảnh đặt thấp phía sau xe, bố cục chính giữa, ống kính góc rộng 24mm, ánh sáng thể tích, màu sắc trầm với tông màu điện ảnh tím oải hương và xanh dương, HDR, chiếu sáng toàn cục ray-traced, độ sâu trường ảnh, độ tương phản phim, 8K, Unreal Engine 5, chân thực như ảnh chụp, kiệt tác, chi tiết cao, lấy nét sắc nét, không có người, không có giao thông, dọc 9:16.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482586835_z9jxus_HOeF0Inb0AAH9D8.jpg" width="600" alt="Tài sản trò chơi - Phong cảnh đường mùa đông đậm chất điện ảnh - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482586577_b8o2se_HOeF1FFa8AAxt0r.jpg" width="600" alt="Tài sản trò chơi - Phong cảnh đường mùa đông đậm chất điện ảnh - Image 2">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [WeWant Mars](https://x.com/Madhuribhai)
-- **Nguồn:** [Twitter Post](https://x.com/Madhuribhai/status/2082780509772685555)
-- **Đã xuất bản:** 30 tháng 7, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30333)**
-
----
-
-### No. 119: Tài sản trò chơi - Chân dung thời trang hậu tận thế tại Paris
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh (prompt) có cấu trúc tinh tế để tạo ra bức chân dung thời trang cao cấp của một người phụ nữ trong bối cảnh thành phố Paris đổ nát, bao gồm cả tàn tích của tháp Eiffel.
-
-#### 📝 Câu lệnh
-
-```
-{
-  "subject": {
-    "description": "{argument name="subject description" default="Một người phụ nữ trẻ xinh đẹp với mái tóc vàng óng ả, làn da trắng và những đường nét nổi bật. Cô ấy có vóc dáng cân đối và quyến rũ."}",
-    "pose": "{argument name="pose" default="Đang ngồi trên bậc thang ngoài trời, một chân co lên, chân kia duỗi ra, nhìn thẳng vào ống kính với vẻ tự tin. Một tay đặt trên bậc thang bên cạnh."}",
-    "clothing": {
-      "main": "{argument name="clothing" default="Áo ngắn tay màu đen với các chi tiết điểm xuyết màu vàng và cổ khoét sâu, chân váy mini màu vàng kim loại, quần tất đen họa tiết và giày cao gót đế xuồng màu vàng."}",
-      "modifications": "Thêm một chi tiết thêu chữ 'Keor' nhỏ, thanh lịch bằng phông chữ tinh tế trên viền hoặc gấu áo hoặc váy, có thể nhìn thấy một cách tinh tế."
-    }
-  },
-  "setting": {
-    "environment": "Thành phố Paris đổ nát hậu tận thế. Cô ấy đang ngồi trên những bậc thang bê tông phong hóa giữa các tòa nhà hoang tàn, mảnh vụn, một nửa tháp Eiffel và cảnh quan đô thị hoang vắng.",
-    "lighting": "Ánh sáng ban ngày tự nhiên đầy kịch tính với những bóng đổ mạnh."
-  },
-  "style": {
-    "photography": "Chân dung thời trang chân thực, độ phân giải cao với các chi tiết sắc nét trên da, tóc, vải và hậu cảnh thành phố đổ nát.",
-    "mood": "Táo bạo, tự tin và mang phong cách hậu tận thế.",
-    "composition": "Ảnh chụp toàn thân làm nổi bật tư thế trên nền cảnh quan thành phố bị phá hủy."
-  },
-  "full_prompt": "Chân dung chân thực của một người phụ nữ tóc vàng xinh đẹp đang ngồi trên bậc thang bê tông trong bối cảnh thành phố Paris đổ nát hậu tận thế. Cô ấy mặc áo đen với các chi tiết màu vàng và cổ khoét sâu, chân váy mini màu vàng kim loại, quần tất đen họa tiết và giày cao gót đế xuồng màu vàng. Thêm chi tiết thêu 'Keor' nhỏ thanh lịch trên viền trang phục. Ánh sáng ban ngày kịch tính, làn da, mái tóc, chất liệu vải và kết cấu hậu cảnh đô thị hoang tàn được thể hiện chi tiết cao."
-}
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944216_6rdone_HOZZKbjXMAEvNWf.jpg" width="600" alt="Tài sản trò chơi - Chân dung thời trang hậu tận thế tại Paris - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944260_1a2bhy_HOZZKbkWUAAc4Dg.jpg" width="600" alt="Tài sản trò chơi - Chân dung thời trang hậu tận thế tại Paris - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944260_anhjjf_HOZZKbiXgAAq_m9.jpg" width="600" alt="Tài sản trò chơi - Chân dung thời trang hậu tận thế tại Paris - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395945285_qi2pte_HOZZKbsXoAA1t2L.jpg" width="600" alt="Tài sản trò chơi - Chân dung thời trang hậu tận thế tại Paris - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [KeorUnreal](https://x.com/KeorUnreal)
-- **Nguồn:** [Twitter Post](https://x.com/KeorUnreal/status/2082449930132533671)
-- **Đã xuất bản:** 29 tháng 7, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=30216)**
-
----
-
-### No. 120: Tài sản trò chơi - Tranh biếm họa CGI Avengers
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Biến các nhân vật Avengers thành những kiệt tác tranh biếm họa CGI 3D siêu thực và bóng bẩy.
-
-#### 📝 Câu lệnh
-
-```
-{argument name="subject" default="Avengers: Doomsday"} nhưng dưới dạng một kiệt tác tranh biếm họa CGI 3D siêu thực và bóng bẩy.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137830440_66lfko_HOLCXs2bIAAMgxL.jpg" width="600" alt="Tài sản trò chơi - Tranh biếm họa CGI Avengers - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137831013_g7bj7k_HOLCXshbMAA3Y2x.jpg" width="600" alt="Tài sản trò chơi - Tranh biếm họa CGI Avengers - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137830502_m7n9bh_HOLCXsjaoAAYt2L.jpg" width="600" alt="Tài sản trò chơi - Tranh biếm họa CGI Avengers - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137831691_iplb1u_HOLCXsgaMAE_b3q.jpg" width="600" alt="Tài sản trò chơi - Tranh biếm họa CGI Avengers - Image 4">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
-- **Nguồn:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2081440154850677090)
-- **Đã xuất bản:** 26 tháng 7, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=29841)**
-
----
-
 ---
 
 ## 📚 Thêm câu lệnh có sẵn
 
 <div align="center">
 
-### 🎯 15026 câu lệnh khác không hiển thị ở đây
+### 🎯 15038 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6137,6 +6199,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-12T04:32:14.907Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-08-13T04:34:02.877Z</sub>
 
 </div>

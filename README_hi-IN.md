@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15146** |
+| 📝 कुल प्रॉम्पट्स | **15158** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **बुधवार, 12 अगस्त 2026 को 4:32:20 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **गुरुवार, 13 अगस्त 2026 को 4:34:08 am UTC बजे** |
 
 </div>
 
@@ -654,7 +654,122 @@ AI समाचार सामग्री को हाथ से बने, �
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: प्रोफ़ाइल / अवतार - Candid Arcade Claw Machine Portrait
+### No. 1: प्रोफ़ाइल / अवतार - Glacial Ice Warrior Facial Transformation
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A complex image-to-image prompt for transforming a portrait into a supernatural ice warrior while preserving the user's facial identity.
+
+#### 📝 प्रॉम्पट
+
+```
+Use my uploaded photo as the EXACT facial identity reference. Preserve my real identity with extremely high accuracy. Keep my facial structure, face shape, forehead, eyes, eyebrows, nose, lips, jawline, cheekbones, beard/facial hair, skin texture, and natural proportions recognizable and consistent with my reference photo.
+
+Transform me into an ultra-realistic {argument name="warrior style" default="ancient glacial ice warrior"}, inspired by a terrifying supernatural frozen king. Do NOT replace my face with another person's face. My face must remain clearly recognizable as me.
+
+COMPOSITION:
+Create a dramatic cinematic vertical 4:5 portrait. Head-and-shoulders framing, centered composition, facing directly toward the camera. The camera is positioned at eye level with a slightly intimidating perspective. Strong symmetrical facial composition. My expression is cold, powerful, intimidating and emotionless, with an intense supernatural stare.
+
+GLACIAL TRANSFORMATION:
+My skin appears extremely pale, frozen and slightly translucent, as if my entire body has been exposed to centuries of supernatural winter. Preserve realistic human skin anatomy underneath the transformation.
+
+Cover parts of my face with naturally formed translucent white-blue ice. Create intricate frozen textures around the forehead, temples, cheekbones, eyebrows, beard and jaw. The ice should look physically attached to my skin, with realistic thickness, transparency, frost crystals, tiny cracks and subtle internal depth.
+
+Do not completely cover my face. My facial identity must remain visible and recognizable.
+
+EYES:
+Make my eyes extremely striking and supernatural while retaining the original shape and proportions of my eyes. One eye can have an icy electric-blue glow while the other has a subtle pale amber/orange supernatural glow. The glow must be realistic and integrated into the eyes, not cartoonish.
+
+HAIR:
+Transform my real hairstyle into long, thick, windswept frozen hair while preserving the general character of my original hair. Hair should appear naturally coated with frost and tiny ice crystals. Individual strands must remain highly detailed and photorealistic.
+
+FACIAL ICE:
+Add dramatic frozen formations around portions of the forehead, cheekbones and jaw. Create thin translucent ice sheets, frost patterns and delicate icicles extending naturally from the beard/jaw area.
+
+MOUTH / LOWER FACE:
+Create a dark supernatural frozen respirator-like ice formation over the lower mouth and chin area, constructed entirely from translucent white and blue ice. It should feel organically grown from the frozen environment rather than like a manufactured mask. Keep enough of my facial structure visible to maintain my identity.
+
+CLOTHING:
+Transform my clothing into a dark ancient winter-warrior outfit covered with layers of frost and translucent ice. Add realistic frozen fabric, icy armor-like textures and subtle crystalline details around the shoulders and neck.
+
+ENVIRONMENT:
+Place me in a mass
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518700653_f7yjsl_HPdBZUybkAAD9M2.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Glacial Ice Warrior Facial Transformation - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Snow](https://x.com/iamrealsnow)
+- **स्रोत:** [Twitter Post](https://x.com/iamrealsnow/status/2087208873648406610)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31155)**
+
+---
+
+### No. 2: प्रोफ़ाइल / अवतार - Botanical Bedroom Selfie Cosplay
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+An ultra-realistic selfie-style portrait prompt for a cosplayer in a plant-themed swimsuit, set in a detailed botanical bedroom.
+
+#### 📝 प्रॉम्पट
+
+```
+{ "subject": { "description": "Young woman brunette posing confidently. Long hair styled in a casual high ponytail with soft face-framing strands. Smooth luminous skin with realistic texture, faint freckles, natural makeup, winged eyeliner, defined lashes, softly contoured cheeks, hydrated glossy lips, and delicate silver hoop earrings. Thin necklace resting on the collarbone.", "pose": "Close-up wide-angle smartphone selfie perspective with one arm extended toward the camera. Leaning forward slightly with shoulders drawn back in an elegant S-curve posture. Head tilted slightly backward and to the side, chin raised. Soft and flirtatious expression with half-lidded eyes and a subtle confident smirk.", "clothing": { "main": "Fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, smooth stretch fabric, and sleek minimalist design. Features bold leaf symbols and vine-inspired details. Small elegant 'Keor' embroidery on the border. Paired with matching neon green stockings.", "style": "Contours naturally to the body with realistic fabric tension and soft folds around the waist and torso." } }, "setting": { "environment": "Botanical home room — cluttered teenage bedroom with posters of plants, vines and science, a messy desk with notebooks and gadgets, a bed with tangled sheets, bookshelves, and personal belongings creating an authentic lived-in atmosphere.", "lighting": "Soft natural daylight from a nearby window, warm neutral color grading, gentle shadows, smooth skin highlights, realistic light falloff." }, "style": { "photography": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer, high-end lifestyle photography, smartphone camera realism, 35mm equivalent lens, HDR, photorealistic, fashion-editorial quality, ultra-detailed, 8K resolution, no anime style, no posterized effects.", "mood": "Confident, glamorous, and self-assured.", "composition": "Close-up wide-angle POV selfie, camera slightly below face level and angled upward." }, "full_prompt": "Ultra-realistic selfie-style fashion portrait of a photorealistic cosplayer brunette posing confidently in a botanical home room. She wears a fitted green plant-themed one-piece swimsuit with thin spaghetti straps, deep V-neckline, bold leaf symbols and vine-inspired details, plus a small 'Keor' embroidery, and neon green stockings. High ponytail, soft flirtatious expression, one arm extended for a POV selfie. Soft natural daylight, detailed bedroom with plant and science posters and cluttered desk in the background. Photorealistic, 8K, sharp focus, natural skin texture, no anime style, no posterized image." }
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703580_ned4g7_HPcZ2vsXIAA8Vi5.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Botanical Bedroom Selfie Cosplay - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703385_o8kli4_HPcZ330XUAA8BaE.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Botanical Bedroom Selfie Cosplay - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703370_kcrw7h_HPcZ45qWkAAMzI7.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Botanical Bedroom Selfie Cosplay - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703989_ov14k7_HPcZ53TWwAAPTOY.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Botanical Bedroom Selfie Cosplay - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [KeorUnreal](https://x.com/KeorUnreal)
+- **स्रोत:** [Twitter Post](https://x.com/KeorUnreal/status/2087165449741988241)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31158)**
+
+---
+
+### No. 3: प्रोफ़ाइल / अवतार - Candid Arcade Claw Machine Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -688,7 +803,7 @@ A vibrant candid photograph of a young woman at a {argument name="arcade machine
 
 ---
 
-### No. 2: प्रोफ़ाइल / अवतार - Realistic lifestyle selfie of a young woman
+### No. 4: प्रोफ़ाइल / अवतार - Realistic lifestyle selfie of a young woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -734,7 +849,7 @@ Ultra-realistic high-resolution lifestyle selfie of a {argument name="subject" d
 
 ---
 
-### No. 3: प्रोफ़ाइल / अवतार - East Asian Woman in Modern Apartment Portrait
+### No. 5: प्रोफ़ाइल / अवतार - East Asian Woman in Modern Apartment Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -786,7 +901,7 @@ A young {argument name="ethnicity" default="East Asian woman"} in her {argument 
 
 ---
 
-### No. 4: प्रोफ़ाइल / अवतार - Desert Sunset Portrait Photography
+### No. 6: प्रोफ़ाइल / अवतार - Desert Sunset Portrait Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -840,7 +955,7 @@ Set against an expansive desert dune landscape at sunset, the rich ripple textur
 
 ---
 
-### No. 5: प्रोफ़ाइल / अवतार - Cozy Indoor Headphones Lifestyle Portrait
+### No. 7: प्रोफ़ाइल / अवतार - Cozy Indoor Headphones Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -880,7 +995,7 @@ Photorealistic lifestyle portrait of a young woman sitting casually indoors agai
 
 ---
 
-### No. 6: प्रोफ़ाइल / अवतार - Lifestyle Yoga Indoor Portrait
+### No. 8: प्रोफ़ाइल / अवतार - Lifestyle Yoga Indoor Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -930,7 +1045,7 @@ Camera & style: Photorealistic editorial lifestyle photography, 35mm lens, low b
 
 ---
 
-### No. 7: प्रोफ़ाइल / अवतार - Athletic Lifestyle Sports Court Portrait
+### No. 9: प्रोफ़ाइल / अवतार - Athletic Lifestyle Sports Court Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -980,7 +1095,7 @@ Photorealistic professional lifestyle photography, 50mm lens, vertical portrait 
 
 ---
 
-### No. 8: प्रोफ़ाइल / अवतार - East Asian Fashion Portrait on Sofa
+### No. 10: प्रोफ़ाइल / अवतार - East Asian Fashion Portrait on Sofa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1034,7 +1149,7 @@ She wears a {argument name="sweater color" default="burgundy/wine-red"} open-kni
 
 ---
 
-### No. 9: प्रोफ़ाइल / अवतार - Cozy Bedroom Morning Portrait
+### No. 11: प्रोफ़ाइल / अवतार - Cozy Bedroom Morning Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1086,7 +1201,7 @@ Photorealistic portrait of a cute young East Asian woman in her early 20s sittin
 
 ---
 
-### No. 10: प्रोफ़ाइल / अवतार - Candid College Celebrity Portrait
+### No. 12: प्रोफ़ाइल / अवतार - Candid College Celebrity Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1138,7 +1253,7 @@ Ultra-photorealistic candid daily-life portrait of {argument name="celebrity nam
 
 ---
 
-### No. 11: प्रोफ़ाइल / अवतार - Double-Exposure Scrapbook Portrait Composite
+### No. 13: प्रोफ़ाइल / अवतार - Double-Exposure Scrapbook Portrait Composite
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1193,7 +1308,7 @@ Gnrat ratio 3:4
 
 ---
 
-### No. 12: प्रोफ़ाइल / अवतार - Burgundy Hair Portrait in Park
+### No. 14: प्रोफ़ाइल / अवतार - Burgundy Hair Portrait in Park
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1245,7 +1360,7 @@ A photorealistic portrait of a beautiful young East Asian woman with {argument n
 
 ---
 
-### No. 13: प्रोफ़ाइल / अवतार - Intimate Sleeping Portrait Photography
+### No. 15: प्रोफ़ाइल / अवतार - Intimate Sleeping Portrait Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1285,7 +1400,7 @@ Intimate, medium-close portrait photograph capturing {argument name="first perso
 
 ---
 
-### No. 14: प्रोफ़ाइल / अवतार - Hyper-Realistic Skin Detail Portrait
+### No. 16: प्रोफ़ाइल / अवतार - Hyper-Realistic Skin Detail Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1318,7 +1433,7 @@ Use the exact same face from the reference image and generate an obsessive skin 
 
 ---
 
-### No. 15: प्रोफ़ाइल / अवतार - Cinematic Night Sea Portrait
+### No. 17: प्रोफ़ाइल / अवतार - Cinematic Night Sea Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1372,7 +1487,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 16: प्रोफ़ाइल / अवतार - पानी के नीचे का मैक्रो फेस पोर्ट्रेट
+### No. 18: प्रोफ़ाइल / अवतार - पानी के नीचे का मैक्रो फेस पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1412,7 +1527,7 @@ Aspect ratio: 9:16.
 
 ---
 
-### No. 17: प्रोफ़ाइल / अवतार - विंटेज मस्टर्ड ड्रेस पोर्ट्रेट
+### No. 19: प्रोफ़ाइल / अवतार - विंटेज मस्टर्ड ड्रेस पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1461,74 +1576,6 @@ Aspect ratio: 9:16.
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30552)**
-
----
-
-### No. 18: प्रोफ़ाइल / अवतार - गोल्डन आवर में कैंडिड पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एक आरामदायक बेडरूम सेटिंग में एक युवती का गर्मजोशी भरा और स्वप्निल क्लोज़-अप पोर्ट्रेट, जिसमें प्राकृतिक रोशनी और फिल्म जैसा टेक्सचर है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक {argument name="subject" default="युवा एशियाई महिला"} का क्लोज़-अप पोर्ट्रेट, जिसके बाल काले हैं और उसने {argument name="hairstyle" default="मेसी बन"} बनाया हुआ है, जिसमें चेहरे के पास कुछ लटें खुली हैं। वह एक आँख से शरारतपूर्ण तरीके से विंक कर रही है और कैमरे की ओर अपना हाथ बढ़ाकर फ्लाइंग किस दे रही है। हल्की कैंडिड मुस्कान, बैकग्राउंड में ब्लाइंड्स से आती हुई गर्म सुनहरी धूप, बेज रंग की दीवार पर पोलरॉइड तस्वीरें लगी हुई हैं और एक गमले वाला पौधा बैकग्राउंड में हल्के धुंधलेपन के साथ दिखाई दे रहा है। उसने एक {argument name="outfit" default="ओवरसाइज़्ड क्रीम/ऑफ-व्हाइट टी-शर्ट"} और गले में एक पतली सोने की चेन पहनी है। शैलो डेप्थ ऑफ फील्ड, गर्म और स्वप्निल कलर ग्रेडिंग, प्राकृतिक फिल्म जैसा टेक्सचर, सॉफ्ट डिफ्यूज्ड लाइटिंग, अंतरंग और कैंडिड मूड, 50mm लेंस पर शूट किया गया, शैलो बोकेह
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654873250_793wqw_HOo6aT8asAA9jiV.jpg" width="600" alt="प्रोफ़ाइल / अवतार - गोल्डन आवर में कैंडिड पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Ahmad Faraz](https://x.com/iamahmedfaraz66)
-- **स्रोत:** [Twitter Post](https://x.com/iamahmedfaraz66/status/2083542009042915719)
-- **प्रकाशित:** 1 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30551)**
-
----
-
-### No. 19: प्रोफ़ाइल / अवतार - पेंटरली स्टूडियो पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-एम्बर आँखों वाली एक सुंदर महिला का सदाबहार, पेंटरली पोर्ट्रेट, जिसे हल्की गर्म स्टूडियो लाइटिंग में कैद किया गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-एक क्लासिक, सुंदर रूप वाली युवती का सिनेमाई, उच्च-विवरण वाला पोर्ट्रेट, जिसे {argument name="lighting" default="सॉफ्ट, वार्म स्टूडियो लाइटिंग"} के साथ कैद किया गया है। उसके {argument name="hair" default="हल्के सुनहरे बाल जिनकी जड़ें गहरे रंग की हैं"} हैं, जो एक अपडू स्टाइल में बंधे हैं और चेहरे के आसपास कुछ लटें खुली हैं। उसकी आकर्षक एम्बर-भूरी आँखें विचारमग्न होकर एक तरफ देख रही हैं, और उसके चेहरे के भाव सौम्य और चिंतनशील हैं। उसने एक {argument name="outfit" default="म्यूट मॉव-पिंक लेस ड्रेस"} पहनी है, जिसके साथ मैचिंग फैब्रिक चोकर और नाजुक चांदी के हार और झुमके हैं। बैकग्राउंड एक गहरा, मूडी और टेक्सचर्ड स्टूडियो बैकड्रॉप है, जो इस शॉट की सदाबहार, पेंटरली गुणवत्ता को और बढ़ाता है।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654876134_38h849_HOodhXeXIAAmKEC.jpg" width="600" alt="प्रोफ़ाइल / अवतार - पेंटरली स्टूडियो पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Minahil](https://x.com/Minahil42298354)
-- **स्रोत:** [Twitter Post](https://x.com/Minahil42298354/status/2083510252150849639)
-- **प्रकाशित:** 1 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30556)**
 
 ---
 
@@ -1582,14 +1629,388 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - Photorealistic Women Theater Portrait
+### No. 21: सोशल मीडिया पोस्ट - Cozy Home Fitness Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A cinematic portrait prompt featuring two young women in an elegant theater, emphasizing candid interaction, detailed facial expressions, and sophisticated evening attire.
+A high-quality lifestyle portrait prompt designed for generating realistic indoor fitness scenes, focusing on natural lighting, detailed textures, and a candid atmosphere.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a photorealistic lifestyle portrait of an young woman seated comfortably on a compact indoor exercise machine in a cozy, modern home interior.
+
+1. Subject, hair, skin, expression, pose:
+A young woman with {argument name="hair style" default="long, naturally red/auburn hair"} styled in a high ponytail, with a few soft strands framing her face. Fair skin with realistic natural texture and subtle freckles. Light-colored eyes, neatly shaped eyebrows, and understated everyday makeup. She has a calm, slightly serious expression while looking directly toward the camera. She is seated upright on the exercise equipment with both knees comfortably raised and bent, maintaining a relaxed, balanced posture. One hand gently rests near the side of her hair while the other arm rests naturally beside her. Her pose should feel candid, casual, and comfortable rather than staged.
+
+2. Clothing and accessories:
+She wears a simple {argument name="top color" default="burgundy-red"} sleeveless athletic top layered naturally over a subtle gray underlayer, paired with fitted gray textured workout leggings. Add a delicate necklace with a small pendant. Keep the outfit practical, modest, contemporary, and suitable for light indoor exercise. No unnecessary accessories.
+
+3. Environment and lighting:
+Set the scene inside a warm, tidy residential room. Behind her is a large decorative framed artwork with a botanical-inspired pattern and metallic neutral accents. Include a small side cabinet with a clear glass vase containing soft blue and lavender flowers. The room has neutral walls, understated furniture, and a clean minimalist atmosphere. Use warm ambient indoor lighting combined with soft diffused illumination from the room, creating gentle highlights on the subject while preserving natural skin tones and realistic shadows.
+
+4. Camera / visual style:
+Photorealistic editorial lifestyle photography, vertical portrait composition, approximately 50mm lens, natural perspective, eye-level camera position, shallow-to-moderate depth of field, crisp facial details, realistic fabric textures, authentic skin texture, subtle background separation, balanced exposure, soft highlights, natural shadows, cinematic but believable color grading, high dynamic range, professional photography quality, ultra-detailed, realistic proportions, candid home-photography atmosphere.
+
+5. Overall direction:
+Keep the composition faithful to a casual indoor lifestyle photograph. Prioritize natural anatomy, realistic hands and feet, accurate facial proportions, authentic clothing folds, physically believable lighting, and detailed environmental textures.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699245_cpoq48_HPgIF3BaMAIG6t6.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cozy Home Fitness Lifestyle Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699534_b2h3j9_HPgIJvCaAAAimbc.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cozy Home Fitness Lifestyle Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699280_25qrjx_HPgIK0OaIAAxmid.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cozy Home Fitness Lifestyle Portrait - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **स्रोत:** [Twitter Post](https://x.com/Jodie_Noraa/status/2087427425626214673)
+- **प्रकाशित:** 12 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31152)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - Cinematic Studio Portrait with Parrots
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A striking studio portrait prompt featuring a woman holding vibrant parrots, emphasizing color contrast and soft lighting.
+
+#### 📝 प्रॉम्पट
+
+```
+A close up, studio portrait features a fair skinned woman with {argument name="hair color" default="dark brown/black hair"}, eyes closed, tenderly holding a flock of five small {argument name="bird color" default="teal & yellow"} parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699541_q2cdb8_HPfIhgyaYAA97x9.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Studio Portrait with Parrots - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699992_4n6qvs_HPfIiQYbIAAEvz3.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Studio Portrait with Parrots - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518699329_okg0xr_HPfIi6waAAAhraB.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Studio Portrait with Parrots - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518700590_ffn0kj_HPfIjkab0AA__Dx.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Studio Portrait with Parrots - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Maddox](https://x.com/Maddox_Digital)
+- **स्रोत:** [Twitter Post](https://x.com/Maddox_Digital/status/2087357477755195469)
+- **प्रकाशित:** 12 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31153)**
+
+---
+
+### No. 23: सोशल मीडिया पोस्ट - Dark Cinematic Window Lighting Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A sophisticated prompt designed for high-contrast indoor portraits where a single window serves as the sole light source, creating dramatic shadows and architectural geometry on the subject.
+
+#### 📝 प्रॉम्पट
+
+```
+Use the exact same face from the reference image and generate a dark cinematic portrait where a single window is the only light source in the world — the room in absolute darkness except for the precise column of natural light falling through the glass and striking the face with surgical beauty.
+
+The subject positioned close to a large window — body at a natural angle, one shoulder almost touching the window frame, the face turned partially toward the glass so the window light strikes at a precise 45 to 60 degree angle across the facial planes. Not standing formally — leaning very slightly, completely natural, the specific body language of someone drawn unconsciously toward the only light in a dark room. Wearing a {argument name="clothing" default="dark fitted turtleneck"} or {argument name="alternative clothing" default="heavy dark shirt"} — the clothing dissolving completely into the surrounding darkness, only the face and the very edge of the shoulder existing in the light.
+
+The window itself is the silent protagonist — large steel-framed industrial panes or old wooden-framed glass, the glass slightly imperfect with natural waviness creating very subtle light distortion, the exterior beyond the glass completely overcast or pre-dawn — a flat grey-white light source outside that is bright without being warm, cold natural daylight pressing through the glass into the dark interior. The window frame casting its own precise shadow geometry across the face and wall — the vertical and horizontal frame bars creating a cross-shadow pattern that falls across the cheek and forehead, the window grid shadow dividing the face into geometric light and shadow zones. The specific graphic beauty of window frame shadows on a human face — architectural geometry imposed on biological curves.
+
+Expression is the most quietly devastating yet — eyes directed toward the window light rather than the camera, not looking out but looking at the light itself, the specific expression of someone who has been sitting in darkness for a long time and is feeling the first light touch their face. Lips slightly parted, jaw completely relaxed, every guard completely down. The most private and human expression possible — caught in a moment of solitary communion with natural light.
+
+Skin at full forensic obsession under the specific quality of cold window light — the most honest and unforgiving light that exists, the flat grey natural light from an overcast exterior revealing every skin surface detail simultaneously from every direction without creating harsh shadows that obscure detail. Every individual pore in three-dimensional relief under the window light. Stubble hairs casting micro-shadows across the surrounding skin. The window frame shadow lines crossing the face — the skin texture equally visible in the light zones and the frame-shadow zones, the shadow not obscuring detail but simply darkening it. The specific way cold northern window light renders real skin
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518702570_686zhw_HPfEFjdbwAA1yAN.jpg" width="600" alt="सोशल मीडिया पोस्ट - Dark Cinematic Window Lighting Portrait - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **स्रोत:** [Twitter Post](https://x.com/Ozayrr_irl/status/2087352570620834241)
+- **प्रकाशित:** 12 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31156)**
+
+---
+
+### No. 24: सोशल मीडिया पोस्ट - Glamorous Marina Yacht Scene
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A jet-set luxury prompt featuring a high-fashion woman and a Porsche sports car in a sun-drenched exclusive marina.
+
+#### 📝 प्रॉम्पट
+
+```
+A glamorous scene unfolds in an exclusive marina on a bright, sunny day, radiating timeless elegance. A confident woman, exuding high-fashion cool and absolute self-assurance, perches on the glossy fender of a {argument name="car color" default="yellow"} {argument name="car model" default="Porsche cabrio sports car"} with black alloy wheels. She wears a striking {argument name="swimsuit color" default="pink"} one-piece swimsuit with white trim, paired with square-framed sunglasses, high-heeled slides, and gold jewelry. Direct midday sunlight strikes her from high from the front-right, highlighting her toned physique and creating defined shadows on the sun-baked cobblestones. The background is a crisp, clean backdrop of white luxury yachts with a written ‘Keor’ on it docked under a clear, deep cobalt blue sky. It is a stunning cinematic moment, capturing a narrative of timeless jet-set luxury and powerful, statuesque grace in a coastal paradise.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518703980_ni3ww4_HPd8fqnXsAAtew6.jpg" width="600" alt="सोशल मीडिया पोस्ट - Glamorous Marina Yacht Scene - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518704035_eli9bk_HPd8fqmXIAAeM7o.jpg" width="600" alt="सोशल मीडिया पोस्ट - Glamorous Marina Yacht Scene - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518704189_xsk983_HPd8fqnXMAITKut.jpg" width="600" alt="सोशल मीडिया पोस्ट - Glamorous Marina Yacht Scene - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518704732_0z1nbj_HPd8fqqWMAAfn3B.jpg" width="600" alt="सोशल मीडिया पोस्ट - Glamorous Marina Yacht Scene - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [KeorUnreal](https://x.com/KeorUnreal)
+- **स्रोत:** [Twitter Post](https://x.com/KeorUnreal/status/2087273846051385705)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31159)**
+
+---
+
+### No. 25: सोशल मीडिया पोस्ट - Cyberpunk Rainy Night Market
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A detailed cinematic prompt for generating a neon-drenched futuristic night market scene with atmospheric rain and reflections.
+
+#### 📝 प्रॉम्पट
+
+```
+Ultra-cinematic {argument name="theme" default="cyberpunk"} night market in a dense futuristic Asian megacity during heavy rain, viewed from street level. A lone mysterious figure in a long black hooded coat walks away from the camera through a crowded neon-lit alley, carrying a dark shoulder bag. Dozens of transparent umbrellas surround them, with silhouettes of pedestrians fading into the rainy haze. Towering buildings disappear into the dark storm clouds above, covered with layers of glowing neon signs in Japanese, Korean, Chinese and Thai-inspired typography, colorful holographic advertisements, hotel signs, restaurants, street stalls and underground shops.
+
+The wet asphalt is covered in puddles, creating perfect mirror-like reflections of electric blue, magenta, violet, cyan and warm orange neon lights. Steam rises from food stalls, rain falls visibly through the neon glow, subtle mist fills the distant streets, electrical cables stretch overhead, and atmospheric smoke creates incredible depth. A small glowing street-food sign in the foreground adds warm contrast.
+
+Photorealistic cinematic photography, {argument name="aesthetic" default="cyberpunk noir"}, Blade Runner-inspired atmosphere, moody dystopian aesthetic, volumetric lighting, dramatic rim lighting, realistic rain droplets, wet reflective surfaces, deep shadows, rich contrast, atmospheric perspective, extremely detailed architecture, realistic human silhouettes, natural imperfections, shallow depth of field, 35mm cinematic lens, low-angle street photography, HDR, film grain, ultra-realistic textures, 4K, masterpiece, highly immersive, vertical composition, no borders, no watermark, no modern text overlays.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518700933_2grudi_HPc7SB0bcAAICbS.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cyberpunk Rainy Night Market - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [WeWant Mars](https://x.com/Madhuribhai)
+- **स्रोत:** [Twitter Post](https://x.com/Madhuribhai/status/2087202144919400743)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31154)**
+
+---
+
+### No. 26: सोशल मीडिया पोस्ट - Faux Fur Fashion DSLR Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A stylized fashion portrait prompt for a hyper-realistic DSLR photo, featuring a subject in shaggy faux fur against a textured plush background.
+
+#### 📝 प्रॉम्पट
+
+```
+Create image of a hyper-realistic DSLR cinematic photo: focus on sharp facial features, dynamic pose and full-body, {argument name="subject" default="stylish young man in a shaggy brown/tan faux fur coat over a dark tee with a gold graphic"}. He wears {argument name="pants" default="shiny black faux leather pants, a black belt with a silver buckle, and layered silver chains/rings"}. The background is a {argument name="background" default="dense, soft, dusty pink, long-pile faux fur"}, filling the frame with textured blush color.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518698041_eoedd1_HPcTqwWWQAAfhxZ.jpg" width="600" alt="सोशल मीडिया पोस्ट - Faux Fur Fashion DSLR Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518698076_azrrnk_HPcTqwMXoAAMCLh.jpg" width="600" alt="सोशल मीडिया पोस्ट - Faux Fur Fashion DSLR Portrait - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Alex Prompts](https://x.com/AlexPromptsAI)
+- **स्रोत:** [Twitter Post](https://x.com/AlexPromptsAI/status/2087158841326686559)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31150)**
+
+---
+
+### No. 27: सोशल मीडिया पोस्ट - Action Snowboarder Mountain Shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A dynamic action prompt for generating a snowboarder carving through powder on a sunlit mountain slope.
+
+#### 📝 प्रॉम्पट
+
+```
+A dynamic action shot of a {argument name="subject" default="man snowboarder"} with a nice hairstyle wearing a modest, structured {argument name="outfit color" default="blue-and-white"} patterned athletic top with extended coverage, matching leggings, and a grey backpack, carving swiftly down a steep, sunlit snowy mountain slope under a brilliant blue sky, kicking up a dramatic spray of powdery snow crystals with cinematic lighting.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518702043_fzgms1_HPb_uOIWIAA76Hy.jpg" width="600" alt="सोशल मीडिया पोस्ट - Action Snowboarder Mountain Shot - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518702178_p94eus_HPb_uOJXAAAF53U.jpg" width="600" alt="सोशल मीडिया पोस्ट - Action Snowboarder Mountain Shot - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [H A J R A](https://x.com/codewithhajra)
+- **स्रोत:** [Twitter Post](https://x.com/codewithhajra/status/2087136651990442388)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31157)**
+
+---
+
+### No. 28: सोशल मीडिया पोस्ट - Garden Lifestyle Outdoor Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A high-resolution outdoor portrait prompt of a woman in a bright yellow outfit set in a lush garden environment with palm trees.
+
+#### 📝 प्रॉम्पट
+
+```
+Create a photorealistic, high-resolution outdoor lifestyle portrait of a fictional young woman sitting in a peaceful garden setting, capturing a bright summer atmosphere with a natural, elegant look.
+
+Subject description, hair, skin, expression and pose:
+A fictional young woman with fair skin and subtle natural freckles, featuring {argument name="hair color" default="long copper-red hair"} with soft waves flowing naturally down her back. Her hair has a slightly sunlit texture with a few loose strands around her face. She has light-colored eyes, naturally shaped eyebrows, delicate facial features, and a calm, thoughtful expression as she looks back toward the camera. She is seated comfortably on a large natural stone surface with a relaxed posture, her shoulders slightly turned and her hands resting naturally for a candid outdoor portrait. Maintain realistic anatomy, natural proportions, and an authentic relaxed mood.
+
+Clothing and accessories:
+She wears a simple, {argument name="outfit color" default="bright yellow"} one-piece summer outfit with a clean, minimal design and smooth fabric texture. Add subtle, minimal accessories such as a small bracelet or delicate necklace for a refined casual style. Keep the outfit tasteful, modern, and suitable for a sunny outdoor setting. Avoid visible logos or branding.
+
+Environment and lighting:
+Place her in a {argument name="background" default="beautifully landscaped garden with lush green hedges, palm trees, trimmed plants, and a modern outdoor area"} in the background. The subject sits on a textured natural stone surface surrounded by warm outdoor elements. Use bright natural sunlight with a clear blue sky, soft shadows from nearby trees, and gentle highlights on her hair and clothing. Create a fresh summer atmosphere with realistic colors and natural depth.
+
+Camera / photography style:
+Professional outdoor portrait photography, 85mm lens, medium-full body composition, eye-level perspective, shallow depth of field, realistic background blur, natural sunlight, cinematic color grading, high dynamic range, detailed skin texture, realistic hair strands, sharp focus on the subject, balanced exposure, warm summer tones, editorial lifestyle photography, ultra-high resolution, photorealistic quality.
+
+Composition and realism:
+Emphasize the contrast between the vibrant yellow outfit, green garden surroundings, and blue sky. Keep the image natural and realistic with accurate lighting, realistic fabric folds, detailed stone texture, and authentic facial expression.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518706777_a4u7ts_HPbfCCva4AAp0Ru.jpg" width="600" alt="सोशल मीडिया पोस्ट - Garden Lifestyle Outdoor Portrait - Image 1">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **स्रोत:** [Twitter Post](https://x.com/Jodie_Noraa/status/2087100878197268896)
+- **प्रकाशित:** 11 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31161)**
+
+---
+
+### No. 29: सोशल मीडिया पोस्ट - Cinematic Theater Event Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A highly detailed editorial portrait prompt for two women in elegant evening wear at a theater event, capturing a candid conversation with shallow depth of field and warm lighting.
 
 #### 📝 प्रॉम्पट
 
@@ -1597,17 +2018,17 @@ A cinematic portrait prompt featuring two young women in an elegant theater, emp
 Create a high-resolution, photorealistic cinematic portrait of two young women seated together in an elegant theater or private event setting, capturing a candid, natural interaction between them.
 
 Subject description: Woman 1:
-A young woman with fair-to-light skin and long, naturally wavy dark-brown hair styled loosely around her shoulders, with subtle face-framing strands. She has refined facial features, expressive dark eyes, natural eyebrows, and a calm but slightly skeptical expression, with her lips gently pressed together as she looks sideways toward her companion. She sits comfortably with a relaxed posture, her arms resting naturally, conveying a spontaneous candid moment.
+{argument name="first woman" default="A young woman with fair-to-light skin and long, naturally wavy dark-brown hair styled loosely around her shoulders, with subtle face-framing strands. She has refined facial features, expressive dark eyes, natural eyebrows, and a calm but slightly skeptical expression, with her lips gently pressed together as she looks sideways toward her companion."}
 
 Subject description: Woman 2:
-A young woman with fair skin, long copper-red hair flowing naturally over her shoulders and down her back, with soft waves and subtle texture. She has light-colored eyes, delicate facial features, and a warm, cheerful expression. She is turned slightly toward the first woman, smiling naturally as if sharing a lighthearted comment. Her posture is relaxed and conversational, creating an authentic sense of friendship and companionship.
+{argument name="second woman" default="A young woman with fair skin, long copper-red hair flowing naturally over her shoulders and down her back, with soft waves and subtle texture. She has light-colored eyes, delicate facial features, and a warm, cheerful expression. She is turned slightly toward the first woman, smiling naturally as if sharing a lighthearted comment."}
 
 Clothing and accessories:
-Woman 1 wears an elegant contemporary evening outfit in a {argument name="outfit tone" default="muted lavender-gray"} tone with subtle textured detailing and a sophisticated silhouette. Add delicate silver drop earrings and minimal jewelry.
-Woman 2 wears a refined satin-inspired evening outfit in a {argument name="second outfit tone" default="muted rose-plum"} tone with tasteful tailoring and subtle sheen. Add a simple bracelet and understated accessories. Keep both outfits sophisticated, tasteful, and suitable for an upscale evening event.
+Woman 1 wears an elegant contemporary evening outfit in a muted lavender-gray tone with subtle textured detailing and a sophisticated silhouette. Add delicate silver drop earrings and minimal jewelry.
+Woman 2 wears a refined satin-inspired evening outfit in a muted rose-plum tone with tasteful tailoring and subtle sheen. Add a simple bracelet and understated accessories. Keep both outfits sophisticated, tasteful, and suitable for an upscale evening event.
 
 Environment and lighting:
-Place them in a sophisticated theater or event venue with {argument name="curtain color" default="deep burgundy"} curtains in the background. The environment should feel intimate and luxurious without being overly decorated. Use warm theatrical illumination mixed with subtle magenta and amber highlights, creating gentle reflections on their hair and clothing. Maintain realistic skin tones and soft shadows while keeping the background slightly darker for cinematic depth.
+{argument name="environment" default="Place them in a sophisticated theater or event venue with deep burgundy curtains in the background. The environment should feel intimate and luxurious without being overly decorated. Use warm theatrical illumination mixed with subtle magenta and amber highlights, creating gentle reflections on their hair and clothing."}
 
 Camera / photography style:
 Photorealistic editorial photography, 85mm portrait lens, medium close-up composition, shallow depth of field, natural facial proportions, realistic skin texture, accurate hair strands, subtle fabric detail, soft cinematic bokeh, balanced exposure, gentle rim lighting, professional event photography, realistic color reproduction, cinematic color grading, high dynamic range, crisp facial details, natural expressions, authentic candid atmosphere, ultra-detailed, high resolution.
@@ -1621,7 +2042,7 @@ Frame both women from approximately the waist/chest upward, keeping both faces c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431296830_ypl1rx_HPai9awaoAAm1k0.jpg" width="600" alt="सोशल मीडिया पोस्ट - Photorealistic Women Theater Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786518697479_czosjk_HPai9awaoAAm1k0.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Theater Event Portrait - Image 1">
 </div>
 
 #### 📌 विवरण
@@ -1635,7 +2056,47 @@ Frame both women from approximately the waist/chest upward, keeping both faces c
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - Realistic Mountain Silhouette at Midnight
+### No. 30: सोशल मीडिया पोस्ट - Cozy Morning Bedroom Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A warm and intimate lifestyle portrait prompt of a woman in a satin robe holding a coffee mug, capturing a peaceful morning atmosphere.
+
+#### 📝 प्रॉम्पट
+
+```
+An adult woman with {argument name="skin details" default="fair, naturally freckled skin"}, soft facial features, blue-gray eyes, and {argument name="hair" default="long wavy copper-red hair parted near the center"}. A gentle, relaxed closed-lip smile while looking directly into the camera. Seated comfortably on the edge of a bed with one leg crossed over the other, leaning slightly forward and holding a ceramic coffee mug with both hands. A {argument name="outfit" default="champagne-ivory satin robe loosely layered over a matching lace-trimmed camisole"}. Delicate floral lace panels across the shoulders, wide lace cuffs, a softly tied waist, and a fine gold pendant necklace. A cozy, elegant bedroom decorated in warm neutral shades. An unmade cream-colored bed with softly rumpled linens, a pale carved wooden headboard, and a dark wooden dresser blurred in the background. A simple handmade ceramic mug filled with a warm drink. Warm golden morning sunlight entering from the right side of the frame. Soft highlights around her copper hair, gentle illumination across her face and satin robe, warm skin tones, and natural diffused shadows. Peaceful, intimate, cozy, and slow-morning atmosphere. Vertical three-quarter seated portrait framed from above the head to the upper legs. Eye-level camera positioned directly in front of the subject. Approximately 50mm portrait lens with a moderately shallow depth of field. Sharp focus on the eyes, face, hair, lace texture, hands, and mug, with a softly blurred bedroom background. 9:16 aspect ratio, photorealistic, high detail. Natural lifestyle portrait with a polished but authentic editorial appearance. Warm cream, champagne, beige, honey gold, copper, and soft brown palette. Realistic untreated skin with visible pores, subtle freckles, fine facial texture, and natural tonal variation. Soft golden color grading, realistic satin reflections, detailed floral lace, gentle background bokeh, balanced highlights.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518705960_wy82bn_HPZRZN_bsAABrE_.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cozy Morning Bedroom Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786518705988_n4jspr_HPZRZSUa8AApW4e.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cozy Morning Bedroom Portrait - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Natty Windstorm](https://x.com/NattyWindstorm)
+- **स्रोत:** [Twitter Post](https://x.com/NattyWindstorm/status/2086950742427136142)
+- **प्रकाशित:** 10 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31160)**
+
+---
+
+### No. 31: सोशल मीडिया पोस्ट - Realistic Mountain Silhouette at Midnight
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1669,228 +2130,7 @@ masterpiece, realistic photo, landscape, Ground-level shot, {argument name="sky 
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - Elegant Swans Heart Formation
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-A detailed prompt for a romantic, ethereal scene of two white swans forming a heart shape on a misty lake during sunrise.
-
-#### 📝 प्रॉम्पट
-
-```
-A pair of elegant {argument name="birds" default="white swans"} floating on a calm, {argument name="setting" default="misty lake"}, their long necks arched toward each other to form a perfect heart shape, their pristine white feathers creating soft ripples on the glassy, dark blue water which perfectly reflects their forms. The background features a serene, foggy marshland with tall reeds silhouetted against the soft pastel light of a sunrise or sunset. The sun is a pale, glowing orb visible through the haze on the horizon, casting gentle orange and pink hues across the tranquil sky and reflecting faintly on the water's surface. The composition is vertical and symmetrical, emphasizing a romantic, peaceful, and ethereal atmosphere. High-resolution nature photography, cinematic lighting, soft focus, serene mood, hyper-realistic, dreamy aesthetic, intricate textures of water and feathers, wide-angle lens, tranquil morning mist, 8k resolution
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431303377_ggn2jj_HPYaPCpXEAAvKq6.jpg" width="600" alt="सोशल मीडिया पोस्ट - Elegant Swans Heart Formation - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Viki](https://x.com/churvikv)
-- **स्रोत:** [Twitter Post](https://x.com/churvikv/status/2086884637352345983)
-- **प्रकाशित:** 10 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=31064)**
-
----
-
-### No. 24: सोशल मीडिया पोस्ट - Topographic Contour Line Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-An ethereal mixed-media portrait that replaces traditional shading with intricate, organic topographic contour lines inspired by growth rings.
-
-#### 📝 प्रॉम्पट
-
-```
-A highly refined contemporary mixed-media portrait style combining an ethereal high-key fashion aesthetic with intricate concentric contour-line artwork inspired by natural growth rings and fingerprint-like topographic patterns. The human subject should retain an elegant, soft, luminous, almost dreamlike presence while the entire visual structure is organically constructed through hundreds of delicate continuous concentric and flowing contour lines. Replace conventional flat shading and ordinary outlines with dense nested curved lines that follow the anatomy and three-dimensional structure of the human form. The lines should naturally conform to the contours of the face, forehead, cheeks, nose, lips, jaw, neck, shoulders, clothing, and hair, creating the illusion that the entire subject is sculpted from flowing rings and fine engraved contours. The line patterns should behave like organic topographic growth rings rather than geometric circles. Lines continuously expand, contract, bend, merge, separate, and change direction according to the underlying form. Around the eyes, nose, lips, and facial planes, the contours become tightly concentrated and delicately curved; across larger surfaces they gradually spread into wider flowing rings. Hair should be constructed from extremely fine flowing contour strands, with hundreds of elongated curved lines sweeping outward and merging into larger concentric patterns. The hair should feel weightless and fluid, almost dissolving into the surrounding background while maintaining an intricate line-based structure. Preserve the reference's soft luminous skin, delicate facial modeling, subtle blush, translucent highlights, pale neutral tones, and graceful editorial beauty. The human form should remain recognizable and aesthetically refined beneath the contour-line construction rather than becoming an abstract pattern. Introduce selective high-density black and charcoal contour areas to create depth and visual emphasis. Lines become progressively darker and closer together in recessed areas and shadow regions, while highlights contain sparse, extremely fine pale-gray lines and larger areas of negative space. This creates tonal values entirely through line density and spacing, rather than conventional painted shading. Allow portions of the contour lines to extend beyond the silhouette, forming expansive organic rings and flowing arcs around the subject. These external lines should gradually fade, break apart, become thinner, and dissolve into the background, creating an atmospheric transition between the human figure and the surrounding space. Use a predominantly luminous ivory, white, soft gray, pale beige, and subtle natural skin-tone palette, with deep charcoal-black lines providing controlled contrast. Maintain a clean, airy, almost monochromatic elegance while preserving subtle full-color skin undertones. The surface should have a fine tactile paper or archival-art texture
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344502610_xvq442_HPU_tBzbEAApHG0.jpg" width="600" alt="सोशल मीडिया पोस्ट - Topographic Contour Line Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344503219_as3r0u_HPU_t_2bcAAsxVq.jpg" width="600" alt="सोशल मीडिया पोस्ट - Topographic Contour Line Portrait - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Zayan](https://x.com/HustleXR)
-- **स्रोत:** [Twitter Post](https://x.com/HustleXR/status/2086644081967464550)
-- **प्रकाशित:** 10 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30941)**
-
----
-
-### No. 25: सोशल मीडिया पोस्ट - Romantic Black and White Studio Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-A romantic black-and-white studio portrait prompt for a couple, featuring dramatic lighting and a heart-shaped background effect.
-
-#### 📝 प्रॉम्पट
-
-```
-Create a romantic black-and-white studio portrait of a real skinny, not medium weighed, couple standing in front of a wall with a {argument name="light shape" default="heart-shaped"} light projected behind them. The couple must maintain their real and original faces, preserving all authentic facial features and natural hair colors, with no changes. The man is leaning toward the woman, gently smelling her neck with a soft and loving expression, while holding her hand. The woman smiles slightly, with a romantic and affectionate look. Their outfits remain the same: the man wears a {argument name="men's outfit" default="plain fitted white t-shirt and light pants"}, while the woman wears a {argument name="women's outfit" default="sleeveless white top and dark jeans"}. The lighting is dramatic with strong contrast, highlighting the couple within the glowing heart shape. The image should be ultra-high resolution, with hyper-realistic details and a professional editorial photography style.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431298601_ug3c4s_HPUxzC1aEAAj0GW.jpg" width="600" alt="सोशल मीडिया पोस्ट - Romantic Black and White Studio Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431298572_3twajk_HPUxzl-a8AASoXk.jpg" width="600" alt="सोशल मीडिया पोस्ट - Romantic Black and White Studio Portrait - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Maddox](https://x.com/Maddox_Digital)
-- **स्रोत:** [Twitter Post](https://x.com/Maddox_Digital/status/2086628772523253799)
-- **प्रकाशित:** 10 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30947)**
-
----
-
-### No. 26: सोशल मीडिया पोस्ट - Cinematic Amateur Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-Generates a high-end fashion editorial portrait with a raw, flash-driven aesthetic and detailed cinematic lighting specifications.
-
-#### 📝 प्रॉम्पट
-
-```
-Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotionally intense portrait photography, raw flash-driven beauty editorial with authentic imperfect atmosphere. A breathtaking woman in her {argument name="woman age" default="early 20s"} and a man sitting on soft green grass. **Woman ({argument name="hair color" default="Platinum Blonde"}):** Athletic yet feminine physique, defined collarbones, elegant neck, long toned legs, naturally sculpted body lines. Deep expressive eyes with realistic iris texture, soft confident gaze, minimal high-end editorial makeup, authentic facial asymmetry and micro skin detail. Messy lived-in {argument name="hair color" default="platinum blonde"} hair. **Man:** Tall masculine build with a strong and confident posture. Calm, intense masculine expression. (Face will be referenced separately.) Clothing: **Man:** Brown linen trousers and a blue silky shirt with sleeves rolled up to the elbows. Soft elegant fabric. Small gold ITOUCH embroidery on the shirt cuff. **Woman:** Fitted denim jeans and a soft pink shirt. Casual yet stylish. Soft gold ITOUCH monogram near the shirt collar. Pose & Composition: **Man:** Sitting on the green grass. One knee raised with the foot planted on the ground, elbow resting on that raised knee close to his chest. The other leg bent and resting on the grass. Strong, masculine and relaxed posture, looking toward the camera with calm intensity. **Woman:** Reclining / lying against his raised knee, upper body resting on his thigh, arms gently wrapped or relaxed around his leg. Chin slightly tilted, looking toward the camera with soft confidence. Natural and intimate connection. Lighting: Soft natural daylight mixed with gentle front flash. Beautiful rim lighting on both, soft specular highlights on skin and fabric, natural outdoor glow. Deep f/8 aperture keeping skin texture, fabric details, ITOUCH branding and grass details razor sharp. Background & Setting: Lush green grass field in a peaceful outdoor location. Soft natural environment, distant trees or open sky, calm and luxurious vacation atmosphere. Skin rendering: Extreme micro-detail realism, visible pores, natural peach fuzz, subtle natural glow with light sheen, subsurface scattering, tiny imperfections. Hair: Woman: Messy lived-in {argument name="hair color" default="platinum blonde"} hair with soft natural movement. Man: Short textured dark hair with slight natural volume. Color grading: Soft pink + blue + brown + fresh green tones + warm natural light, heavy cinematic grain, beautiful skin warmth, analog tonal response. Camera: Canon EOS R5, 50mm lens, direct flash attachment, slightly low amateur-fashion perspective, high-resolution RAW aesthetic. Atmosphere: Relaxed and intimate outdoor editorial. Masculine calm presence with soft feminine energy, natural connection, cinematic realism.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497831_m9jy1g_HPS7o1VW8AAZs6b.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Amateur Fashion Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497720_np935v_HPS7pJsW4AA9toI.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Amateur Fashion Editorial - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344498022_a9rb8h_HPS7pcnXMAAIOEr.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Amateur Fashion Editorial - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344498573_8pa1rw_HPS7pv9WsAEE_ER.jpg" width="600" alt="सोशल मीडिया पोस्ट - Cinematic Amateur Fashion Editorial - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Aytaç Altıntepe](https://x.com/aytacaltintepe)
-- **स्रोत:** [Twitter Post](https://x.com/aytacaltintepe/status/2086498858532479331)
-- **प्रकाशित:** 9 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30938)**
-
----
-
-### No. 27: सोशल मीडिया पोस्ट - Emerald Evening Dress Fashion Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-A highly detailed prompt for generating a photorealistic fashion editorial image of a woman in an emerald-green dress taking a mirror selfie in a luxury interior.
-
-#### 📝 प्रॉम्पट
-
-```
-Subject description:
-A Young woman with a refined, natural appearance and {argument name="skin tone" default="fair-to-light"} skin tone. She has long, softly wavy light-brown/blonde hair gathered into a relaxed low ponytail, with a few loose strands framing her face. Her complexion has realistic natural texture, subtle makeup, softly defined eyebrows, and a calm, thoughtful expression. She is looking toward her smartphone screen while taking a mirror photograph. Her posture is relaxed and poised, seated gracefully with her shoulders naturally positioned and her body turned slightly toward the mirror.
-
-Clothing & accessories:
-She wears an {argument name="dress style" default="elegant emerald-green and ivory patterned evening dress"} with flowing fabric, intricate curved geometric detailing, and subtle shimmering texture. The dress has a sophisticated floor-length silhouette and tasteful styling suitable for a fashion editorial. She carries a modern dark-colored smartphone while taking the mirror photograph. Add minimal elegant jewelry, such as a delicate bracelet and small understated earrings. Keep the overall styling polished, sophisticated, and fashion-focused.
-
-Environment & lighting:
-A {argument name="interior style" default="luxurious contemporary interior"} featuring large marble-effect wall panels framed by dark architectural trim. A full-length mirror occupies the right side of the composition, creating a realistic reflection. The floor has a subtle wood texture, complementing the cool marble surroundings. Soft diffused indoor lighting illuminates the subject evenly, while gentle highlights emphasize the texture and shimmer of the green-and-ivory fabric. The atmosphere should feel sophisticated, quiet, modern, and editorial.
-
-Camera & visual style:
-Photorealistic luxury fashion photography, 85mm portrait lens, vertical composition, realistic mirror perspective, soft diffused lighting, shallow depth of field, natural skin texture, highly detailed hair strands, realistic fabric texture, accurate reflections, balanced exposure, subtle cinematic color grading, refined neutral tones with emerald-green accents, professional editorial photography, high dynamic range, crisp focus, realistic proportions, ultra-high detail, high-resolution finish.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344500197_ch78wy_HPSToJibMAIIb2h.jpg" width="600" alt="सोशल मीडिया पोस्ट - Emerald Evening Dress Fashion Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344500167_qfdetp_HPSTqyYaIAAbS51.jpg" width="600" alt="सोशल मीडिया पोस्ट - Emerald Evening Dress Fashion Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344500580_tzcjl5_HPSTr4VaoAA1YTC.jpg" width="600" alt="सोशल मीडिया पोस्ट - Emerald Evening Dress Fashion Portrait - Image 3">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **स्रोत:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086454923294896427)
-- **प्रकाशित:** 9 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30940)**
-
----
-
-### No. 28: इन्फोग्राफिक / शैक्षिक विज़ुअल - European Hamster Wildlife Photography
+### No. 32: इन्फोग्राफिक / शैक्षिक विज़ुअल - European Hamster Wildlife Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1924,7 +2164,7 @@ A close-up, eye-level shot captures a {argument name="animal type" default="Euro
 
 ---
 
-### No. 29: इन्फोग्राफिक / शैक्षिक विज़ुअल - Realistic Dodo Bird Illustration
+### No. 33: इन्फोग्राफिक / शैक्षिक विज़ुअल - Realistic Dodo Bird Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1958,7 +2198,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 30: इन्फोग्राफिक / शैक्षिक विज़ुअल - एर्गोनोमिक ऑफिस चेयर ई-कॉमर्स मोबाइल डिटेल पेज
+### No. 34: इन्फोग्राफिक / शैक्षिक विज़ुअल - एर्गोनोमिक ऑफिस चेयर ई-कॉमर्स मोबाइल डिटेल पेज
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1992,7 +2232,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 31: इन्फोग्राफिक / शैक्षिक विज़ुअल - मिनिएचर पॉप-अप बुक डायोरामा
+### No. 35: इन्फोग्राफिक / शैक्षिक विज़ुअल - मिनिएचर पॉप-अप बुक डायोरामा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2026,7 +2266,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 32: इन्फोग्राफिक / शैक्षिक विज़ुअल - रेट्रो 1970 के दशक का अल्फाबेट ग्राफिक डिज़ाइन
+### No. 36: इन्फोग्राफिक / शैक्षिक विज़ुअल - रेट्रो 1970 के दशक का अल्फाबेट ग्राफिक डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2060,7 +2300,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 33: इन्फोग्राफिक / शैक्षिक विज़ुअल - Voxel Magazine Pop-up Art
+### No. 37: इन्फोग्राफिक / शैक्षिक विज़ुअल - Voxel Magazine Pop-up Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2094,7 +2334,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 34: इन्फोग्राफिक / शैक्षिक विज़ुअल - ज्यामितीय मोज़ेक पोर्ट्रेट चित्रण
+### No. 38: इन्फोग्राफिक / शैक्षिक विज़ुअल - ज्यामितीय मोज़ेक पोर्ट्रेट चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2140,7 +2380,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 35: इन्फोग्राफिक / शैक्षिक विज़ुअल - तकनीकी कटअवे आरेख
+### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - तकनीकी कटअवे आरेख
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2192,7 +2432,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 36: इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफाइटर स्टोरीबोर्ड इन्फोग्राफिक
+### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - फायरफाइटर स्टोरीबोर्ड इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2226,7 +2466,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 37: इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D मेडिकल ग्लो स्कैन रेंडरिंग
+### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - 3D मेडिकल ग्लो स्कैन रेंडरिंग
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2266,7 +2506,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 38: इन्फोग्राफिक / शैक्षिक विज़ुअल - AR सीनिक क्लिफसाइड पोर्ट्रेट विश्लेषण
+### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - AR सीनिक क्लिफसाइड पोर्ट्रेट विश्लेषण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2371,7 +2611,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - Gundam Origin इन्फोग्राफिक जनरेशन
+### No. 43: इन्फोग्राफिक / शैक्षिक विज़ुअल - Gundam Origin इन्फोग्राफिक जनरेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2405,7 +2645,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - GDR वैकल्पिक इतिहास कार डिज़ाइन
+### No. 44: इन्फोग्राफिक / शैक्षिक विज़ुअल - GDR वैकल्पिक इतिहास कार डिज़ाइन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2439,7 +2679,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - दलदल में मगरमच्छ की वन्यजीव तस्वीर
+### No. 45: इन्फोग्राफिक / शैक्षिक विज़ुअल - दलदल में मगरमच्छ की वन्यजीव तस्वीर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2479,7 +2719,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - नियो-पैरामेट्रिक आर्किटेक्चरल इलस्ट्रेशन
+### No. 46: इन्फोग्राफिक / शैक्षिक विज़ुअल - नियो-पैरामेट्रिक आर्किटेक्चरल इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2524,7 +2764,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 43: YouTube थंबनेल - टाइपोग्राफिक इमर्जेंस मूवी पोस्टर ग्रिड
+### No. 47: YouTube थंबनेल - टाइपोग्राफिक इमर्जेंस मूवी पोस्टर ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2558,7 +2798,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 44: YouTube थंबनेल - साइ-फाई कॉफी मशीन बॉस बैटल
+### No. 48: YouTube थंबनेल - साइ-फाई कॉफी मशीन बॉस बैटल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2592,7 +2832,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 45: YouTube थंबनेल - वेनिस में अति-यथार्थवादी विशाल महिला
+### No. 49: YouTube थंबनेल - वेनिस में अति-यथार्थवादी विशाल महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2626,7 +2866,7 @@ Gundam Origin के Zabi परिवार का इन्फोग्रा�
 
 ---
 
-### No. 46: YouTube थंबनेल - सिनेमैटिक स्पोर्ट्स डॉक्यूमेंट्री की आर्ट
+### No. 50: YouTube थंबनेल - सिनेमैटिक स्पोर्ट्स डॉक्यूमेंट्री की आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2660,7 +2900,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 47: YouTube थंबनेल - भव्य हाथी के आकार के बादलों की फोटोग्राफी
+### No. 51: YouTube थंबनेल - भव्य हाथी के आकार के बादलों की फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2704,7 +2944,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 48: YouTube थंबनेल - एनीमे रेलवे स्टेशन ट्रांसफॉर्मेशन
+### No. 52: YouTube थंबनेल - एनीमे रेलवे स्टेशन ट्रांसफॉर्मेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2738,7 +2978,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 49: YouTube थंबनेल - मिस्टर बीन की मिनी कूपर का हंगामा
+### No. 53: YouTube थंबनेल - मिस्टर बीन की मिनी कूपर का हंगामा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2792,7 +3032,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 50: YouTube थंबनेल - सिनेमैटिक मूनलाइट रूफटॉप पोर्ट्रेट कोलाज
+### No. 54: YouTube थंबनेल - सिनेमैटिक मूनलाइट रूफटॉप पोर्ट्रेट कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2832,7 +3072,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 51: YouTube थंबनेल - स्ट्रीट ग्लैमर केक नाइफ पोर्ट्रेट
+### No. 55: YouTube थंबनेल - स्ट्रीट ग्लैमर केक नाइफ पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2866,7 +3106,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 52: YouTube थंबनेल - सिनेमैटिक विजिलांटे ग्राफिक पोस्टर
+### No. 56: YouTube थंबनेल - सिनेमैटिक विजिलांटे ग्राफिक पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2917,7 +3157,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 53: YouTube थंबनेल - बास्केटबॉल एरिना ब्रॉडकास्ट पोर्ट्रेट
+### No. 57: YouTube थंबनेल - बास्केटबॉल एरिना ब्रॉडकास्ट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2953,7 +3193,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 54: YouTube थंबनेल - NBA ब्रॉडकास्ट स्टेडियम स्क्रीनशॉट
+### No. 58: YouTube थंबनेल - NBA ब्रॉडकास्ट स्टेडियम स्क्रीनशॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2987,7 +3227,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 55: YouTube थंबनेल - जादुई पुस्तक विज़ुअलाइज़ेशन ग्रिड
+### No. 59: YouTube थंबनेल - जादुई पुस्तक विज़ुअलाइज़ेशन ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3021,7 +3261,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 56: YouTube थंबनेल - गाने से इमेज विज़ुअलाइज़ेशन
+### No. 60: YouTube थंबनेल - गाने से इमेज विज़ुअलाइज़ेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3073,7 +3313,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 57: YouTube थंबनेल - सिनेमैटिक पॉडकास्ट स्टूडियो पोर्ट्रेट
+### No. 61: YouTube थंबनेल - सिनेमैटिक पॉडकास्ट स्टूडियो पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3107,7 +3347,7 @@ Balenciaga-स्टाइल के कपड़ों में एक मह�
 
 ---
 
-### No. 58: YouTube थंबनेल - जापानी टीवी प्रोग्राम स्टाइल इमेज जनरेशन
+### No. 62: YouTube थंबनेल - जापानी टीवी प्रोग्राम स्टाइल इमेज जनरेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3162,7 +3402,7 @@ AI को इमेज के समग्र वातावरण पर व�
 
 ---
 
-### No. 59: YouTube थंबनेल - Millie Bobby Brown की सिनेमैटिक फेस्टिवल फोटो
+### No. 63: YouTube थंबनेल - Millie Bobby Brown की सिनेमैटिक फेस्टिवल फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3220,7 +3460,7 @@ Nano Banana 2 के लिए एक अत्यधिक विस्तृ�
 
 ---
 
-### No. 60: YouTube थंबनेल - केले के छिलके पर फिसलते व्यक्ति की सिनेमैटिक स्ट्रीट फोटोग्राफी
+### No. 64: YouTube थंबनेल - केले के छिलके पर फिसलते व्यक्ति की सिनेमैटिक स्ट्रीट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3253,7 +3493,7 @@ Nano Banana 2 के लिए एक अत्यधिक विस्तृ�
 
 ---
 
-### No. 61: YouTube थंबनेल - अप्रैल फूल के लिए फेक न्यूज़ इमेज जनरेशन प्रॉम्प्ट
+### No. 65: YouTube थंबनेल - अप्रैल फूल के लिए फेक न्यूज़ इमेज जनरेशन प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3304,25 +3544,22 @@ Nano Banana 2 के लिए एक प्रॉम्प्ट, जो अप
 
 ---
 
-### No. 62: कॉमिक / स्टोरीबोर्ड - Sophisticated Hybrid Figurative Illustration
+### No. 66: कॉमिक / स्टोरीबोर्ड - Fragmented Geometric Figurative Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-An intricate art-book style prompt that blends graphic-novel realism with geometric abstraction and soft pastel colors, creating a translucent and layered aesthetic.
+A sophisticated hybrid style prompt combining graphic-novel realism with fragmented geometric line-art, utilizing a muted pastel palette.
 
 #### 📝 प्रॉम्पट
 
 ```
 Sophisticated hybrid figurative illustration style combining highly detailed graphic-novel realism with contemporary fragmented geometric line-art aesthetics. Strong yet refined ink contours fused with delicate, irregular flowing construction lines, creating a controlled contrast between solid anatomical definition and translucent abstract fragmentation. Realistic painterly facial and surface rendering integrated with angular faceted planes, semi-transparent overlapping shapes, broken geometric forms, and elegant organic linework. Use precise dark ink accents, selective cross-hatching, fine directional strokes, and subtle engraved textures to define depth, while allowing portions of the artwork to dissolve into airy translucent fragments and loose linear structures.
-Color treatment combines the rich warm dimensionality of cinematic comic illustration with the restrained sophistication of a muted pastel palette: {argument name="color palette" default="warm beige, ivory, soft tan, muted brown, dusty gray, pale blue-gray, desaturated teal, subtle amber, ochre, and restrained orange accents"}. Colors remain clean, luminous, and naturally harmonized rather than oversaturated. Strong warm–cool tonal interplay, with carefully controlled highlights and deep shadow accents.
+Color treatment combines the rich warm dimensionality of cinematic comic illustration with the restrained sophistication of a {argument name="palette" default="muted pastel palette"}: warm beige, ivory, soft tan, muted brown, dusty gray, pale blue-gray, desaturated teal, subtle amber, ochre, and restrained orange accents. Colors remain clean, luminous, and naturally harmonized rather than oversaturated. Strong warm–cool tonal interplay, with carefully controlled highlights and deep shadow accents.
 Blend solid realistic modeling with semi-transparent layered planes, creating a sophisticated “constructed yet dissolving” appearance. Preserve convincing volume and dimensionality while selectively breaking forms into elegant geometric fragments. Hair, fabric, skin, and other surfaces may transition between highly rendered realism, fine ink strokes, faceted shapes, and loose flowing lines. Subtle paper grain, matte printed texture, slightly weathered graphic surface, delicate pigment variation, and refined editorial illustration finish.
-Highly expressive line hierarchy, intricate micro-details, elegant visual rhythm, controlled asymmetry, sophisticated negative space, cinematic tonal depth, premium contemporary art-book aesthetic, experimental fashion-editorial illustration, realistic anatomy combined with abstract fragmentation, ultra-detailed, polished, artistic, sophisticated, dynamic, tactile, {argument name="resolution" default="high-resolution"}.
-
-Negative Style
-photorealistic photography, 3D render, plastic CGI, childish cartoon, flat vector art, excessive cel shading, heavy black outlines everywhere, chaotic scribbles, random crack patterns, excessive neon colors, oversaturated palette, muddy colors, watercolor wash, thick oil impasto, excessive grunge, low detail, blurry rendering, mechanical geometric patterns, repetitive tessellation. {argument name="aspect ratio" default="Ar 9:16"}!
+Highly expressive line hierarchy, intricate micro-details, elegant visual rhythm, controlled asymmetry, sophisticated negative space, cinematic tonal depth, premium contemporary art-book aesthetic, experimental fashion-editorial illustration, realistic anatomy combined with abstract fragmentation, ultra-detailed, polished, artistic, sophisticated, dynamic, tactile, high-resolution.
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -3330,13 +3567,13 @@ photorealistic photography, 3D render, plastic CGI, childish cartoon, flat vecto
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431300507_pmgwzg_HPayJmqWAAA66XF.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Sophisticated Hybrid Figurative Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786518703948_36bhmc_HPayJmqWAAA66XF.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Fragmented Geometric Figurative Illustration - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431300493_0a3ocw_HPayJmpXkAAsKhN.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Sophisticated Hybrid Figurative Illustration - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786518704088_yel3ni_HPayJmpXkAAsKhN.jpg" width="600" alt="कॉमिक / स्टोरीबोर्ड - Fragmented Geometric Figurative Illustration - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -3350,7 +3587,7 @@ photorealistic photography, 3D render, plastic CGI, childish cartoon, flat vecto
 
 ---
 
-### No. 63: कॉमिक / स्टोरीबोर्ड - Editorial Ghost-Spider Urban Portrait
+### No. 67: कॉमिक / स्टोरीबोर्ड - Editorial Ghost-Spider Urban Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3402,7 +3639,7 @@ The lighting is diegetic urban night lighting with rich, preserved deep shadows 
 
 ---
 
-### No. 64: कॉमिक / स्टोरीबोर्ड - Dark Fantasy Battlefield Warrior
+### No. 68: कॉमिक / स्टोरीबोर्ड - Dark Fantasy Battlefield Warrior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3447,7 +3684,7 @@ Highly detailed cinematic realism, photorealistic textures, realistic human anat
 
 ---
 
-### No. 65: कॉमिक / स्टोरीबोर्ड - Botanical Archive Victorian Portrait
+### No. 69: कॉमिक / स्टोरीबोर्ड - Botanical Archive Victorian Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3537,7 +3774,7 @@ A structured, hyper-realistic portrait prompt set in a dense botanical Victorian
 
 ---
 
-### No. 66: कॉमिक / स्टोरीबोर्ड - 3D Paper-Craft Diorama Style
+### No. 70: कॉमिक / स्टोरीबोर्ड - 3D Paper-Craft Diorama Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3604,7 +3841,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 67: कॉमिक / स्टोरीबोर्ड - गॉथिक व्हिम्सिकल हॉन्टेड हाउस
+### No. 71: कॉमिक / स्टोरीबोर्ड - गॉथिक व्हिम्सिकल हॉन्टेड हाउस
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3638,7 +3875,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 68: कॉमिक / स्टोरीबोर्ड - शांत साहित्यिक उद्यान का अनुभव
+### No. 72: कॉमिक / स्टोरीबोर्ड - शांत साहित्यिक उद्यान का अनुभव
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3672,7 +3909,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 69: कॉमिक / स्टोरीबोर्ड - डोरेमोन मूवी स्टाइल सीन रेंडर
+### No. 73: कॉमिक / स्टोरीबोर्ड - डोरेमोन मूवी स्टाइल सीन रेंडर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3706,7 +3943,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 70: कॉमिक / स्टोरीबोर्ड - मल्टी-पैनल एक्सप्रेशन ग्रिड
+### No. 74: कॉमिक / स्टोरीबोर्ड - मल्टी-पैनल एक्सप्रेशन ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3746,7 +3983,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 71: कॉमिक / स्टोरीबोर्ड - शांत बगीचे का साहित्यिक चित्रण
+### No. 75: कॉमिक / स्टोरीबोर्ड - शांत बगीचे का साहित्यिक चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3792,7 +4029,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 72: कॉमिक / स्टोरीबोर्ड - लक्जरी फ्रैग्रेंस स्टोरीबोर्ड लेआउट
+### No. 76: कॉमिक / स्टोरीबोर्ड - लक्जरी फ्रैग्रेंस स्टोरीबोर्ड लेआउट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3826,7 +4063,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 73: कॉमिक / स्टोरीबोर्ड - कैरेक्टर इंटरैक्शन प्रॉप जोड़ना
+### No. 77: कॉमिक / स्टोरीबोर्ड - कैरेक्टर इंटरैक्शन प्रॉप जोड़ना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3860,7 +4097,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 74: कॉमिक / स्टोरीबोर्ड - मिनिमलिस्ट एडिटोरियल फैशन स्केच
+### No. 78: कॉमिक / स्टोरीबोर्ड - मिनिमलिस्ट एडिटोरियल फैशन स्केच
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3898,7 +4135,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक मिड-एयर एक्शन शॉट
+### No. 79: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक मिड-एयर एक्शन शॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3932,7 +4169,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - कॉस्मिक म्यूरल स्टूडियो पोर्ट्रेट सीक्वेंस
+### No. 80: कॉमिक / स्टोरीबोर्ड - कॉस्मिक म्यूरल स्टूडियो पोर्ट्रेट सीक्वेंस
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3978,7 +4215,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - महिला मंगा डूडल शैडो
+### No. 81: कॉमिक / स्टोरीबोर्ड - महिला मंगा डूडल शैडो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4024,7 +4261,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - एनिमेटेड साथी के साथ शहरी स्ट्रीट पोर्ट्रेट
+### No. 82: कॉमिक / स्टोरीबोर्ड - एनिमेटेड साथी के साथ शहरी स्ट्रीट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4058,7 +4295,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - ओकल्ट मैगज़ीन संपादकीय कार्यालय
+### No. 83: कॉमिक / स्टोरीबोर्ड - ओकल्ट मैगज़ीन संपादकीय कार्यालय
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4098,7 +4335,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 80: कॉमिक / स्टोरीबोर्ड - लाल ड्रेस में मुस्कुराती महिला का कोलाज
+### No. 84: कॉमिक / स्टोरीबोर्ड - लाल ड्रेस में मुस्कुराती महिला का कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4132,7 +4369,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 81: कॉमिक / स्टोरीबोर्ड - Nano Banana 2 के लिए कंसिस्टेंट पोर्ट्रेट कोलाज
+### No. 85: कॉमिक / स्टोरीबोर्ड - Nano Banana 2 के लिए कंसिस्टेंट पोर्ट्रेट कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4174,19 +4411,19 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 82: प्रोडक्ट मार्केटिंग - Cinematic Spider-Web Product Ad
+### No. 86: प्रोडक्ट मार्केटिंग - Cinematic Product Advertisement with Spider Web
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 विवरण
 
-A professional product advertising prompt that incorporates a spider-web motif into a luxury commercial composition while preserving product integrity.
+A professional product advertising prompt designed to integrate a reference item with a realistic spider web effect and minimalist studio lighting.
 
 #### 📝 प्रॉम्पट
 
 ```
-Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a panoramic 21:9 format. Use a seamless studio background matching the {argument name="background color" default="dominant color of the product"} (or the user-specified color) with a soft radial gradient and subtle vignette. On the far left, place a {argument name="glove description" default="generic red web- pattern glove"} performing a web-shooting hand gesture. A realistic {argument name="web color" default="white"} spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.
+Using the uploaded product as the exact reference, preserve its original shape, branding, packaging, label, logo, colors, proportions and details. Do not redesign, replace or modify the product in any way. Create a premium minimalist advertising composition in a {argument name="aspect ratio" default="panoramic 21:9"} format. Use a seamless studio background matching the {argument name="background color" default="dominant color of the product"} with a soft radial gradient and subtle vignette. On the far left, place a {argument name="hand gesture" default="generic red web-pattern glove performing a web-shooting hand gesture"}. A realistic white spider web shoots horizontally across the frame, maintaining identical thickness across approximately 80% of its length. Only near the product should the web naturally wrap around, attach to, interact with, or visually blend into the product in a clean and satisfying way while preserving the product's original appearance. The web should remain the same width throughout the composition and create a smooth, seamless transition from left to right. Keep the composition clean with plenty of negative space. Luxury commercial product photography, ultra-realistic, premium advertising aesthetic, soft studio lighting, realistic shadows, ultra-sharp focus, glossy details, 8K, highly detailed, photorealistic.
 ```
 
 #### 🖼️ उत्पन्न चित्र
@@ -4194,13 +4431,13 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431301955_l692ea_HPZ-iD6bMAAwf-F.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Spider-Web Product Ad - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786518697805_jwa3cd_HPZ-iD6bMAAwf-F.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Product Advertisement with Spider Web - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786431301978_odynhz_HPZ-ikwacAArGuQ.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Spider-Web Product Ad - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786518698084_80d9zk_HPZ-ikwacAArGuQ.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Product Advertisement with Spider Web - Image 2">
 </div>
 
 #### 📌 विवरण
@@ -4214,7 +4451,115 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 
 ---
 
-### No. 83: प्रोडक्ट मार्केटिंग - Mixed Media Fashion Studio Art
+### No. 87: प्रोडक्ट मार्केटिंग - Cinematic Amateur Fashion Editorial
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+Generates a high-end fashion editorial portrait with a raw, flash-driven aesthetic and detailed cinematic lighting specifications.
+
+#### 📝 प्रॉम्पट
+
+```
+Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotionally intense portrait photography, raw flash-driven beauty editorial with authentic imperfect atmosphere. A breathtaking woman in her {argument name="woman age" default="early 20s"} and a man sitting on soft green grass. **Woman ({argument name="hair color" default="Platinum Blonde"}):** Athletic yet feminine physique, defined collarbones, elegant neck, long toned legs, naturally sculpted body lines. Deep expressive eyes with realistic iris texture, soft confident gaze, minimal high-end editorial makeup, authentic facial asymmetry and micro skin detail. Messy lived-in {argument name="hair color" default="platinum blonde"} hair. **Man:** Tall masculine build with a strong and confident posture. Calm, intense masculine expression. (Face will be referenced separately.) Clothing: **Man:** Brown linen trousers and a blue silky shirt with sleeves rolled up to the elbows. Soft elegant fabric. Small gold ITOUCH embroidery on the shirt cuff. **Woman:** Fitted denim jeans and a soft pink shirt. Casual yet stylish. Soft gold ITOUCH monogram near the shirt collar. Pose & Composition: **Man:** Sitting on the green grass. One knee raised with the foot planted on the ground, elbow resting on that raised knee close to his chest. The other leg bent and resting on the grass. Strong, masculine and relaxed posture, looking toward the camera with calm intensity. **Woman:** Reclining / lying against his raised knee, upper body resting on his thigh, arms gently wrapped or relaxed around his leg. Chin slightly tilted, looking toward the camera with soft confidence. Natural and intimate connection. Lighting: Soft natural daylight mixed with gentle front flash. Beautiful rim lighting on both, soft specular highlights on skin and fabric, natural outdoor glow. Deep f/8 aperture keeping skin texture, fabric details, ITOUCH branding and grass details razor sharp. Background & Setting: Lush green grass field in a peaceful outdoor location. Soft natural environment, distant trees or open sky, calm and luxurious vacation atmosphere. Skin rendering: Extreme micro-detail realism, visible pores, natural peach fuzz, subtle natural glow with light sheen, subsurface scattering, tiny imperfections. Hair: Woman: Messy lived-in {argument name="hair color" default="platinum blonde"} hair with soft natural movement. Man: Short textured dark hair with slight natural volume. Color grading: Soft pink + blue + brown + fresh green tones + warm natural light, heavy cinematic grain, beautiful skin warmth, analog tonal response. Camera: Canon EOS R5, 50mm lens, direct flash attachment, slightly low amateur-fashion perspective, high-resolution RAW aesthetic. Atmosphere: Relaxed and intimate outdoor editorial. Masculine calm presence with soft feminine energy, natural connection, cinematic realism.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344497831_m9jy1g_HPS7o1VW8AAZs6b.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Amateur Fashion Editorial - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344497720_np935v_HPS7pJsW4AA9toI.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Amateur Fashion Editorial - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344498022_a9rb8h_HPS7pcnXMAAIOEr.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Amateur Fashion Editorial - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344498573_8pa1rw_HPS7pv9WsAEE_ER.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Cinematic Amateur Fashion Editorial - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aytaç Altıntepe](https://x.com/aytacaltintepe)
+- **स्रोत:** [Twitter Post](https://x.com/aytacaltintepe/status/2086498858532479331)
+- **प्रकाशित:** 9 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30938)**
+
+---
+
+### No. 88: प्रोडक्ट मार्केटिंग - Emerald Evening Dress Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+A highly detailed prompt for generating a photorealistic fashion editorial image of a woman in an emerald-green dress taking a mirror selfie in a luxury interior.
+
+#### 📝 प्रॉम्पट
+
+```
+Subject description:
+A Young woman with a refined, natural appearance and {argument name="skin tone" default="fair-to-light"} skin tone. She has long, softly wavy light-brown/blonde hair gathered into a relaxed low ponytail, with a few loose strands framing her face. Her complexion has realistic natural texture, subtle makeup, softly defined eyebrows, and a calm, thoughtful expression. She is looking toward her smartphone screen while taking a mirror photograph. Her posture is relaxed and poised, seated gracefully with her shoulders naturally positioned and her body turned slightly toward the mirror.
+
+Clothing & accessories:
+She wears an {argument name="dress style" default="elegant emerald-green and ivory patterned evening dress"} with flowing fabric, intricate curved geometric detailing, and subtle shimmering texture. The dress has a sophisticated floor-length silhouette and tasteful styling suitable for a fashion editorial. She carries a modern dark-colored smartphone while taking the mirror photograph. Add minimal elegant jewelry, such as a delicate bracelet and small understated earrings. Keep the overall styling polished, sophisticated, and fashion-focused.
+
+Environment & lighting:
+A {argument name="interior style" default="luxurious contemporary interior"} featuring large marble-effect wall panels framed by dark architectural trim. A full-length mirror occupies the right side of the composition, creating a realistic reflection. The floor has a subtle wood texture, complementing the cool marble surroundings. Soft diffused indoor lighting illuminates the subject evenly, while gentle highlights emphasize the texture and shimmer of the green-and-ivory fabric. The atmosphere should feel sophisticated, quiet, modern, and editorial.
+
+Camera & visual style:
+Photorealistic luxury fashion photography, 85mm portrait lens, vertical composition, realistic mirror perspective, soft diffused lighting, shallow depth of field, natural skin texture, highly detailed hair strands, realistic fabric texture, accurate reflections, balanced exposure, subtle cinematic color grading, refined neutral tones with emerald-green accents, professional editorial photography, high dynamic range, crisp focus, realistic proportions, ultra-high detail, high-resolution finish.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344500197_ch78wy_HPSToJibMAIIb2h.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Emerald Evening Dress Fashion Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344500167_qfdetp_HPSTqyYaIAAbS51.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Emerald Evening Dress Fashion Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786344500580_tzcjl5_HPSTr4VaoAA1YTC.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Emerald Evening Dress Fashion Portrait - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **स्रोत:** [Twitter Post](https://x.com/Jodie_Noraa/status/2086454923294896427)
+- **प्रकाशित:** 9 अगस्त 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30940)**
+
+---
+
+### No. 89: प्रोडक्ट मार्केटिंग - Mixed Media Fashion Studio Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4248,7 +4593,7 @@ A vibrant mixed media composition blending high-end studio fashion photography w
 
 ---
 
-### No. 84: प्रोडक्ट मार्केटिंग - Tropical Fashion Editorial Portrait
+### No. 90: प्रोडक्ट मार्केटिंग - Tropical Fashion Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4310,7 +4655,7 @@ Low-angle full-body fashion photograph, camera positioned slightly below the sub
 
 ---
 
-### No. 85: प्रोडक्ट मार्केटिंग - Luxury Rooftop Blue Hour Portrait
+### No. 91: प्रोडक्ट मार्केटिंग - Luxury Rooftop Blue Hour Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4350,7 +4695,7 @@ A photorealistic luxury rooftop lifestyle portrait of a young woman during blue 
 
 ---
 
-### No. 86: प्रोडक्ट मार्केटिंग - Surreal Botanical Couture Fashion Editorial
+### No. 92: प्रोडक्ट मार्केटिंग - Surreal Botanical Couture Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4476,7 +4821,7 @@ A surreal high-fashion editorial prompt featuring a gown made of living saffron 
 
 ---
 
-### No. 87: प्रोडक्ट मार्केटिंग - Industrial Loft Fashion Editorial
+### No. 93: प्रोडक्ट मार्केटिंग - Industrial Loft Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4522,7 +4867,7 @@ A photorealistic editorial lifestyle portrait of a young woman in a sophisticate
 
 ---
 
-### No. 88: प्रोडक्ट मार्केटिंग - Superhero Soda Promotional Posters
+### No. 94: प्रोडक्ट मार्केटिंग - Superhero Soda Promotional Posters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4639,7 +4984,7 @@ A series of conceptual prompts for creating cinematic movie posters featuring Ma
 
 ---
 
-### No. 89: प्रोडक्ट मार्केटिंग - Product in Ice Cube Minimalist
+### No. 95: प्रोडक्ट मार्केटिंग - Product in Ice Cube Minimalist
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4673,7 +5018,7 @@ A simple product photography prompt used to compare Grok Imagine 2.0 and Nano Ba
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - Y2K Paparazzi Luxury Hair Shot
+### No. 96: प्रोडक्ट मार्केटिंग - Y2K Paparazzi Luxury Hair Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4707,7 +5052,7 @@ Use the uploaded photo as the exact facial reference and preserve the person’s
 
 ---
 
-### No. 91: प्रोडक्ट मार्केटिंग - Luxury Water Bottle Product Photography
+### No. 97: प्रोडक्ट मार्केटिंग - Luxury Water Bottle Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4747,7 +5092,7 @@ Ultra-realistic luxury commercial product photography of a {argument name="produ
 
 ---
 
-### No. 92: प्रोडक्ट मार्केटिंग - Futuristic Retro Fashion Editorial
+### No. 98: प्रोडक्ट मार्केटिंग - Futuristic Retro Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4797,7 +5142,7 @@ The final result should resemble a rare experimental fashion editorial discovere
 
 ---
 
-### No. 93: प्रोडक्ट मार्केटिंग - Paris Sunset Balcony Lifestyle Editorial
+### No. 99: प्रोडक्ट मार्केटिंग - Paris Sunset Balcony Lifestyle Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4841,7 +5186,7 @@ A detailed JSON prompt for generating a romantic lifestyle editorial of a woman 
 
 ---
 
-### No. 94: प्रोडक्ट मार्केटिंग - Luxury Tennis Court Fashion Editorial
+### No. 100: प्रोडक्ट मार्केटिंग - Luxury Tennis Court Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4885,7 +5230,7 @@ Negative prompt: different face, identity change, face drift from reference, alt
 
 ---
 
-### No. 95: प्रोडक्ट मार्केटिंग - Summer Skincare Product Photography
+### No. 101: प्रोडक्ट मार्केटिंग - Summer Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4937,7 +5282,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-### No. 96: प्रोडक्ट मार्केटिंग - Luxury French Riviera Lifestyle Photography
+### No. 102: प्रोडक्ट मार्केटिंग - Luxury French Riviera Lifestyle Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4980,7 +5325,7 @@ The Row. Khaite. Saint Laurent. Loro Piana. Bvlgari. Cartier. Vogue France Edito
 
 ---
 
-### No. 97: प्रोडक्ट मार्केटिंग - Nano Banana Pro Product Collage
+### No. 103: प्रोडक्ट मार्केटिंग - Nano Banana Pro Product Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5020,7 +5365,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 98: ई-कॉमर्स मुख्य इमेज - स्टाइलिश कलेक्टिबल टॉय पैकेजिंग
+### No. 104: ई-कॉमर्स मुख्य इमेज - स्टाइलिश कलेक्टिबल टॉय पैकेजिंग
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5072,7 +5417,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 99: ई-कॉमर्स मुख्य इमेज - प्रीमियम प्रोडक्ट स्टूडियो ट्रांसफॉर्मेशन
+### No. 105: ई-कॉमर्स मुख्य इमेज - प्रीमियम प्रोडक्ट स्टूडियो ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5124,7 +5469,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 100: ई-कॉमर्स मुख्य इमेज - लक्जरी स्किनकेयर उत्पाद विज्ञापन
+### No. 106: ई-कॉमर्स मुख्य इमेज - लक्जरी स्किनकेयर उत्पाद विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5176,7 +5521,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 101: ई-कॉमर्स मुख्य इमेज - 3D मॉडल से फोटो-रियलिस्टिक प्रोडक्ट रेंडर
+### No. 107: ई-कॉमर्स मुख्य इमेज - 3D मॉडल से फोटो-रियलिस्टिक प्रोडक्ट रेंडर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5210,7 +5555,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 102: ई-कॉमर्स मुख्य इमेज - लक्ज़री प्रोडक्ट क्लस्टर मास्टर प्रॉम्प्ट
+### No. 108: ई-कॉमर्स मुख्य इमेज - लक्ज़री प्रोडक्ट क्लस्टर मास्टर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5274,7 +5619,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 103: ई-कॉमर्स मुख्य इमेज - मैक्रो मॉनिटर स्क्रीन टेक्सचर
+### No. 109: ई-कॉमर्स मुख्य इमेज - मैक्रो मॉनिटर स्क्रीन टेक्सचर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5308,7 +5653,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 104: ई-कॉमर्स मुख्य इमेज - कैजुअल डेनिम स्टूडियो पोर्ट्रेट
+### No. 110: ई-कॉमर्स मुख्य इमेज - कैजुअल डेनिम स्टूडियो पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5342,7 +5687,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 105: ई-कॉमर्स मुख्य इमेज - घास की पहाड़ी पर मिनिमलिस्ट प्रोडक्ट फोटोग्राफी
+### No. 111: ई-कॉमर्स मुख्य इमेज - घास की पहाड़ी पर मिनिमलिस्ट प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5394,7 +5739,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 106: ई-कॉमर्स मुख्य इमेज - गीले स्लेट पर एडिटोरियल प्रोडक्ट शॉट
+### No. 112: ई-कॉमर्स मुख्य इमेज - गीले स्लेट पर एडिटोरियल प्रोडक्ट शॉट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5434,7 +5779,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 107: ई-कॉमर्स मुख्य इमेज - समुद्र तट पर लाइफस्टाइल प्रोडक्ट फोटोग्राफी
+### No. 113: ई-कॉमर्स मुख्य इमेज - समुद्र तट पर लाइफस्टाइल प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5468,7 +5813,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 108: ई-कॉमर्स मुख्य इमेज - एक युवक का मिनिमलिस्ट स्टूडियो पोर्ट्रेट
+### No. 114: ई-कॉमर्स मुख्य इमेज - एक युवक का मिनिमलिस्ट स्टूडियो पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5502,7 +5847,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 109: ई-कॉमर्स मुख्य इमेज - लक्जरी स्किनकेयर कमर्शियल फोटोग्राफी
+### No. 115: ई-कॉमर्स मुख्य इमेज - लक्जरी स्किनकेयर कमर्शियल फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5544,7 +5889,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 110: ई-कॉमर्स मुख्य इमेज - मिनिमलिस्ट हेडफ़ोन ई-कॉमर्स प्रोडक्ट फ़ोटो
+### No. 116: ई-कॉमर्स मुख्य इमेज - मिनिमलिस्ट हेडफ़ोन ई-कॉमर्स प्रोडक्ट फ़ोटो
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5590,7 +5935,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 111: ई-कॉमर्स मुख्य इमेज - चेरी ब्लॉसम ब्यूटी कैंपेन
+### No. 117: ई-कॉमर्स मुख्य इमेज - चेरी ब्लॉसम ब्यूटी कैंपेन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5624,7 +5969,7 @@ Nano Banana Pro के लिए एक प्रोफेशनल प्रो
 
 ---
 
-### No. 112: गेम एसेट - Clockpunk Miniature Greenhouse
+### No. 118: गेम एसेट - Clockpunk Miniature Greenhouse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5658,7 +6003,7 @@ A detailed prompt for creating a whimsical miniature world featuring a grand bot
 
 ---
 
-### No. 113: गेम एसेट - Baroque Gothic Knight Sculpture
+### No. 119: गेम एसेट - Baroque Gothic Knight Sculpture
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5705,7 +6050,7 @@ A highly decorative baroque-style gothic sculpture of a knight statue standing i
 
 ---
 
-### No. 114: गेम एसेट - Spiderman Skyscraper Editorial Portrait
+### No. 120: गेम एसेट - Spiderman Skyscraper Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5785,296 +6130,13 @@ A complex JSON prompt for a photorealistic superhero editorial featuring Spiderm
 
 ---
 
-### No. 115: गेम एसेट - सिले हुए बर्लेप वूडू डॉल
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-विस्तृत सिलाई और रंगीन पिनों वाली टेक्सचर्ड बर्लेप वूडू डॉल के लिए एक वर्णनात्मक प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक {argument name="subject" default="बर्लेप वूडू डॉल"} जिसमें {argument name="heart detail" default="केंद्र में लाल दिल सिला हुआ है"}। गुड़िया की आँखें काले क्रॉस के आकार की हैं और मुँह सिला हुआ है। गुड़िया में कई {argument name="pins" default="पिन लगी हुई हैं: एक गुलाबी पिन उसके बाएं पैर में, एक नीली पिन उसके दाएं पैर में, और एक लाल पिन उसके दाहिने हाथ में"}। गुड़िया छोटी, डैश जैसी सिलाई से ढकी हुई है, जो इसे एक टेक्सचर्ड लुक देती है।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654872886_nbjrwn_HOPXiqPWUAAiBWa.jpg" width="600" alt="गेम एसेट - सिले हुए बर्लेप वूडू डॉल - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Heather Green](https://x.com/heathergreen)
-- **स्रोत:** [Twitter Post](https://x.com/heathergreen/status/2083707098479923473)
-- **प्रकाशित:** 2 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30550)**
-
----
-
-### No. 116: गेम एसेट - अंधेरे में तैरती स्कूली छात्रा
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-अंधेरे वातावरण में तैरती एक स्कूली छात्रा के लिए एक सरल और प्रभावशाली प्रॉम्प्ट, जो चरित्र की सुंदरता को उजागर करता है।
-
-#### 📝 प्रॉम्पट
-
-```
-{argument name="action" default="floatin'"} {argument name="lighting" default="dark"} में
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654886415_t8vibg_HOq74l3a0AAl03b.jpg" width="600" alt="गेम एसेट - अंधेरे में तैरती स्कूली छात्रा - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [元荒川ちゃん❤](https://x.com/mtArakawa)
-- **स्रोत:** [Twitter Post](https://x.com/mtArakawa/status/2083685009299570866)
-- **प्रकाशित:** 1 अगस्त 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30568)**
-
----
-
-### No. 117: गेम एसेट - लाल कवच में जापानी समुराई महिला
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-तातामी कमरे में पारंपरिक लाल लैकर वाले समुराई कवच पहने एक शक्तिशाली महिला के विस्तृत फोटो-रियलिस्टिक पोर्ट्रेट के लिए प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-एक शानदार युवा {argument name="subject" default="पूर्वी एशियाई महिला"}, जिसकी त्वचा दूधिया सफेद है, आँखें तीखी और बादाम के आकार की हैं, होंठ भरे हुए हैं, और काले बाल एक चिकने पारंपरिक जापानी जूड़े में बंधे हैं। वह हल्के तातामी मैट पर सेइज़ा मुद्रा में घुटनों के बल बैठी है और सीधे कैमरे की ओर एक उग्र, तीव्र भाव के साथ देख रही है। उसने सोने की धातु की फिटिंग और अलंकृत गोलाकार प्रतीकों के साथ विस्तृत {argument name="armor color" default="लाल"} लैकर वाला {argument name="outfit" default="समुराई कवच (योरोई)"} पहना है। कंधों (सोडे) और छाती (डो) पर परतदार स्केल प्लेटें, लाल रेशमी डोरियाँ और लटकन हैं। आस्तीन और कॉलर पर फ़िरोज़ी और सुनहरे फूलों के पैटर्न वाला रेशमी अंडर-आर्मर दिखाई दे रहा है। साथ में मेल खाते हुए आर्मर्ड दस्ताने (कोटे) और जांघों के गार्ड, एक छोटी आर्मर्ड स्कर्ट जो उसकी जांघों को उजागर करती है, और गुलाबी-लाल आर्मर्ड जूते हैं। चमकीले लाल लैकर वाले साया (म्यान) के साथ एक कटाना उसके बाएं कंधे पर टिकी है। नरम प्राकृतिक इनडोर लाइटिंग, पारंपरिक जापानी {argument name="room background" default="कैलीग्राफी स्क्रॉल के साथ कमरे की पृष्ठभूमि"} और सुनहरी समुराई कलाकृतियाँ, अत्यधिक विस्तृत फोटो-रियलिस्टिक, सुरुचिपूर्ण और शक्तिशाली, सिनेमाई रचना, 8k
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118328_is0006_HOiZ4BVbgAAz8t7.jpg" width="600" alt="गेम एसेट - लाल कवच में जापानी समुराई महिला - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118378_pzpmff_HOiZ4BEaYAAKukb.jpg" width="600" alt="गेम एसेट - लाल कवच में जापानी समुराई महिला - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568118517_3pu9l9_HOiZ4BHb0AAc5bn.jpg" width="600" alt="गेम एसेट - लाल कवच में जापानी समुराई महिला - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785568119350_0dlplk_HOiZ4BVbwAATxUE.jpg" width="600" alt="गेम एसेट - लाल कवच में जापानी समुराई महिला - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **स्रोत:** [Twitter Post](https://x.com/woleswoosh/status/2083281545742131563)
-- **प्रकाशित:** 31 जुलाई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30438)**
-
----
-
-### No. 118: गेम एसेट - सिनेमैटिक विंटर रोड लैंडस्केप
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-बर्फीली जंगली सड़क पर एक विंटेज सेडान कार के साथ एक उदास, अल्ट्रा-रियलिस्टिक शीतकालीन दृश्य उत्पन्न करने के लिए एक विस्तृत प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-अल्ट्रा-रियलिस्टिक सिनेमैटिक विंटर रोड सीन, {argument name="car style" default="धूल भरी नीले-चांदी रंग की 1990 के दशक की चार दरवाजों वाली सेडान"} का पिछला दृश्य जो बर्फ से ढकी घुमावदार जंगली सड़क पर अकेले चल रही है, दोनों तरफ ऊंचे पाले से ढके बर्च और चीड़ के पेड़, शाखाएं घनी सफेद बर्फ से ढकी हुई, बर्फीली डामर सड़क पर टायर के हल्के निशान, बिना सूरज वाला ठंडा बैंगनी-नीला गोधूलि आकाश, हल्की शीतकालीन धुंध, दूर वातावरण में कोहरा, शांत नॉर्डिक जंगल, अकेला और उदास मूड, अल्ट्रा-डिटेल्ड टेक्सचर, कार की खिड़कियों पर यथार्थवादी प्रतिबिंब, प्राकृतिक बर्फ का जमाव, वाहन के पीछे कम ऊंचाई पर स्थित कैमरा, केंद्रित रचना, वाइड-एंगल 24mm लेंस, वॉल्यूमेट्रिक लाइटिंग, लैवेंडर और नीले सिनेमैटिक कलर ग्रेडिंग के साथ म्यूट कलर्स, HDR, रे-ट्रेस्ड ग्लोबल इल्यूमिनेशन, डेप्थ ऑफ फील्ड, फिल्मिक कंट्रास्ट, 8K, Unreal Engine 5, फोटो-रियलिस्टिक, मास्टरपीस, अत्यधिक विस्तृत, शार्प फोकस, कोई लोग नहीं, कोई ट्रैफिक नहीं, वर्टिकल 9:16।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482586835_z9jxus_HOeF0Inb0AAH9D8.jpg" width="600" alt="गेम एसेट - सिनेमैटिक विंटर रोड लैंडस्केप - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482586577_b8o2se_HOeF1FFa8AAxt0r.jpg" width="600" alt="गेम एसेट - सिनेमैटिक विंटर रोड लैंडस्केप - Image 2">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [WeWant Mars](https://x.com/Madhuribhai)
-- **स्रोत:** [Twitter Post](https://x.com/Madhuribhai/status/2082780509772685555)
-- **प्रकाशित:** 30 जुलाई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30333)**
-
----
-
-### No. 119: गेम एसेट - पेरिस में पोस्ट-अपोकैलिप्टिक फैशन पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-पेरिस के नष्ट हो चुके शहर में, एफिल टॉवर के खंडहरों सहित, एक महिला का हाई-फैशन पोर्ट्रेट बनाने के लिए एक परिष्कृत स्ट्रक्चर्ड प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "subject": {
-    "description": "{argument name="subject description" default="लंबे, जीवंत सुनहरे बालों, गोरी त्वचा और आकर्षक नैन-नक्श वाली एक सुंदर युवती। उसका शरीर सुडौल और टोंड है।"}",
-    "pose": "{argument name="pose" default="बाहरी सीढ़ियों पर बैठी हुई, एक पैर ऊपर उठा हुआ और मुड़ा हुआ, दूसरा पैर फैला हुआ, आत्मविश्वास भरी अभिव्यक्ति के साथ कैमरे की ओर देख रही है। एक हाथ उसके बगल वाली सीढ़ी पर टिका हुआ है।"}",
-    "clothing": {
-      "main": "{argument name="clothing" default="सुनहरे एक्सेंट और गहरे नेकलाइन वाला काला शॉर्ट-स्लीव टॉप, मैटेलिक गोल्ड मिनी स्कर्ट, पैटर्न वाली काली पैंटीहोज़ और गोल्ड प्लेटफॉर्म हाई हील्स।"}",
-      "modifications": "उसके टॉप या स्कर्ट के बॉर्डर या हेम पर सूक्ष्म रूप से दिखाई देने वाली, रिफाइंड स्क्रिप्ट में एक छोटी, सुंदर 'Keor' एम्ब्रॉयडरी जोड़ें।"
-    }
-  },
-  "setting": {
-    "environment": "अपोकैलिप्टिक नष्ट हो चुका पेरिस शहर। वह खंडहर इमारतों, मलबे, आधे एफिल टॉवर और एक वीरान शहरी परिदृश्य के बीच मौसम की मार झेल चुकी कंक्रीट की सीढ़ियों पर बैठी है।",
-    "lighting": "मजबूत छाया के साथ नाटकीय प्राकृतिक दिन का प्रकाश।"
-  },
-  "style": {
-    "photography": "त्वचा, बालों, कपड़ों और बर्बाद शहर की पृष्ठभूमि पर स्पष्ट विवरण के साथ यथार्थवादी, उच्च-रिज़ॉल्यूशन फैशन पोर्ट्रेट।",
-    "mood": "बोल्ड, आत्मविश्वासी और पोस्ट-अपोकैलिप्टिक।",
-    "composition": "नष्ट हो चुके शहर के परिदृश्य के विपरीत पोज़ पर जोर देने वाला फुल-बॉडी शॉट।"
-  },
-  "full_prompt": "अपोकैलिप्टिक नष्ट हो चुके पेरिस शहर में कंक्रीट की सीढ़ियों पर बैठी एक सुंदर सुनहरे बालों वाली महिला का फोटो-रियलिस्टिक पोर्ट्रेट। उसने सुनहरे एक्सेंट और गहरे नेकलाइन वाला काला टॉप, मैटेलिक गोल्ड मिनी स्कर्ट, पैटर्न वाली काली पैंटीहोज़ और गोल्ड प्लेटफॉर्म हील्स पहनी है। उसके परिधान के बॉर्डर पर छोटी सुंदर 'Keor' एम्ब्रॉयडरी जोड़ें। नाटकीय दिन का प्रकाश, अत्यधिक विस्तृत त्वचा, बाल, कपड़े और बर्बाद शहरी पृष्ठभूमि की बनावट।"
-}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944216_6rdone_HOZZKbjXMAEvNWf.jpg" width="600" alt="गेम एसेट - पेरिस में पोस्ट-अपोकैलिप्टिक फैशन पोर्ट्रेट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944260_1a2bhy_HOZZKbkWUAAc4Dg.jpg" width="600" alt="गेम एसेट - पेरिस में पोस्ट-अपोकैलिप्टिक फैशन पोर्ट्रेट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395944260_anhjjf_HOZZKbiXgAAq_m9.jpg" width="600" alt="गेम एसेट - पेरिस में पोस्ट-अपोकैलिप्टिक फैशन पोर्ट्रेट - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785395945285_qi2pte_HOZZKbsXoAA1t2L.jpg" width="600" alt="गेम एसेट - पेरिस में पोस्ट-अपोकैलिप्टिक फैशन पोर्ट्रेट - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [KeorUnreal](https://x.com/KeorUnreal)
-- **स्रोत:** [Twitter Post](https://x.com/KeorUnreal/status/2082449930132533671)
-- **प्रकाशित:** 29 जुलाई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=30216)**
-
----
-
-### No. 120: गेम एसेट - Avengers CGI कैरिकेचर
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-Avengers को अति-यथार्थवादी, चमकदार 3D CGI कैरिकेचर मास्टरपीस में बदलें।
-
-#### 📝 प्रॉम्पट
-
-```
-{argument name="subject" default="Avengers: Doomsday"} को एक अति-यथार्थवादी चमकदार 3D CGI कैरिकेचर मास्टरपीस में बदलें।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137830440_66lfko_HOLCXs2bIAAMgxL.jpg" width="600" alt="गेम एसेट - Avengers CGI कैरिकेचर - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137831013_g7bj7k_HOLCXshbMAA3Y2x.jpg" width="600" alt="गेम एसेट - Avengers CGI कैरिकेचर - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137830502_m7n9bh_HOLCXsjaoAAYt2L.jpg" width="600" alt="गेम एसेट - Avengers CGI कैरिकेचर - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785137831691_iplb1u_HOLCXsgaMAE_b3q.jpg" width="600" alt="गेम एसेट - Avengers CGI कैरिकेचर - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
-- **स्रोत:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2081440154850677090)
-- **प्रकाशित:** 26 जुलाई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=29841)**
-
----
-
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 15026 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15038 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6137,6 +6199,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-12T04:32:20.115Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-08-13T04:34:08.464Z</sub>
 
 </div>
