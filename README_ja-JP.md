@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15168** |
+| 📝 プロンプト総数 | **15192** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年8月14日金曜日 4:32:02 UTC** |
+| 🔄 最終更新 | **2026年8月15日土曜日 4:08:00 UTC** |
 
 </div>
 
@@ -654,7 +654,347 @@ Grok からの検索結果
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: プロフィール / アバター - Elegant Mirror Selfie with Parrot
+### No. 1: プロフィール / アバター - Cinematic Studio Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A cinematic portrait prompt of a man with a camera in a studio setting, utilizing soft side-lighting for a professional look.
+
+#### 📝 プロンプト
+
+```
+A medium close-up cinematic portrait of a {argument name="subject" default="young handsome man"} with {argument name="glasses style" default="round dark glasses"} and messy dark hair with a neatly trimmed beard, holding a black DSLR camera with both hands. He wears an open black button-down shirt over a neutral grey-beige t-shirt, standing in a {argument name="setting" default="dark, atmospheric photography studio"}. Soft, natural side-lighting enters from a window on the right, illuminating his face and camera with gentle highlights and deep shadows. In the softly blurred background, studio softboxes and camera equipment add depth. Shot on a 50mm lens, shallow depth of field, muted color palette, high editorial fashion portrait quality.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690122268_hm70m6_HPqW80mbAAA74JD.jpg" width="600" alt="プロフィール / アバター - Cinematic Studio Portrait - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Heisenberg](https://x.com/rovvmut_)
+- **ソース:** [Twitter Post](https://x.com/rovvmut_/status/2088147359792574960)
+- **公開日:** 2026年8月14日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31337)**
+
+---
+
+### No. 2: プロフィール / アバター - Beach Arcade Night iPhone Shot
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+Generates a realistic iPhone-style amateur photograph of a young woman playing arcade games at a beach at night with friends.
+
+#### 📝 プロンプト
+
+```
+hyper real vertical amateur iphone shot of a young woman around {argument name="age" default="21yo"} {argument name="setting" default="playing colourful arcade games at the beach at night"} laughing with girl friends, supermodel aesthethics, night time, subtle blurry shot - old money clothes but {argument name="outfit" default="tight summer outfit with crop top, denim shorts and high heels stilettos"}
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690119186_7vycgr_HPoRbwjXgAA4MPZ.jpg" width="600" alt="プロフィール / アバター - Beach Arcade Night iPhone Shot - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690120605_xlrin4_HPoRbwhXsAATWh8.jpg" width="600" alt="プロフィール / アバター - Beach Arcade Night iPhone Shot - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690119344_hu79x4_HPoRbwuWQAAfLwJ.jpg" width="600" alt="プロフィール / アバター - Beach Arcade Night iPhone Shot - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
+- **ソース:** [Twitter Post](https://x.com/KeorUnreal/status/2088000557227090177)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31335)**
+
+---
+
+### No. 3: プロフィール / アバター - Monochrome Studio Portrait with Colored Lens
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A minimalist black and white studio portrait that features a striking pop of color on the subject's glasses.
+
+#### 📝 プロンプト
+
+```
+Ultra-realistic studio portrait of a man, close-up headshot, centered composition, neutral expression, sharp facial details, textured skin, clean grooming, wearing a {argument name="top clothing" default="black turtleneck"} and {argument name="outerwear" default="dark tailored coat"}, modern minimalist fashion, monochrome black and white photography style, only the glasses in color ({argument name="glasses color" default="Translucent amber-orange"} frame and lenses), high contrast lighting, soft studio light, cinematic shadows, editorial fashion photography, plain light background, 85mm lens, shallow depth of field, ultra detailed, photorealistic, magazine quality, 8K.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690126738_0ejl7j_HPnYtigXIAAz8sf.jpg" width="600" alt="プロフィール / アバター - Monochrome Studio Portrait with Colored Lens - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690126747_hg1md0_HPnYtilXEAE7_Ed.jpg" width="600" alt="プロフィール / アバター - Monochrome Studio Portrait with Colored Lens - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690126781_lkvo1m_HPnYtikWkAAsoYi.jpg" width="600" alt="プロフィール / アバター - Monochrome Studio Portrait with Colored Lens - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690127550_vngoib_HPnYtidXcAADgMd.jpg" width="600" alt="プロフィール / アバター - Monochrome Studio Portrait with Colored Lens - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [MadeByAmin](https://x.com/madebyameen)
+- **ソース:** [Twitter Post](https://x.com/madebyameen/status/2087938186697695701)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31346)**
+
+---
+
+### No. 4: プロフィール / アバター - Minimalist Sage Green Studio Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A structured JSON-formatted prompt for a high-fashion studio portrait with a large brimmed hat and neon background elements.
+
+#### 📝 プロンプト
+
+```
+{
+  "subject": {
+    "description": "{argument name="subject description" default="Young woman with fair porcelain skin, long wavy platinum-blonde hair cascading over her shoulders"}",
+    "hair": "Long, soft wavy blonde hair flowing down past the shoulders",
+    "body": "Slender figure with smooth skin",
+    "pose": "Seated upright in an armchair, legs together, arms resting gently along the sides of her body, facing the camera",
+    "expression": "Neutral and elegant, soft direct gaze"
+  },
+  "outfit": {
+    "main": "{argument name="clothing" default="Light peach/beige draped one-piece garment with thin straps"}",
+    "headwear": "Large wide-brimmed light beige/peach structured hat with concentric ridge details"
+  },
+  "setting": {
+    "location": "Minimalist indoor studio space",
+    "background": "{argument name="wall color" default="Soft muted sage-green wall"}",
+    "added_element": "Neon green written 'Keor' glowing on the wall in the backdrop"
+  },
+  "lighting": {
+    "type": "Soft diffused studio lighting",
+    "effects": "Gentle highlights on the skin and hat, smooth even illumination with minimal shadows, elegant and refined atmosphere"
+  },
+  "camera": {
+    "angle": "Eye-level frontal view",
+    "framing": "Upper-body to mid-thigh portrait shot, subject centered in the chair",
+    "style": "Photorealistic, high-detail fashion portrait, soft focus on background"
+  },
+  "additional_details": {
+    "skin": "Smooth, luminous fair skin with natural soft glow",
+    "atmosphere": "Elegant, minimalist, high-fashion studio portrait"
+  }
+}
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690132074_17sqqu_HPmxWJdWMAA0yWC.jpg" width="600" alt="プロフィール / アバター - Minimalist Sage Green Studio Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690132148_luau43_HPmxWJcXcAAav0P.jpg" width="600" alt="プロフィール / アバター - Minimalist Sage Green Studio Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690132071_tijvtb_HPmxWJdXEAI0Lx7.jpg" width="600" alt="プロフィール / アバター - Minimalist Sage Green Studio Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690134533_9nhyme_HPmxWJcWMAEKzvo.jpg" width="600" alt="プロフィール / アバター - Minimalist Sage Green Studio Portrait - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
+- **ソース:** [Twitter Post](https://x.com/KeorUnreal/status/2087894905053921756)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31352)**
+
+---
+
+### No. 5: プロフィール / アバター - Stylish Airport Travel Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A high-fashion portrait of a young man at an airport, designed to maintain facial consistency from an uploaded reference photo.
+
+#### 📝 プロンプト
+
+```
+Ultra-realistic 8K portrait of a stylish young man FROM ATTACHED PHOTO, standing confidently with a VIP suitcase in front of an {argument name="airline" default="Emirates airplane"} at the airport. Passengers board in the blurred background. he wears an {argument name="top clothing" default="white linen shirt"}, {argument name="bottom clothing" default="black cargo pants"}, white sneakers, and aviators sunglasses. Stylish pose with one hand casually in her pocket. Realistic lighting, cinematic, and natural, capturing a modern, fashionable travel vibe. keep my face exactly the same as the uploaded photo.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690125520_f0pgp4_HPmVDceWIAAhJmW.jpg" width="600" alt="プロフィール / アバター - Stylish Airport Travel Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690125638_ga7qvp_HPmVDcWXIAAndK9.jpg" width="600" alt="プロフィール / アバター - Stylish Airport Travel Portrait - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Alex Prompts](https://x.com/AlexPromptsAI)
+- **ソース:** [Twitter Post](https://x.com/AlexPromptsAI/status/2087863926348251196)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31344)**
+
+---
+
+### No. 6: プロフィール / アバター - Woman with Teal and Yellow Parrots
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A soft studio portrait of a woman holding a flock of colorful parrots, set against a light gray background.
+
+#### 📝 プロンプト
+
+```
+A close up, studio portrait features a fair skinned woman with {argument name="hair color" default="dark brown/black hair"}, eyes closed, tenderly holding a flock of five small {argument name="birds" default="teal & yellow parrots"}. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a {argument name="fabric" default="cream colored, possibly lace"}, fabric. the background is a smooth, light gray, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690133621_186gr7_HPlxI3la4AAfYzo.jpg" width="600" alt="プロフィール / アバター - Woman with Teal and Yellow Parrots - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [lovimg_com](https://x.com/lovimg_com)
+- **ソース:** [Twitter Post](https://x.com/lovimg_com/status/2087824307498168626)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31351)**
+
+---
+
+### No. 7: プロフィール / アバター - Spirited Away Watercolor Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+Transforms a personal portrait into a whimsical Ghibli-inspired watercolor illustration while maintaining facial likeness.
+
+#### 📝 プロンプト
+
+```
+Transform my portrait into a whimsical {argument name="art style" default="hand-painted watercolor anime illustration"} inspired by {argument name="inspiration" default="Spirited Away"}, while preserving my exact facial features, hairstyle, skin tone, expression, and overall likeness. Soft watercolor textures, delicate ink outlines, {argument name="color palette" default="warm pastel colors"}, dreamy natural lighting, expressive anime eyes, lush magical Japanese scenery, gentle atmospheric haze, subtle fantasy details, cinematic composition, charming hand-painted imperfections, nostalgic and enchanting mood, highly detailed.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690130507_lpd393_HPlKoEGbkAA98oO.jpg" width="600" alt="プロフィール / アバター - Spirited Away Watercolor Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690130556_3j69vx_HPlKorVbQAEL-LJ.jpg" width="600" alt="プロフィール / アバター - Spirited Away Watercolor Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690130800_o2pwnr_HPlKpHEakAAjJhK.jpg" width="600" alt="プロフィール / アバター - Spirited Away Watercolor Portrait - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690131547_aoetnv_HPlKphnaAAEz0Et.jpg" width="600" alt="プロフィール / アバター - Spirited Away Watercolor Portrait - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Shushant Lakhyani](https://x.com/shushant_l)
+- **ソース:** [Twitter Post](https://x.com/shushant_l/status/2087781983577645232)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31349)**
+
+---
+
+### No. 8: プロフィール / アバター - Elegant Mirror Selfie with Parrot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -694,49 +1034,7 @@ Create a highly realistic, elegant indoor mirror-selfie portrait of a young woma
 
 ---
 
-### No. 2: プロフィール / アバター - High Altitude Mountain Selfie
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A breathtakingly realistic selfie prompt for high-altitude mountain portraits with lush green landscapes and dramatic perspective.
-
-#### 📝 プロンプト
-
-```
-Use the exact same face from the reference image and generate a breathtakingly realistic selfie taken at {argument name="altitude" default="high altitude"} on a dramatic {argument name="mountain type" default="green mountain"} — the kind of photo that stops everyone mid-scroll.
-
-The subject holds the camera slightly above eye level at a natural selfie angle — face filling the left or center portion of the frame, body from shoulders up visible, casual and completely natural. Expression is genuinely alive — a warm natural smile or that relaxed effortlessly cool expression of someone who just hiked to the top of something beautiful and knows it. Wind very slightly moving the hair. Wearing a {argument name="clothing" default="casual outdoor layer"} — a fitted fleece or light jacket, completely real and appropriate for mountain altitude.
-
-Behind and around the subject the mountain view is absolutely jaw-dropping and completely photorealistic — vast rolling green mountain ranges extending to the horizon in layer after layer of deepening atmospheric perspective, the nearest slopes a rich vivid green, middle distance mountains slightly softer and cooler, the furthest peaks dissolving into natural blue-grey atmospheric haze at the horizon. The specific lush green of high altitude mountain vegetation — dense forest on the lower slopes transitioning to alpine meadow at the higher elevations, rocky outcrops breaking through the green at the peaks. A dramatic sky above — clear blue with a few three-dimensional cumulus clouds at different heights casting natural moving shadows across the green mountain surfaces below.
-
-The selfie perspective showing genuine altitude — the ground falling away sharply below the subject, the scale of the mountain landscape making the human figure feel appropriately small against the vast green world behind them. Real mountain wind suggested by the hair movement and jacket fabric.
-
-Lighting completely natural — bright overcast or partial sun outdoor mountain light, honest and real. Shot with front camera simulation — natural slight wide angle distortion, authentic smartphone selfie rendering. 3% film grain. Vertical 9:16 format. Ultra photorealistic 8K — the selfie that makes everyone ask exactly which mountain this is.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603827826_t0ak68_HPkrptra4AAr59x.jpg" width="600" alt="プロフィール / アバター - High Altitude Mountain Selfie - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2087747936881144134)
-- **公開日:** 2026年8月13日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31262)**
-
----
-
-### No. 3: プロフィール / アバター - Cozy Bedroom Mirror Selfie
+### No. 9: プロフィール / アバター - Cozy Bedroom Mirror Selfie
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -776,7 +1074,7 @@ A structured prompt for an ultra-realistic mirror selfie in a cozy bedroom setti
 
 ---
 
-### No. 4: プロフィール / アバター - Starry Night Motion Blur Portrait
+### No. 10: プロフィール / アバター - Starry Night Motion Blur Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -822,7 +1120,7 @@ Long-exposure astrophotography: stars sharp and detailed, light grain, cinematic
 
 ---
 
-### No. 5: プロフィール / アバター - Glacial Ice Warrior Facial Transformation
+### No. 11: プロフィール / アバター - Glacial Ice Warrior Facial Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -886,7 +1184,7 @@ Place me in a mass
 
 ---
 
-### No. 6: プロフィール / アバター - Botanical Bedroom Selfie Cosplay
+### No. 12: プロフィール / アバター - Botanical Bedroom Selfie Cosplay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -937,7 +1235,7 @@ An ultra-realistic selfie-style portrait prompt for a cosplayer in a plant-theme
 
 ---
 
-### No. 7: プロフィール / アバター - Candid Arcade Claw Machine Portrait
+### No. 13: プロフィール / アバター - Candid Arcade Claw Machine Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -971,7 +1269,7 @@ A vibrant candid photograph of a young woman at a {argument name="arcade machine
 
 ---
 
-### No. 8: プロフィール / アバター - Realistic lifestyle selfie of a young woman
+### No. 14: プロフィール / アバター - Realistic lifestyle selfie of a young woman
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1017,7 +1315,7 @@ Ultra-realistic high-resolution lifestyle selfie of a {argument name="subject" d
 
 ---
 
-### No. 9: プロフィール / アバター - East Asian Woman in Modern Apartment Portrait
+### No. 15: プロフィール / アバター - East Asian Woman in Modern Apartment Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1069,7 +1367,7 @@ A young {argument name="ethnicity" default="East Asian woman"} in her {argument 
 
 ---
 
-### No. 10: プロフィール / アバター - Desert Sunset Portrait Photography
+### No. 16: プロフィール / アバター - Desert Sunset Portrait Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1123,7 +1421,7 @@ Set against an expansive desert dune landscape at sunset, the rich ripple textur
 
 ---
 
-### No. 11: プロフィール / アバター - Cozy Indoor Headphones Lifestyle Portrait
+### No. 17: プロフィール / アバター - Cozy Indoor Headphones Lifestyle Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1163,7 +1461,7 @@ Photorealistic lifestyle portrait of a young woman sitting casually indoors agai
 
 ---
 
-### No. 12: プロフィール / アバター - Lifestyle Yoga Indoor Portrait
+### No. 18: プロフィール / アバター - Lifestyle Yoga Indoor Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1213,7 +1511,7 @@ Camera & style: Photorealistic editorial lifestyle photography, 35mm lens, low b
 
 ---
 
-### No. 13: プロフィール / アバター - Athletic Lifestyle Sports Court Portrait
+### No. 19: プロフィール / アバター - Athletic Lifestyle Sports Court Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1260,311 +1558,6 @@ Photorealistic professional lifestyle photography, 50mm lens, vertical portrait 
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30946)**
-
----
-
-### No. 14: プロフィール / アバター - East Asian Fashion Portrait on Sofa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A prompt designed for Nano Banana 2 to create a cozy, photorealistic portrait of an East Asian woman in a burgundy sweater, sitting on a plush white sofa with soft daylight.
-
-#### 📝 プロンプト
-
-```
-A photorealistic portrait of a young East Asian woman (resembling {argument name="celebrity lookalike" default="Jennie from Blackpink"}) with long straight dark brown hair loosely falling over her shoulders, fair skin, soft smile showing teeth, looking slightly to the side. She is sitting on a {argument name="furniture style" default="plush white fluffy sofa/bed"} covered in soft textured blankets and pillows, near a bright white-framed window with natural soft daylight.
-
-She wears a {argument name="sweater color" default="burgundy/wine-red"} open-knit mesh sweater with an openwork lace pattern, featuring a solid black five-pointed star on the center of the chest, long sleeves with thick black horizontal stripes near the cuffs, layered over a tight maroon crop top that shows a bit of midriff. Dark grey high-waisted straight-leg jeans. Silver hoop earring with a small red butterfly charm on her left ear. Hands resting casually on her lap. Cozy, soft indoor aesthetic, high detail, natural lighting, shallow depth of field.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344502112_xeugap_HPLW9kvbsAETuOS.jpg" width="600" alt="プロフィール / アバター - East Asian Fashion Portrait on Sofa - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344502119_xz075t_HPLW9kzbAAAunY3.jpg" width="600" alt="プロフィール / アバター - East Asian Fashion Portrait on Sofa - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344502193_8o20jm_HPLW9lEboAAg6_o.jpg" width="600" alt="プロフィール / アバター - East Asian Fashion Portrait on Sofa - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344503220_suzy0l_HPLW9kwaQAEKp5X.jpg" width="600" alt="プロフィール / アバター - East Asian Fashion Portrait on Sofa - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2086543035785941114)
-- **公開日:** 2026年8月9日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30942)**
-
----
-
-### No. 15: プロフィール / アバター - Cozy Bedroom Morning Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A soft, photorealistic portrait of a woman waking up in a cozy bedroom with pastel tones and natural rainy-day light.
-
-#### 📝 プロンプト
-
-```
-Photorealistic portrait of a cute young East Asian woman in her early 20s sitting on a {argument name="bedding" default="soft pink quilted bedspread"} in a cozy bedroom. She has long wavy light-brown hair cascading over her shoulders, fair skin, and a soft sleepy expression while rubbing one eye with the back of her hand (cute “just woke up” pose). She is wearing an {argument name="clothing" default="oversized loose white long-sleeve t-shirt dress"} that slips off one shoulder, revealing a thin white spaghetti strap underneath. Knees slightly pulled up, bare legs visible. Soft natural daylight coming through a large window covered in raindrops, with blurred green trees outside. Light pink sheer curtains framing the window. A large green monstera plant in a terracotta pot in the background. Soft pastel pink and white color palette, gentle diffused lighting, high detail, shallow depth of field, 8k, realistic skin texture.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344507410_7au0wj_HPLCQbTbEAAgnQQ.jpg" width="600" alt="プロフィール / アバター - Cozy Bedroom Morning Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344507051_lmnl0h_HPLCQbdbgAA3zzS.jpg" width="600" alt="プロフィール / アバター - Cozy Bedroom Morning Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344507054_5cvyig_HPLCQbnawAAVb10.jpg" width="600" alt="プロフィール / アバター - Cozy Bedroom Morning Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344510770_jv5f2q_HPLCQbebcAEg9aR.jpg" width="600" alt="プロフィール / アバター - Cozy Bedroom Morning Portrait - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2086482639389946233)
-- **公開日:** 2026年8月9日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30945)**
-
----
-
-### No. 16: プロフィール / アバター - Candid College Celebrity Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A high-fidelity prompt for generating realistic portraits of celebrities styled as college students in classroom settings, focusing on cinematic lighting and authentic textures.
-
-#### 📝 プロンプト
-
-```
-Ultra-photorealistic candid daily-life portrait of {argument name="celebrity name" default="[Celebrity Name]"} as a clearly adult college student, seated at a classroom desk wearing a stylish fitted college outfit with a white button-down shirt, tailored pleated skirt, and cardigan, confident playful expression, direct eye contact with the camera, relaxed natural posture, books and notebooks on the desk, realistic university classroom environment, soft morning window light, natural skin texture, detailed hair, subtle makeup, cinematic lifestyle photography, authentic candid atmosphere, tasteful fashion editorial aesthetic, vertical 4:5.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497627_idffnx_HPQPVnIX0AAvOY9.jpg" width="600" alt="プロフィール / アバター - Candid College Celebrity Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497282_evaav4_HPQPWMXXsAAD9if.jpg" width="600" alt="プロフィール / アバター - Candid College Celebrity Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497746_4me11f_HPQPWzcXQAAk-kf.jpg" width="600" alt="プロフィール / アバター - Candid College Celebrity Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344498207_oqfuf2_HPQPXX1WAAACalq.jpg" width="600" alt="プロフィール / アバター - Candid College Celebrity Portrait - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2086309430191435851)
-- **公開日:** 2026年8月9日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30818)**
-
----
-
-### No. 17: プロフィール / アバター - Double-Exposure Scrapbook Portrait Composite
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A complex double-exposure prompt for Nano Banana Pro that creates a layered composite of a woman in an embroidered yellow suit with watercolor and doodle accents.
-
-#### 📝 プロンプト
-
-```
-Hyper-realistic cinematic double-exposure portrait composite — photorealistic large close-up combined with a smaller full-body seated portrait of the same woman, soft watercolor-splash scrapbook background, elegant hand-drawn doodle decorations, zero flat AI look.
-
-CONCEPT — EXACT: A layered double portrait where a large close-up face fills the upper-left of the frame, and a smaller full-body seated portrait of the same woman is positioned to the right, set against a cream textured watercolor-splash background with hand-drawn heart, butterfly, and floral line-art doodles, and elegant cursive name script text in the lower-left.
-
-LARGE CLOSE-UP PORTRAIT — EXACT: Close-up head-and-shoulders portrait, head tilted with one hand gently touching the hair near the temple, sunglasses pushed up resting on top of the head, warm joyful open-mouth smile, small bindi on the forehead, gold jhumka earring, loose flowing hair.
-
-SMALLER FULL-BODY FIGURE — EXACT: Full-body seated portrait, woman sitting with knees drawn up, one arm resting on her knee with chin resting on her hand, other arm bent with black bangles stacked on the wrist, warm bright smile, same sunglasses pushed up on the head, matching hairstyle and earrings.
-
-OUTFIT: Vivid {argument name="outfit color" default="mustard-yellow"} embroidered flowy {argument name="clothing style" default="anarkali-style suit"} with delicate white floral embroidery along the sleeves and hem, matching yellow dupatta draped over the shoulder, stacked black bangles on both wrists, gold jhumka earrings, white platform sandals, delicate anklet with small charms.
-
-DECORATIVE ELEMENTS — EXACT: Hand-drawn grey-toned doodle heart and swirl line accents in the upper-right area, a small illustrated butterfly with dotted flight-trail line, delicate hand-drawn floral branch line-art scattered near the bottom, soft grey watercolor-splash brushstroke texture in the upper-right corner.
-
-TEXT ELEMENT — EXACT: Large elegant black cursive script text in the lower-left corner displaying a name, "{argument name="subject name" default="Aiza"}" with a thin underline stroke and a small heart accent beneath it.
-
-BACKGROUND — EXACT: Soft cream/off-white textured background with subtle warm golden-yellow watercolor blotches and light grey brushstroke splashes, minimal and airy.
-
-LIGHTING — EXACT: Soft warm even lighting throughout, gentle natural glow on the skin, bright cheerful high-key lighting with no harsh shadows.
-
-COLOR GRADE — EXACT: Warm cream and soft neutral tones dominant in the background, vivid mustard-yellow outfit providing the strongest color pop, natural warm skin tones, soft romantic scrapbook-style color grading with delicate grey doodle accents.
-
-Ultra clean commercial double-exposure finish — sharp photo cutout edges on both portraits, delicate hand-drawn doodle linework, polished elegant cursive typography. No watermark.
-Gnrat ratio 3:4
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344502241_x4aend_HPPgOU2bkAAyhk-.jpg" width="600" alt="プロフィール / アバター - Double-Exposure Scrapbook Portrait Composite - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Aiza](https://x.com/AizaAi12)
-- **ソース:** [Twitter Post](https://x.com/AizaAi12/status/2086257612065247353)
-- **公開日:** 2026年8月9日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30805)**
-
----
-
-### No. 18: プロフィール / アバター - Burgundy Hair Portrait in Park
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A high-resolution photographic prompt for an East Asian woman with silky burgundy-red hair sitting on a picnic blanket in an autumn park, focusing on skin texture and soft sunlight.
-
-#### 📝 プロンプト
-
-```
-A photorealistic portrait of a beautiful young East Asian woman with {argument name="hair style" default="long, straight, silky burgundy-red hair parted in the middle and cascading over her shoulders and chest"}, soft natural makeup with subtle rosy blush on her cheeks, gentle smile, and warm brown eyes looking directly at the camera. She is wearing a {argument name="outfit" default="fitted light gray long-sleeve knit sweater with a soft V-neckline"}. She is sitting outdoors on a {argument name="setting" default="red-and-white checkered picnic blanket in a quiet park"}, legs casually folded, soft golden sunlight filtering through the bare trees creating gentle dappled light and soft shadows across her face and hair. Background of tall trees with sparse foliage, sandy dirt path, and muted autumn tones. Natural lighting, highly detailed skin texture, realistic fabric folds, shallow depth of field, cinematic composition, 85mm lens look, ultra-realistic photograph.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257239965_qqua7u_HPLAuvkb0AAwOZa.jpg" width="600" alt="プロフィール / アバター - Burgundy Hair Portrait in Park - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257240021_12wlj9_HPLAuvraMAA10Dw.jpg" width="600" alt="プロフィール / アバター - Burgundy Hair Portrait in Park - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257239932_etkwtk_HPLAuvkaEAA8UY0.jpg" width="600" alt="プロフィール / アバター - Burgundy Hair Portrait in Park - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257240716_sa51uj_HPLAuvrakAEaZxD.jpg" width="600" alt="プロフィール / アバター - Burgundy Hair Portrait in Park - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2086180648361071030)
-- **公開日:** 2026年8月8日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30816)**
-
----
-
-### No. 19: プロフィール / アバター - Intimate Sleeping Portrait Photography
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A detailed cinematic prompt for generating realistic, intimate portrait photographs of people sleeping peacefully on a white bed with soft natural lighting.
-
-#### 📝 プロンプト
-
-```
-Intimate, medium-close portrait photograph capturing {argument name="first person" default="Sydney Sweeney"} and {argument name="second person" default="Sabrina Carpenter"} deeply asleep and nestled together on a soft white bed, viewed from a slightly elevated angle. {argument name="first person" default="Sydney Sweeney"}, on the left, has her long hair tied back in a relaxed, loose bun with delicate strands framing her face, secured by a pink elastic band. {argument name="second person" default="Sabrina Carpenter"}, on the right, sleeps beside her with her long, flowing hair fanned gently. Both are in a peaceful, profound sleep with serene facial expressions and natural skin glow. {argument name="first person" default="Sydney Sweeney"} wears a ribbed pink tank top with thin spaghetti straps and white lace trim along the neckline. {argument name="second person" default="Sabrina Carpenter"} wears a light blue tank top with thin straps, a similar lace trim, and a small buttoned placket on the front. They are lying closely together, heads near each other on a white pillow, softly turned inward, creating an intimate composition. The immediate background consists solely of the white, softly wrinkled bedsheets and pillows, maintaining total focus on the two subjects. They wear small stud earrings. Natural, warm light streams in from a window to the left, highlighting textures, hair, and skin with soft highlights and subtle shadows. The atmosphere is peaceful, intimate, and profoundly calm. Shot on a full-frame camera with an 85mm prime lens; tack-sharp focus on the faces, aperture f/2.8 for depth of field, 1/200 sec, ISO 100 for maximum detail and low noise. (Aspect Ratio 9:16).
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497772_z63oyu_HPM8-ZlWoAAP8hi.jpg" width="600" alt="プロフィール / アバター - Intimate Sleeping Portrait Photography - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786344497581_5vhtiy_HPM8-qgXAAAWqbc.jpg" width="600" alt="プロフィール / アバター - Intimate Sleeping Portrait Photography - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Giulia](https://x.com/Giulia_4i)
-- **ソース:** [Twitter Post](https://x.com/Giulia_4i/status/2086078104879927508)
-- **公開日:** 2026年8月8日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30804)**
 
 ---
 
@@ -1618,14 +1611,150 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - Working in the Ocean Meme Photo
+### No. 21: ソーシャルメディア投稿 - Hidden Giant Cityscape Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A photorealistic and ironic meme-style prompt showing a person working on a laptop while submerged in turbulent ocean water, perfect for 'always working' humor.
+An eerie cinematic photograph of a normal city hiding a massive, hyper-realistic human figure between the skyscrapers.
+
+#### 📝 プロンプト
+
+```
+Create an extraordinarily photorealistic cinematic photograph of a {argument name="setting" default="normal modern city"} at {argument name="lighting" default="blue hour"}, captured from street level with a professional full-frame camera and a 35mm lens. At first glance, everything looks completely normal: realistic pedestrians walking, taxis and cars moving through traffic, storefronts, streetlights reflecting on slightly wet asphalt, office windows glowing naturally, subtle atmospheric haze. But hidden between the skyscrapers is something absolutely impossible: A {argument name="giant figure" default="colossal HUMAN-LIKE FIGURE"}, hundreds of meters tall, is partially visible behind the buildings. The figure must look almost completely human rather than monstrous — realistic human skin, subtle pores, tiny imperfections, faint veins, natural facial structure, realistic eyes, slightly messy hair, believable anatomy. Only portions of the enormous person are visible between the buildings, making it initially difficult to understand what the viewer is seeing. One enormous hand is resting naturally against the side of a skyscraper, with individual fingerprints, wrinkles and skin texture visible. The enormous face is partially obscured by clouds and buildings in the far background, looking calmly down toward the city. CRITICAL: Make the giant blend naturally into the environment. The lighting on the giant must perfectly match the city's lighting, atmospheric perspective, haze, reflections and color temperature. Buildings in front of the figure should partially occlude it. Some atmospheric fog should pass between the giant and the camera. People on the street should NOT be dramatically reacting. Most pedestrians should appear completely unaware, creating an eerie sense that the viewer has discovered something impossible that everyone else somehow missed. Extreme photorealism, physically accurate lighting, realistic global illumination, natural shadows, realistic reflections, atmospheric depth, subtle lens imperfections, realistic skin microtexture, high dynamic range, cinematic depth of field, documentary photography aesthetic, believable scale, extremely detailed architecture. Composition should create an immediate visual mystery: the viewer should need a second look to realize that the shape between the skyscrapers is actually an enormous human being. No fantasy illustration aesthetic, no cartoon appearance, no CGI look, no exaggerated monster features, no glowing eyes, no text, no logos, no watermark. Make it look like an accidentally captured photograph from a real camera — so convincing that it could initially be mistaken for a genuine photograph. 8K-level detail, ultra-high resolution, natural colors, realistic photographic grain, masterpiece-level realism.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690129074_joc4vz_HPqAZINaoAABQ3O.jpg" width="600" alt="ソーシャルメディア投稿 - Hidden Giant Cityscape Photography - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [WeWant Mars](https://x.com/Madhuribhai)
+- **ソース:** [Twitter Post](https://x.com/Madhuribhai/status/2088122559258873997)
+- **公開日:** 2026年8月14日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31348)**
+
+---
+
+### No. 22: ソーシャルメディア投稿 - Editorial Miniature Style Composition
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A complex prompt for creating stylized editorial compositions that blend grainy line illustrations with soft pastel miniatures and still-life objects.
+
+#### 📝 プロンプト
+
+```
+{argument name="subject" default="subject"} in this style={argument name="transformation" default="transformation"} - Preserve the subject’s recognizable structure, but reinterpret it as a stylized editorial composition where drawing and miniature object-world logic coexist. - Convert some forms into sparse grainy line illustration while converting other forms into soft pastel miniatures or still-life objects. - Reinterpret texture-rich or detailed areas as small clusters of plants, props, vessels, terrain fragments, or decorative micro-world motifs. - Convert smooth surfaces into matte pastel color fields, while using graphic linework to describe edges, volume, and texture selectively. - Reduce complexity into a limited color system with one dominant graphic ink tone and a few quiet pastel support colors. - Replace deep realism with poster-like clarity, paper-print tactility, and curated tabletop arrangement. - Allow the subject to feel partially drawn and partially physically staged, creating a deliberate ambiguity between illustration and object. - Use negative space and sparse composition to keep the image clean, modern, and highly readable. </transformation> <shape_language> - Favor simple containers, rounded objects, leaves, stems, pebbles, tabletop silhouettes, miniature clusters, and clean abstract forms. - Use a mix of flat contour areas and soft low-relief sculptural accents. - Keep repetition rhythmic and decorative. - Let small details feel intentional and editorial rather than busy. </shape_language> <rendering_rules> - Use visibly grainy printed or crayon-like marks for lines and texture accents. - Keep volumetric forms soft, simplified, and pastel. - Limit the palette aggressively for a designed, print-friendly look. - Use shallow spatial depth with subtle diorama hints. - Make the final result feel like an art print, a magazine illustration, and a miniature set all at once. </rendering_rules> <finish> - Graphic limited-palette editorial hybrid. - Printmaking texture fused with soft pastel mini-world staging. - Smart, modern, collectible, and quietly distinctive. </finish> <avoid> - Avoid photoreal rendering. - Avoid deep cinematic perspective or strong realism. - Avoid overstuffing with too many tiny details. - Avoid using too many colors; keep it controlled and designed. </avoid>
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690123699_cpfqtv_HPcPNsEXYAA95EP.jpg" width="600" alt="ソーシャルメディア投稿 - Editorial Miniature Style Composition - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **ソース:** [Twitter Post](https://x.com/Gdgtify/status/2088089978576457869)
+- **公開日:** 2026年8月14日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31339)**
+
+---
+
+### No. 23: ソーシャルメディア投稿 - Young Woman Ocean Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+An editorial-style portrait prompt for an Asian woman by the sea, emphasizing fabric texture and soft daylight.
+
+#### 📝 プロンプト
+
+```
+Use 100 percent face reference given strictly Portrait of a {argument name="subject" default="young Asian woman"} standing by the {argument name="location" default="ocean"}, looking back over her shoulder at the camera with a soft, confident gaze. She has long brunette hair styled in a low ponytail with face-framing strands, wearing gold hoop earrings. She's dressed in a black-and-white vertical striped oversized blazer layered over a modest high-neck {argument name="top color" default="magenta"} top. Soft natural daylight, ocean and sandy shore blurred in the background, shallow depth of field, fashion-editorial style, warm skin tones, crisp detail on fabric texture, professional beauty photography.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690120577_ut75w1_HPpJ_ZIaQAAQtgm.jpg" width="600" alt="ソーシャルメディア投稿 - Young Woman Ocean Portrait - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Hania Ai](https://x.com/HaniaAi12)
+- **ソース:** [Twitter Post](https://x.com/HaniaAi12/status/2088062748055998711)
+- **公開日:** 2026年8月14日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31336)**
+
+---
+
+### No. 24: ソーシャルメディア投稿 - Felt Frog Beach Diorama
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A whimsical handmade diorama prompt featuring a felt frog in swim trunks at the beach.
+
+#### 📝 プロンプト
+
+```
+A {argument name="subject" default="felt frog"} wearing {argument name="outfit" default="blue polka-dot swim trunks"} stands on a sandy beach. The frog is in the center of the frame, facing forward with a wide smile. The {argument name="background" default="ocean with blue and white waves"} is behind the frog, and a small red boat is visible in the distance. The sky is a bright blue with fluffy white felt clouds. To the right of the frog, there are palm trees, a beach umbrella, a striped towel, and various shells and driftwood scattered on the sand. The overall scene is a whimsical, handmade diorama of a frog enjoying a day at the beach.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690135030_vy8deg_HPMZUTSWYAA_zyT.jpg" width="600" alt="ソーシャルメディア投稿 - Felt Frog Beach Diorama - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Heather Green](https://x.com/heathergreen)
+- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2088052992478167419)
+- **公開日:** 2026年8月14日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31353)**
+
+---
+
+### No. 25: ソーシャルメディア投稿 - Always Working Ocean Meme
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A humorous prompt for an 'always working' meme, showing a person holding a laptop and coffee while submerged in turbulent ocean water.
 
 #### 📝 プロンプト
 
@@ -1634,13 +1763,10 @@ Realistic candid photo of {argument name="subject" default="person from uploaded
 water, surrounded by large breaking waves and white sea foam, no hat. 
 In one raised hand, held above the water, they hold an open dark grey/space-black laptop 
 with a visible Apple logo, angled toward their face as if working on it. In the other hand, 
-raised at chest height, they hold a to-go coffee cup with a white lid and brown sleeve. 
-Their expression is focused and slightly tired, looking down at the laptop screen. Only the 
+raised at chest height, they hold a to-go coffee cup with a white lid and brown sleeve.Their expression is focused and slightly tired, looking down at the laptop screen. Only the 
 head, shoulders, and raised arms are visible above the waterline; the rest of the body is 
-submerged. The ocean is turbulent with rolling waves and whitewater in the background, cool grey-blue-green 
-color grading, overcast diffused daylight, slightly moody and dramatic lighting. Shot from a 
-distance with a slight telephoto compression, as if photographed candidly from the shore. 
-Vertical composition, photorealistic, ironic "always working" meme aesthetic, 
+submerged. The ocean is turbulent with rolling waves and whitewater in the background, cool grey-blue-green color grading, overcast diffused daylight, slightly moody and dramatic lighting. Shot from a 
+distance with a slight telephoto compression, as if photographed candidly from the shore.Vertical composition, photorealistic, ironic "always working" meme aesthetic, 
 no text overlays anywhere on the image.
 ```
 
@@ -1649,13 +1775,212 @@ no text overlays anywhere on the image.
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826810_hppouu_HPkVUgZbkAAuJYV.jpg" width="600" alt="ソーシャルメディア投稿 - Working in the Ocean Meme Photo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786690125280_midu9b_HPooO10acAAzdCN.jpg" width="600" alt="ソーシャルメディア投稿 - Always Working Ocean Meme - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Tair](https://x.com/aiagencykz)
+- **ソース:** [Twitter Post](https://x.com/aiagencykz/status/2088025620710314479)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31342)**
+
+---
+
+### No. 26: ソーシャルメディア投稿 - Tactical Catsuit Action Photography
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A cinematic action-style prompt for generating two women in reflective red catsuits holding tactical gear against a graffiti brick wall.
+
+#### 📝 プロンプト
+
+```
+Photorealistic professional photograph of two beautiful women with {argument name="hair color" default="long brunette hair"}. Both wear {argument name="clothing" default="highly reflective red form-fitting catsuits"} with front zippers. The woman on the left holds a black tactical-style rifle across her body. The woman on the right holds a black handgun at her side and is positioned lower beside her, one hand resting near the other woman’s high heel. Both look toward the camera with confident expressions. {argument name="background" default="Dark brick wall background with a graffiti colored written 'Keor' on the wall"}, dramatic rim lighting outlining the body, face, high heels and clothing textures. Highly detailed textures, realistic skin, sharp focus, cinematic lighting, professional fashion/action photography style, 8k resolution.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690120407_wjs8xs_HPnknbvWwAAYzFu.jpg" width="600" alt="ソーシャルメディア投稿 - Tactical Catsuit Action Photography - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826402_d5tsll_HPkVVRGagAA9QGr.jpg" width="600" alt="ソーシャルメディア投稿 - Working in the Ocean Meme Photo - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786690119180_k3lk4i_HPnknbrWYAAXsQ5.jpg" width="600" alt="ソーシャルメディア投稿 - Tactical Catsuit Action Photography - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690120649_nu6de5_HPnknbsXMAAlhOt.jpg" width="600" alt="ソーシャルメディア投稿 - Tactical Catsuit Action Photography - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690120228_z7y85a_HPnknbpX0AApxtN.jpg" width="600" alt="ソーシャルメディア投稿 - Tactical Catsuit Action Photography - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [KeorUnreal](https://x.com/KeorUnreal)
+- **ソース:** [Twitter Post](https://x.com/KeorUnreal/status/2087951277288198615)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31338)**
+
+---
+
+### No. 27: ソーシャルメディア投稿 - Stadium Hospitality Group Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+A prompt for a realistic group selfie of three women in a high-end stadium seating area.
+
+#### 📝 プロンプト
+
+```
+Create a highly realistic, polished group selfie of three young women sitting together in a premium stadium viewing area, with a live sports field and a large audience visible behind them. 1. Subject Description, Hair, Skin, Expression & Pose: Three young women are positioned closely together in a natural, friendly group selfie composition, all facing the camera. The woman on the left has fair-to-light skin and medium-to-long light-brown hair styled in a high ponytail, with a few loose strands naturally framing her face. She wears a warm, subtle smile and looks directly into the camera with a relaxed, cheerful expression. Her posture is upright and slightly angled toward the other two women. The woman in the center has fair skin and auburn-brown hair pulled back neatly into a low ponytail. She has soft facial features, natural eyebrows, clear eyes, subtle makeup, and a calm, pleasant expression. She faces the camera directly with a relaxed posture. The woman on the right has fair-to-light skin and long dark-brown hair styled in a high ponytail with loose lengths falling naturally over one shoulder. She looks directly toward the camera with a composed, friendly expression. She stands slightly closer to the camera, creating natural depth within the group selfie. All three subjects should have realistic facial features, authentic skin texture, natural proportions, believable hands and fingers, and subtle individual differences in hairstyle and appearance. Their expressions should feel spontaneous and natural rather than overly posed. 2. Clothing & Accessories: The woman on the left wears an elegant dark-green sleeveless top with delicate light-colored decorative trim along the neckline, paired with dark trousers. She wears a simple fine necklace and small understated earrings. The woman in the center wears a fitted royal-blue sleeveless top paired with dark trousers and a subtle belt. She wears layered delicate necklaces, including a small cross-shaped pendant, creating a refined casual style. The woman on the right wears a simple white ribbed sleeveless top paired with relaxed blue jeans. She wears a delicate necklace and small understated earrings. Keep all clothing tasteful, casual, modern, and appropriate for a sporting-event setting. 3. Environment & Lighting: Place the group inside a premium stadium seating or hospitality area with comfortable dark upholstered seats. Through the large opening behind them, show a brightly illuminated green sports field surrounded by rows of spectators. The distant audience should be naturally blurred and indistinct, creating realistic depth without distracting from the three subjects. Include subtle stadium architecture, railings, glass panels, and illuminated advertising areas in the background without readable text or prominent logos. Use a combination of bright stadium lighting and soft ambient interior illumination. The subjects' faces should be evenly exposed with natural highlights and gentle shadows. Add subtle background bokeh from stadium lights to create an atmospheric evening-event feeling. 4. Camera & Style: Photorealistic professional event photography with the natural appearance of a high-quality smartphone group selfie. Vertical 4:5 composition, slightly wide-angle perspective equivalent to approximately 28–35mm, camera held at arm's length, natural perspective, realistic depth, sharp focus across all three faces, softly blurred stadium background, high dynamic range, cinematic but natural color grading, realistic skin tones, detailed hair strands, authentic fabric textures, subtle ambient light, balanced exposure, crisp details, professional editorial finish, ultra-high-resolution photographic realism.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690128559_5kb9ar_HPmJ4ldaoAEk0Pr.jpg" width="600" alt="ソーシャルメディア投稿 - Stadium Hospitality Group Selfie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690128540_4fnck7_HPmKCkNaAAAs3Zc.jpg" width="600" alt="ソーシャルメディア投稿 - Stadium Hospitality Group Selfie - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
+- **ソース:** [Twitter Post](https://x.com/Jodie_Noraa/status/2087851692201226428)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31347)**
+
+---
+
+### No. 28: ソーシャルメディア投稿 - Chasing Sunsets Seagull Watercolor
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A decorative watercolor illustration of a seagull with sunset typography and coastal elements.
+
+#### 📝 プロンプト
+
+```
+A watercolor illustration depicts a {argument name="subject" default="seagull"} in flight with its wings spread wide, positioned centrally above the words "{argument name="text" default="Chasing Sunsets"}" written in a decorative, {argument name="font color" default="coral-colored"} font. The text is intertwined with stylized waves and seashells. Flanking the seagull are two palm trees, one on the left and one on the right, with colorful fronds. Behind the seagull, a sunset is suggested with radiating lines of yellow and orange against a watercolor sky with hints of blue and pink clouds. The lower portion of the image features dynamic blue waves crashing, with a nautilus shell on the left and a beach chair on a wave crest on the right. Small seashells and bubbles are scattered throughout the composition.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690135546_e7q3jz_HPMaJ1gWcAEpzIk.jpg" width="600" alt="ソーシャルメディア投稿 - Chasing Sunsets Seagull Watercolor - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Heather Green](https://x.com/heathergreen)
+- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2087826500430999607)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31354)**
+
+---
+
+### No. 29: ソーシャルメディア投稿 - High Altitude Mountain Selfie
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A photorealistic high-altitude mountain selfie prompt that emphasizes atmospheric perspective and facial reference.
+
+#### 📝 プロンプト
+
+```
+Use the exact same face from the reference image and generate a breathtakingly realistic selfie taken at high altitude on a {argument name="mountain type" default="dramatic green mountain"} — the kind of photo that stops everyone mid-scroll. The subject holds the camera slightly above eye level at a natural selfie angle — face filling the left or center portion of the frame, body from shoulders up visible, casual and completely natural. Expression is genuinely alive — a warm natural smile or that relaxed effortlessly cool expression of someone who just hiked to the top of something beautiful and knows it. Wind very slightly moving the hair. Wearing a casual outdoor layer — a fitted fleece or light jacket, completely real and appropriate for mountain altitude. Behind and around the subject the mountain view is absolutely jaw-dropping and completely photorealistic — vast rolling green mountain ranges extending to the horizon in layer after layer of deepening atmospheric perspective, the nearest slopes a rich vivid green, middle distance mountains slightly softer and cooler, the furthest peaks dissolving into natural blue-grey atmospheric haze at the horizon. The specific lush green of high altitude mountain vegetation — dense forest on the lower slopes transitioning to alpine meadow at the higher elevations, rocky outcrops breaking through the green at the peaks. A dramatic sky above — clear blue with a few three-dimensional cumulus clouds at different heights casting natural moving shadows across the green mountain surfaces below. The selfie perspective showing genuine altitude — the ground falling away sharply below the subject, the scale of the mountain landscape making the human figure feel appropriately small against the vast green world behind them. Real mountain wind suggested by the hair movement and jacket fabric. Lighting completely natural — bright overcast or partial sun outdoor mountain light, honest and real. Shot with front camera simulation — natural slight wide angle distortion, authentic smartphone selfie rendering. 3% film grain. Vertical 9:16 format. Ultra photorealistic 8K — the selfie that makes everyone ask exactly which mountain this is.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690128875_dmd4a5_HPkrptraIAAq8hC.jpg" width="600" alt="ソーシャルメディア投稿 - High Altitude Mountain Selfie - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690129480_witkig_HPkrptra4AAr59x.jpg" width="600" alt="ソーシャルメディア投稿 - High Altitude Mountain Selfie - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2087747936881144134)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31262)**
+
+---
+
+### No. 30: ソーシャルメディア投稿 - Ironic Ocean Office Meme
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+An ironic candid photo prompt of a person working on a laptop while submerged in the ocean.
+
+#### 📝 プロンプト
+
+```
+Realistic candid photo of [person from uploaded photo] standing chest-deep in rough ocean water, surrounded by large breaking waves and white sea foam, no hat. In one raised hand, held above the water, they hold an {argument name="laptop" default="open dark grey/space-black laptop with a visible Apple logo"}, angled toward their face as if working on it. In the other hand, raised at chest height, they hold a {argument name="drink" default="to-go coffee cup with a white lid and brown sleeve"}. Their expression is focused and slightly tired, looking down at the laptop screen. Only the head, shoulders, and raised arms are visible above the waterline; the rest of the body is submerged. The ocean is turbulent with rolling waves and whitewater in the background, cool grey-blue-green color grading, overcast diffused daylight, slightly moody and dramatic lighting. Shot from a distance with a slight telephoto compression, as if photographed candidly from the shore. Vertical composition, photorealistic, ironic "always working" meme aesthetic, no text overlays anywhere on the image.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690130276_y8g9fn_HPkVUgZbkAAuJYV.jpg" width="600" alt="ソーシャルメディア投稿 - Ironic Ocean Office Meme - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690130245_k48dzk_HPkVVRGagAA9QGr.jpg" width="600" alt="ソーシャルメディア投稿 - Ironic Ocean Office Meme - Image 2">
 </div>
 
 #### 📌 詳細
@@ -1669,19 +1994,19 @@ no text overlays anywhere on the image.
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - Surreal Giant Coffee Bakery Portrait
+### No. 31: ソーシャルメディア投稿 - Cozy Bakery Giant Coffee Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A lifestyle photography prompt featuring a surreal giant iced coffee cup in a cozy, pastel-toned bakery setting.
+An editorial lifestyle shot of a woman leaning against an oversized iced coffee cup in a pastel bakery cafe.
 
 #### 📝 プロンプト
 
 ```
-A young East Asian woman with sleek shoulder-length black hair wearing {argument name="outfit" default="a cream oversized knit sweater and light-wash high-waisted straight jeans"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading "{argument name="sticker text" default="SELF CARE"}" in pastel gradient bubble letters. Warm string lights hang overhead, a "Treat Yourself" wall print and shelves of candles sit in the background, with a bakery display case of pink-frosted cupcakes and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.
+A {argument name="subject" default="young East Asian woman with sleek shoulder-length black hair"} wearing a {argument name="outfit" default="cream oversized knit sweater and light-wash high-waisted straight jeans"} with white sneakers, standing in a cozy pastel-toned bakery café. She leans casually against a giant oversized iced coffee cup (larger than her torso) with a pink-and-blue striped straw, the cup wrapped in a bold retro sticker design reading "SELF CARE" in pastel gradient bubble letters. Warm string lights hang overhead, a "Treat Yourself" wall print and shelves of candles sit in the background, with a bakery display case of {argument name="pastries" default="pink-frosted cupcakes"} and a stack of macarons visible to the side, soft pink roses in a vase near a sunlit window. Natural warm lighting, shallow depth of field, lifestyle/editorial photography style, soft bokeh background.
 ```
 
 #### 🖼️ 生成画像
@@ -1689,7 +2014,7 @@ A young East Asian woman with sleek shoulder-length black hair wearing {argument
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603825421_y79h0z_HPkElhsboAA9D03.jpg" width="600" alt="ソーシャルメディア投稿 - Surreal Giant Coffee Bakery Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786690131433_ux1ph0_HPkElhsboAA9D03.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Bakery Giant Coffee Scene - Image 1">
 </div>
 
 #### 📌 詳細
@@ -1703,21 +2028,19 @@ A young East Asian woman with sleek shoulder-length black hair wearing {argument
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - Cozy Cafe Fashion Portrait
+### No. 32: ソーシャルメディア投稿 - Primitive Stencil Dog Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-An editorial fashion prompt for a detailed portrait of a woman in a cozy cafe interior with soft natural lighting and high detail.
+A light pink primitive dog illustration against a dark red background in a woodcut print style.
 
 #### 📝 プロンプト
 
 ```
-A beautiful young East Asian woman with {argument name="hair style" default="long wavy light brown hair styled with a soft white bow hair accessory"}, fair skin, gentle smile, looking directly at the camera. She is wearing {argument name="outfit" default="a cream-white short-sleeve knitted top with delicate ruffles around the round neckline and a textured cable-knit pattern"}, paired with a black mini skirt. White knee-high ribbed socks and black Mary Jane shoes. She holds a clear plastic cup of iced light-brown coffee with a black straw in her right hand. A {argument name="accessory" default="small pale yellow quilted crossbody bag with a gold chain strap and interlocking CC logo"} rests at her hip, her left hand lightly touching it. Playful pose with one leg lifted and bent behind her.
-
-Cozy cafe interior with warm wooden walls and paneling, a large window showing green outdoor foliage, hanging fern plants and a potted fern nearby, a curved wooden chair in the foreground, soft natural daylight, realistic photography style, high detail, natural skin texture, soft lighting.
+A stylized, primitive illustration of a {argument name="subject" default="dog"} is rendered in {argument name="subject color" default="light pink"} against a {argument name="background color" default="dark red"} background. The dog is depicted in a side profile,  with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a {argument name="art style" default="stencil or woodcut print"}, with a rough, textured quality.
 ```
 
 #### 🖼️ 生成画像
@@ -1725,398 +2048,67 @@ Cozy cafe interior with warm wooden walls and paneling, a large window showing g
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826153_ycqm5i_HPV-2w5a4AAAHw_.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Cafe Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786690136232_f26chz_HPCCoSPX0AAzKaz.jpg" width="600" alt="ソーシャルメディア投稿 - Primitive Stencil Dog Illustration - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Heather Green](https://x.com/heathergreen)
+- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2087695881424470232)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31258)**
+
+---
+
+### No. 33: ソーシャルメディア投稿 - Photorealistic Woman at Pool Table
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A detailed lifestyle photography prompt for a woman posing at a wooden pool table, focusing on natural lighting and high-resolution textures.
+
+#### 📝 プロンプト
+
+```
+Photorealistic professional photograph of a brunette lookalike with long wavy ponytail hair, smiling and looking toward the camera over her shoulder. She is wearing a {argument name="top style" default="neon orange short-sleeved crop top with a small hood"}, a {argument name="skirt style" default="very short black ruffled mini skirt"}, and {argument name="footwear" default="neon orange high heels"} from attached picture 1. She is sitting on the edge of a wooden pool table with a small sign 'Keor' engraved on it, holding a pool cue vertically with both hands near her shoulder, one leg raised and bent with the foot resting near the table. Large wooden-framed windows behind her show a sunny hilly landscape. Glass block detailing under the table, polished floor, and pool balls visible on the table surface. Bright natural daylight fills the room. Highly detailed textures, realistic skin and hair, sharp focus, professional lifestyle photography style, 8k resolution.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690138967_pp4br6_HPjD3YrW0AA9aE2.jpg" width="600" alt="ソーシャルメディア投稿 - Photorealistic Woman at Pool Table - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826172_1xf3x1_HPV-2xDaMAAtjVx.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Cafe Fashion Portrait - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786690137419_nst8ka_HPjD3YsWgAAHZ8p.jpg" width="600" alt="ソーシャルメディア投稿 - Photorealistic Woman at Pool Table - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826131_whc7pi_HPV-2xia0AAKced.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Cafe Fashion Portrait - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2087630198753903073)
-- **公開日:** 2026年8月12日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31260)**
-
----
-
-### No. 24: ソーシャルメディア投稿 - Y2K Balletcore Nighttime Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A highly detailed iPhone flash-style prompt for a Y2K balletcore lifestyle portrait featuring a copper-red haired woman in a kitchen setting.
-
-#### 📝 プロンプト
-
-```
-Ultra-realistic playful Y2K balletcore nighttime lifestyle portrait of a young adult woman with long {argument name="hair color" default="vivid copper-red hair"} styled into two neat thick braids falling over her chest, soft center part, loose face-framing strands, subtle flyaways, and natural silky texture. Fair warm ivory skin with clearly visible pores, realistic skin texture, delicate natural freckles across the cheeks, nose, shoulders, chest, arms, and legs, subtle facial vellus hair, natural skin variation, pronounced rosy flushed cheeks, softly luminous complexion, feathered brows, subtle champagne-pink eyeshadow, fine brown winged eyeliner, wispy separated lashes, glossy rosy-pink lips with realistic lip texture, and bright blue-gray eyes. She has a huge genuine open-mouth smile with visible natural teeth, slightly squinted happy eyes, and an energetic candid expression. Wearing a fitted white ribbed camisole with delicate lace trim, tiny feminine bow details and long ribbon ties at the neckline, layered underneath a cropped pastel-pink long-sleeve shrug cardigan. Pair it with a short white tiered ruffle mini skirt, white patterned semi-sheer tights featuring a delicate geometric knit design, and glossy pastel-pink satin platform Mary Jane heels with chunky block heels. She is crouching beside an open stainless-steel refrigerator in a modern apartment kitchen at night, balanced naturally on her heels with one knee raised, one hand resting lightly across her thigh while the other reaches toward a refrigerator shelf. The open refrigerator is brightly illuminated and stocked with realistic everyday groceries, yogurt cups, sauces, condiments, packaged snacks, fruit, leftovers, jars, and containers. Colorful candy bars, gummy candy packets, snack wrappers, cereal boxes, and small packaged treats are playfully scattered across the dark wooden floor around her, creating a chaotic late-night snack-run aesthetic. Modern apartment kitchen with glossy white cabinetry, stainless-steel refrigerator, built-in appliances, dark nighttime windows, subtle city lights, and minimal contemporary styling. Captured using an {argument name="camera model" default="iPhone 15 Pro"} with strong direct rear-camera flash, producing authentic harsh frontal illumination, bright eye catchlights, crisp shadows behind the subject, realistic reflections across the {argument name="refrigerator style" default="stainless steel refrigerator"}, glossy shoes and packaging, slight highlight clipping, natural smartphone perspective, and the imperfect candid quality of a spontaneous late-night photo. Cool refrigerator light mixes with the warmer flash and dark ambient room lighting. Y2K sleepover aesthetic, balletcore fashion, playful Pinterest nightlife photography, candid Gen-Z lifestyle image, realistic anatomy, individual hair strands, detailed fabric fibers, visible pores and freckles, realistic hands and fingers, natural teeth, RAW-like clar
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603828642_ekfcm6_HPhaX72asAAv-DL.jpg" width="600" alt="ソーシャルメディア投稿 - Y2K Balletcore Nighttime Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603828653_4wj43c_HPhaX7yacAAC06S.jpg" width="600" alt="ソーシャルメディア投稿 - Y2K Balletcore Nighttime Portrait - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Natty Windstorm](https://x.com/NattyWindstorm)
-- **ソース:** [Twitter Post](https://x.com/NattyWindstorm/status/2087518217220796755)
-- **公開日:** 2026年8月12日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31263)**
-
----
-
-### No. 25: ソーシャルメディア投稿 - Cozy Home Fitness Lifestyle Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A high-quality lifestyle portrait prompt designed for generating realistic indoor fitness scenes, focusing on natural lighting, detailed textures, and a candid atmosphere.
-
-#### 📝 プロンプト
-
-```
-Create a photorealistic lifestyle portrait of an young woman seated comfortably on a compact indoor exercise machine in a cozy, modern home interior.
-
-1. Subject, hair, skin, expression, pose:
-A young woman with {argument name="hair style" default="long, naturally red/auburn hair"} styled in a high ponytail, with a few soft strands framing her face. Fair skin with realistic natural texture and subtle freckles. Light-colored eyes, neatly shaped eyebrows, and understated everyday makeup. She has a calm, slightly serious expression while looking directly toward the camera. She is seated upright on the exercise equipment with both knees comfortably raised and bent, maintaining a relaxed, balanced posture. One hand gently rests near the side of her hair while the other arm rests naturally beside her. Her pose should feel candid, casual, and comfortable rather than staged.
-
-2. Clothing and accessories:
-She wears a simple {argument name="top color" default="burgundy-red"} sleeveless athletic top layered naturally over a subtle gray underlayer, paired with fitted gray textured workout leggings. Add a delicate necklace with a small pendant. Keep the outfit practical, modest, contemporary, and suitable for light indoor exercise. No unnecessary accessories.
-
-3. Environment and lighting:
-Set the scene inside a warm, tidy residential room. Behind her is a large decorative framed artwork with a botanical-inspired pattern and metallic neutral accents. Include a small side cabinet with a clear glass vase containing soft blue and lavender flowers. The room has neutral walls, understated furniture, and a clean minimalist atmosphere. Use warm ambient indoor lighting combined with soft diffused illumination from the room, creating gentle highlights on the subject while preserving natural skin tones and realistic shadows.
-
-4. Camera / visual style:
-Photorealistic editorial lifestyle photography, vertical portrait composition, approximately 50mm lens, natural perspective, eye-level camera position, shallow-to-moderate depth of field, crisp facial details, realistic fabric textures, authentic skin texture, subtle background separation, balanced exposure, soft highlights, natural shadows, cinematic but believable color grading, high dynamic range, professional photography quality, ultra-detailed, realistic proportions, candid home-photography atmosphere.
-
-5. Overall direction:
-Keep the composition faithful to a casual indoor lifestyle photograph. Prioritize natural anatomy, realistic hands and feet, accurate facial proportions, authentic clothing folds, physically believable lighting, and detailed environmental textures.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518699245_cpoq48_HPgIF3BaMAIG6t6.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Home Fitness Lifestyle Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518699534_b2h3j9_HPgIJvCaAAAimbc.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Home Fitness Lifestyle Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518699280_25qrjx_HPgIK0OaIAAxmid.jpg" width="600" alt="ソーシャルメディア投稿 - Cozy Home Fitness Lifestyle Portrait - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [J⭕DIE](https://x.com/Jodie_Noraa)
-- **ソース:** [Twitter Post](https://x.com/Jodie_Noraa/status/2087427425626214673)
-- **公開日:** 2026年8月12日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31152)**
-
----
-
-### No. 26: ソーシャルメディア投稿 - Studio Portrait with Parrots
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A cinematic studio portrait prompt featuring a woman holding a flock of colorful parrots against a soft light gray background.
-
-#### 📝 プロンプト
-
-```
-A close up, studio portrait features a fair skinned woman with {argument name="hair color" default="dark brown/black"} hair, eyes closed, tenderly holding a flock of five small {argument name="bird colors" default="teal & yellow"} parrots. the parrots are uniformly bright with orange beaks and black eyes circled in white. they are scattered across her shoulders and arms, resting gently. her attire appears to be made of a cream colored, possibly lace, fabric. the background is a smooth, {argument name="background color" default="light gray"}, providing a soft contrast to the bright yellow & teal of the birds and the light tone of the woman's skin.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826781_yqe4pn_HPfIhgyaYAA97x9.jpg" width="600" alt="ソーシャルメディア投稿 - Studio Portrait with Parrots - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826793_zprf8f_HPfIiQYbIAAEvz3.jpg" width="600" alt="ソーシャルメディア投稿 - Studio Portrait with Parrots - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603826507_c4xezy_HPfIi6waAAAhraB.jpg" width="600" alt="ソーシャルメディア投稿 - Studio Portrait with Parrots - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603827524_sqioug_HPfIjkab0AA__Dx.jpg" width="600" alt="ソーシャルメディア投稿 - Studio Portrait with Parrots - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Maddox](https://x.com/Maddox_Digital)
-- **ソース:** [Twitter Post](https://x.com/Maddox_Digital/status/2087357477755195469)
-- **公開日:** 2026年8月12日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31153)**
-
----
-
-### No. 27: ソーシャルメディア投稿 - Dark Cinematic Window Lighting Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A sophisticated prompt designed for high-contrast indoor portraits where a single window serves as the sole light source, creating dramatic shadows and architectural geometry on the subject.
-
-#### 📝 プロンプト
-
-```
-Use the exact same face from the reference image and generate a dark cinematic portrait where a single window is the only light source in the world — the room in absolute darkness except for the precise column of natural light falling through the glass and striking the face with surgical beauty.
-
-The subject positioned close to a large window — body at a natural angle, one shoulder almost touching the window frame, the face turned partially toward the glass so the window light strikes at a precise 45 to 60 degree angle across the facial planes. Not standing formally — leaning very slightly, completely natural, the specific body language of someone drawn unconsciously toward the only light in a dark room. Wearing a {argument name="clothing" default="dark fitted turtleneck"} or {argument name="alternative clothing" default="heavy dark shirt"} — the clothing dissolving completely into the surrounding darkness, only the face and the very edge of the shoulder existing in the light.
-
-The window itself is the silent protagonist — large steel-framed industrial panes or old wooden-framed glass, the glass slightly imperfect with natural waviness creating very subtle light distortion, the exterior beyond the glass completely overcast or pre-dawn — a flat grey-white light source outside that is bright without being warm, cold natural daylight pressing through the glass into the dark interior. The window frame casting its own precise shadow geometry across the face and wall — the vertical and horizontal frame bars creating a cross-shadow pattern that falls across the cheek and forehead, the window grid shadow dividing the face into geometric light and shadow zones. The specific graphic beauty of window frame shadows on a human face — architectural geometry imposed on biological curves.
-
-Expression is the most quietly devastating yet — eyes directed toward the window light rather than the camera, not looking out but looking at the light itself, the specific expression of someone who has been sitting in darkness for a long time and is feeling the first light touch their face. Lips slightly parted, jaw completely relaxed, every guard completely down. The most private and human expression possible — caught in a moment of solitary communion with natural light.
-
-Skin at full forensic obsession under the specific quality of cold window light — the most honest and unforgiving light that exists, the flat grey natural light from an overcast exterior revealing every skin surface detail simultaneously from every direction without creating harsh shadows that obscure detail. Every individual pore in three-dimensional relief under the window light. Stubble hairs casting micro-shadows across the surrounding skin. The window frame shadow lines crossing the face — the skin texture equally visible in the light zones and the frame-shadow zones, the shadow not obscuring detail but simply darkening it. The specific way cold northern window light renders real skin
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518702570_686zhw_HPfEFjdbwAA1yAN.jpg" width="600" alt="ソーシャルメディア投稿 - Dark Cinematic Window Lighting Portrait - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2087352570620834241)
-- **公開日:** 2026年8月12日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31156)**
-
----
-
-### No. 28: ソーシャルメディア投稿 - Glamorous Marina Yacht Scene
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A jet-set luxury prompt featuring a high-fashion woman and a Porsche sports car in a sun-drenched exclusive marina.
-
-#### 📝 プロンプト
-
-```
-A glamorous scene unfolds in an exclusive marina on a bright, sunny day, radiating timeless elegance. A confident woman, exuding high-fashion cool and absolute self-assurance, perches on the glossy fender of a {argument name="car color" default="yellow"} {argument name="car model" default="Porsche cabrio sports car"} with black alloy wheels. She wears a striking {argument name="swimsuit color" default="pink"} one-piece swimsuit with white trim, paired with square-framed sunglasses, high-heeled slides, and gold jewelry. Direct midday sunlight strikes her from high from the front-right, highlighting her toned physique and creating defined shadows on the sun-baked cobblestones. The background is a crisp, clean backdrop of white luxury yachts with a written ‘Keor’ on it docked under a clear, deep cobalt blue sky. It is a stunning cinematic moment, capturing a narrative of timeless jet-set luxury and powerful, statuesque grace in a coastal paradise.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518703980_ni3ww4_HPd8fqnXsAAtew6.jpg" width="600" alt="ソーシャルメディア投稿 - Glamorous Marina Yacht Scene - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518704035_eli9bk_HPd8fqmXIAAeM7o.jpg" width="600" alt="ソーシャルメディア投稿 - Glamorous Marina Yacht Scene - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518704189_xsk983_HPd8fqnXMAITKut.jpg" width="600" alt="ソーシャルメディア投稿 - Glamorous Marina Yacht Scene - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518704732_0z1nbj_HPd8fqqWMAAfn3B.jpg" width="600" alt="ソーシャルメディア投稿 - Glamorous Marina Yacht Scene - Image 4">
+<img src="https://cms-assets.youmind.com/media/1786690137349_fb5rbn_HPjD3YnWIAEsSfX.jpg" width="600" alt="ソーシャルメディア投稿 - Photorealistic Woman at Pool Table - Image 3">
 </div>
 
 #### 📌 詳細
 
 - **作者:** [KeorUnreal](https://x.com/KeorUnreal)
-- **ソース:** [Twitter Post](https://x.com/KeorUnreal/status/2087273846051385705)
-- **公開日:** 2026年8月11日
+- **ソース:** [Twitter Post](https://x.com/KeorUnreal/status/2087633793318596894)
+- **公開日:** 2026年8月12日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31159)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31358)**
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - Cyberpunk Rainy Night Market
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A detailed cinematic prompt for generating a neon-drenched futuristic night market scene with atmospheric rain and reflections.
-
-#### 📝 プロンプト
-
-```
-Ultra-cinematic {argument name="theme" default="cyberpunk"} night market in a dense futuristic Asian megacity during heavy rain, viewed from street level. A lone mysterious figure in a long black hooded coat walks away from the camera through a crowded neon-lit alley, carrying a dark shoulder bag. Dozens of transparent umbrellas surround them, with silhouettes of pedestrians fading into the rainy haze. Towering buildings disappear into the dark storm clouds above, covered with layers of glowing neon signs in Japanese, Korean, Chinese and Thai-inspired typography, colorful holographic advertisements, hotel signs, restaurants, street stalls and underground shops.
-
-The wet asphalt is covered in puddles, creating perfect mirror-like reflections of electric blue, magenta, violet, cyan and warm orange neon lights. Steam rises from food stalls, rain falls visibly through the neon glow, subtle mist fills the distant streets, electrical cables stretch overhead, and atmospheric smoke creates incredible depth. A small glowing street-food sign in the foreground adds warm contrast.
-
-Photorealistic cinematic photography, {argument name="aesthetic" default="cyberpunk noir"}, Blade Runner-inspired atmosphere, moody dystopian aesthetic, volumetric lighting, dramatic rim lighting, realistic rain droplets, wet reflective surfaces, deep shadows, rich contrast, atmospheric perspective, extremely detailed architecture, realistic human silhouettes, natural imperfections, shallow depth of field, 35mm cinematic lens, low-angle street photography, HDR, film grain, ultra-realistic textures, 4K, masterpiece, highly immersive, vertical composition, no borders, no watermark, no modern text overlays.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518700933_2grudi_HPc7SB0bcAAICbS.jpg" width="600" alt="ソーシャルメディア投稿 - Cyberpunk Rainy Night Market - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [WeWant Mars](https://x.com/Madhuribhai)
-- **ソース:** [Twitter Post](https://x.com/Madhuribhai/status/2087202144919400743)
-- **公開日:** 2026年8月11日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31154)**
-
----
-
-### No. 30: ソーシャルメディア投稿 - Faux Fur Fashion DSLR Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A stylized fashion portrait prompt for a hyper-realistic DSLR photo, featuring a subject in shaggy faux fur against a textured plush background.
-
-#### 📝 プロンプト
-
-```
-Create image of a hyper-realistic DSLR cinematic photo: focus on sharp facial features, dynamic pose and full-body, {argument name="subject" default="stylish young man in a shaggy brown/tan faux fur coat over a dark tee with a gold graphic"}. He wears {argument name="pants" default="shiny black faux leather pants, a black belt with a silver buckle, and layered silver chains/rings"}. The background is a {argument name="background" default="dense, soft, dusty pink, long-pile faux fur"}, filling the frame with textured blush color.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518698041_eoedd1_HPcTqwWWQAAfhxZ.jpg" width="600" alt="ソーシャルメディア投稿 - Faux Fur Fashion DSLR Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518698076_azrrnk_HPcTqwMXoAAMCLh.jpg" width="600" alt="ソーシャルメディア投稿 - Faux Fur Fashion DSLR Portrait - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Alex Prompts](https://x.com/AlexPromptsAI)
-- **ソース:** [Twitter Post](https://x.com/AlexPromptsAI/status/2087158841326686559)
-- **公開日:** 2026年8月11日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31150)**
-
----
-
-### No. 31: ソーシャルメディア投稿 - Action Snowboarder Mountain Shot
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A dynamic action prompt for generating a snowboarder carving through powder on a sunlit mountain slope.
-
-#### 📝 プロンプト
-
-```
-A dynamic action shot of a {argument name="subject" default="man snowboarder"} with a nice hairstyle wearing a modest, structured {argument name="outfit color" default="blue-and-white"} patterned athletic top with extended coverage, matching leggings, and a grey backpack, carving swiftly down a steep, sunlit snowy mountain slope under a brilliant blue sky, kicking up a dramatic spray of powdery snow crystals with cinematic lighting.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518702043_fzgms1_HPb_uOIWIAA76Hy.jpg" width="600" alt="ソーシャルメディア投稿 - Action Snowboarder Mountain Shot - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786518702178_p94eus_HPb_uOJXAAAF53U.jpg" width="600" alt="ソーシャルメディア投稿 - Action Snowboarder Mountain Shot - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [H A J R A](https://x.com/codewithhajra)
-- **ソース:** [Twitter Post](https://x.com/codewithhajra/status/2087136651990442388)
-- **公開日:** 2026年8月11日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31157)**
-
----
-
-### No. 32: インフォグラフィック / 教育ビジュアル - European Hamster Wildlife Photography
+### No. 34: インフォグラフィック / 教育ビジュアル - European Hamster Wildlife Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2150,7 +2142,7 @@ A close-up, eye-level shot captures a {argument name="animal type" default="Euro
 
 ---
 
-### No. 33: インフォグラフィック / 教育ビジュアル - Realistic Dodo Bird Illustration
+### No. 35: インフォグラフィック / 教育ビジュアル - Realistic Dodo Bird Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2184,7 +2176,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 34: インフォグラフィック / 教育ビジュアル - 人間工学オフィスチェア向け E コマース用モバイル詳細ページ
+### No. 36: インフォグラフィック / 教育ビジュアル - 人間工学オフィスチェア向け E コマース用モバイル詳細ページ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2218,7 +2210,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 35: インフォグラフィック / 教育ビジュアル - ミニチュア・ポップアップブック・ジオラマ
+### No. 37: インフォグラフィック / 教育ビジュアル - ミニチュア・ポップアップブック・ジオラマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2252,7 +2244,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 36: インフォグラフィック / 教育ビジュアル - 1970 年代レトロなアルファベットのグラフィックデザイン
+### No. 38: インフォグラフィック / 教育ビジュアル - 1970 年代レトロなアルファベットのグラフィックデザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2286,7 +2278,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 37: インフォグラフィック / 教育ビジュアル - Voxel Magazine ポップアップアート
+### No. 39: インフォグラフィック / 教育ビジュアル - Voxel Magazine ポップアップアート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2320,7 +2312,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 38: インフォグラフィック / 教育ビジュアル - 幾何学モザイクのポートレートイラスト
+### No. 40: インフォグラフィック / 教育ビジュアル - 幾何学モザイクのポートレートイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2366,7 +2358,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 39: インフォグラフィック / 教育ビジュアル - テクニカル・カットアウェイ図
+### No. 41: インフォグラフィック / 教育ビジュアル - テクニカル・カットアウェイ図
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2418,7 +2410,7 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 40: インフォグラフィック / 教育ビジュアル - 消防士のストーリーボード・インフォグラフィック
+### No. 42: インフォグラフィック / 教育ビジュアル - 消防士のストーリーボード・インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2452,7 +2444,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 41: インフォグラフィック / 教育ビジュアル - 3D 医療用グロースキャンレンダリング
+### No. 43: インフォグラフィック / 教育ビジュアル - 3D 医療用グロースキャンレンダリング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2492,7 +2484,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 42: インフォグラフィック / 教育ビジュアル - AR 崖の上の絶景ポートレート分析
+### No. 44: インフォグラフィック / 教育ビジュアル - AR 崖の上の絶景ポートレート分析
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2597,7 +2589,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 43: インフォグラフィック / 教育ビジュアル - ガンダム THE ORIGIN インフォグラフィック生成
+### No. 45: インフォグラフィック / 教育ビジュアル - ガンダム THE ORIGIN インフォグラフィック生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2631,7 +2623,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 44: インフォグラフィック / 教育ビジュアル - GDR（東ドイツ）の歴史改変カーデザイン
+### No. 46: インフォグラフィック / 教育ビジュアル - GDR（東ドイツ）の歴史改変カーデザイン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2665,7 +2657,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 45: インフォグラフィック / 教育ビジュアル - 沼地に潜むワニの野生動物写真
+### No. 47: インフォグラフィック / 教育ビジュアル - 沼地に潜むワニの野生動物写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2705,7 +2697,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 46: インフォグラフィック / 教育ビジュアル - ネオ・パラメトリック建築イラストレーション
+### No. 48: インフォグラフィック / 教育ビジュアル - ネオ・パラメトリック建築イラストレーション
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2750,7 +2742,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 47: YouTube サムネイル - タイポグラフィック・エマージェンス映画ポスターグリッド
+### No. 49: YouTube サムネイル - タイポグラフィック・エマージェンス映画ポスターグリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2784,7 +2776,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 48: YouTube サムネイル - SF 風コーヒーメーカーのボス戦
+### No. 50: YouTube サムネイル - SF 風コーヒーメーカーのボス戦
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2818,7 +2810,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 49: YouTube サムネイル - ヴェネツィアに現れた超現実的な巨大な女性
+### No. 51: YouTube サムネイル - ヴェネツィアに現れた超現実的な巨大な女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2852,7 +2844,7 @@ Pixar 風のスタイライズされた美学を持つ、消防士キャラク�
 
 ---
 
-### No. 50: YouTube サムネイル - 映画のようなスポーツドキュメンタリーのキービジュアル
+### No. 52: YouTube サムネイル - 映画のようなスポーツドキュメンタリーのキービジュアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2886,7 +2878,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 51: YouTube サムネイル - 雄大な象の雲のフォトグラフィー
+### No. 53: YouTube サムネイル - 雄大な象の雲のフォトグラフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2930,7 +2922,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 52: YouTube サムネイル - アニメ風鉄道駅への変換
+### No. 54: YouTube サムネイル - アニメ風鉄道駅への変換
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2964,7 +2956,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 53: YouTube サムネイル - ミスター・ビーンとミニ・クーパーのハチャメチャなドライブ
+### No. 55: YouTube サムネイル - ミスター・ビーンとミニ・クーパーのハチャメチャなドライブ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3018,7 +3010,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 54: YouTube サムネイル - シネマティックな月夜の屋上ポートレートコラージュ
+### No. 56: YouTube サムネイル - シネマティックな月夜の屋上ポートレートコラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3058,7 +3050,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 55: YouTube サムネイル - ストリートグラマーなケーキナイフのポートレート
+### No. 57: YouTube サムネイル - ストリートグラマーなケーキナイフのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3092,7 +3084,7 @@ Balenciaga スタイルの服を着た女性がカーペットの上でケーキ
 
 ---
 
-### No. 56: YouTube サムネイル - シネマティックな自警団のグラフィックポスター
+### No. 58: YouTube サムネイル - シネマティックな自警団のグラフィックポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3143,7 +3135,7 @@ Balenciaga スタイルの服を着た女性がカーペットの上でケーキ
 
 ---
 
-### No. 57: YouTube サムネイル - バスケットボールアリーナの放送風ポートレート
+### No. 59: YouTube サムネイル - バスケットボールアリーナの放送風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3179,7 +3171,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 58: YouTube サムネイル - NBA 放送のスタジアムスクリーンショット
+### No. 60: YouTube サムネイル - NBA 放送のスタジアムスクリーンショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3213,7 +3205,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 59: YouTube サムネイル - 魔法のブック・ビジュアライゼーション・グリッド
+### No. 61: YouTube サムネイル - 魔法のブック・ビジュアライゼーション・グリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3247,7 +3239,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 60: YouTube サムネイル - 楽曲からイメージを生成するビジュアライゼーション
+### No. 62: YouTube サムネイル - 楽曲からイメージを生成するビジュアライゼーション
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3299,7 +3291,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 61: YouTube サムネイル - シネマティックなポッドキャストスタジオのポートレート
+### No. 63: YouTube サムネイル - シネマティックなポッドキャストスタジオのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3333,7 +3325,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 62: YouTube サムネイル - 日本のテレビ番組風画像生成
+### No. 64: YouTube サムネイル - 日本のテレビ番組風画像生成
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3388,7 +3380,7 @@ Nano Banana Pro で日本のテレビ番組風の画像を生成するための�
 
 ---
 
-### No. 63: YouTube サムネイル - Millie Bobby Brown のシネマティックなフェスティバル写真
+### No. 65: YouTube サムネイル - Millie Bobby Brown のシネマティックなフェスティバル写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3446,7 +3438,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 64: YouTube サムネイル - バナナの皮で滑る男性のシネマティックなストリートフォト
+### No. 66: YouTube サムネイル - バナナの皮で滑る男性のシネマティックなストリートフォト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3479,7 +3471,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 65: YouTube サムネイル - エイプリルフール用フェイクニュース画像生成プロンプト
+### No. 67: YouTube サムネイル - エイプリルフール用フェイクニュース画像生成プロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3530,19 +3522,18 @@ Nano Banana 2 を使用して、エイプリルフール向けのフェイクニ
 
 ---
 
-### No. 66: コミック / ストーリーボード - Primitive Woodcut Dog Illustration
+### No. 68: コミック / ストーリーボード - Subterranean Ice Cathedral Portraits
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-A stylized, primitive illustration prompt for creating rough, textured animal art reminiscent of a woodcut or stencil print.
+A hyper-detailed cinematic still of women in a black ice cathedral with crystalline armor and starlight refraction.
 
 #### 📝 プロンプト
 
 ```
-A stylized, primitive illustration of a dog is rendered in {argument name="dog color" default="a light pink"} against {argument name="background color" default="a dark red background"}. The dog is depicted in a side profile, with a large, angular head featuring a single, circular eye with a smaller circle in its center, and two pointed ears. Its mouth is open, revealing a row of sharp, triangular teeth and a dark, cavernous interior. A curved tail extends from its rear. The body of the dog appears to be filled with hand drawn crosshatching and symbols. Its four legs are depicted as simple, rectangular shapes. The overall aesthetic is reminiscent of a stencil or woodcut print, with a rough, textured quality.
+Ultra-sharp cinematic still of four women from different forgotten cultures standing in perfect silence inside a vast subterranean cathedral carved entirely from living black ice, their traditional garments fused with crystalline armor that refracts frozen starlight, each woman holding a different glowing fragment of a shattered constellation map, dramatic volumetric god-rays piercing through fractures in the ice ceiling, anamorphic lens flares, hyper-detailed frost textures on skin and fabric, shallow depth of field, filmic color grade with deep cyan and amber highlights, 8K, photorealistic, never-before-seen composition. Ultra-sharp cinematic wide shot of a solitary colossal mechanical whale suspended mid-air above an endless desert of shattered porcelain plates, its brass and glass body slowly leaking liquid time that freezes into cascading hourglasses mid-fall, the whale’s eye reflecting an inverted sky filled with slow-motion lightning, dramatic side lighting with long shadows and volumetric dust, anamorphic bokeh, hyper-detailed rivets and cracked ceramic ground, film grain, 8K, photorealistic, never-before-seen perspective.
 ```
 
 #### 🖼️ 生成画像
@@ -3550,21 +3541,70 @@ A stylized, primitive illustration of a dog is rendered in {argument name="dog c
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786603824714_zy5de3_HPCCoSPX0AAzKaz.jpg" width="600" alt="コミック / ストーリーボード - Primitive Woodcut Dog Illustration - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786690136989_kaghma_HPqJRkEaUAA2lQK.jpg" width="600" alt="コミック / ストーリーボード - Subterranean Ice Cathedral Portraits - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690137043_zuajxs_HPqJSFKaAAAM2X4.jpg" width="600" alt="コミック / ストーリーボード - Subterranean Ice Cathedral Portraits - Image 2">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [Heather Green](https://x.com/heathergreen)
-- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2087695881424470232)
-- **公開日:** 2026年8月13日
+- **作者:** [mini singh](https://x.com/KaminiKamini222)
+- **ソース:** [Twitter Post](https://x.com/KaminiKamini222/status/2088132331458695315)
+- **公開日:** 2026年8月14日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31258)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31355)**
 
 ---
 
-### No. 67: コミック / ストーリーボード - Fragmented Geometric Figurative Illustration
+### No. 69: コミック / ストーリーボード - Romantic Chinese Couple in Europe
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+A multi-panel cinematic story prompt depicting a Chinese couple's romantic stroll through a historic European city from morning to evening.
+
+#### 📝 プロンプト
+
+```
+Four sequential vertical portrait images (tall 9:16 aspect ratio) telling a continuous romantic story of a young Chinese couple strolling on a charming European street, photorealistic, cinematic lighting, highly detailed faces with authentic Chinese features, soft natural skin texture, elegant casual clothing.
+
+Panel 1 (top): Early morning golden light, the Chinese couple walking side by side on a quiet cobblestone street in a historic European old town, smiling and holding hands, classic European architecture with flower boxes and cafe signs in the background, soft mist in the air.
+
+Panel 2: Mid-morning, the couple stops in front of an old bookstore with large glass windows, the man points excitedly at a book while the woman laughs, warm sunlight reflecting on the cobblestones, authentic Chinese facial features, natural expressions.
+
+Panel 3: Afternoon, the couple sits closely on a wooden bench under a blooming tree on the European street, sharing an ice cream, the woman resting her head on his shoulder, soft bokeh of European passersby and colorful buildings in the background, tender and intimate mood.
+
+Panel 4 (bottom): Golden hour evening, the Chinese couple walking away down the same European street hand in hand, the man carries a small bouquet of wildflowers, warm orange sunlight casting long shadows, romantic and peaceful atmosphere, cinematic depth of field.
+
+Consistent characters across all four panels, same Chinese couple, same clothing, seamless story progression from morning to evening, vertical composition, ultra-realistic, 8K detail, soft film color grading.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690123710_56tjj0_HPmRoqiboAAN_uw.jpg" width="600" alt="コミック / ストーリーボード - Romantic Chinese Couple in Europe - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [mini singh](https://x.com/KaminiKamini222)
+- **ソース:** [Twitter Post](https://x.com/KaminiKamini222/status/2087860073632780344)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31340)**
+
+---
+
+### No. 70: コミック / ストーリーボード - Fragmented Geometric Figurative Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3607,7 +3647,7 @@ Highly expressive line hierarchy, intricate micro-details, elegant visual rhythm
 
 ---
 
-### No. 68: コミック / ストーリーボード - Editorial Ghost-Spider Urban Portrait
+### No. 71: コミック / ストーリーボード - Editorial Ghost-Spider Urban Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3659,7 +3699,7 @@ The lighting is diegetic urban night lighting with rich, preserved deep shadows 
 
 ---
 
-### No. 69: コミック / ストーリーボード - Dark Fantasy Battlefield Warrior
+### No. 72: コミック / ストーリーボード - Dark Fantasy Battlefield Warrior
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3704,7 +3744,7 @@ Highly detailed cinematic realism, photorealistic textures, realistic human anat
 
 ---
 
-### No. 70: コミック / ストーリーボード - Botanical Archive Victorian Portrait
+### No. 73: コミック / ストーリーボード - Botanical Archive Victorian Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3794,7 +3834,7 @@ A structured, hyper-realistic portrait prompt set in a dense botanical Victorian
 
 ---
 
-### No. 71: コミック / ストーリーボード - 3D Paper-Craft Diorama Style
+### No. 74: コミック / ストーリーボード - 3D Paper-Craft Diorama Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3861,7 +3901,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 72: コミック / ストーリーボード - ゴシックで幻想的な幽霊屋敷
+### No. 75: コミック / ストーリーボード - ゴシックで幻想的な幽霊屋敷
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3895,7 +3935,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 73: コミック / ストーリーボード - 静寂の文学的ガーデン・エスケープ
+### No. 76: コミック / ストーリーボード - 静寂の文学的ガーデン・エスケープ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3929,7 +3969,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 74: コミック / ストーリーボード - ドラえもん映画風シーンのレンダリング
+### No. 77: コミック / ストーリーボード - ドラえもん映画風シーンのレンダリング
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3963,7 +4003,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 75: コミック / ストーリーボード - マルチパネル表情グリッド
+### No. 78: コミック / ストーリーボード - マルチパネル表情グリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4003,7 +4043,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 76: コミック / ストーリーボード - 静寂の庭園と文学的なポートレート
+### No. 79: コミック / ストーリーボード - 静寂の庭園と文学的なポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4049,7 +4089,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 77: コミック / ストーリーボード - 高級フレグランスのストーリーボードレイアウト
+### No. 80: コミック / ストーリーボード - 高級フレグランスのストーリーボードレイアウト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4083,7 +4123,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 78: コミック / ストーリーボード - キャラクターへの小道具追加
+### No. 81: コミック / ストーリーボード - キャラクターへの小道具追加
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4117,7 +4157,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 79: コミック / ストーリーボード - ミニマリストなエディトリアル・ファッションスケッチ
+### No. 82: コミック / ストーリーボード - ミニマリストなエディトリアル・ファッションスケッチ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4157,7 +4197,7 @@ Do not introduce new people, remove important subjects, change the identity, alt
 
 ---
 
-### No. 80: コミック / ストーリーボード - 映画のような空中アクションショット
+### No. 83: コミック / ストーリーボード - 映画のような空中アクションショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +4231,7 @@ Netflix シリーズに着想を得た、参照画像入力を使用する、空
 
 ---
 
-### No. 81: コミック / ストーリーボード - Cosmic Mural Studio ポートレートシーケンス
+### No. 84: コミック / ストーリーボード - Cosmic Mural Studio ポートレートシーケンス
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4237,7 +4277,7 @@ Netflix シリーズに着想を得た、参照画像入力を使用する、空
 
 ---
 
-### No. 82: コミック / ストーリーボード - 女性マンガ風落書きシャドウ
+### No. 85: コミック / ストーリーボード - 女性マンガ風落書きシャドウ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4283,7 +4323,7 @@ Netflix シリーズに着想を得た、参照画像入力を使用する、空
 
 ---
 
-### No. 83: コミック / ストーリーボード - アニメーションの相棒と写る都会のストリートポートレート
+### No. 86: コミック / ストーリーボード - アニメーションの相棒と写る都会のストリートポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4317,7 +4357,7 @@ Netflix シリーズに着想を得た、参照画像入力を使用する、空
 
 ---
 
-### No. 84: コミック / ストーリーボード - オカルト雑誌編集部
+### No. 87: コミック / ストーリーボード - オカルト雑誌編集部
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4357,19 +4397,19 @@ Netflix シリーズに着想を得た、参照画像入力を使用する、空
 
 ---
 
-### No. 85: コミック / ストーリーボード - 赤いドレスを着た笑顔の女性のコラージュ
+### No. 88: プロダクトマーケティング - Macro Food Stack Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-ヨーロッパの街並み、庭園、屋上、自然の中で、さまざまな赤いドレスを着て微笑む女性を捉えたマルチシーン・コラージュのプロンプト。
+A professional food photography prompt for Nano Banana Pro featuring stacked items with liquid dripping effects.
 
 #### 📝 プロンプト
 
 ```
-同じ {argument name="subject" default="笑顔の女性"} がさまざまな {argument name="outfit color" default="赤"} のドレスを身にまとった {argument name="number of scenes" default="6"} つの異なるシーンで構成されるフォトコラージュ：小さなバスケットバッグを持ってヨーロッパの石畳の道を歩く姿、アジサイやバラが咲き誇る緑豊かな庭園の木製ベンチに優雅に座り花束を抱える姿、夕暮れ時の屋上テラスで街のスカイラインを背景に楽しげに回転する姿、山や波を背に海を見下ろす険しい海岸の崖の上に立つ姿、居心地の良い本に囲まれたカフェでコーヒーカップを手に本を読みながら笑う姿、そして夕暮れ時の陽光あふれる野草とポピーの咲く野原を遊び心いっぱいに駆け抜ける姿。
+a stack of three {argument name="objects" default="Tomatoes, Eggs, and Sweatshirt and Ice creams"} with {argument name="liquid" default="LIQUID"} dripping down, on a white background, in the style of food photography, macro shot, studio lighting, nikon z6 ii, volumetric lighting, neutral tones.
 ```
 
 #### 🖼️ 生成画像
@@ -4377,21 +4417,127 @@ Netflix シリーズに着想を得た、参照画像入力を使用する、空
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1785050317412_6d76vd_HOFvqFYagAAoCHl.jpg" width="600" alt="コミック / ストーリーボード - 赤いドレスを着た笑顔の女性のコラージュ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786690122979_2w8fkv_HPpX6WOagAA66GS.jpg" width="600" alt="プロダクトマーケティング - Macro Food Stack Photography - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690122967_zvpxg3_HPpX6zgbwAEqAQS.jpg" width="600" alt="プロダクトマーケティング - Macro Food Stack Photography - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690123013_otzzmm_HPpX7S6bQAAYTiS.jpg" width="600" alt="プロダクトマーケティング - Macro Food Stack Photography - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690123909_6v4jqa_HPpX7z8agAA6W0W.jpg" width="600" alt="プロダクトマーケティング - Macro Food Stack Photography - Image 4">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [Aatif J](https://x.com/aatif_j)
-- **ソース:** [Twitter Post](https://x.com/aatif_j/status/2081067282873319833)
-- **公開日:** 2026年7月25日
+- **作者:** [Maddox](https://x.com/Maddox_Digital)
+- **ソース:** [Twitter Post](https://x.com/Maddox_Digital/status/2088078072037904685)
+- **公開日:** 2026年8月14日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=29746)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31341)**
 
 ---
 
-### No. 86: プロダクトマーケティング - Cinematic Product Advertisement with Spider Web
+### No. 89: プロダクトマーケティング - Sadie Sink High-Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+An ultra-photorealistic fashion cover prompt featuring Sadie Sink in a crimson gala gown with dramatic lighting.
+
+#### 📝 プロンプト
+
+```
+Ultra-photorealistic high-fashion cover portrait of {argument name="subject" default="Sadie sink"}, wearing an jaw-dropping floor-length {argument name="dress color" default="crimson red"} silk gala gown with an exaggerated plunging sweetheart neckline, a dramatic thigh-high slit, and sculpted sharp shoulder accents, striking a powerful runway pose, looking directly into the camera with a captivating, fierce gaze, sleek wet-look Hollywood waves, vibrant high-contrast studio portraiture, deep {argument name="backlight color" default="emerald velvet"} backlighting creating a dramatic rim-light along her silhouette, forensic skin texture, micro pore detail, luxury Vogue editorial cover aesthetic, high-glamour specular highlights, full-body composition, vertical 4:5, subtle "OzairAI" watermark in the bottom right corner.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690133213_0cbb0j_HPkQh2cbcAAjpkz.jpg" width="600" alt="プロダクトマーケティング - Sadie Sink High-Fashion Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690133370_wpbrwq_HPkQh2bbcAAOa1k.jpg" width="600" alt="プロダクトマーケティング - Sadie Sink High-Fashion Portrait - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2087718106731098573)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31350)**
+
+---
+
+### No. 90: プロダクトマーケティング - Cozy Cafe Fashion Portrait
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+An editorial fashion prompt for a detailed portrait of a woman in a cozy cafe interior with soft natural lighting and high detail.
+
+#### 📝 プロンプト
+
+```
+A beautiful young East Asian woman with {argument name="hair style" default="long wavy light brown hair styled with a soft white bow hair accessory"}, fair skin, gentle smile, looking directly at the camera. She is wearing {argument name="outfit" default="a cream-white short-sleeve knitted top with delicate ruffles around the round neckline and a textured cable-knit pattern"}, paired with a black mini skirt. White knee-high ribbed socks and black Mary Jane shoes. She holds a clear plastic cup of iced light-brown coffee with a black straw in her right hand. A {argument name="accessory" default="small pale yellow quilted crossbody bag with a gold chain strap and interlocking CC logo"} rests at her hip, her left hand lightly touching it. Playful pose with one leg lifted and bent behind her.
+
+Cozy cafe interior with warm wooden walls and paneling, a large window showing green outdoor foliage, hanging fern plants and a potted fern nearby, a curved wooden chair in the foreground, soft natural daylight, realistic photography style, high detail, natural skin texture, soft lighting.
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786603826153_ycqm5i_HPV-2w5a4AAAHw_.jpg" width="600" alt="プロダクトマーケティング - Cozy Cafe Fashion Portrait - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786603826172_1xf3x1_HPV-2xDaMAAtjVx.jpg" width="600" alt="プロダクトマーケティング - Cozy Cafe Fashion Portrait - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786603826131_whc7pi_HPV-2xia0AAKced.jpg" width="600" alt="プロダクトマーケティング - Cozy Cafe Fashion Portrait - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Feyber | AI Creator](https://x.com/woleswoosh)
+- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2087630198753903073)
+- **公開日:** 2026年8月12日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31260)**
+
+---
+
+### No. 91: プロダクトマーケティング - Cinematic Product Advertisement with Spider Web
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4431,7 +4577,7 @@ Using the uploaded product as the exact reference, preserve its original shape, 
 
 ---
 
-### No. 87: プロダクトマーケティング - Cinematic Amateur Fashion Editorial
+### No. 92: プロダクトマーケティング - Cinematic Amateur Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4483,7 +4629,7 @@ Cinematic amateur-fashion aesthetic blended with premium luxury realism, emotion
 
 ---
 
-### No. 88: プロダクトマーケティング - Emerald Evening Dress Fashion Portrait
+### No. 93: プロダクトマーケティング - Emerald Evening Dress Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4539,7 +4685,7 @@ Photorealistic luxury fashion photography, 85mm portrait lens, vertical composit
 
 ---
 
-### No. 89: プロダクトマーケティング - Mixed Media Fashion Studio Art
+### No. 94: プロダクトマーケティング - Mixed Media Fashion Studio Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4573,7 +4719,7 @@ A vibrant mixed media composition blending high-end studio fashion photography w
 
 ---
 
-### No. 90: プロダクトマーケティング - Tropical Fashion Editorial Portrait
+### No. 95: プロダクトマーケティング - Tropical Fashion Editorial Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4635,7 +4781,7 @@ Low-angle full-body fashion photograph, camera positioned slightly below the sub
 
 ---
 
-### No. 91: プロダクトマーケティング - Luxury Rooftop Blue Hour Portrait
+### No. 96: プロダクトマーケティング - Luxury Rooftop Blue Hour Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4675,7 +4821,7 @@ A photorealistic luxury rooftop lifestyle portrait of a young woman during blue 
 
 ---
 
-### No. 92: プロダクトマーケティング - Surreal Botanical Couture Fashion Editorial
+### No. 97: プロダクトマーケティング - Surreal Botanical Couture Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4801,7 +4947,7 @@ A surreal high-fashion editorial prompt featuring a gown made of living saffron 
 
 ---
 
-### No. 93: プロダクトマーケティング - Industrial Loft Fashion Editorial
+### No. 98: プロダクトマーケティング - Industrial Loft Fashion Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4847,7 +4993,7 @@ A photorealistic editorial lifestyle portrait of a young woman in a sophisticate
 
 ---
 
-### No. 94: プロダクトマーケティング - Superhero Soda Promotional Posters
+### No. 99: プロダクトマーケティング - Superhero Soda Promotional Posters
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4964,7 +5110,7 @@ A series of conceptual prompts for creating cinematic movie posters featuring Ma
 
 ---
 
-### No. 95: プロダクトマーケティング - Product in Ice Cube Minimalist
+### No. 100: プロダクトマーケティング - Product in Ice Cube Minimalist
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4998,7 +5144,7 @@ A simple product photography prompt used to compare Grok Imagine 2.0 and Nano Ba
 
 ---
 
-### No. 96: プロダクトマーケティング - Y2K Paparazzi Luxury Hair Shot
+### No. 101: プロダクトマーケティング - Y2K Paparazzi Luxury Hair Shot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5032,7 +5178,7 @@ Use the uploaded photo as the exact facial reference and preserve the person’s
 
 ---
 
-### No. 97: プロダクトマーケティング - Luxury Water Bottle Product Photography
+### No. 102: プロダクトマーケティング - Luxury Water Bottle Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5072,145 +5218,7 @@ Ultra-realistic luxury commercial product photography of a {argument name="produ
 
 ---
 
-### No. 98: プロダクトマーケティング - Futuristic Retro Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A detailed prompt for generating experimental pop-fashion photographs that combine futuristic and retro aesthetics with hand-drawn graphic elements.
-
-#### 📝 プロンプト
-
-```
-Design a square 1:1 visual artwork for {argument name="brand name" default="[BRAND NAME]"} that feels like an experimental pop-fashion photograph from a futuristic retro archive.
-
-Let {argument name="hero color" default="[HERO COLOR]"} dominate the scene, but avoid a simple flat backdrop. Create a layered studio environment using tonal gradients, soft cast shadows, floating geometric fragments, and subtle paper-print imperfections.
-
-The main subject is a single adult fashion model styled in a distinctive look that complements {argument name="brand name" default="[BRAND NAME]"}. Capture an energetic candid moment, with the subject turning toward a handheld retro digital camera and photographing something outside the frame.
-
-Make the camera an important storytelling element rather than a decorative prop. Show its small display clearly enough to suggest a captured image, while keeping the scene photorealistic.
-
-Add expressive white (#FFFFFF) hand-drawn artwork throughout the scene: loose geometric sketches, tiny stars, camera-interface-inspired symbols, sweeping lines, imperfect circles, and abstract gestures. Integrate these marks into the environment at different depths so some appear behind the subject while others float around the foreground.
-
-Give the image a late-1990s/early-2000s experimental magazine mood with contemporary fashion photography, crisp details, subtle analog grain, realistic skin texture, dimensional lighting, and energetic editorial framing.
-
-Use approximately 5500K neutral studio lighting. Maintain strong separation between photographic elements and graphic artwork while making them feel intentionally designed as one composition.
-
-Absolutely no readable text, typography, slogans, captions, logos, watermarks, or written brand names.
-
-The final result should resemble a rare experimental fashion editorial discovered in a futuristic design archive—confident, playful, tactile, unconventional, and visually memorable.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257225584_0wn1fv_HPKZnHHbcAA3MSZ.jpg" width="600" alt="プロダクトマーケティング - Futuristic Retro Fashion Editorial - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Selina](https://x.com/selinatasnim1)
-- **ソース:** [Twitter Post](https://x.com/selinatasnim1/status/2085898494087417985)
-- **公開日:** 2026年8月8日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30696)**
-
----
-
-### No. 99: プロダクトマーケティング - Paris Sunset Balcony Lifestyle Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A detailed JSON prompt for generating a romantic lifestyle editorial of a woman on a Parisian balcony during sunset.
-
-#### 📝 プロンプト
-
-```
-{
-  "id": "paris_balcony_sunset_editorial_01",
-  "prompt": "Ultra-realistic romantic Paris balcony lifestyle editorial portrait of a {argument name="subject description" default="beautiful young adult woman with long voluminous champagne-blonde hair"} styled in soft loose waves, subtle center part, natural movement, delicate flyaway strands, and softly illuminated edges from the sunset. Fair warm ivory skin with visible pores, realistic skin texture, subtle natural freckles across the cheeks, nose, shoulders, chest, and arms, fine facial vellus hair, natural skin variation, soft rosy blush, luminous but realistic complexion, feathered brows, delicate champagne eyeshadow, subtle brown eyeliner, separated wispy lashes, pale blue-gray eyes, and softly glossy natural rose-pink lips with realistic lip texture. She wears a {argument name="outfit description" default="romantic pure-white cotton off-the-shoulder mini dress"} with a fitted corset-inspired bodice, gathered sweetheart neckline, short puff sleeves sitting below the shoulders, fitted waist, and softly flowing gathered skirt with realistic cotton folds and stitching. A delicate silver chain necklace with a tiny cross pendant rests naturally against her collarbone. She is seated sideways on a narrow traditional Parisian apartment balcony, body turned slightly toward the camera, knees angled naturally to one side, both hands resting gently near her lap, shoulders relaxed, maintaining direct eye contact with a calm, dreamy expression. Behind her, the {argument name="landmark" default="Eiffel Tower"} rises clearly above classic cream Haussmann buildings with gray mansard rooftops, tree-lined Paris streets, wrought-iron balcony railings, and neighboring limestone façades. The sky is a dreamy pastel sunset gradient of warm peach, pale gold, blush pink, and soft blue. Gentle golden-hour light softly illuminates one side of her face and hair while maintaining realistic shadow detail and natural skin tones. Authentic high-end travel lifestyle photography rather than an overly polished studio photograph. Captured with an iPhone 15 Pro main camera aesthetic, 24mm equivalent lens, realistic smartphone HDR, natural perspective, crisp facial and hair detail, moderate natural depth of field, subtle background softness while keeping the Eiffel Tower recognizable, realistic exposure, no artificial portrait-mode cutout. Romantic Parisian summer aesthetic, quiet luxury travel editorial, Pinterest-inspired European vacation photography, Kodak Portra-inspired color rendering, RAW-like clarity, highly detailed hair strands, visible pores and freckles, realistic fabric texture, natural anatomy, ultra photorealistic, high resolution.",
-  "negative_prompt": "cartoon, anime, CGI, illustration, painting, doll-like face, plastic skin, wax skin, airbrushed skin, excessive beauty filter, overly smooth skin, fake pores, excessive makeup, artificial freckles, distorted anatomy, unrealistic body proportions, extra limbs, extra finger"
-}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257232392_bmv5ag_HPKIjO7bQAALPRH.jpg" width="600" alt="プロダクトマーケティング - Paris Sunset Balcony Lifestyle Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257232513_goolz5_HPKIu6oaMAAdH5M.jpg" width="600" alt="プロダクトマーケティング - Paris Sunset Balcony Lifestyle Editorial - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Dockie](https://x.com/Document195)
-- **ソース:** [Twitter Post](https://x.com/Document195/status/2085881199436890513)
-- **公開日:** 2026年8月8日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30700)**
-
----
-
-### No. 100: プロダクトマーケティング - Luxury Tennis Court Fashion Editorial
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-An Identity Lock prompt for creating consistent model imagery in a luxurious tennis-themed fashion shoot, focusing on preserving facial features.
-
-#### 📝 プロンプト
-
-```
-Use the uploaded image as the SINGLE model reference. The woman in the photo is the exact model. Preserve her appearance with absolute precision. Identity Lock is the top priority. The face must be 100% identical to the reference. Do not change, improve, stylize, change age, or alter any facial features. Preserve exact eyes, eyebrows, eyelashes, nose, lips, jawline, cheekbones, ears, skin tone, facial proportions, expression, hairstyle, hairline, body proportions, and overall look. No deviations from the original.
-Create a luxurious editorial lifestyle-fashion photograph on an outdoor tennis court. The model sits naturally on the court surface next to a tennis net: one leg bent, the other freely extended, a relaxed and elegant pose. She holds a {argument name="prop" default="bright yellow tennis ball"} near her ear as if talking on the phone, looking thoughtfully to the side. Several tennis balls are naturally scattered around her on the court.
-She wears a {argument name="clothing" default="black sleeveless tennis dress"}, a {argument name="headwear" default="black Nike visor with a white logo"}, white Nike socks, and chunky white tennis sneakers. Minimal jewelry. Hair lies freely on her shoulders.
-Warm golden hour light, cinematographic lighting, soft shadows, shallow depth of field, atmosphere of expensive fashion editorial shooting, premium sportswear advertising campaign, natural skin texture with visible pores, ultra-realistic hair strands, rich contrast, soft bokeh, 85mm lens, aperture f/1.8, medium format camera quality, Vogue style, Harper's Bazaar, Saint Laurent Campaign, Nike Women Campaign, ultra-photorealism, HDR, 8K, masterpiece, award-winning fashion photography.
-Negative prompt: different face, identity change, face drift from reference, altered facial features, different hairstyle, different body proportions, different skin tone, beauty filter, plastic skin, heavy makeup, cartoon style, CGI, illustration, anime, low quality, blurriness, extra fingers, distorted hands, cropped body, body duplication, face duplication, watermark, logo, text.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257229088_7n7hvf_HPJBxKtWEAAAkF_.jpg" width="600" alt="プロダクトマーケティング - Luxury Tennis Court Fashion Editorial - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257229053_2o58f1_HPJBxKpXUAAbKqe.jpg" width="600" alt="プロダクトマーケティング - Luxury Tennis Court Fashion Editorial - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [H A J R A](https://x.com/codewithhajra)
-- **ソース:** [Twitter Post](https://x.com/codewithhajra/status/2085801896867184805)
-- **公開日:** 2026年8月7日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30695)**
-
----
-
-### No. 101: プロダクトマーケティング - Summer Skincare Product Photography
+### No. 103: E コマースのメイン画像 - Summer Skincare Product Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5230,25 +5238,25 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171691763_363c9f_HPHD50KXkAAJfKy.jpg" width="600" alt="プロダクトマーケティング - Summer Skincare Product Photography - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786171691763_363c9f_HPHD50KXkAAJfKy.jpg" width="600" alt="E コマースのメイン画像 - Summer Skincare Product Photography - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171691771_9i66u8_HPHD50JXsAA_HIk.jpg" width="600" alt="プロダクトマーケティング - Summer Skincare Product Photography - Image 2">
+<img src="https://cms-assets.youmind.com/media/1786171691771_9i66u8_HPHD50JXsAA_HIk.jpg" width="600" alt="E コマースのメイン画像 - Summer Skincare Product Photography - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171691830_ld7r4k_HPHD50WXYAAtPDo.jpg" width="600" alt="プロダクトマーケティング - Summer Skincare Product Photography - Image 3">
+<img src="https://cms-assets.youmind.com/media/1786171691830_ld7r4k_HPHD50WXYAAtPDo.jpg" width="600" alt="E コマースのメイン画像 - Summer Skincare Product Photography - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786171692407_hzonsy_HPHD50KWwAA7RcY.jpg" width="600" alt="プロダクトマーケティング - Summer Skincare Product Photography - Image 4">
+<img src="https://cms-assets.youmind.com/media/1786171692407_hzonsy_HPHD50KWwAA7RcY.jpg" width="600" alt="E コマースのメイン画像 - Summer Skincare Product Photography - Image 4">
 </div>
 
 #### 📌 詳細
@@ -5262,7 +5270,7 @@ Ultra-realistic summer skincare product photography of a bronzing drop bottle na
 
 ---
 
-### No. 102: E コマースのメイン画像 - Nano Banana Pro Product Collage
+### No. 104: E コマースのメイン画像 - Nano Banana Pro Product Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5302,7 +5310,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 103: E コマースのメイン画像 - スタイライズされたコレクティブルトイのパッケージ
+### No. 105: E コマースのメイン画像 - スタイライズされたコレクティブルトイのパッケージ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5354,7 +5362,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 104: E コマースのメイン画像 - プレミアムなプロダクトスタジオへの変身
+### No. 106: E コマースのメイン画像 - プレミアムなプロダクトスタジオへの変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5406,7 +5414,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 105: E コマースのメイン画像 - 高級スキンケア製品の広告
+### No. 107: E コマースのメイン画像 - 高級スキンケア製品の広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5458,7 +5466,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 106: E コマースのメイン画像 - 3D モデルからフォトリアルな製品レンダリングへ
+### No. 108: E コマースのメイン画像 - 3D モデルからフォトリアルな製品レンダリングへ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5492,7 +5500,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 107: E コマースのメイン画像 - ラグジュアリー製品クラスター用マスタープロンプト
+### No. 109: E コマースのメイン画像 - ラグジュアリー製品クラスター用マスタープロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5556,7 +5564,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 108: E コマースのメイン画像 - マクロモニター画面のテクスチャ
+### No. 110: E コマースのメイン画像 - マクロモニター画面のテクスチャ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5590,7 +5598,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 109: E コマースのメイン画像 - カジュアルデニムのスタジオポートレート
+### No. 111: E コマースのメイン画像 - カジュアルデニムのスタジオポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5624,7 +5632,7 @@ Three-panel collage product photography of {argument name="product" default="lux
 
 ---
 
-### No. 110: E コマースのメイン画像 - 草原の丘でのミニマルなプロダクトフォト
+### No. 112: E コマースのメイン画像 - 草原の丘でのミニマルなプロダクトフォト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5676,7 +5684,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 111: E コマースのメイン画像 - 濡れたスレート上のエディトリアル製品ショット
+### No. 113: E コマースのメイン画像 - 濡れたスレート上のエディトリアル製品ショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5716,7 +5724,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 112: E コマースのメイン画像 - ビーチフロントでのライフスタイル商品撮影
+### No. 114: E コマースのメイン画像 - ビーチフロントでのライフスタイル商品撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5750,7 +5758,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 113: E コマースのメイン画像 - ミニマリストなスタジオポートレート：青年
+### No. 115: E コマースのメイン画像 - ミニマリストなスタジオポートレート：青年
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5784,7 +5792,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 114: E コマースのメイン画像 - ラグジュアリースキンケアの広告写真
+### No. 116: E コマースのメイン画像 - ラグジュアリースキンケアの広告写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5826,7 +5834,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 115: E コマースのメイン画像 - ミニマリストなヘッドホンの EC サイト向け商品画像
+### No. 117: E コマースのメイン画像 - ミニマリストなヘッドホンの EC サイト向け商品画像
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5872,19 +5880,18 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 116: E コマースのメイン画像 - 桜の美しさキャンペーン
+### No. 118: ゲームアセット - Airport Field Critic with Gear
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-桜とシャボン玉が舞う柔らかなピンク色の光の中で撮影された、高級スキンケアキャンペーン向けの夢のようなシネマティックな製品ショット。
+A character concept for a union member field critic equipped for airport settings.
 
 #### 📝 プロンプト
 
 ```
-{argument name="product" default="エレガントなブラッシュピンクのボトル"} 、その周囲には {argument name="elements" default="空中に舞う桜の花びら、柔らかなピンク色の光を反射するシャボン玉"} 、光沢のある台座、プレミアムな日本の美容広告スタイル、 {argument name="mood" default="夢のようなシネマティックな雰囲気"} 、超リアル、高級スキンケアキャンペーン。
+Union member field critic with cooling gear, airport ready.
 ```
 
 #### 🖼️ 生成画像
@@ -5892,21 +5899,55 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1782028899996_e97e7o_HLREkjYasAAZGPQ.jpg" width="600" alt="E コマースのメイン画像 - 桜の美しさキャンペーン - Image 1">
+<img src="https://cms-assets.youmind.com/media/1786690127049_rsjlre_HPqLq_0WgAAdsM6.jpg" width="600" alt="ゲームアセット - Airport Field Critic with Gear - Image 1">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [𝐌](https://x.com/Strength04_X)
-- **ソース:** [Twitter Post](https://x.com/Strength04_X/status/2068353624800178493)
-- **公開日:** 2026年6月20日
+- **作者:** [Flutterwhat](https://x.com/flutterwhat)
+- **ソース:** [Twitter Post](https://x.com/flutterwhat/status/2088135191730504044)
+- **公開日:** 2026年8月14日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=26310)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31345)**
 
 ---
 
-### No. 117: ゲームアセット - Clockpunk Miniature Greenhouse
+### No. 119: ゲームアセット - Ana de Armas as Spider-Gwen
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+A simple character cosplay prompt featuring Ana de Armas as Spider-Gwen.
+
+#### 📝 プロンプト
+
+```
+{argument name="actor" default="Ana de Armas"} cosplaying as {argument name="character" default="Spider-Gwen"}
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1786690125527_deqsy9_HPhCpa4WgAAMDt-.jpg" width="600" alt="ゲームアセット - Ana de Armas as Spider-Gwen - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Kairos Media](https://x.com/KairosMedia_)
+- **ソース:** [Twitter Post](https://x.com/KairosMedia_/status/2088011460559421773)
+- **公開日:** 2026年8月13日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31343)**
+
+---
+
+### No. 120: ゲームアセット - Clockpunk Miniature Greenhouse
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5940,174 +5981,13 @@ A detailed prompt for creating a whimsical miniature world featuring a grand bot
 
 ---
 
-### No. 118: ゲームアセット - Baroque Gothic Knight Sculpture
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A sophisticated prompt for a highly decorative knight statue in a baroque-gothic style, featuring intricate metalwork and filigree.
-
-#### 📝 プロンプト
-
-```
-{argument name="subject" default="Cathedral Knight"}
-A highly decorative baroque-style gothic sculpture of a knight statue standing in the center. The heavy plate armor covering the entire body is filled with detailed metal carvings and swirling filigree decorations.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257245723_cqj02c_HPLfAQ2b0AAgKmq.jpg" width="600" alt="ゲームアセット - Baroque Gothic Knight Sculpture - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257246530_vkhfcn_HPLfAhfaAAAhcrA.jpg" width="600" alt="ゲームアセット - Baroque Gothic Knight Sculpture - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257245696_4n1su6_HPLfAz6aoAA1vm1.jpg" width="600" alt="ゲームアセット - Baroque Gothic Knight Sculpture - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [岩田 拓靖](https://x.com/hiroyasuiwa)
-- **ソース:** [Twitter Post](https://x.com/hiroyasuiwa/status/2085974789340958905)
-- **公開日:** 2026年8月8日
-- **言語:** ja
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30705)**
-
----
-
-### No. 119: ゲームアセット - Spiderman Skyscraper Editorial Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-A complex JSON prompt for a photorealistic superhero editorial featuring Spiderman clinging to a glass skyscraper.
-
-#### 📝 プロンプト
-
-```
-{
-  "prompt_style": "photorealistic superhero editorial photo",
-  "subject": {
-    "Person": "{argument name="subject name" default="Person Name/Uploaded Image"}",
-    "pose": "clinging to the exterior of a glass skyscraper, one arm extended overhead with palm flat against the glass, opposite leg bent and foot braced against the window frame, other arm hanging loosely, body angled diagonally as if caught mid-climb",
-    "expression": "focused, alert, looking off to the side as if scanning the street below",
-    "camera_angle": "slightly low angle, three-quarter view, shot from outside the building looking up and across"
-  },
-  "suit_design": {
-    "name": "{argument name="suit version" default="Brand New Day suit (fan-original design)"}",
-    "primary_colors": "bright red torso/arms, deep navy blue lower body and side panels",
-    "chest_emblem": "large black spider symbol, angular modern silhouette, centered on chest",
-    "web_pattern": "fine black web-line stitching across red sections, thinning out on navy sections",
-    "texture": "red areas: matte compression fabric with raised web-stitch detail; navy areas: subtle hexagonal micro-texture, almost like body armor weave",
-    "trim": "black piping along shoulder seams, ribs, and outer arm/leg lines",
-    "gloves": "red, web-patterned, form-fitting",
-    "wrist_gadget": "black mechanical wristband/web-shooter with a small glowing blue light strip, worn on the raised arm",
-    "boots": "red with black sole trim, web-patterned, knee-high, form-fitting",
-    "knee_detail": "reinforced navy knee pads with fine textured paneling",
-    "belt": "black segmented utility band at the waist",
-    "material_feel": "high-end movie-costume quality, slightly reflective under sunlight, not cartoonish or glossy plastic"
-  },
-  "setting": {
-    "location": "exterior of a modern glass office skyscraper, Manhattan",
-    "background": "hazy daytime city skyline, visible landmark spire (One World Trade Center style silhouette) in the distance, soft atmospheric perspective",
-    "surface": "floor-to-ceiling glass curtain wall with visible metal mullions, faint reflection of the character visible in the glass",
-    "time_of_day": "clear daytime, soft directional sunlight from one side"
-  }
-}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257237763_15mj7o_HPLB0GgaYAAO7Nz.jpg" width="600" alt="ゲームアセット - Spiderman Skyscraper Editorial Portrait - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257237790_7z6kwp_HPLB0GgakAAwfK1.jpg" width="600" alt="ゲームアセット - Spiderman Skyscraper Editorial Portrait - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257237816_xodoeb_HPLB0Gra8AA4JGd.jpg" width="600" alt="ゲームアセット - Spiderman Skyscraper Editorial Portrait - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786257238785_981nla_HPLB0Gsb0AAX8-z.jpg" width="600" alt="ゲームアセット - Spiderman Skyscraper Editorial Portrait - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [SaaS Junction ✦ Daily AI News & Prompts](https://x.com/SaasJunctionHQ)
-- **ソース:** [Twitter Post](https://x.com/SaasJunctionHQ/status/2085943968542634019)
-- **公開日:** 2026年8月8日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30814)**
-
----
-
-### No. 120: ゲームアセット - ステッチ入り麻布のブードゥー人形
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-詳細なステッチとカラフルなピンが特徴の、質感のある麻布製ブードゥー人形のための記述的プロンプト。
-
-#### 📝 プロンプト
-
-```
-{argument name="subject" default="麻布のブードゥー人形"} と {argument name="heart detail" default="中央に縫い付けられた赤いハート"}。この人形には黒い十字型の目と縫い合わされた口があります。いくつかの {argument name="pins" default="ピンが人形に刺さっています：左脚にピンクのピンが 1 本、右脚に青いピンが 1 本、右腕に赤いピンが 1 本"}。人形全体は小さなダッシュのようなステッチで覆われており、質感のある外観に仕上がっています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785654872886_nbjrwn_HOPXiqPWUAAiBWa.jpg" width="600" alt="ゲームアセット - ステッチ入り麻布のブードゥー人形 - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Heather Green](https://x.com/heathergreen)
-- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2083707098479923473)
-- **公開日:** 2026年8月2日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=30550)**
-
----
-
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 15048 さらに多くのプロンプトがあります
+### 🎯 15072 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6170,6 +6050,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-08-14T04:32:02.064Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-08-15T04:08:00.317Z</sub>
 
 </div>
