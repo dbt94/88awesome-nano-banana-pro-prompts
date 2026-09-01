@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15423** |
+| 📝 プロンプト総数 | **15450** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年8月31日月曜日 8:04:42 UTC** |
+| 🔄 最終更新 | **2026年9月1日火曜日 8:03:45 UTC** |
 
 </div>
 
@@ -654,19 +654,19 @@ Grok からの検索結果
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: プロフィール / アバター - 森の中の赤毛の女性のポートレート
+### No. 1: プロフィール / アバター - ティールカラーの髪の穏やかな女性のポートレートイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-日差しが差し込む森の空き地で、ボリュームのある赤毛の女性を捉えた縦型ポートレートの撮影用プロンプトです。
+ティールブルーの髪とマスタードイエローのニット帽を身につけた、穏やかな表情の女性を描くためのペイント風イラストプロンプト。柔らかな色鉛筆の質感とゴールドの飛沫が特徴です。
 
 #### 📝 プロンプト
 
 ```
-色白でそばかすのある肌と {argument name="subject hair" default="長くボリュームのあるウェーブのかかった赤毛"} を持つ若い女性が、{argument name="setting" default="日差しが差し込む森の空き地"} に立っている様子を写した、フォトリアルな縦型のポートレート写真。彼女は背中をこちらに向けた状態で、左肩越しに顔を向け、柔らかくまっすぐな視線を投げかけている。瞳は淡いブルーグレーで、鼻と頬にはそばかすが散らばり、唇はわずかに開かれ、ニュートラルで幻想的な表情を浮かべている。
+目を閉じ、穏やかな表情を浮かべた若い女性のクローズアップポートレート。透き通るような白い肌に、ほんのりと赤らんだ頬、鼻筋と頬に散らばる繊細なそばかす、そして淡いピンク色の唇が特徴です。長く流れるような髪は {argument name="hair color" default="鮮やかで深みのあるティールブルー"} で、柔らかなウェーブが顔周りを包み込んでいます。彼女は {argument name="hat" default="心地よい質感のマスタードイエローのチャンキーニット帽"} を深めにかぶり、首元にはお揃いの厚手で質感のあるマスタードイエローのウールマフラーを暖かく巻いています。柔らかな色鉛筆の質感、パステル調の陰影、そして細かな粒子が施された夢のようなペイント風イラストスタイルで、{argument name="background" default="ダークティールの背景"} にはゴールドとホワイトの繊細な絵の具の飛沫が散りばめられています。
 ```
 
 #### 🖼️ 生成画像
@@ -674,21 +674,295 @@ Grok からの検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1788159792168_y24wjb_HRA9toXaMAA4THS.jpg" width="600" alt="プロフィール / アバター - 森の中の赤毛の女性のポートレート - Image 1">
+<img src="https://cms-assets.youmind.com/media/1788245868986_uim5ow_HRDqKJFbIAAPeWw.jpg" width="600" alt="プロフィール / アバター - ティールカラーの髪の穏やかな女性のポートレートイラスト - Image 1">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [Amy jones](https://x.com/Amyjoneswk3)
-- **ソース:** [Twitter Post](https://x.com/Amyjoneswk3/status/2094241733760745537)
-- **公開日:** 2026年8月31日
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2094666563882545309)
+- **公開日:** 2026年9月1日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32984)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33084)**
 
 ---
 
-### No. 2: プロフィール / アバター - 二重露光の水彩画風ポートレート
+### No. 2: プロフィール / アバター - カジュアルなアップヘアのブルネット女性のポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ブルネットの髪とオリーブグリーンの瞳を持つ若い女性の高精細なポートレート用プロンプト。柔らかな照明と自然な肌の質感に焦点を当てています。
+
+#### 📝 プロンプト
+
+```
+息をのむほど美しい若い女性。{argument name="hair type" default="ダークブルネット"} の髪を無造作なアップヘアにゆるくまとめ、{argument name="bangs style" default="軽やかなカーテンバングス"} が額に柔らかくかかっている。人を惹きつける深いオリーブグリーンの瞳でまっすぐに見つめ、鼻と頬には自然なそばかすが散らばっている。ドラマチックに上気したローズピンクの頬、テラコッタピーチ色の艶やかな唇は柔らかく開かれ、{argument name="skin tone" default="陶器のような"} 肌は瑞々しく輝いている。片手を繊細に上げ、指の関節を顎に添えている。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245871979_usrchw_HRG_l91aMAAY0LQ.jpg" width="600" alt="プロフィール / アバター - カジュアルなアップヘアのブルネット女性のポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Aynah](https://x.com/AynahhX)
+- **ソース:** [Twitter Post](https://x.com/AynahhX/status/2094665972972216652)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33090)**
+
+---
+
+### No. 3: プロフィール / アバター - リアルなシネマティック・ヘッドショット
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+参照写真の顔の特徴を維持しつつ、ドラマチックなレンブラント・ライティングを加える超リアルなスタジオ・ヘッドショット用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+アップロードした写真を正確な顔の参照画像として使用してください。顔の特徴、髭、髪型、肌のトーン、アイデンティティを正確に保持してください。{argument name="lighting" default="ドラマチックなレンブラント・ライティング"} を用いた、超リアルでシネマティックなスタジオ・ヘッドショットを作成してください。背景は黒で、柔らかな {argument name="rim light" default="赤いリムライト"} と繊細なパープルのアクセントライトを当ててください。鋭い表情で横を向いている構図です。{argument name="lens" default="85mm レンズ"}、f/1.4、非常にシャープな瞳、自然な肌の質感、高コントラスト、ハリウッド風のカラーグレーディング、ボリュームライティング、超リアルな 8K、DSLR 品質、透かしなし、テキストなし、顔の加工なし。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245870412_8nmv3s_HRG4mTla0AA19ZO.jpg" width="600" alt="プロフィール / アバター - リアルなシネマティック・ヘッドショット - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **ソース:** [Twitter Post](https://x.com/JamilAI55/status/2094658278777323693)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33086)**
+
+---
+
+### No. 4: プロフィール / アバター - 横顔のドリーミーなレースポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ロマンチックなレースとオーガンジーを纏った女性の横顔を、柔らかな自然光で照らした芸術的なポートレート用プロンプト。
+
+#### 📝 プロンプト
+
+```
+カメラから視線を外し、光源を見つめる女性の横顔を捉えた芸術的なポートレート画像を生成してください。ボリュームのあるダークブラウンの髪は緩やかなウェーブがかかり、柔らかなハイライトが当たっています。彼女は、繊細な花柄のレース模様があしらわれた {argument name="clothing" default="オフショルダーの繊細な白いレースの衣装"} を着用しています。透け感のあるふんわりとしたオーガンジーの袖が、装いに柔らかくロマンチックで夢のような雰囲気を添えています。背景の薄手のカーテン越しに柔らかな自然光が差し込み、優しい逆光を作り出しています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245880798_il1iuo_HRGtRG1b0AAsBOF.jpg" width="600" alt="プロフィール / アバター - 横顔のドリーミーなレースポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [aynelle](https://x.com/aynellex)
+- **ソース:** [Twitter Post](https://x.com/aynellex/status/2094645819974545735)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33104)**
+
+---
+
+### No. 5: プロフィール / アバター - 世界地図のテクスチャを重ねたミクストメディア・ポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+都会的なコラージュスタイルとヴィンテージの地図のテクスチャ、鮮やかなブルーの髪を融合させた、現代的なストリートアート風のクリエイティブなポートレート生成プロンプトです。
+
+#### 📝 プロンプト
+
+```
+鮮やかな {argument name="hair color" default="エレクトリックブルー"} の髪と印象的な {argument name="eye color" default="シアン"} の瞳を持つ、{argument name="subject" default="美しい若い女性"} のクローズアップ・ミクストメディア・ポートレート。鼻と頬にはそばかすが散りばめられ、発光するような肌と、わずかに開いた艶やかなチェリーレッドの唇が特徴です。アートワークは現代的なアーバンコラージュとデコラージュのストリートアートスタイルで描かれ、使い古された木材の表面にレイヤー状のテクスチャが施されています。重ね合わされた要素には、破れたヴィンテージの紙片、色あせた切手、繊細な建築の線画、鉛筆の走り書き、白い絵の具の飛沫、キャンバス全体に広がる繊細なひび割れのテクスチャが含まれます。高コントラスト、緻密なディテール、テクスチャ感のあるミクストメディア絵画、ファインアートギャラリー品質。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245876730_qlnb8q_HRGfM85aAAAgDU4.jpg" width="600" alt="プロフィール / アバター - 世界地図のテクスチャを重ねたミクストメディア・ポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2094640390431195454)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33097)**
+
+---
+
+### No. 6: プロフィール / アバター - インパスト技法による魂を揺さぶる油彩肖像画
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+重厚なインパストの質感と、動きとエネルギーを感じさせる渦巻く背景が特徴的な、表現力豊かな油彩肖像画を生成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+高品質な {argument name="subject" default="若い東アジア系の女性"} のクローズアップ油彩肖像画。大胆で表現力豊か、かつ高度にテクスチャ加工されたスタイルで、ダイナミックに渦巻く筆致が特徴です。女性は右手に頭を乗せて思慮深く、自信に満ちた眼差しでこちらを見つめています。肩までの長さの暗いウェーブヘアは、目に見える渦巻く絵の具のパターンに合わせてダイナミックに流れています。背景全体は、深いゴールド、オレンジ、温かみのある赤のパレットで構成された炎のような渦巻く筆致で描かれ、力強い動きとエネルギーを生み出しています。彼女は {argument name="clothing" default="シンプルなライトラベンダーパープルのクルーネックTシャツ"} を着用し、ダークカラー（デニム素材など）のボトムスを合わせ、左肩にはメッセンジャーバッグのストラップが見えています。人物、顔、衣服、背景のすべてにおいて絵の具が厚く塗り重ねられたインパスト技法が用いられており、すべての筆跡が目に見える、彫刻のような立体感のある仕上がりです。光は温かくドラマチックで、渦巻く背景から差し込み、彼女の表情と絵の具の質感を際立たせています。キャンバスは縦型。右下に '{argument name="signature" default="K"}' の署名入り。顔と目にピントを合わせ、髪と背景は絵の具の渦の中へと溶け込んでいます。絵の具とキャンバスの細部まで捉えるマクロレンズで撮影されたような質感です。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245876263_px8f1s_HRCFE1rawAABPum.jpg" width="600" alt="プロフィール / アバター - インパスト技法による魂を揺さぶる油彩肖像画 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245876260_jl6y0c_HRCFE1yb0AANQPU.jpg" width="600" alt="プロフィール / アバター - インパスト技法による魂を揺さぶる油彩肖像画 - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2094440082568544651)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33096)**
+
+---
+
+### No. 7: プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+柔らかな自然光と特徴的な赤いメガネが印象的な、東アジアの若い女性の超リアルな屋内自撮り画像を生成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+Close-up realistic selfie portrait of a {argument name="subject" default="東アジアの若い女性"} in her {argument name="age" default="20 代前半"}, long straight silky black hair with soft curtain bangs and a small red hair clip on the left side, fair porcelain skin with natural soft makeup, glossy plump lips with a subtle pink tint, {argument name="eye color" default="明るいブルーグレー"} eyes looking directly at the camera with a calm slightly pouty expression, thin red oval metal-frame glasses, resting her right cheek on her hand with fingers gently curled under her chin, wearing a white long-sleeve cardigan over a black top, soft natural indoor lighting with gentle highlights on her face and hair, dark blurred background, shallow depth of field, highly detailed face and eyes, photorealistic, 8k, sharp focus --ar 2:3 --stylize 250 --v 6
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245877087_hf5lo1_HQx4NM8asAEi0Ix.jpg" width="600" alt="プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245877045_09m3nm_HQx4NMyaIAAdEwE.jpg" width="600" alt="プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245877038_u1wnog_HQx4NNKaEAA5U6d.jpg" width="600" alt="プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245877868_1whw8g_HQx4NM9a8AAh6M4.jpg" width="600" alt="プロフィール / アバター - 赤いメガネをかけたリアルな自撮りポートレート - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Feyber](https://x.com/woleswoosh)
+- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2094364576511086664)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33099)**
+
+---
+
+### No. 8: プロフィール / アバター - ヒジャブを纏った親密なポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ダスティピンクのヒジャブを纏った女性の、温かみのある照明と繊細な質感を強調した、親密で柔らかなクローズアップ・ポートレートのプロンプト。
+
+#### 📝 プロンプト
+
+```
+色白で滑らかな肌を持ち、カメラの方へ優しく少し横を向いた、東アジア系の若い女性の柔らかなクローズアップ・ポートレート。大きな黒い瞳に長いまつ毛、柔らかなウィングラインのアイライナー、整ったアーチ型の眉、頬には淡いピンクのチーク、そして艶やかなソフトピンクの唇が特徴。彼女は、柔らかくわずかにシワ感のある生地で作られた {argument name="hijab color" default="ライトダスティピンク（モーヴローズ）"} のヒジャブを頭と首元にゆったりと纏っており、その柔らかなドレープが顔を縁取っている。彼女は、袖口に繊細なフリルがあしらわれた {argument name="top style" default="フィット感のある白いリブ編みの長袖トップス"} を着用している。片手を胸元に軽く上げ、指先でヒジャブに優しく触れている。柔らかく温かみのある室内照明が、顔の右側に穏やかな影を落とし、肌に柔らかな輝きを与えている。背景はわずかにぼかされており、{argument name="background details" default="落ち着いた緑がかった茶色のカーテンと、壁に留められたいくつかの小さな写真"} が見える。親密でナチュラル、柔らかな美学、高精細、リアルな肌の質感、映画のようなソフトライティング、浅い被写界深度。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875372_zfo7q9_HQx3lCHbQAAsxgF.jpg" width="600" alt="プロフィール / アバター - ヒジャブを纏った親密なポートレート - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875355_ht73di_HQx3lCKagAA7wua.jpg" width="600" alt="プロフィール / アバター - ヒジャブを纏った親密なポートレート - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875358_3imeom_HQx3lB8aIAAWj98.jpg" width="600" alt="プロフィール / アバター - ヒジャブを纏った親密なポートレート - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Feyber](https://x.com/woleswoosh)
+- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2094334380466725117)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33095)**
+
+---
+
+### No. 9: プロフィール / アバター - 二重露光の水彩画風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -722,7 +996,7 @@ Grok からの検索結果
 
 ---
 
-### No. 3: プロフィール / アバター - ハイファッション・エディトリアル・ポートレート
+### No. 10: プロフィール / アバター - ハイファッション・エディトリアル・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -774,7 +1048,7 @@ Grok からの検索結果
 
 ---
 
-### No. 4: プロフィール / アバター - リアルな DSLR セルフィーポートレート
+### No. 11: プロフィール / アバター - リアルな DSLR セルフィーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -808,7 +1082,7 @@ Grok からの検索結果
 
 ---
 
-### No. 5: プロフィール / アバター - 居心地の良い寝室での親密なポートレート
+### No. 12: プロフィール / アバター - 居心地の良い寝室での親密なポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -860,7 +1134,7 @@ Grok からの検索結果
 
 ---
 
-### No. 6: プロフィール / アバター - ゴールデンライトのシネマティック・ポートレート
+### No. 13: プロフィール / アバター - ゴールデンライトのシネマティック・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -894,7 +1168,7 @@ Grok からの検索結果
 
 ---
 
-### No. 7: プロフィール / アバター - フェイクファーのフードを被った女性のビューティーポートレート
+### No. 14: プロフィール / アバター - フェイクファーのフードを被った女性のビューティーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -946,7 +1220,7 @@ Grok からの検索結果
 
 ---
 
-### No. 8: プロフィール / アバター - 映画のようなスパルタ戦士のアバター
+### No. 15: プロフィール / アバター - 映画のようなスパルタ戦士のアバター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -998,7 +1272,7 @@ cinematic, ultra-realistic portrait of me styled as a {argument name="warrior ty
 
 ---
 
-### No. 9: プロフィール / アバター - キャラクターの一貫性を保つための最小限のプロンプト
+### No. 16: プロフィール / アバター - キャラクターの一貫性を保つための最小限のプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1038,7 +1312,7 @@ Nano Banana において、詳細な説明を繰り返すのではなく、構�
 
 ---
 
-### No. 10: プロフィール / アバター - ヴィンテージキャラクターのフィルム風復元
+### No. 17: プロフィール / アバター - ヴィンテージキャラクターのフィルム風復元
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1072,7 +1346,7 @@ image_1.png に基づく、高解像度の自然な生フィルム写真。ヴ�
 
 ---
 
-### No. 11: プロフィール / アバター - モノクロのバットマン風スーパーヒーローポートレート
+### No. 18: プロフィール / アバター - モノクロのバットマン風スーパーヒーローポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1124,7 +1398,7 @@ image_1.png に基づく、高解像度の自然な生フィルム写真。ヴ�
 
 ---
 
-### No. 12: プロフィール / アバター - フォトリアルな屋外セーターのポートレート
+### No. 19: プロフィール / アバター - フォトリアルな屋外セーターのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1155,289 +1429,6 @@ image_1.png に基づく、高解像度の自然な生フィルム写真。ヴ�
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32845)**
-
----
-
-### No. 13: プロフィール / アバター - メンズラグジュアリーファッション：バラストレード
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-高級邸宅の石造りの手すり（バラストレード）に寄りかかる、アビエータージャケットを纏ったハンサムな男性を主役にした、コントラストの効いたメンズファッションエディトリアルを生成します。
-
-#### 📝 プロンプト
-
-```
-20 代の自信に満ちたハンサムな男性が中央に配置され、ローアングルから捉えられています。重心を預け、肩を水平に保ったポーズです。彼は、大きなタンカラーのシアリング襟が印象的な {argument name="jacket style" default="厚手の黒いレザーアビエータージャケット"} を着用し、グレーのタートルネックを重ね着して黒のトラウザーを合わせています。表情は意図的に作り込まれた洗練されたもので、口を閉じ、眉をリラックスさせ、目を細めています。左手は胸の下あたりで黒いレザーグローブを握りしめ、指の関節が見えています。右手は左手に軽く添えられ、親指が見える自然な形でグローブを固定しています。彼は、手前に横切るように配置された、コンクリート製の柱とフラットな手すりを持つ真っ白な石造りのバラストレードに寄りかかっています。奥行きのある空間には、鮮明で裕福な屋外の邸宅が広がっています。被写体の背後には、滑らかでマットなオフホワイトのファサード、建築モールディング、ダークスレートの屋根、ドーマー窓、ダークガラスの白い枠の窓を備えた、堂々としたクラシックな邸宅がそびえ立っています。屋根の中央には背の高い円錐形の常緑樹がそびえ、左側には大きな落葉樹が並び、右側の手前には明るいグレーのタイル張りの通路が続いています。シーンは、単一光源からの明るく指向性の強い自然なハードライトに照らされており、豊かな黒、鮮明な白、そして鮮やかなクリアスカイブルーを基調とした、クールでエネルギッシュかつ高コントラストな雰囲気を醸し出しています。顎の下、顔の右側、ジャケットの右側、そしてバラストレードに沿って、深く黒く、輪郭の鋭いドラマチックな影が落ちています。一方で、顔の左側、髪、質感のあるタンカラーのシアリング襟、そして真っ白な建物の左側のファサードには、明るいハイライトが当たっています。この画像は、35mm から 50mm のレンズを使用し、絞り f/5.6 から f/8、シャッタースピード 1/1000 秒、ISO 100 で撮影された、非常にシャープでリアルな現代メンズファッションのライフスタイルエディトリアルとして仕上げられています。ポストプロダクションでは、衣服の黒をより深く見せるためのシャドウの圧縮、わずかに強調された白、そして彩度を高めたスカイブルーによるハイコントラストなカラーグレーディングが施され、4:5 のアスペクト比で構成された、クリーンで「オールドマネー」なラグジュアリー美学を完成させています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985291635_g18fx2_HQUZia2X0AAulKv.jpg" width="600" alt="プロフィール / アバター - メンズラグジュアリーファッション：バラストレード - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Picts by AI](https://x.com/pictsbyai)
-- **ソース:** [Twitter Post](https://x.com/pictsbyai/status/2093251740980187530)
-- **公開日:** 2026年8月28日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32747)**
-
----
-
-### No. 14: プロフィール / アバター - ノワール調の地下鉄ホームでのポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-夜の混雑した地下鉄ホームに立つ若い東アジア人男性を、緊張感のある表情と都会の密度に焦点を当て、映画のワンシーンのようなノワール・スリラー風に生成します。
-
-#### 📝 プロンプト
-
-```
-被写体: {argument name="age" default="20 代後半"} の若い東アジア人男性。ダークカラーの髪を無造作にサイドに流し、斜め横を向いた姿勢から、カメラを振り返るように鋭く警戒心のある表情を浮かべている。襟元のボタンを外した白いシャツの上に、シャープな黒のスーツジャケットを着用（ネクタイはなし）。周囲の喧騒の中で、静止した姿勢で立っている。
-
-媒体とアートスタイル: ハイパーリアリスティックなエディトリアル・フィルムスチル品質の映画的写真。現代のノワール・スリラーや A24 スタイルのキャラクタードラマを彷彿とさせる。
-
-環境と設定: 夜間またはラッシュアワーの混雑した地下鉄ホーム。ドアを開けた銀色の電車がホームに停車しており、車両番号の一部（「...02」）が見える。天井には蛍光灯のストリップライトが走っている。背景や手前には、ダークジャケットを着た通勤客がぼやけて通り過ぎ、都会の匿名性と密度の高さを演出している。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985293733_77tj48_HQxph54asAACzO7.jpg" width="600" alt="プロフィール / アバター - ノワール調の地下鉄ホームでのポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
-- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2093163968944861470)
-- **公開日:** 2026年8月28日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32746)**
-
----
-
-### No. 15: プロフィール / アバター - アスリートのようなブロンドの巻き髪の女性のポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-引き締まった体型と美しい特徴を持つ若い女性の画像を生成するための、シンプルで効果的なキャラクタープロンプトです。
-
-#### 📝 プロンプト
-
-```
-美しい若い女性、白い肌、{argument name="hair style" default="長く輝くブロンドの巻き髪"}、{argument name="body type" default="アスリートのような体型"}、{argument name="eye color" default="青い"}目
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910199112_u9cb5p_HQtNufYa8AAP1P6.jpg" width="600" alt="プロフィール / アバター - アスリートのようなブロンドの巻き髪の女性のポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
-- **ソース:** [Twitter Post](https://x.com/dreamydigiarts/status/2092967874386079935)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32751)**
-
----
-
-### No. 16: プロフィール / アバター - モーターボートでのスマートフォン自撮り
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-参照写真を使用して顔の個性を維持したまま、モーターボートに乗っている特定の人物の超リアルな iPhone 自撮り画像を生成します。
-
-#### 📝 プロンプト
-
-```
-アップロードされた顔写真を唯一の本人照合用参照として使用してください。顔の骨格、比率、生え際、髪型、目、鼻、唇、肌の色味、質感、および独自の顔の特徴を正確に維持してください。美化、形状変更、または本人と異なる変化は一切禁止です。
-
-iPhone 16 Pro Max のフロントカメラで撮影したような、9:16 の超リアルな自撮り画像を作成してください。被写体は、白いモーターボートでリラックスしている同じ若い女性です。トープブラウンのクッションシートに寄りかかり、腕を伸ばして少し上から見下ろすような角度でスマートフォンを持ち、落ち着いた自信に満ちた表情でかすかに微笑んでいます。アンバーグラデーションのスクエアサングラスをかけ、白いピケ素材のポロシャツを着用し、チャコールグレーのセーターを肩にかけ、青と白のピンストライプのショートパンツを履いています。
-
-背景には、ボートの細部やクロームメッキの手すりが写り込んだ、波打つ暗い水面を描写してください。曇りの日の柔らかな自然光、自然な肌の質感、リアルな髪や衣服のシワ、サングラスへのリアルな映り込み、本物のスマートフォンによる HDR、わずかな広角レンズの歪み、そして手持ち撮影特有の自然な不完全さを表現してください。
-
-AI 生成やプロによる撮影ではなく、iPhone で自然に撮影された自撮り写真のように見せてください。自然な色合いとリアルな素材感を重視してください。美肌フィルター、顔の加工、プラスチックのような肌、一眼レフ風の仕上がり、過度なボケ、映画のようなカラーグレーディング、人工的なぼかし、歪んだ手、指の過剰、顔の歪み、不自然な水面、不自然なポーズは一切禁止です。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910195721_a57lq7_HQuZdKXbwAAERFl.jpg" width="600" alt="プロフィール / アバター - モーターボートでのスマートフォン自撮り - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910195730_i7e928_HQuZd0LaUAA3YU0.jpg" width="600" alt="プロフィール / アバター - モーターボートでのスマートフォン自撮り - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910195719_yzrys5_HQuZeiObQAAAdAs.jpg" width="600" alt="プロフィール / アバター - モーターボートでのスマートフォン自撮り - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Dr. Samia](https://x.com/oye_samia)
-- **ソース:** [Twitter Post](https://x.com/oye_samia/status/2092935211151757329)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32745)**
-
----
-
-### No. 17: プロフィール / アバター - 雰囲気のある K-pop ファンルームのポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-クールなパープルと温かみのあるイエローの環境光に照らされた部屋で、ブロウラインメガネをかけた女性のクローズアップポートレートを生成します。
-
-#### 📝 プロンプト
-
-```
-肌が白く滑らかで、ナチュラルなメイクを施した若い {argument name="ethnicity" default="東アジア系"} 女性のクローズアップポートレート。カメラをまっすぐに見つめる、穏やかで少し唇を尖らせたニュートラルな表情。ダークブラウンからブラックの髪は、無造作なハーフアップスタイル。トップはルーズにねじった高い位置のお団子ヘアで、額や頬の周りに後れ毛が落ちている。スタイリッシュな黒とシルバーのブロウラインメガネ（上部が太い黒フレーム、下部が細い金属リム）を着用。淡いピンクの唇、自然ながらも整った眉、控えめなアイメイク。鎖骨と肩を見せる {argument name="clothing" default="黒のオフショルダートップス"} を着用し、胸元には小さな五芒星のペンダントがついた繊細なゴールドのチェーンネックレスを合わせている。照明は柔らかく雰囲気があり、右側の顔、首、肩にはクールなパープル/マゼンタの LED 環境光が当たり、肌に優しい輝きとほのかな色味を与えている。左側からは温かみのあるイエローのランプの光が差し込み、コントラストを生み出している。背景は {argument name="room style" default="小さな写真やポスターがびっしりと貼られた居心地の良い寝室の壁"}（BTS のグループポスターが目立つ）。左側には光るテーブルランプ、柔らかいぬいぐるみ、グレーの寝具が一部見えている。ソフトなボケ味と夢のような雰囲気、フォトリアル、高精細、顔にシャープなピント、浅い被写界深度、縦型のポートレート構成、K-pop ファンルームの美的雰囲気、シネマティックなパープルライティング、8k クオリティ。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824275452_qxzfka_HQeCMfWacAAsUK-.jpg" width="600" alt="プロフィール / アバター - 雰囲気のある K-pop ファンルームのポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824275628_agzj7o_HQeCMeobcAATUT8.jpg" width="600" alt="プロフィール / アバター - 雰囲気のある K-pop ファンルームのポートレート - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Feyber](https://x.com/woleswoosh)
-- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2092703632533983588)
-- **公開日:** 2026年8月26日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32664)**
-
----
-
-### No. 18: プロフィール / アバター - アニメキャラクターの人間化
-
-![Language-KO](https://img.shields.io/badge/Language-KO-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-アニメキャラクターをリアルな韓国人女性として人間化するためのプロンプトです。キャラクターの外見を再現しつつ、リアルな質感やベレー帽、レーストップスなどの服装を具体的に指定します。
-
-#### 📝 プロンプト
-
-```
-このアニメキャラクターに似た外見のリアルな {argument name="ethnicity" default="東アジア系の韓国人"} 女性。 {argument name="hair style" default="黒のロングヘア"} で、 {argument name="outfit" default="黒のベレー帽、黒のレーストップス、黒のスカート"} を着用。リアルな写真スタイル、実写ポートレート、アニメ調ではない、3D レンダリングではない、白背景
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824284221_4mi4ga_HQpvjbDbQAA592-.jpg" width="600" alt="プロフィール / アバター - アニメキャラクターの人間化 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824284231_bh70nm_HQpvlF0bkAAcy9p.jpg" width="600" alt="プロフィール / アバター - アニメキャラクターの人間化 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824284217_wn405n_HQpvmv-bYAAvkU7.jpg" width="600" alt="プロフィール / アバター - アニメキャラクターの人間化 - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [H](https://x.com/hmmmmmm1458)
-- **ソース:** [Twitter Post](https://x.com/hmmmmmm1458/status/2092607818335748384)
-- **公開日:** 2026年8月26日
-- **言語:** ko
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32676)**
-
----
-
-### No. 19: プロフィール / アバター - リアルなカフェでのスマホポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-居心地の良いカフェに座る女性を、自然な光とリアルな不完全さにこだわって撮影した、ポーズをとっていない自然なスマホ写真風の画像を生成します。
-
-#### 📝 プロンプト
-
-```
-現代のスマートフォンカメラで友人が何気なく撮影したような、完全に自然でフォトリアルな {argument name="ethnicity" default="東アジア系"} の若い女性のスマホ写真。非常に長くストレートな {argument name="hair color" default="ダークブラウン"} の髪に、柔らかく薄い前髪。自然で滑らかな肌、控えめなデイリーメイク、艶やかなピンクの唇。カメラを直視せず、少し夢見心地な表情で横に視線を向けている。服装は {argument name="clothing" default="ブルーのヴィンテージ風プリントが施されたオフホワイトのフィット感のあるグラフィックTシャツ"} に、ゆったりとしたライトウォッシュのバギーデニムを合わせ、手首にはカラフルなビーズブレスレットを着用。椅子にカジュアルに座り、脚をリラックスさせ、両手を膝の近くに自然に置くことで、ポーズをとっていない日常の雰囲気を演出。背景には、ボトルや瓶、グラス、カフェ用品が並ぶ温かみのある木製の棚があり、生活感のある居心地の良いレストランの雰囲気を醸し出している。温かみのある天井と棚の照明、リアルな混合露出、自然な影、わずかなスマホ HDR 効果、緩やかな広角パース、不完全なフレーミング、わずかなモーションブラー、本物の肌の毛穴や細い髪の質感、リアルな生地の質感、日常的な背景のディテール。スタジオセットや映画のような照明、美肌フィルター、過度なレタッチ、人工的なシャープネスは一切なし。最終的な画像は、誰かがカフェで座っている時に撮影した本物のカジュアルなスマホ写真そのものに見えるようにし、わずかに不完全ながらも非常に信憑性の高い、縦型のポートレート構図、自然な色合い、リアルなスマホカメラの画質で仕上げる。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824282105_6h1dj7_HQpqcCGakAA0dwE.jpg" width="600" alt="プロフィール / アバター - リアルなカフェでのスマホポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787824282162_syoid3_HQpqfNYa8AAumB0.jpg" width="600" alt="プロフィール / アバター - リアルなカフェでのスマホポートレート - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Aqsa](https://x.com/Aqsahere_)
-- **ソース:** [Twitter Post](https://x.com/Aqsahere_/status/2092602083287642120)
-- **公開日:** 2026年8月26日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32674)**
 
 ---
 
@@ -1491,7 +1482,323 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: ソーシャルメディア投稿 - ゴールデンアワーのライフスタイルファッションコラージュ
+### No. 21: ソーシャルメディア投稿 - 海岸の崖で迎える夕暮れ、映画のようなポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+夕暮れ時の海岸の崖に立つ女性を描いた、自由と心の癒やしを感じさせる息をのむような風景ポートレートのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+背後から捉えた {argument name="subject" default="孤独な若い裸足の女性"} が、ドラマチックな夕暮れの中、険しく風にさらされた海岸の崖の端に佇んでいる。彼女は {argument name="clothing" default="長く流れるような白いコットンのドレス"} を身にまとい、海風に煽られてドレスがふわりと舞い上がっている。長くダークブラウンの髪も強い風になびき、ドレスの流れるような動きと調和している。彼女は両腕を大きく広げ、黄金色とオレンジ色に輝く果てしなく広大な水平線を受け止めている。上空には、深い紫、燃えるようなオレンジ、黄金の光で彩られた、質感豊かでドラマチックな巨大な雲が広がり、沈みゆく太陽の温かな光を反射している。手前に広がる険しい岩肌と風に揺れる黄金色の草が、孤立感とありのままの自然を強調している。構図は息をのむほど美しい映画のような風景ポートレートで、自由、解放、そして精神的な癒やしという深く感動的な感情を呼び起こす。自然なゴールデンアワーの光、フォトリアルなディテール、そして夢のような雰囲気が漂う。険しい岩の質感、光の柔らかなレンズフレア、そして布地や髪のリアルな動きが緻密に表現されている。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245878165_xhadfw_HREAkyNa8AAOtN8.jpg" width="600" alt="ソーシャルメディア投稿 - 海岸の崖で迎える夕暮れ、映画のようなポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
+- **ソース:** [Twitter Post](https://x.com/SheBuildsAI_/status/2094455937427980635)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33100)**
+
+---
+
+### No. 22: ソーシャルメディア投稿 - シネマティックな夏のトロピカルな桟橋でのポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+熱帯の海に浮かぶ木製の桟橋で、風になびく髪やコットンの質感を強調した、若き女性の鮮やかな夏のポートレート用プロンプト。
+
+#### 📝 プロンプト
+
+```
+透明度の高い熱帯の海に浮かぶ素朴な木製の桟橋に座る、若き女性の超リアルなシネマティックな夏のポートレート。縦横比 4:5 の構図。彼女は {argument name="clothing" default="流れるようなターコイズブルーのコットン製マキシドレス"} を着用しており、細いストラップ、フィット感のあるウエスト、繊細な質感の生地、そして長く優雅なスカートが特徴です。貝殻のアクセサリー、小さなイヤリング、華奢なブレスレットを身につけています。短めのブラウンの髪は、海風に自然になびいています。彼女はカメラに向かって明るく微笑んでいます。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245879787_2xu2zo_HRD0raTbIAALu6o.jpg" width="600" alt="ソーシャルメディア投稿 - シネマティックな夏のトロピカルな桟橋でのポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [aynelle](https://x.com/aynellex)
+- **ソース:** [Twitter Post](https://x.com/aynellex/status/2094442877963403407)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33103)**
+
+---
+
+### No. 23: ソーシャルメディア投稿 - 超写実的なインド人女性とバラのポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+参照画像のポーズと構図を正確に再現するように設計された、洗練されたファッションポートレート用プロンプト。白いシアー素材のサリーを纏い、赤いバラを手にしたインド人女性がテーマです。
+
+#### 📝 プロンプト
+
+```
+バラ、赤、そしてロマンス 🌹❤️✨
+提供された写真のポーズ、体の姿勢、頭の角度、横顔の向き、手の位置、ブーケの位置、肩の角度、髪型のシルエット、カメラの視点、そして全体的な構図を正確に維持した、超写実的な 9:16 の縦型ファッションポートレートを作成してください。{argument name="subject" default="優雅な若いインド人女性"} が活気ある都会の通りに立ち、背後から捉えた洗練された 3/4 バックのポーズで、顔を左側に優しく向け、手にした一輪の赤いバラを伏し目で見つめています。もう片方の腕は、写真通りに左側に配置された深紅のバラの大きなブーケを自然に支えています。エレガントな低い位置のシニヨンヘアに、顔周りに数本の毛束を垂らし、洗練されたナチュラルメイク、柔らかく強調された目元、バラ色の唇、そしてリアルで温かみのある輝くインド人の肌を表現してください。彼女には {argument name="attire" default="エレガントなアイボリーホワイトの軽量サリー"} を着用させ、シアーな透け感のある質感、繊細に散りばめられた赤い花の刺繍、そして豪華な赤い刺繍の縁取りを施してください。背中が開いたスタイリッシュなブラウスには、繊細な赤いディテールと優雅な細い紐の結び目をあしらいます。伝統的でエレガントなゴールドと赤のステートメントイヤリングと、それに合わせた控えめなバングルを加え、ジュエリーは洗練されたリアルなものにしてください。ロマンチックな都会の雰囲気を維持し、背景には柔らかくぼかした街の建物、歩行者、クラシックなイエローキャブを配置し、午後の温かい日差しが美しい黄金色の輝きを生み出し、自然な街の奥行きとクリーミーなシネマティック・ボケを表現してください。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245877477_1my5u0_HRDgT-YbgAA9DW4.jpg" width="600" alt="ソーシャルメディア投稿 - 超写実的なインド人女性とバラのポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [WeWant Mars](https://x.com/Madhuribhai)
+- **ソース:** [Twitter Post](https://x.com/Madhuribhai/status/2094420473132281951)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33098)**
+
+---
+
+### No. 24: ソーシャルメディア投稿 - シネマティックな夕暮れのファッションポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ドラマチックな夕焼けを背景に、本物の 35mm フィルムのような質感を再現した、ムードのあるファッションポートレート用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+ドラマチックな {argument name="sky color" default="夕焼け"} の空の下に立つ若い女性のシネマティックなファッションポートレート。フレームの中央よりわずかに下に配置し、カメラに向かって少し斜めを向き、まっすぐな視線を向けている。顔立ちははっきりと認識でき、自然な特徴が際立つ。わずかに非対称な顔立ち、力強い眉、少し重なり気味のアーモンド型の目、はっきりとした鼻筋、自然な厚みのある唇、リアルな肌の質感。風になびく {argument name="hair length" default="ダークな肩までの長さの"} 髪。シンプルなオーバーサイズの黒い T シャツ。構図を支配する広大な空。上部は淡い黄色から始まり、温かみのある琥珀色、燃えるようなオレンジ、鮮やかなコーラル、そして地平線近くの深い深紅へと変化する。赤い空に浮かぶ柔らかな煙のような雲の帯、大気の霞、髪と肩を縁取る輝くバックライト、衣服のローキーな露出、顔を形作る温かい反射光。ムードのあるエディトリアルフォトグラフィー、本物の 35mm フィルムスキャン、目に見える粒子感、かすかなハレーション、豊かなコントラスト、シネマティックな色深度。テキストなし、ロゴなし、ウォーターマークなし --chaos 4 --ar 4:5 --raw --profile f7ca75c --stylize 140 --weird 5 --hd --preview
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245874288_3lrscz_HRDJ9_cbYAA31fa.jpg" width="600" alt="ソーシャルメディア投稿 - シネマティックな夕暮れのファッションポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Aynah](https://x.com/AynahhX)
+- **ソース:** [Twitter Post](https://x.com/AynahhX/status/2094395919924162799)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33093)**
+
+---
+
+### No. 25: ソーシャルメディア投稿 - ナイトシティの屋上で撮影するシネマティックなポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+午前 2 時の都会の屋上で、ムーディーなブルーアワーの光とネオンの反射を活かして撮影された女性のシネマティックな夜のポートレート。
+
+#### 📝 プロンプト
+
+```
+{
+  "image_generation_prompt": {
+    "subject": "{argument name="subject" default="都会の屋上の縁に一人で座り、オーバーサイズのパーカーを着てコーヒーカップを手に、街のスカイラインを眺めている若い女性。"}",
+    "setting": "{argument name="setting" default="午前 2 時の都会の屋上、深夜の雰囲気、背景にはどこまでも続く街の明かりと輝くスカイライン。"}",
+    "atmosphere": "{argument name="atmosphere" default="ムーディーなブルーアワーの雰囲気、都会の孤独感、感情的なストーリーテリング、本物の深夜のムード。"}",
+    "lighting": "繊細なネオンの反射、夢のような街のボケ味、リアルな夜間撮影のライティング。",
+    "details": "風に優しくなびく髪、超高精細な肌の質感。",
+    "quality_modifiers": "傑作、フォトリアル、シネマティックな夜のポートレート。"
+  }
+}
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245867101_6kpxuu_HRC8Io1a8AACamF.jpg" width="600" alt="ソーシャルメディア投稿 - ナイトシティの屋上で撮影するシネマティックなポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Compound Learning - Tech | Science](https://x.com/SheBuildsAI_)
+- **ソース:** [Twitter Post](https://x.com/SheBuildsAI_/status/2094380687659016348)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33080)**
+
+---
+
+### No. 26: ソーシャルメディア投稿 - おしゃれな犬のレストランでの写真
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+イタリアンレストランでフォーマルなスーツを着て食事をするグレート・デーンを捉えた、ユーモラスでヴィンテージ風の粒状感のある写真プロンプト。
+
+#### 📝 プロンプト
+
+```
+{argument name="style" default="白黒、ヴィンテージ風で粒状感のある"} ミディアムショットの写真は、{argument name="outfit" default="サングラス、ピンストライプのスーツ、白いシャツ、ネクタイ"} を身につけた {argument name="subject" default="グレート・デーン"} を写し出しています。グレート・デーンはレストランのテーブルに座り、右手には葉巻、左手には赤ワインのグラスを持っています。グレート・デーンの前にはスパゲッティの皿とワインボトルが置かれています。レストランはトラットリアのような雰囲気で、背景には「Tortellini Twisters」と書かれた看板が見えます。画像全体から、洗練されたユーモラスな雰囲気が漂っています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245866562_7htn0b_HQo2BhqWAAEdcfR.jpg" width="600" alt="ソーシャルメディア投稿 - おしゃれな犬のレストランでの写真 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Heather Green](https://x.com/heathergreen)
+- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2094364583007813691)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33079)**
+
+---
+
+### No. 27: ソーシャルメディア投稿 - 惑星を背景にした砂漠の超写実的ポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+巨大な天体が浮かぶ砂漠を、オーバーサイズのセーターを着た女性が歩く様子を描いた、超写実的でシュールなポートレート用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+超写実的なポートレート、HD、8K、高精細、プロ仕様の撮影ディテールと超写実的な質感が豊富。{argument name="subject" default="すらりとした色白の女性"}、長い黒髪、{argument name="clothing" default="オーバーサイズの白いセーター"}を着用、裸足、美しい足、足の指 5 本、空に大きな惑星が浮かぶ砂漠を歩く様子を撮影した写真
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245879224_jpg7i7_HRB2GH-aQAAHkg4.jpg" width="600" alt="ソーシャルメディア投稿 - 惑星を背景にした砂漠の超写実的ポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2094349481739464820)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33101)**
+
+---
+
+### No. 28: ソーシャルメディア投稿 - 地中海リビエラの編集写真
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+リネンのスーツを纏った男性の洗練された編集写真のための、非常に詳細なプロンプトです。地中海を舞台に、オールドマネーの優雅さを捉えます。
+
+#### 📝 プロンプト
+
+```
+精悍でハンサムな男性が、画面左下の四分の一にカメラに向かって自然に座っています。口元はニュートラルで、視線はカメラの左側へ向けられ、{argument name="accessory" default="クラシックなダークウェイファーラーサングラス"}の奥に隠されています。彼はパリッとしつつも少しシワの寄った {argument name="clothing" default="白いリネンスーツ"} を着ており、首元はボタンが外され、温かみのあるリアルな肌の質感が露わになっています。足は裸足で、脚を組んでいます。リラックスした肩が重心を安定させ、左手は立てた右のすねの上に自然に置かれ、右前腕は椅子の肘掛けに心地よく預けられ、指先は影の中に柔らかく隠れています。彼は、白いクッションと前脚に特徴的なオレンジ色のロープが巻かれた、枝のような風合いの素朴な木製アームチェアに座っており、床には目立つダークグレーの目地で区切られた大きな淡いグレーの正方形タイルが敷かれています。すぐ左の中景には、複雑な切り抜き模様が施されたヴィンテージの背の高いダークメタルのランタンが、黒・白・グレーの幾何学模様のタイル天板とダークアイアンの縁取りを持つ正方形のテーブルの上に置かれています。これらすべてが、深く影を落とした青々とした濃い緑の蔦に完全に覆われた、マットで粗い石壁を背景に配置されています。右側には深い空間が広がり、険しい岩壁が穏やかでダークブルーグレーの広大な海へと落ち込む手つかずの背景が見え、男性から海へと視線を誘導する非対称のバランスを生み出しています。シーンは、正面からの非常に指向性の高い明るく温かみのある自然なゴールデンアワーの太陽光によって照らされており、被写体や植物の下に鋭く定義された深い黒の影を落とすドラマチックな木漏れ日の効果を生み出しています。このハードライトは、適度な彩度のスプリットコンプリメンタリーカラーパレットを生成し、環境光による補正を一切加えず、リネンの白い衣服のハイライトを意図的に飛ばすことで高いコントラストを生み出し、努力を感じさせないオールドマネーの優雅さが漂う {argument name="setting" default="地中海の夏の午後"} を完璧に捉えています。50mm レンズ、f/8、1/500秒、ISO 100 で正面から撮影された、粒子のない鮮明なデジタル編集写真です。構造化された前景から遠くの崖まで深い被写界深度を維持し、クラシック・ハリウッド・リビエラのスタイルを表現しています。ポストプロダクションでは、影を深め、リネンのハイライトを強調して厳しい日差しを際立たせ、海の青をわずかに彩度を落とすことでヴィンテージの映画のような雰囲気を演出しており、2:3 のアスペクト比で完璧にフレーミングされています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245870292_64mxpn_HQ_cj2GXIAAsfiS.jpg" width="600" alt="ソーシャルメディア投稿 - 地中海リビエラの編集写真 - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Picts by AI](https://x.com/pictsbyai)
+- **ソース:** [Twitter Post](https://x.com/pictsbyai/status/2094338904107422148)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33087)**
+
+---
+
+### No. 29: ソーシャルメディア投稿 - 森の中の赤毛の女性のポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+日差しが差し込む森の空き地で、ボリュームのある赤毛の女性を捉えた縦型ポートレートの撮影用プロンプトです。
+
+#### 📝 プロンプト
+
+```
+色白でそばかすのある肌と {argument name="subject hair" default="長くボリュームのあるウェーブのかかった赤毛"} を持つ若い女性が、{argument name="setting" default="日差しが差し込む森の空き地"} に立っている様子を写した、フォトリアルな縦型のポートレート写真。彼女は背中をこちらに向けた状態で、左肩越しに顔を向け、柔らかくまっすぐな視線を投げかけている。瞳は淡いブルーグレーで、鼻と頬にはそばかすが散らばり、唇はわずかに開かれ、ニュートラルで幻想的な表情を浮かべている。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245873752_wn59g1_HRA9toXaMAA4THS.jpg" width="600" alt="ソーシャルメディア投稿 - 森の中の赤毛の女性のポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [aynelle](https://x.com/aynellex)
+- **ソース:** [Twitter Post](https://x.com/aynellex/status/2094241733760745537)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32984)**
+
+---
+
+### No. 30: ソーシャルメディア投稿 - ゴールデンアワーのライフスタイルファッションコラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1525,7 +1832,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - 優雅な伝統的庭園のポートレート
+### No. 31: ソーシャルメディア投稿 - 優雅な伝統的庭園のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1571,7 +1878,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: ソーシャルメディア投稿 - 廃墟の温室でのシネマティックなポートレート
+### No. 32: ソーシャルメディア投稿 - 廃墟の温室でのシネマティックなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1605,7 +1912,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - 霧の山を歩くハイキングのポートレート
+### No. 33: ソーシャルメディア投稿 - 霧の山を歩くハイキングのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1642,360 +1949,6 @@ https://t.co/QxbYpfFVj6
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32917)**
-
----
-
-### No. 25: ソーシャルメディア投稿 - ノスタルジックな雨の窓辺のポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-2000 年代のビデオカメラ風のノスタルジックな雰囲気で、雨の窓辺にいる女性の情緒的なポートレートを生成するためのフォトリアルなプロンプトです。
-
-#### 📝 プロンプト
-
-```
-雨の窓辺に座る {argument name="subject" default="若い女性"} のフォトリアルなクローズアップ。{argument name="hair style" default="長く暗い髪"} が顔の片側にかかり、片目を部分的に隠している。{argument name="clothing" default="オーバーサイズのクリーム色のセーター"} を着用し、組んだ腕に顎を乗せ、夢見心地で情緒的な眼差しを向けている。雨の反射、温かみのある室内の光、ソフトフォーカス、VHS の粒子感、2000 年代のノスタルジックなビデオカメラの美学、縦長 9:16。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788071774158_tmp3kc_HQ5O5eUasAAAkcm.jpg" width="600" alt="ソーシャルメディア投稿 - ノスタルジックな雨の窓辺のポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Charlene Brook](https://x.com/CharleneBr0z9d)
-- **ソース:** [Twitter Post](https://x.com/CharleneBr0z9d/status/2093697641909739668)
-- **公開日:** 2026年8月29日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32915)**
-
----
-
-### No. 26: ソーシャルメディア投稿 - ゴールデンアワーのカフェポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-薄暗いカフェでの情緒的でノスタルジックな瞬間を捉える、映画のような写真生成プロンプト。温かみのあるゴールデンアワーの光とヴィンテージフィルムの質感を強調します。
-
-#### 📝 プロンプト
-
-```
-薄暗いレストランのボックス席に座り、肩越しにカメラを振り返る {argument name="subject" default="若い女性"} の情緒的なゴールデンアワーのカフェポートレートを作成してください。穏やかで真剣な表情、{argument name="lighting" default="窓から差し込む温かい光"} に部分的に照らされた顔、暗い室内の影、背景にぼやけた人物、赤と琥珀色に輝くボケ味、背後の大きな明るい窓、映画のようなローライトの雰囲気、{argument name="photography style" default="ノスタルジックな 35mm フィルム写真"}、強い粒子感、ソフトフォーカス、落ち着いた緑のシャドウ、温かみのあるオレンジのハイライト、親密で自然な構図、感情的で静かな瞬間、わずかに露出不足のヴィンテージなエディトリアル風のルック --ar 4:5 --raw --profile f7ca75c --stylize 120 --weird 3 --hd --preview
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788071780705_0thzvd_HQ3f_HNbQAAsB7g.jpg" width="600" alt="ソーシャルメディア投稿 - ゴールデンアワーのカフェポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Charlene Brook](https://x.com/CharleneBr0z9d)
-- **ソース:** [Twitter Post](https://x.com/CharleneBr0z9d/status/2093575695465329047)
-- **公開日:** 2026年8月29日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32846)**
-
----
-
-### No. 27: ソーシャルメディア投稿 - ヨーロッパの街角を捉えた自然なストリートフォト
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-ヨーロッパの街角で、2000 年代初頭の Y2K スタイルをパパラッチ風のライティングで捉えた、超リアルなスナップショットを作成するための詳細なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-ゴールデンアワーの街角を捉えた、超リアルな自然体のストリートフォト。{argument name="subject" default="長く無造作なウェーブヘアの美しい若い金髪の女性"} が、ヨーロッパのカフェの外を歩きながら、小さな紙カップに入ったジェラートを小さなスプーンで何気なく食べている。彼女は {argument name="top" default="体にフィットしたベビーブルーのリブ編みキャミソール"} に、{argument name="trousers" default="ローライズのグレーのチェック柄パンツ"}、黒のスタッズ付きレザーベルト、黒のキルティングショルダーバッグを身につけている。カメラ目線ではなく、自然に視線を外し、穏やかで思慮深い表情を浮かべている。背景には屋外カフェの席、談笑する人々、街の歩道、夏の暖かい日差しが広がり、リラックスしたヨーロッパの雰囲気が漂う。ポーズをとっている感じは一切ない。中望遠レンズを使用したパパラッチ風の撮影。暖かい黄金色の太陽光、柔らかな影、リアルな肌の質感、かすかなフィルムグレイン、2000 年代初頭の Y2K ファッション、McBling、インディースリーズの美学、本格的なストリートフォトグラフィー、エディトリアル・リアリズム、傑作、超高精細、8K。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788071775630_8klqx3_HQ2-21NaMAASKTc.jpg" width="600" alt="ソーシャルメディア投稿 - ヨーロッパの街角を捉えた自然なストリートフォト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788071775641_xfxy3b_HQ2-21NaIAAzrdn.jpg" width="600" alt="ソーシャルメディア投稿 - ヨーロッパの街角を捉えた自然なストリートフォト - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788071775687_mtfpos_HQ2-21VbUAM-KGO.jpg" width="600" alt="ソーシャルメディア投稿 - ヨーロッパの街角を捉えた自然なストリートフォト - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ayushi Srivastava](https://x.com/punkhuri1)
-- **ソース:** [Twitter Post](https://x.com/punkhuri1/status/2093539258669928833)
-- **公開日:** 2026年8月29日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32842)**
-
----
-
-### No. 28: ソーシャルメディア投稿 - モノクローム・アークティック・ファッション・クレバス
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-近未来的なスノースーツを纏った女性が暗い氷の裂け目の傍らに佇む、荒々しいモノクロのファッション・エディトリアル写真を生成します。
-
-#### 📝 プロンプト
-
-```
-銀塩フィルムの粒子感があり、彩度を完全に排除した高コントラストなモノクロのファッション写真を生成してください。舞台は急峻な雪堤で行われるシュールな北極圏の夜の遠征で、ドラマチックなダッチアングルとワイドなシネマティック・クロップで撮影します。{argument name="hair color" default="プラチナブロンド"}のブラントボブ、ストレートバング、そして高い位置で結んだツインテールが特徴の若い女性が、氷の洞窟や鏡のように暗いクレバスを覗き込むかのように、雪に空いた不規則な黒い穴の傍らに膝をついています。彼女は、パフスリーブ、ハイカラー、黒いジッパーライン、ハーネスストラップ、ベルトのディテール、小さな黒い四角いパッチが施された、かさばる白い近未来的なスノースーツを着用しています。メイクは際立っており、濃い付けまつげと{argument name="lip color" default="黒いリップ"}を施しています。彼女の手（手袋の有無は問わず）は、穴の縁にある明るい雪に押し当てられています。暗い穴の中には、同じ白い衣装とツインテールの髪型をした、影と雪の不均一な縁によって歪んだ、反射または部分的に沈んだ複製フィギュアを一人描いてください。フラッシュのような強い光を使用し、白い雪とスーツが明るい銀色に白飛びする一方で、洞窟の内部と左側の背景が深い黒に沈むようにします。背景は抽象的な雪の斜面とし、建物や判読可能なテキストは含めないでください。荒々しいアナログの質感、鋭いコントラスト、冷たい雰囲気、アヴァンギャルドなエディトリアル・スタイリング、そして不安をかき立てるSF的なムードを強調してください。色は一切使用せず、ウォーターマークも入れず、メインの人物と反射した複製フィギュア以外は追加しないでください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788071785020_yfek1f_HQ2deaCW4AAgMCh.jpg" width="600" alt="ソーシャルメディア投稿 - モノクローム・アークティック・ファッション・クレバス - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Marco](https://x.com/ai_artworkgen)
-- **ソース:** [Twitter Post](https://x.com/ai_artworkgen/status/2093504988148306192)
-- **公開日:** 2026年8月29日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32908)**
-
----
-
-### No. 29: ソーシャルメディア投稿 - 湖畔のラグジュアリーファッションポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-湖畔に佇む女性をテーマにした、映画のような現代的ラグジュアリーファッションのプロンプト。ポーズ、コーディネート、自然光の表現にこだわっています。
-
-#### 📝 プロンプト
-
-```
-女性、頭を少し後ろに傾け、目を閉じているか遠くを見つめている、穏やかな表情。
-
-ヘアスタイル：洗練されたまとめ髪。
-
-ポーズ：水辺の木製手すりの近くに立ち、片腕を手すりに乗せ、もう片方は少し後ろに。シルエットを強調した自信に満ちた姿勢。
-
-衣装：アシンメトリーなデザインのクロップド丈 {argument name="shirt color" default="イエロー"} シャツ、ハイウエストの {argument name="skirt color" default="ホワイト"} ペンシルスカート、ホワイトのショルダーバッグ。モダンな雰囲気を添えるサングラス。
-
-ライティング：{argument name="lighting condition" default="少し曇った空の自然光"}、色調を強調するソフトなコントラスト。
-
-背景：{argument name="location" default="湖畔の景色"}、穏やかな水面とミニマルな建物。
-
-ムード：モダンラグジュアリー — 自信に満ちた、映画のような静寂。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985294397_fi3lor_HQtRr5maEAALZ9O.jpg" width="600" alt="ソーシャルメディア投稿 - 湖畔のラグジュアリーファッションポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985294371_3434w5_HQtRtCjaYAAahEF.jpg" width="600" alt="ソーシャルメディア投稿 - 湖畔のラグジュアリーファッションポートレート - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
-- **ソース:** [Twitter Post](https://x.com/dreamydigiarts/status/2093194362033443150)
-- **公開日:** 2026年8月28日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32748)**
-
----
-
-### No. 30: ソーシャルメディア投稿 - エアリアルヨガのインドアスタジオポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-エレガントなエアリアルヨガのシーンを生成するためのフォトリアルなプロンプト。柔らかな自然光とウェルネスな美学を取り入れた、ハンモックに揺られる女性の描写です。
-
-#### 📝 プロンプト
-
-```
-明るくモダンなインドアスタジオでエアリアルヨガを行う {argument name="subject" default="大人の女性"} を捉えた、フォトリアルなクローズアップ・ライフスタイル写真。{argument name="hammock color" default="白いエアリアルハンモック"} に吊るされ、両脚を左右対称に曲げて膝を上げ、足先をリラックスさせたエレガントなバックベンドのポーズをとっており、バランスの取れた浮遊感を演出している。長く明るい茶色の髪が自然に下へ流れ、小さなダークブルーの花のヘアクリップを留めている。
-
-着用しているのは、コーディネートされた {argument name="outfit color" default="スレートブルーのアスレチックヨガウェア"}。体にフィットしたスポーツトップ、ハイウエストのヨガショーツ、そして薄い生地のフットラップがついた、かすかなグラデーションのグレーブルーのヨガタイツ。ウェアは控えめで機能的、かつ一貫性のあるデザインを維持すること。
-
-白いシアーカーテンのかかった大きな窓から暖かい自然光が差し込み、淡い色の木製フロアに柔らかくリアルな影を落としている。背景には、本やバスケット、小さなライフスタイル雑貨が置かれたダークウッドのオープンシェルフが柔らかく写り込んでいる。自然な肌の質感、細部まで表現された髪の毛、リアルな布地の繊維、本物のようなエアリアルハンモックの張り具合、物理的に説得力のある姿勢と重力感。
-
-カメラ：クローズアップの3/4アングル、50mmレンズ、自然なアイレベルの視点、浅い被写界深度、リアルなスマートフォン／エディトリアル写真、柔らかな昼光、低彩度のウォームトーン、鮮明かつ自然なディテール、過度なレタッチなし、誇張された解剖学的表現なし、穏やかでプレミアムなウェルネスの美学、9:16 の垂直構図。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985296407_38gg5m_HQyAyG-bEAAqbjf.jpg" width="600" alt="ソーシャルメディア投稿 - エアリアルヨガのインドアスタジオポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985296194_6wcml8_HQyAyG9bEAAcGco.jpg" width="600" alt="ソーシャルメディア投稿 - エアリアルヨガのインドアスタジオポートレート - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985296181_eiz5wb_HQyAyHAaUAAfJ5-.jpg" width="600" alt="ソーシャルメディア投稿 - エアリアルヨガのインドアスタジオポートレート - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ayushi Srivastava](https://x.com/punkhuri1)
-- **ソース:** [Twitter Post](https://x.com/punkhuri1/status/2093189533466841338)
-- **公開日:** 2026年8月28日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32740)**
-
----
-
-### No. 31: ソーシャルメディア投稿 - 青いキノコの静物画
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-キノコとドライフラワーをモチーフにした、ムードのある背景が特徴の静物画プロンプトです。
-
-#### 📝 プロンプト
-
-```
-繊細な白いひだを持つ {argument name="mushroom color" default="青い傘の"} キノコの群生と、ドライフラワーや小さな {argument name="flower color" default="紫色の"} 花々を組み合わせた静物画の構図です。キノコが中心的な焦点となっており、傘を広げ、茎を上に向けています。背景は暗く質感のあるグラデーションで、ムードのある雰囲気を作り出しています。左下の表面には、欠けたキノコの傘の破片が置かれています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787985297694_8dkhio_HQuHliSWkAADx1o.jpg" width="600" alt="ソーシャルメディア投稿 - 青いキノコの静物画 - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Heather Green](https://x.com/heathergreen)
-- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2093126666419662998)
-- **公開日:** 2026年8月28日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32743)**
-
----
-
-### No. 32: ソーシャルメディア投稿 - レッドのアクセントが効いたアーバンストリートファッション
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-ミニマルな服装に大胆なレッドのレザー小物を合わせ、都会的な石造りの背景で撮影した、トレンド感あふれるストリートファッションの編集用プロンプト。
-
-#### 📝 プロンプト
-
-```
-超高精細なストリートファッションのショット。髪をすっきりとシニヨンにまとめ、顔立ちと目元を強調したメイクを施した若い女性。ミニマルなプリントが施された {argument name="top style" default="白のオーバーサイズ T シャツ"} に、{argument name="pants style" default="ワイドレッグのヴィンテージライトグレーデニム"} を着用。アクセントとして {argument name="accessory color" default="鮮やかなレッド"} の小物（メタリックな金具付きのパテントレザーバッグとポインテッドトゥの赤いヒール）を合わせ、印象的なコントラストとフォーカルポイントを作り出している。背景：石壁とヴィンテージの窓格子が特徴的な古いビルで、都会的でトレンド感のある雰囲気を強調。ライティング：自然光が顔や服を柔らかく照らし、デニムの質感と小物の光沢感を際立たせている。スタイル：ストリートファッション、ミニマリズムと大胆なアクセントのバランス、Pinterest や Vogue のストリートスタイル風の美学。フォーマット：2:3、8K、ストリートファッションエディトリアル。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910193409_32l2ut_HQtQtVqboAAh_nD.jpg" width="600" alt="ソーシャルメディア投稿 - レッドのアクセントが効いたアーバンストリートファッション - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
-- **ソース:** [Twitter Post](https://x.com/dreamydigiarts/status/2093028268853322066)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32741)**
-
----
-
-### No. 33: ソーシャルメディア投稿 - 野花畑に佇む幻想的なゴースト
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-デイジーで飾られた魔女の帽子をかぶった半透明のゴーストが、花畑にいる様子を描いた、幻想的で少し不気味なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-{argument name="flower" default="デイジー"} で飾られた {argument name="hat type" default="魔女の帽子"} をかぶった愛らしいゴーストが、野花畑に立っています。ゴーストは淡い半透明の白色で、目はシンプルな黒い点が 2 つ描かれています。魔女の帽子は黒いとんがり帽子で、つばには小さな白いデイジーと黄色いアクセントの花輪が飾られています。周囲の野原は、背の高い草、白い花びらと黄色い中心部を持つデイジー、そして小さな黄色い花の群生が密集しています。背景は暗い単色で、ゴーストと花々が際立っています。全体的に幻想的で少し不気味な雰囲気があり、秋の美しさが漂う仕上がりです。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910194474_0p7m3b_HQuHa1vWUAAVrj3.jpg" width="600" alt="ソーシャルメディア投稿 - 野花畑に佇む幻想的なゴースト - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Heather Green](https://x.com/heathergreen)
-- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2092975671459053920)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32742)**
 
 ---
 
@@ -3368,7 +3321,160 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 68: コミック / ストーリーボード - プレミアムストロベリージャム ストーリーボード
+### No. 68: コミック / ストーリーボード - プレミアムピザ CM 用ストーリーボード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+冷凍食品の広告キャンペーン向けに、詳細なカメラアングルとプロフェッショナルなフードフォトグラフィーのスタイルを盛り込んだ、包括的なストーリーボードプロンプトです。
+
+#### 📝 プロンプト
+
+```
+プレミアム {argument name="product" default="冷凍ピザ"} 商品 CM 用ストーリーボード
+
+フォーマット:
+• 1 ページのプレミアムストーリーボード
+• 3:4 縦長比率
+• シネマティックな冷凍食品広告キャンペーン
+• 商品に焦点を当てた 8 つの異なるシーン
+• 商品が常にメインのビジュアルヒーロー
+• 広告代理店向けプレミアムプレゼンテーション
+
+ヘッダー:
+• 太字のエディトリアルタイポグラフィ
+• 情報カード:
+  - 長さ: 20 秒
+  - スタイル: {argument name="style" default="シネマティックなフード CM"}
+  - 商品: 冷凍ピザ
+  - オーディオ: オーブンのパチパチ音 + チーズの ASMR
+• このスタイルが効果的な理由セクション
+• {argument name="color aesthetic" default="温かみのあるクリーム色、トマトレッド、ゴールデンイエロー"} の色調
+• ピザをモチーフにしたミニマルな装飾
+
+ストーリーボード:
+1. 清潔なキッチンカウンターに立てかけられた冷凍ピザの箱、パッケージの正面が完璧に見える状態
+2. パッケージから取り出されるピザ、トッピングとチーズの詳細が見える
+3. 熱いオーブントレイに滑り込むピザ、クラストのドラマチックなクローズアップ
+4. ピザが焼き始める際のオーブンの扉が閉まる様子、温かいオレンジ色のオーブンの光
+5. トッピングの上でチーズが泡立ち溶けていく極端なマクロ撮影
+6. 湯気が立ち上りながらオーブンから出てくる焼きたてのピザ
+7. サクサクのクラストを切り分けるピザカッター、スライスの間で伸びる溶けたチーズ
+8. 完成したピザの横にオリジナルのピザ箱を配置した、最終的なヒーロー商品ショット
+
+各パネル:
+• シーン番号
+• 長さバッジ
+• カメラの指示
+• ビジュアル
+• アクション
+• 商品の詳細
+
+カメラワーク:
+俯瞰のフードフォトグラフィー、極端なマクロ撮影、スローモーションのチーズの溶け具合、ローアングルからのクラストショット、制御されたプッシュイン、湯気のクローズアップ、シネマティックな最終パックショット。
+
+スタイル:
+超リアルな冷凍食品 CM、泡立つ溶けたチーズ、サクサクの黄金色のクラスト、詳細なトッピング、リアルな湯気、プレミアムなパッケージ、温かみのあるシネマティックなライティング、浅い被写界深度、プロフェッショナルなフード広告、8K。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245867064_mwtjci_HRGw4sIbgAA2EPm.jpg" width="600" alt="コミック / ストーリーボード - プレミアムピザ CM 用ストーリーボード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝐌](https://x.com/Strength04_X)
+- **ソース:** [Twitter Post](https://x.com/Strength04_X/status/2094649803682750838)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33081)**
+
+---
+
+### No. 69: コミック / ストーリーボード - スパイシーポテトチップス CM 用ストーリーボード
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+スパイシーポテトチップスの高級感あふれる食品 CM に向けた、カメラアングルやライティングスタイルを含む包括的なマルチパネル・ストーリーボードプロンプト。
+
+#### 📝 プロンプト
+
+```
+タイトル：プレミアム・スパイシーポテトチップス製品 CM 用ストーリーボード
+
+フォーマット：
+• 1 ページ構成のプレミアム・ストーリーボード
+• 3:4 縦長比率
+• グルメスナック広告キャンペーン
+• 製品に焦点を当てた 8 つのシネマティックなシーン
+• 製品をメインのヒーローとして配置
+• 広告代理店向けプレミアムプレゼンテーション仕様
+
+ヘッダー：
+• 太字のモダンなタイポグラフィ
+• 情報カード：
+  - 長さ：20 秒
+  - スタイル：ハイエナジーな食品 CM
+  - 製品：スパイシーポテトチップス
+  - オーディオ：ASMR の咀嚼音 ＋ 速いビート
+• このスタイルが効果的な理由セクション
+• 深い赤、オレンジ、クリーム色の美的配色
+• 唐辛子とスパイスのミニマルな装飾要素
+
+ストーリーボード：
+1. 暗い表面にドラマチックに立つプレミアムなチップスのパッケージ
+2. パッケージが開き、チップスが勢いよく飛び出す様子
+3. サクサクした波型チップスのテクスチャを捉えたエクストリームマクロ
+4. 赤いチリシーズニングがスローモーションでチップスに降りかかる様子
+5. ドラマチックなスパイスの雲の中を回転するチップス
+6. チップスが割れ、小さな破片が飛び散る瞬間
+7. ヒーローパッケージの横に置かれた、シーズニングたっぷりのチップスのボウル
+8. チップスとドラマチックなシーズニングの飛沫を添えた最終製品パックショット
+
+各パネル：
+• シーン番号
+• 長さバッジ
+• カメラの指示
+• ビジュアル
+• アクション
+• 製品詳細
+
+カメラ：
+エクストリームマクロ、ハイスピード撮影、スローモーションのシーズニング、ダイナミックなプッシュイン、コントロールされたフードスプラッシュ、ドラマチックなヒーローフレーミング。
+
+スタイル：
+超リアルなスナック CM、詳細なサクサクのテクスチャ、リアルなシーズニングの粒子、鮮明なパッケージのディテール、ドラマチックなスタジオライティング、プレミアムなフードフォトグラフィー、8K。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245872510_tbli1l_HRBxnzHb0AEB75o.jpg" width="600" alt="コミック / ストーリーボード - スパイシーポテトチップス CM 用ストーリーボード - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝐌](https://x.com/Strength04_X)
+- **ソース:** [Twitter Post](https://x.com/Strength04_X/status/2094298786122379298)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33091)**
+
+---
+
+### No. 70: コミック / ストーリーボード - プレミアムストロベリージャム ストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3446,7 +3552,79 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 69: コミック / ストーリーボード - クレイアニメ風の宇宙人（砂漠）
+### No. 71: コミック / ストーリーボード - ノワール調の地下鉄ホームでのポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+夜の混雑した地下鉄ホームに立つ若い東アジア人男性を、緊張感のある表情と都会の密度に焦点を当て、映画のワンシーンのようなノワール・スリラー風に生成します。
+
+#### 📝 プロンプト
+
+```
+被写体: {argument name="age" default="20 代後半"} の若い東アジア人男性。ダークカラーの髪を無造作にサイドに流し、斜め横を向いた姿勢から、カメラを振り返るように鋭く警戒心のある表情を浮かべている。襟元のボタンを外した白いシャツの上に、シャープな黒のスーツジャケットを着用（ネクタイはなし）。周囲の喧騒の中で、静止した姿勢で立っている。
+
+媒体とアートスタイル: ハイパーリアリスティックなエディトリアル・フィルムスチル品質の映画的写真。現代のノワール・スリラーや A24 スタイルのキャラクタードラマを彷彿とさせる。
+
+環境と設定: 夜間またはラッシュアワーの混雑した地下鉄ホーム。ドアを開けた銀色の電車がホームに停車しており、車両番号の一部（「...02」）が見える。天井には蛍光灯のストリップライトが走っている。背景や手前には、ダークジャケットを着た通勤客がぼやけて通り過ぎ、都会の匿名性と密度の高さを演出している。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787985293733_77tj48_HQxph54asAACzO7.jpg" width="600" alt="コミック / ストーリーボード - ノワール調の地下鉄ホームでのポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Ozair AI](https://x.com/Ozayrr_irl)
+- **ソース:** [Twitter Post](https://x.com/Ozayrr_irl/status/2093163968944861470)
+- **公開日:** 2026年8月28日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32746)**
+
+---
+
+### No. 72: コミック / ストーリーボード - 野花畑に佇む幻想的なゴースト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+デイジーで飾られた魔女の帽子をかぶった半透明のゴーストが、花畑にいる様子を描いた、幻想的で少し不気味なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+{argument name="flower" default="デイジー"} で飾られた {argument name="hat type" default="魔女の帽子"} をかぶった愛らしいゴーストが、野花畑に立っています。ゴーストは淡い半透明の白色で、目はシンプルな黒い点が 2 つ描かれています。魔女の帽子は黒いとんがり帽子で、つばには小さな白いデイジーと黄色いアクセントの花輪が飾られています。周囲の野原は、背の高い草、白い花びらと黄色い中心部を持つデイジー、そして小さな黄色い花の群生が密集しています。背景は暗い単色で、ゴーストと花々が際立っています。全体的に幻想的で少し不気味な雰囲気があり、秋の美しさが漂う仕上がりです。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787910194474_0p7m3b_HQuHa1vWUAAVrj3.jpg" width="600" alt="コミック / ストーリーボード - 野花畑に佇む幻想的なゴースト - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Heather Green](https://x.com/heathergreen)
+- **ソース:** [Twitter Post](https://x.com/heathergreen/status/2092975671459053920)
+- **公開日:** 2026年8月27日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32742)**
+
+---
+
+### No. 73: コミック / ストーリーボード - クレイアニメ風の宇宙人（砂漠）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3480,7 +3658,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 70: コミック / ストーリーボード - グランド・ライブラリー・リーダーのポートレート
+### No. 74: コミック / ストーリーボード - グランド・ライブラリー・リーダーのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3530,7 +3708,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 71: コミック / ストーリーボード - 石の椅子に座る 3D スタイライズド・カートゥーン風の少女
+### No. 75: コミック / ストーリーボード - 石の椅子に座る 3D スタイライズド・カートゥーン風の少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3564,7 +3742,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 72: コミック / ストーリーボード - 1970 年代イランの政治グループのポートレート
+### No. 76: コミック / ストーリーボード - 1970 年代イランの政治グループのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3598,7 +3776,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 73: コミック / ストーリーボード - 水辺に佇む動物たちの幻想的なイラスト
+### No. 77: コミック / ストーリーボード - 水辺に佇む動物たちの幻想的なイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3642,7 +3820,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 74: コミック / ストーリーボード - プレミアムオーガニックハニー CM 用絵コンテ
+### No. 78: コミック / ストーリーボード - プレミアムオーガニックハニー CM 用絵コンテ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3719,7 +3897,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 75: コミック / ストーリーボード - プレミアムインスタントラーメン広告用絵コンテ
+### No. 79: コミック / ストーリーボード - プレミアムインスタントラーメン広告用絵コンテ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3794,7 +3972,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 76: コミック / ストーリーボード - 自然の中のシネマティックな Android
+### No. 80: コミック / ストーリーボード - 自然の中のシネマティックな Android
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3828,7 +4006,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 77: コミック / ストーリーボード - 豪華なサロンに佇むエディトリアル・ナース
+### No. 81: コミック / ストーリーボード - 豪華なサロンに佇むエディトリアル・ナース
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3880,7 +4058,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 78: コミック / ストーリーボード - シュルレアリスム風フラミンゴのチュチュのイラスト
+### No. 82: コミック / ストーリーボード - シュルレアリスム風フラミンゴのチュチュのイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3914,7 +4092,7 @@ Nano Banana 2 を使用して、観覧車近くの屋外フェスティバルに
 
 ---
 
-### No. 79: コミック / ストーリーボード - Velvet Afterlight システムプロンプト
+### No. 83: コミック / ストーリーボード - Velvet Afterlight システムプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3983,7 +4161,7 @@ NANO: "aspect_ratio"、"references"、"scene"、"subjects"、"relation_chamber"�
 
 ---
 
-### No. 80: コミック / ストーリーボード - 猫の CEO によるオフィス面接
+### No. 84: コミック / ストーリーボード - 猫の CEO によるオフィス面接
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4030,7 +4208,7 @@ NANO: "aspect_ratio"、"references"、"scene"、"subjects"、"relation_chamber"�
 
 ---
 
-### No. 81: コミック / ストーリーボード - 空中シュールレアリスム・クローン写真
+### No. 85: コミック / ストーリーボード - 空中シュールレアリスム・クローン写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4094,58 +4272,19 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 82: コミック / ストーリーボード - 色鉛筆で描く草原の風景
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-夕暮れ時の青いヤグルマギクの野原を歩くカップルを描いた、穏やかな色鉛筆スタイルのプロンプトです。
-
-#### 📝 プロンプト
-
-```
-縦長の構図で描かれた、鮮やかな色鉛筆画です。手前には鮮やかな青いヤグルマギク（Centaurea cyanus）が咲き誇る広大な野原が広がり、背の高い黄金色の草や茎、蕾が混ざり合っています。その中を、若いカップルが手をつなぎ、曲がりくねった細い道を歩き去っていく様子が描かれています。女性は白いワンピースをまとい、男性は袖をまくった白いシャツにダークカラーのパンツを着用し、互いに優しく頭を寄せ合っています。なだらかな丘が地平線まで続き、夏の穏やかなそよ風が草花を揺らし、夕暮れの光がシーン全体を包み込みます。遠くでは、温かみのある琥珀色の野原の向こうから太陽が顔をのぞかせています。画面の上部 3 分の 1 を占める空は、上部の深い夕闇の青から、太陽に近いオレンジ、ゴールド、淡いイエローへとグラデーションを描き、柔らかな薄雲が逆光に照らされています。広角で少し高い位置からの視点は、細部まで描き込まれたヤグルマギク、カップル、そして広大な日差しを受けた草原を際立たせています。色鉛筆画を思わせるスタイルで、目に見える質感が柔らかく穏やかな雰囲気を醸し出しています。全体として、温かみのある黄金色のトーンと、花々のクールなエレクトリックブルーが対比を成し、平和でロマンチック、そしてノスタルジックな雰囲気に満ちています。縦長の構図で描かれた、鮮やかな色鉛筆画です。手前には鮮やかな青いヤグルマギク（Centaurea cyanus）が一面に咲き誇り、背の高い黄金色の草や茎、蕾が混ざり合っています。花々の間を縫うように、曲がりくねった細い土の道が遠くへと続いています。朝霧と薄い靄が野原と遠くの岸辺に優しく漂い、地平線を柔らかくぼかしています。野原の向こうには穏やかな海が地平線まで広がり、静かな水面には一艘のヨットがゆっくりと浮かんでいます。水面には空の温かな輝きが反射しています。画面の上部 3 分の 1 を占める空は、上部の深い夕闇の青から、太陽に近いオレンジ、ゴールド、淡いイエローへとグラデーションを描き、柔らかな薄雲が逆光に照らされています。広角で少し高い位置からの視点は、細部まで描き込まれたヤグルマギク、霧に包まれた草原、そして遠くにヨットを望む広大で穏やかな海景を際立たせています。色鉛筆画を思わせるスタイルで、目に見える質感が柔らかく穏やかな雰囲気を醸し出しています。全体として、温かみのある黄金色のトーンと、花々のクールなエレクトリックブルーが対比を成し、平和で夢見心地な、ノスタルジックな雰囲気に満ちています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122193_hdzbyd_HPvngouXMAAzl8D.jpg" width="600" alt="コミック / ストーリーボード - 色鉛筆で描く草原の風景 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861122162_wa2ul6_HPvnhY9XwAA2tPS.jpg" width="600" alt="コミック / ストーリーボード - 色鉛筆で描く草原の風景 - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Viki](https://x.com/churvikv)
-- **ソース:** [Twitter Post](https://x.com/churvikv/status/2088517844535287875)
-- **公開日:** 2026年8月15日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31568)**
-
----
-
-### No. 83: コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート
+### No. 86: プロダクトマーケティング - キアロスクーロ（明暗対比）のファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-伝統的な日本のセーラー服を着た東アジア人女性が、日の差し込む教室に座っているフォトリアルなポートレート。
+ドラマチックなキアロスクーロ照明とオーバーサイズの帽子を活用し、ミステリアスでエレガントな雰囲気を演出するハイファッションスタジオポートレート用プロンプト。
 
 #### 📝 プロンプト
 
 ```
-ショートボブで前髪を切り揃えた、色白で穏やかな表情の若い {argument name="subject" default="東アジア人女性"} が、カメラをまっすぐに見つめている。彼女は伝統的な日本のセーラー服（制服）を着用している。半袖の白いブラウスにネイビーブルーのセーラー襟、{argument name="ribbon color" default="赤"} のリボンタイ、そして長い {argument name="skirt color" default="ネイビーブルー"} のプリーツスカート。彼女は磨かれた木製の教室の床に座り、クリーム色のカーテンがかかった背の高い窓の下の壁に軽く寄りかかっている。片手を床について体を支え、脚を横に折りたたんでいる。窓から柔らかな自然光が差し込み、温かみのある木の床に明るい幾何学模様の光と長い影を落としている。背景には空の木製机と椅子が並び、日本の伝統的な教室のインテリアが広がる。浅い被写界深度、フォトリアル、自然な肌の質感、柔らかなシネマティックライティング、高精細、85mm レンズのような仕上がり
+無地のダークグレーの背景を前に、{argument name="lighting" default="ドラマチックなキアロスクーロ照明"} に包まれたエレガントな女性のハイファッションスタジオポートレート。彼女は {argument name="accessory" default="オーバーサイズのつば広ブラックウールフェルトハット"} を斜めに被っており、深い影が目元と額を完全に覆っている。繊細な顎のライン、彫刻のような頬骨、そして大胆なマットクリムゾンレッドの唇が際立つ。彼女は {argument name="clothing" default="オフショルダーのブラックバンテージイブニングドレス"} を着用し、露わになった鎖骨と滑らかな首筋が強調されている。サイドからの指向性のあるソフトキーライト、深い影、ミニマリストで洗練されたスタイル。85mm レンズ、f/1.8 で撮影、鮮明なディテール、Vogue エディトリアルスタイル。
 ```
 
 #### 🖼️ 生成画像
@@ -4153,39 +4292,174 @@ VISUAL HIERARCHY（視覚的階層）
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861133324_kyaunw_HPgULBkbsAACHnj.jpg" width="600" alt="コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861133272_c3dwev_HPgULBda8AAYdA_.jpg" width="600" alt="コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861133329_9jm1j0_HPgULBmbYAAB633.jpg" width="600" alt="コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786861135899_8gtp2h_HPgULBzacAAFkFA.jpg" width="600" alt="コミック / ストーリーボード - 日本の学校の制服を着た教室でのポートレート - Image 4">
+<img src="https://cms-assets.youmind.com/media/1788245870934_xvemmd_HRDlZMvbkAAqKRy.jpg" width="600" alt="プロダクトマーケティング - キアロスクーロ（明暗対比）のファッションポートレート - Image 1">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [Feyber | AI Creator](https://x.com/woleswoosh)
-- **ソース:** [Twitter Post](https://x.com/woleswoosh/status/2088415372420501993)
-- **公開日:** 2026年8月15日
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2094651467311317159)
+- **公開日:** 2026年9月1日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31471)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33088)**
 
 ---
 
-### No. 84: プロダクトマーケティング - 羊皮紙彫刻ヘッドピースのポートレート
+### No. 87: プロダクトマーケティング - プロンプト：
+
+黒い空間を横切る 1 つのリンゴ、動き
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+null
+
+#### 📝 プロンプト
+
+```
+黒い空間を右から左へ横切り、その水平軸に沿って徐々に変化していく 1 つのリンゴ。右端では、ピンと張った赤い皮と鋭い鏡面反射を持つ、完全な写真のようなリンゴ。中央を通過するにつれ、皮は透明な屈折ガラスへと変化する
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245881072_bs81uo_HRGtFW6WwAAUp2C.jpg" width="600" alt="プロダクトマーケティング - プロンプト：
+
+黒い空間を横切る 1 つのリンゴ、動き - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Aisha | AI](https://x.com/tdelightmu)
+- **ソース:** [Twitter Post](https://x.com/tdelightmu/status/2094645716215808153)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33105)**
+
+---
+
+### No. 88: プロダクトマーケティング - ストリートスタイル・ロングエクスポージャー・ファッション
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+オレンジ色のフーディーを着用した東アジア人女性を被写体に、背景にモーションブラー（動体ブレ）をかけた群衆を配置した、モダンなエディトリアルファッション向けプロンプト。
+
+#### 📝 プロンプト
+
+```
+モダンでミニマルなスタジオに立つ、若い東アジア人女性のエディトリアル・ファッション写真。彼女は {argument name="outfit" default="鮮やかなオーバーサイズのオレンジ色のフーディー"}、足首で絞ったルーズな黒のスウェットパンツ、そして白いウェーブストライプが入った黒のハイカット・スケートスニーカーを着用している。長く暗い髪、繊細な顔立ち、小さなゴールドのイヤリングを身につけ、落ち着いたニュートラルな表情で肩越しにカメラを見つめている。片手はポケットに入れている。背景は清潔感のあるニュートラルな色調の部屋で、{argument name="motion" default="幽霊のようなシルエット"} の人々が動いており、意図的なロングエクスポージャーによるモーションブラーと光の軌跡が彼女の周囲に生まれている。柔らかく拡散された室内照明、クリーンなトーン、温かみのあるオレンジ色のフーディーと対照的なクールなカラーパレット。{argument name="film" default="35mm フィルム"} で撮影され、中央の被写体にシャープなピントが合っている、シネマティックなストリートスタイル・エディトリアル。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245869739_y9oruy_HRDPqolawAAZ99c.jpg" width="600" alt="プロダクトマーケティング - ストリートスタイル・ロングエクスポージャー・ファッション - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2094606172791652612)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33085)**
+
+---
+
+### No. 89: プロダクトマーケティング - ラグジュアリーファッション誌の表紙風エディトリアル
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ユーザーの顔の個性を維持しつつ、洗練されたスタジオ環境に配置する、ラグジュアリーファッション誌の表紙を作成するための詳細なプロンプトです。
+
+#### 📝 プロンプト
+
+```
+アップロードした顔写真を唯一のアイデンティティ参照元として使用し、プレミアムで超リアルなハイファッション誌の表紙を作成してください。メインモデルは {argument name="gender" default="男性"} とします。顔の造形、骨格、肌のトーン、目、眉、鼻、唇、顎のライン、髭、髪の特徴、自然な表情を正確に維持してください。本人と即座に判別できるよう、顔の整形や美化、女性化、プロポーションの変更は一切行わないでください。
+
+参照画像の全体的な構図とドラマチックでラグジュアリーな美学を再現してください。洗練されたファッションポートレートで、モデルは大きな彫刻のようなアームチェアに自信を持って座り、その周囲を巨大で豪華な {argument name="coat color" default="深いミッドナイトブルーとアイスブルー"} のフェイクファーコート（またはブランケット）がドラマチックに包み込んでいます。モデルはエレガントな黒のハイファッションな仕立ての衣装を着用し、ブルーのファーとの強いコントラストを生み出してください。
+
+ポーズ：リラックスしつつも力強いエディトリアルな姿勢で座り、片脚を自然に前に伸ばし、肩の力を抜き、体はわずかにカメラに向き、片腕を自然に置き、カメラをまっすぐに見つめる自信に満ちた視線。男性らしいプロポーションと解剖学的な正確さを維持してください。
+
+ライティング：映画のようなスタジオライティング。顔には柔らかな指向性のキーライトを当て、髪と肩の周囲には繊細なリムライトを配置。深くコントロールされた影、光沢のあるファッション誌特有のハイライト、リッチなミッドナイトブルーの雰囲気を演出してください。
+
+背景：微妙なトーンのグラデーションがあるシームレスなダークネイビーのスタジオ背景。ラグジュアリーかつミニマルで、洗練された冬の夜のムードを作り出してください。
+
+構図：縦長 4:5 の比率。フルエディトリアルカバーのフレーミング。モデルを中央に配置し、上部にドラマチックなネガティブスペースを確保。洗練された雑誌写真のクオリティ、リアルな肌の質感、一本一本の髪の毛、極めて詳細なファーの繊維、自然な影、プレミアムなファッションフォトグラフィー。85mm レンズの美学、浅い被写界深度、超リアル、映画的、洗練された、高級感と特別感のある仕上がり。
+
+上部に「{argument name="magazine title" default="VOGUE"}」スタイルの大きなファッション誌のタイトルロゴを、エレガントな白のセリフ体で追加してください。モデルの周囲には、清潔感があり説得力のある、上品で架空のエディトリアル見出しを配置してください。実在する雑誌の表紙テキストやロゴをそのままコピーしないでください。
+
+全体的なムード：ダークラグジュアリー、冬のクチュール、ミステリアス、パワフル、洗練、映画のようなハイファッション。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245875218_zr2od5_HRGBgUpbcAApjhE.jpg" width="600" alt="プロダクトマーケティング - ラグジュアリーファッション誌の表紙風エディトリアル - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [AI Qoro](https://x.com/AIqoro)
+- **ソース:** [Twitter Post](https://x.com/AIqoro/status/2094597717247041955)
+- **公開日:** 2026年9月1日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33094)**
+
+---
+
+### No. 90: プロダクトマーケティング - ミニマリストなローキー・スタジオライティング
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+単一の光源を使用して、ガラス製品にローキーでほぼ漆黒の美学を与えるためのテクニカルなスタジオライティング・プロンプト。
+
+#### 📝 プロンプト
+
+```
+{argument name="lighting" default="背後から右斜め上方に配置された 1 本の細いストリップライト"}。前面全体は影になり、ほぼ真っ黒な状態。フィルライトは使用しない。ライト：1 灯。角度：ローアングル、ガラスのすぐ上。フレーム：少なくとも 80 パーセントが黒。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245879413_wpqkua_HRDpgmlWkAAQq_j.jpg" width="600" alt="プロダクトマーケティング - ミニマリストなローキー・スタジオライティング - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Glenn Williams](https://x.com/GlennHasABeard)
+- **ソース:** [Twitter Post](https://x.com/GlennHasABeard/status/2094430576904196583)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33102)**
+
+---
+
+### No. 91: プロダクトマーケティング - 羊皮紙彫刻ヘッドピースのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4236,7 +4510,73 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 85: プロダクトマーケティング - 湖畔の風景とライフスタイル写真
+### No. 92: プロダクトマーケティング - ラグジュアリーファッション誌の表紙
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+カスタマイズされたモデルのアイデンティティとタイポグラフィを用いた、洗練されたバーガンディをテーマにしたファッション誌の表紙を作成するための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+アップロードした顔写真をメインモデルの唯一のアイデンティティ参照として使用し、プレミアムで超リアルなファッション誌の表紙を作成してください。顔のアイデンティティ、骨格、肌の色、目、眉、鼻、唇、顔の形、髪の特徴、自然な特徴を正確に維持してください。本人と即座に判別できるようにし、顔の比率を美化、修正、変更しないでください。
+
+参照画像全体の構図と洗練されたエディトリアルな雰囲気を再現してください：大きな彫刻的なラグジュアリーアームチェアに自信を持って座るスタイリッシュな女性、リラックスしつつも力強い姿勢、片方の腕は椅子に自然に置き、もう片方は膝の近くにエレガントに添え、脚は自然な位置に配置し、穏やかで自信に満ちた表情でカメラをまっすぐに見つめている様子。椅子とモデルがはっきりと見える全身のファッションポートレート。
+
+参照画像のすべてのブランディングとタイポグラフィを、全く新しいビジュアルアイデンティティに置き換えてください：
+
+背景に大きく配置されたエレガントな「A」の文字
+メインの名前として「{argument name="model name" default="ANIYA"}」
+小さなテキスト：「VISUAL IDENTITY」
+小さなエディトリアルテキスト：「FASHION • LIFESTYLE」
+年：「2026 年」
+縦書きのサイドテキスト：「A NEW CHAPTER OF CREATIVITY AND IDENTITY」
+タイポグラフィはミニマルで洗練された、高級雑誌風のクリーンでモダンな間隔を保ってください。
+
+新しい衣装
+
+元のオリーブ色のスーツを、より魅力的な「{argument name="outfit" default="deep burgundy and champagne luxury fashion ensemble"}」に置き換えてください：サテンのラペルがさりげなくあしらわれた仕立ての良いバーガンディのベルベットブレザー、その下にフィットしたシャンパンカラーのシルクキャミソール、エレガントで流れるような生地のハイウエストでワイドレッグのバーガンディパンツ、繊細なゴールドのジュエリー、そして洗練されたポインテッドトゥのメタリックシャンパンヒール。ベルベットの質感、シルクのハイライト、自然な折り目、ステッチ、高級感のある仕立てが見える、極めてリアルな服にしてください。
+
+色と雰囲気
+
+元の緑の色調の代わりに、洗練された深いバーガンディ、温かみのあるシャンパンゴールド、ダークエスプレッソのカラーパレットを使用してください。大きな「A」の背後に温かみのあるシャンパンカラーのスポットライト、髪と肩の周りに繊細なゴールデンリムライト、柔らかな映画のような影、顔への優しいハイライト、そしてダークバーガンディのグラデーション背景を備えた、ドラマチックでラグジュアリーなスタジオ環境を作り出してください。
+
+「{argument name="chair" default="armchair should be a large sculptural contemporary chair in deep wine-burgundy velvet"}」は、リアルな生地の質感とエレガントで建築的な曲線を持つものにしてください。
+
+超フォトリアルな肌の質感、リアルな毛穴、一本一本の髪の毛、自然な表情、リアルな手と指、物理的に正確な生地、高級ジュエリーの反射、映画のような被写界深度、繊細なフィルムグレイン、洗練されたカラーグレーディング、ハイダイナミックレンジ、ラグジュアリーなファッションキャンペーン写真、Vogue にインスパイアされたエディトリアルな美学、エレガントで高価なビジュアル言語。
+
+縦長 4:5 の構図、全身ポートレート、モデルと椅子をフレームの下中央寄りに配置、被写体を隠さないように背景を支配する大きな「A」、タイポグラフィのためのバランスの取れたネガティブスペース、極めて洗練された商業写真。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245868093_03ng20_HQ-qApNaAAAKdh1.jpg" width="600" alt="プロダクトマーケティング - ラグジュアリーファッション誌の表紙 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245868254_c8jb4w_HQ-qApEbEAAaVS9.jpg" width="600" alt="プロダクトマーケティング - ラグジュアリーファッション誌の表紙 - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Aniya Intelligence](https://x.com/aniyaintel)
+- **ソース:** [Twitter Post](https://x.com/aniyaintel/status/2094079289746760168)
+- **公開日:** 2026年8月30日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33082)**
+
+---
+
+### No. 93: プロダクトマーケティング - 湖畔の風景とライフスタイル写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4270,7 +4610,7 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 86: プロダクトマーケティング - 花柄の伝統衣装をまとった南アジアの女性
+### No. 94: プロダクトマーケティング - 花柄の伝統衣装をまとった南アジアの女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4304,7 +4644,7 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 87: プロダクトマーケティング - 高級自動車のシュルレアリスムポスター
+### No. 95: プロダクトマーケティング - 高級自動車のシュルレアリスムポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4338,7 +4678,7 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 88: プロダクトマーケティング - 高級時計ブランドのシュルレアリスム風ポスター
+### No. 96: プロダクトマーケティング - 高級時計ブランドのシュルレアリスム風ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4372,7 +4712,7 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 89: プロダクトマーケティング - シュルレアリスム風 Nike スポーツウェアポスター
+### No. 97: プロダクトマーケティング - シュルレアリスム風 Nike スポーツウェアポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4406,212 +4746,7 @@ VISUAL HIERARCHY（視覚的階層）
 
 ---
 
-### No. 90: プロダクトマーケティング - SF 本のシネマティック・ジオラマ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-開いた本から物理的に飛び出す SF 世界のフォトリアルなシネマティック・ジオラマを作成します。ミニチュアの登場人物や 3D タイポグラフィも含まれます。
-
-#### 📝 プロンプト
-
-```
-開いた本から物理的に飛び出すような、フォトリアルなシネマティック・ジオラマを作成してください。自動推論項目：HERO_ENTITY（主要な存在）、TITLE（タイトル）、WORLD（世界観）、TITLE_MATERIAL（タイトルの素材）、FOREGROUND_EVENT（前景のイベント）、MINIATURE_ACTORS（ミニチュアの登場人物）、PROP_SET（小道具セット）、LIGHT_DNA（光の DNA）、FX_DNA（エフェクトの DNA） 構図： - 開いたハードカバーの本がフレームの下部大部分を占める - 本のページはきれいな紙のままではなく、物理的に {argument name="topic" default="scifi book"} へと変容する - TITLE は地形に埋め込まれた巨大な自立型 3D タイポグラフィとなる - TITLE の素材と構造は TOPIC から推論される - HERO_ENTITY がタイポグラフィの背後、上方、内部、または周囲から、圧倒的なスケール感で立ち上がる - FOREGROUND_EVENT がミニチュアの物語シーンとして表紙全体で展開される - ミニチュアの登場人物、乗り物、道具、植物、残骸、建造物、または小道具は、意味的に有用な場合にのみ推論される - ページの端が見えるようにし、「本から世界が飛び出している」という錯覚を明確にする 照明：TOPIC から推論されるシネマティックな実用照明に加え、説得力のある環境照明。レンダリング：マクロの実写エフェクト撮影、本物の本の繊維、物理的なミニチュア素材、接触影、埃や表面の不完全さ、大気の奥行き、ハイエンドな手作りジオラマのリアリズム。タイトル、キャラクター、環境、素材、アクション、乗り物、または視覚効果をハードコード（固定）しないでください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910194613_obrhko_HQmw-mvXEAAD8E1.jpg" width="600" alt="プロダクトマーケティング - SF 本のシネマティック・ジオラマ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910194574_lbhl1s_HQmw-m-WMAA3vXO.jpg" width="600" alt="プロダクトマーケティング - SF 本のシネマティック・ジオラマ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910194598_u6xloa_HQmw-m1XsAIE_YC.jpg" width="600" alt="プロダクトマーケティング - SF 本のシネマティック・ジオラマ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910195271_kvba8k_HQmw-pWWYAAdxqT.jpg" width="600" alt="プロダクトマーケティング - SF 本のシネマティック・ジオラマ - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **ソース:** [Twitter Post](https://x.com/Gdgtify/status/2093007884854378782)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32744)**
-
----
-
-### No. 91: プロダクトマーケティング - ガル・ガドットの火山ポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-ガル・ガドットを火山灰のベッドの上に配置し、シュールかつ超写実的な建築的ポートレートを生成するための洗練された構造化プロンプトです。
-
-#### 📝 プロンプト
-
-```
-{ "vibe_title_en": "Ash and Ecstasy", "master_prompt": "90 度の真上からの俯瞰で撮影された、超写実的な建築写真。被写体（The Protagonist）が、深くひび割れた隙間からかすかに赤い光を放つ、質感豊かな冷えかけの黒い火山炭のベッドの上に完全に平らに横たわっている。被写体の頭頂部のすぐ上には、極度の熱にも影響を受けない、非現実的なほど完璧で巨大な真っ赤なリンゴが置かれ、シュールな焦点となっている。被写体は陶酔的なトランス状態にあり、顎をわずかに上げて首を露わにし、純粋な情熱の解放の中で目を穏やかに閉じている。かすかな熱の上昇気流がそよ風のように作用し、黒い髪の毛が扇状に広がり、粗くギザギザした炭の表面を動的に漂っている。被写体は、ハイネックで複雑なプリーツが施されたマットブラックのアバンギャルドな衣装を纏っており、黒く焦げた周囲の環境にシームレスに溶け込んでいる。Hasselblad H6D-100c と HC 100mm f/2.2 レンズで撮影され、個々の毛穴、岩の上の粉状の灰、赤い果実のワックス状の反射光といった微細なディテールを捉えている。ライティングは、ムードのある映画のようなブレンド。柔らかく幻想的なオーバーヘッドフィル（フラットだがムードのある拡散光）に対し、炭の熱から放射される強烈で温かみのある実用的なアンダーグローが対比を成し、局所的な陽炎とフレーム端の繊細なボケを生み出している。Kodak Portra 400 フィルムストックを使用し、豊かな潰れたシャドウ、本物の映画のような粒子感、触覚的で物理的なリアリティを感じさせるシュールレアリスム。ネオンは禁止。", "meta": { "intent": "写真シュールレアリスムおよびエディトリアル・コンセプチュアル・ポートレート", "priorities": "極端な質感のコントラスト、真上からの対称性、陶酔的なトランス状態の表現、微細なディテールの保持", "device_profile": "高解像度エディトリアルディスプレイ" }, "frame": { "aspect": "4:5", "composition": "対称的な真上からの中心配置", "layout": "被写体を垂直軸に沿って中央に配置し、赤い果実を頭上の構造的なアンカーとして使用", "camera_angle": "厳密な 90 度の真上からの俯瞰（平面図）", "tilt_roll_degrees": "0 度" }, "subject": { "gender": "女性", "identity": "The Protagonist", "demographics": "年齢不詳、印象的で幻想的な容姿", "face": "左右対称で、毛穴まで見える完璧な肌の質感、顎を上げ、筋肉が完全に弛緩している", "hair": "熱の上昇気流に捕らえられたかのように動的に外側へ広がる、細く黒い髪の毛。黒い岩の上に広がっている", "body": "仰向けで完全にリラックスしているが、解放という内面的な物語の緊張感を秘めている", "expression": "陶酔する夢想家：快楽の中で目を閉じ、開いた唇からかすかな吐息が漏れる、陶酔的なトランス状態", "pose": "完全に平らに横たわり、カメラの中心軸と完璧に整列し、頭を地面に預けて後ろに傾けている" }, "wardrobe_accessories": { "garments": [ { "item": "ハイネックで複雑なプリーツが施されたアバンギャルドなチュニック", "material": "マットブラックのローシルクと厚手のクレープ", "color": "漆黒", "fit": "流れるようなシルエットで、肩と首の周りに重なり、地面と一体化している" } ], "accessories": [ { "item": "炭の上に置かれた、完璧で巨大なリンゴ", "color": "鮮やかなクリムゾンレッド", "material": "高い鏡面反射を持つ有機的なワックス状の皮", "brand_style": "シュールレアリストの小道具" } ], "environment": { "setting": "焦土と冷えかけの火山玄武岩が広がる、閉塞感のある荒涼とした空間", "surfaces": "質感の高いギザギザした黒い岩、粉状の灰、滑らかで温かい人間の肌", "depth": "平面図のため被写界深度は浅く、影への急激な落ち込みによって孤立している", "atmosphere": "温かく、霞がかかり、物理的に強烈で、目に見えない熱気が充満している", "lens_interaction": "赤い残り火の周りに揺らめく、繊細な光学歪みと陽炎" }, "lighting": { "key": "曇りの日の夕暮れを模した、柔らかく幻想的でムードのあるオーバーヘッド拡散光", "fill": "暗い表面からの環境反射光。深い影を維持するために高度に制御されている", "rim": "炭のベッドの隙間から上向きに放射される、温かく燃えるようなオレンジと赤のアンダーライティング", "shadows": "深く豊かな高コントラストのキアロスクーロ（明暗法）。黒い衣装を完全に吸収している", "color_temperature": "スプリット：5600K のクールなオーバーヘッドフラット光と、2500K の強烈な温かい残り火の輝き", "sensor_flare": "なし、完璧なコントラスト" }, "camera": { "lens_type": "中判単焦点レンズ", "focal_length": "100mm", "aperture": "f/2.8", "focus": "被写体のまつ毛、毛穴、リンゴの表面にピントを合わせる", "sensor_format": "中判デジタル（Hasselblad H6D-100c）", "perspective_distortion": "歪みゼロ、純粋な正射影のような感覚" }, "post_processing": { "color": "深く彩度が高く、モノクロの炭と温かい肌のトーンに対して赤が際立っている", "tonality": "ハイエンドなエディトリアル調、ハイライトの微細なコントラストを維持しつつ、黒を潰している", "texture": "超高精細なアナログ感、シャドウ部分に本物の Kodak Portra 400 フィルム粒子", "digital_sharpening": "なし、完全に有機的なレンズの光学的な鋭さに依存", "chromatic_aberration": "ほぼゼロ、端から端まで完璧な光学品質" }, "negative_specifications": [ "ネオンライト", "サイバーパンクの美学", "都市の風景", "屋上", "コーヒーショップ", "ミニマリストなオフィス", "プラスチックのような肌やエアブラシ加工", "漫画のようなシュールレアリスム", "CGI 感", "カメラ目線", "笑顔", "散らかった背景" ] }
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910197875_4bvumx_HQu-1NQW8AAZytp.jpg" width="600" alt="プロダクトマーケティング - ガル・ガドットの火山ポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910197877_rfjel8_HQu-05LXQAADnlt.jpg" width="600" alt="プロダクトマーケティング - ガル・ガドットの火山ポートレート - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2092976277254729840)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32749)**
-
----
-
-### No. 92: プロダクトマーケティング - シネマティックな男性とマッスルカーのポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-黒いスーツを着てクラシックなマッスルカーにもたれかかる男性をフィーチャーした、プロ仕様のシネマティックなプロンプトです。特定の照明とカメラ設定を用いた、リアルなデジタルポートレート制作向けに設計されています。
-
-#### 📝 プロンプト
-
-```
-{argument name="subject" default="ハンサムな若い成人男性"} が画面の右寄り中央に立ち、重心をずらして肩を水平に保ちながら、リラックスした様子で寄りかかっています。カメラをまっすぐに見つめ、口元はニュートラル、眉はリラックスし、力強く真っ直ぐな眼差しで自信に満ちた表情を浮かべています。髪は短く質感のあるダークカラーのカーリーヘアで、自然な前髪があり、きれいに整えられた髭を蓄えています。服装は、シャープなラインの {argument name="outfit" default="フォーマルな漆黒のスーツ"} に、白いシャツと黒いネクタイを合わせた洗練されたスタイルです。リラックスした左手は自然に車の上に置かれ、右手はズボンの右前ポケットにすっぽりと収まり、ダークな生地をピンと張らせています。彼は、画面左下の前景に重厚な視覚的ウェイトを置く、完璧に手入れされたクラシックな {argument name="car" default="チェリーレッドのマッスルカー"} に寄りかかっており、黒いコンバーチブルトップ、輝くクロームのサイドミラー、鮮明なシルバーのトリムラインが特徴です。非対称な構図の背景には、被写界深度を中程度に設定し、左上から上部中央にかけて広がる、濃いオリーブグリーンの葉を茂らせた落葉樹の中景をわずかにぼかしており、たそがれの影へとシームレスに溶け込んでいます。右側の遠景には、使い古された低いコンクリートの建物があり、ざらついたマットな質感で、黄色がかった灰色のまだら模様や水平の跡が、濃い緑と茶色の草地の上に浮かび上がっています。洗練された穏やかな夕暮れの雰囲気は、自然なクールなトワイライトブルーと、前方やや上方からの柔らかく適度な指向性を持つ人工フィルライトを組み合わせた照明設定によって演出されています。被写体の顎の下には柔らかくグレーがかった緩やかな境界の影が落ち、体から車のボンネットにかけてもさりげなく影が投影されています。一方で、車のクロームミラーやトリム、光沢のある赤い塗装には鋭い鏡面ハイライトが当たり、男性の額と鼻筋には柔らかなハイライトが乗ることでバランスが取られています。この非常にシャープでリアルなデジタルポートレートは、現代のソーシャルメディアのライフスタイル写真と、クラシックな自動車エディトリアル写真の要素を融合させたものです。35mm から 50mm のレンズを使用し、f/2.8 から f/4.0、シャッタースピード 1/125 秒、ISO 400 から 800 の設定で、拡散 LED ソフトボックスを用いて正面から撮影されたかのような仕上がりです。ポストプロセッシングでは、低レベルのデジタルノイズグレイン、クールなシネマティックシャドウ、引き上げられた黒レベル、スーツのハイコントラスト、そして強調されたレッドチャンネルの彩度を加え、9:16 のアスペクト比で美しくフレーミングされています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910193263_mgetkd_HQUZcGxXYAAkwPc.jpg" width="600" alt="プロダクトマーケティング - シネマティックな男性とマッスルカーのポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Picts by AI](https://x.com/pictsbyai)
-- **ソース:** [Twitter Post](https://x.com/pictsbyai/status/2092889353156784523)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32666)**
-
----
-
-### No. 93: プロダクトマーケティング - マンガキャラクターのねんどろいど風ジオラマ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-L 字型のディスプレイに、カスタム 3D 効果音とコミックパネルの背景を組み合わせた、ちびキャラ風マンガフィギュアを生成するための複雑で構造化されたプロンプトです。
-
-#### 📝 プロンプト
-
-```
-<instruction> 1. セマンティック推論エンジン入力 A は {argument name="character" default="マンガ/アニメのキャラクターまたはコミックのヒーロー"} です (例: 悟空、スパイダーマン、オールマイト)。キャラクターを分解し、3 つのアクションアセットを生成します。パワー (エフェクト): {argument name="attack" default="必殺技"} を特定します (例: 火の玉、ウェブシューター、サイキックブラスト、稲妻)。サウンド (オノマトペ): {argument name="sound effect" default="コミックの効果音テキスト"} を特定します (例: 「ドカーン！」、「スマッシュ！」、「シュバッ！」、「バゴォーン！」)。カラー (オーラ): 主要なエネルギーの色を特定します (例: オレンジ、赤、紫、緑)。 2. コンテナ (ディスプレイスタンド): 目標: 「ねんどろいど」風のジオラマ写真。ステージ: シンプルな L 字型のディスプレイベース (垂直の背面壁 + 水平の床)。背景: 垂直の壁は白黒のマンガパネルやコミックストリップのコラージュで覆われ、混沌としたインクの濃い背景を作り出します。 3. フィギュア (ちびヒーロー): スタイル: ちび / スーパーデフォルメ (SD)。大きな頭、小さな体、表情豊かな大きな目。ポーズ: ダイナミックな空中アクションポーズ (カメラに向かってパンチしている、または魔法を唱えている)。素材: 滑らかでマットな PVC またはビニールプラスチック (コレクター向け玩具の質感)。 4. ビジュアル FX (2.5D インパクト): テキスト: 「サウンド」(ステップ 1) は、キャラクターの周囲の空中に浮かぶ、大きくギザギザしたカラフルな 3D テキストプレート (黒い縁取りのあるオレンジ/赤) としてレンダリングされます。破片: 爆発をシミュレートし、中心から外側に向かって飛散する岩、ガラス、または破れた紙の 3D 破片。エネルギー: キャラクターの手足の周りを渦巻く、半透明のカラープラスチックパーツ (「パワー」を表現)。 5. ライティングと雰囲気: ライティング: 明るいスタジオキーライト。玩具写真特有の、影のない均一な照明。雰囲気: エネルギッシュで遊び心があり、爆発的。出力: 画像 1 枚、アスペクト比 1:1、3D レンダリング、「アニメフィギュア」の美学、高彩度。 </instruction>
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910196466_o942ee_HQiIeVbW8AE7rHc.jpg" width="600" alt="プロダクトマーケティング - マンガキャラクターのねんどろいど風ジオラマ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910196488_3j1fk4_HQiIecjWsAAJw7C.jpg" width="600" alt="プロダクトマーケティング - マンガキャラクターのねんどろいど風ジオラマ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910196488_mnfkjk_HQiIeVYXMAA40pK.jpg" width="600" alt="プロダクトマーケティング - マンガキャラクターのねんどろいど風ジオラマ - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Gadgetify](https://x.com/Gdgtify)
-- **ソース:** [Twitter Post](https://x.com/Gdgtify/status/2092887591313953062)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32662)**
-
----
-
-### No. 94: プロダクトマーケティング - 憂いを帯びた薔薇と孤独のポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-ピンクの薔薇を顔に寄せた女性の、メランコリックな雰囲気漂うフォトリアルなポートレート用プロンプト。柔らかな光とフリルの質感が特徴です。
-
-#### 📝 プロンプト
-
-```
-エレガントなポーズで、{argument name="flower" default="緑の茎がついた鮮やかなピンクの薔薇"}を顔に寄せている女性の超至近距離ポートレート。彼女は{argument name="furniture" default="アンティークな装飾と淡いベージュの柔らかな張り地が施された椅子"}に座っている。{argument name="clothing" default="プリーツフリルがあしらわれたシースルーのブラウス"}が身体を包み込むように流れている。彼女の手は顔の近くにあり、薔薇を支えている。光が顔の一部を照らし、瞳と肩にかかる柔らかな髪を強調している。柔らかな影が奥行きを生み出し、心地よくもメランコリックな孤独感を演出。背景はあえて隠し、女性とその感情に焦点を当てている。光と影の繊細な相互作用が、この瞬間の親密さと、花を通じた自然とのつながりを表現。フォトリアルな画像、高精細、8K。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787910197952_an92gn_HQoyTSmasAAjzod.jpg" width="600" alt="プロダクトマーケティング - 憂いを帯びた薔薇と孤独のポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [dreamy digital arts](https://x.com/dreamydigiarts)
-- **ソース:** [Twitter Post](https://x.com/dreamydigiarts/status/2092831974377324908)
-- **公開日:** 2026年8月27日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32672)**
-
----
-
-### No. 95: E コマースのメイン画像 - プレミアム飲料の広告写真撮影
+### No. 98: E コマースのメイン画像 - プレミアム飲料の広告写真撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4651,7 +4786,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 ---
 
-### No. 96: E コマースのメイン画像 - エレガントな黒のオーガンジーリボン
+### No. 99: E コマースのメイン画像 - エレガントな黒のオーガンジーリボン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4691,7 +4826,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 ---
 
-### No. 97: E コマースのメイン画像 - 高級チョコレートの広告用静物写真
+### No. 100: E コマースのメイン画像 - 高級チョコレートの広告用静物写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4743,7 +4878,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 ---
 
-### No. 98: E コマースのメイン画像 - シュールで美しいヘアローラーの製品広告
+### No. 101: E コマースのメイン画像 - シュールで美しいヘアローラーの製品広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4777,7 +4912,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 ---
 
-### No. 99: E コマースのメイン画像 - ラズベリーシェルを用いたプロダクト撮影
+### No. 102: E コマースのメイン画像 - ラズベリーシェルを用いたプロダクト撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4829,7 +4964,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 ---
 
-### No. 100: E コマースのメイン画像 - クモの巣をあしらった映画のような製品広告
+### No. 103: E コマースのメイン画像 - クモの巣をあしらった映画のような製品広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4869,7 +5004,7 @@ L 字型のディスプレイに、カスタム 3D 効果音とコミックパ�
 
 ---
 
-### No. 101: E コマースのメイン画像 - 氷のキューブに入ったプロダクトのミニマリスト風撮影
+### No. 104: E コマースのメイン画像 - 氷のキューブに入ったプロダクトのミニマリスト風撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4903,7 +5038,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 102: E コマースのメイン画像 - 高級ウォーターボトルの製品撮影
+### No. 105: E コマースのメイン画像 - 高級ウォーターボトルの製品撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4943,7 +5078,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 103: E コマースのメイン画像 - 夏のスキンケア製品の撮影
+### No. 106: E コマースのメイン画像 - 夏のスキンケア製品の撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4995,7 +5130,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 104: E コマースのメイン画像 - Nano Banana Pro 製品コラージュ
+### No. 107: E コマースのメイン画像 - Nano Banana Pro 製品コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5035,7 +5170,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 105: E コマースのメイン画像 - スタイライズされたコレクティブルトイのパッケージ
+### No. 108: E コマースのメイン画像 - スタイライズされたコレクティブルトイのパッケージ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5087,7 +5222,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 106: E コマースのメイン画像 - プレミアムなプロダクトスタジオへの変身
+### No. 109: E コマースのメイン画像 - プレミアムなプロダクトスタジオへの変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5139,7 +5274,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 107: E コマースのメイン画像 - 高級スキンケア製品の広告
+### No. 110: E コマースのメイン画像 - 高級スキンケア製品の広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5191,7 +5326,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 108: E コマースのメイン画像 - 3D モデルからフォトリアルな製品レンダリングへ
+### No. 111: E コマースのメイン画像 - 3D モデルからフォトリアルな製品レンダリングへ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5225,7 +5360,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 109: E コマースのメイン画像 - ラグジュアリー製品クラスター用マスタープロンプト
+### No. 112: E コマースのメイン画像 - ラグジュアリー製品クラスター用マスタープロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5289,7 +5424,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 110: E コマースのメイン画像 - マクロモニター画面のテクスチャ
+### No. 113: E コマースのメイン画像 - マクロモニター画面のテクスチャ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5323,7 +5458,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 111: E コマースのメイン画像 - カジュアルデニムのスタジオポートレート
+### No. 114: E コマースのメイン画像 - カジュアルデニムのスタジオポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5357,7 +5492,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 112: E コマースのメイン画像 - 草原の丘でのミニマルなプロダクトフォト
+### No. 115: E コマースのメイン画像 - 草原の丘でのミニマルなプロダクトフォト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5409,7 +5544,7 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 113: E コマースのメイン画像 - 濡れたスレート上のエディトリアル製品ショット
+### No. 116: E コマースのメイン画像 - 濡れたスレート上のエディトリアル製品ショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5449,7 +5584,63 @@ Nano Banana Pro 向けのプロフェッショナルなプロダクトフォト�
 
 ---
 
-### No. 114: ゲームアセット - 未来のロンドンを舞台にした GTA 風コンセプトアート
+### No. 117: ゲームアセット - エリートアニメ風シネマティック・ウォーリアーのオーラ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+廃墟となった寺院を舞台に、圧倒的な存在感と大気のようなエネルギーオーラを纏ったカリスマ的な戦士を描く、ハイエンドなアニメ風キービジュアル生成用プロンプト。
+
+#### 📝 プロンプト
+
+```
+ダークファンタジーの世界観を舞台にした、息をのむような最高品質のアニメ風シネマティック・アートワークを作成してください。史上最も制作費をかけたアニメのワンシーンのようなクオリティを目指します。
+
+{argument name="warrior" default="冷静で圧倒的なカリスマ性を放つ男性戦士"} が、夜の未来的な古代都市を見下ろす巨大な廃墟寺院の端に一人で立っています。鋭く表情豊かな瞳、風に自然になびく緻密な黒髪、複雑な銀の装飾が施されたエレガントな黒の戦闘用コートを身に纏い、かすかな戦闘の痕跡を残しながらも、余裕を感じさせる威圧的な立ち姿をしています。
+
+彼は攻撃したり叫んだりしているわけではありません。ただ静かに立ち、感情のない自信に満ちた表情で少し下を見下ろしています。彼の存在そのものが、シーン全体を支配しています。
+
+彼の周囲には {argument name="aura" default="巨大なオーラフィールド — 深みのある大気エネルギー"} があり、目に見える不可視の圧力のように環境の中を自然に流れています。薄い発光粒子、漂う残り火、塵や雨の破片が彼の体の周りで曲線を描いています。彼の足元の地面には、その圧倒的な圧力によって生じた微細な亀裂が刻まれています。彼のコートと髪は、エネルギーに満ちた風を受けてドラマチックになびいています。
+
+背後では巨大な嵐の雲が空を渦巻き、遠くの稲妻に照らされています。{argument name="moon" default="巨大な月"} が雲の隙間から顔を出し、彼のシルエットを力強く浮かび上がらせています。遥か下方に広がる数千もの小さな街の明かりが、圧倒的な奥行きとスケール感を生み出しています。
+
+オーラは単なる光の輪郭ではなく、美しく、威圧的で、この世のものとは思えないような感覚にしてください。層状の半透明エネルギー、大気の歪み、繊細な光の屈折、浮遊する粒子、キャラクターの周囲に漂う波のような圧力を表現してください。キャラクターの顔と体はシャープに描きつつ、周囲の環境が彼の存在に反応している様子を表現してください。
+
+構図：ローアングルからのヒーローショット、キャラクターを少し中心からずらして配置、頭上に広大なネガティブスペース、ドラマチックな奥行き、前景の粒子、遠方の都市、巨大な空、シネマティックな遠近法。
+
+ビジュアルスタイル：エリート現代アニメ制作、極めて緻密な線画、絵画的な背景、リアルなライティング、物理的に説得力のある影、シネマティックなカラーグレーディング、リアルな大気の遠近感、非常に詳細な瞳、髪の毛の質感、布地のディテール、かすかな肌の質感、ボリューム感のある月光、高コントラスト、被写体にピントを合わせたシャープな描写、息をのむような環境のディテール。
+
+様式化されたアニメのキャラクターデザインとリアルなシネマティック・レンダリングを融合させ、一般的なイラストではなく、プレミアムなアニメのワンシーンのように感じられる画像にしてください。
+
+キャラクターは、静かな自信、圧倒的な存在感、余裕のある支配力、神秘的な力、エレガンス、そして危険といった、究極の「オーラ」を放っている必要があります。
+
+テキスト、ロゴ、透かし、滑稽な表情、大げさな叫び、巨大な筋肉、一般的なスーパーヒーローのコスチューム、乱雑な構図、過度なネオン、ぼやけた顔、歪んだ解剖学的構造、余分な指、変形した手、安っぽい CGI 感は一切禁止。
+
+アスペクト比：16:9。超高精細、シネマティック、息をのむような、プレミアムなアニメ風キービジュアル
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788245868600_lycm8i_HRCHmQVawAANNQN.jpg" width="600" alt="ゲームアセット - エリートアニメ風シネマティック・ウォーリアーのオーラ - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [aryan v](https://x.com/aryanv2844)
+- **ソース:** [Twitter Post](https://x.com/aryanv2844/status/2094322928343232749)
+- **公開日:** 2026年8月31日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33083)**
+
+---
+
+### No. 118: ゲームアセット - 未来のロンドンを舞台にした GTA 風コンセプトアート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5489,7 +5680,7 @@ Nano Banana Pro を使用して、近未来のロンドンを舞台にした、G
 
 ---
 
-### No. 115: ゲームアセット - 黒いスレート上のガラス玉
+### No. 119: ゲームアセット - 黒いスレート上のガラス玉
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5523,19 +5714,19 @@ Nano Banana Pro を使用して、近未来のロンドンを舞台にした、G
 
 ---
 
-### No. 116: ゲームアセット - 流体スプラッシュを纏ったシネマティックなファンタジーポートレート
+### No. 120: ゲームアセット - SF 本のシネマティック・ジオラマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
 
 #### 📖 説明
 
-視聴者に手を伸ばす若い女性を捉えた、鮮やかな流体スプラッシュとリアルな照明効果が特徴の、極めて詳細なシネマティックポートレート用プロンプト。
+開いた本から物理的に飛び出す SF 世界のフォトリアルなシネマティック・ジオラマを作成します。ミニチュアの登場人物や 3D タイポグラフィも含まれます。
 
 #### 📝 プロンプト
 
 ```
-超リアルな IMAX クオリティの Netflix スタイル・シネマティックファンタジーポートレート、4:5 の縦型フレーム。アップロードした画像を顔の主要なリファレンスとして使用し、最大限の顔の整合性を維持すること。カメラに向かってダイナミックに身を乗り出し、片手を直接前方の前景に突き出す若い女性。強い遠近感と浅い被写界深度により、突き出した手が劇的に大きく見え、指は視聴者に遊び心を持って手を伸ばすかのように自然に広がっている。もう一方の腕は体に近づけて自然に配置し、上半身はエネルギッシュで自発的な姿勢で前傾している。{argument name="outfit color" default="ソフトベージュ"} の流れるようなドレープ衣装を身にまとい、肩や胴体の周りに緩やかな布のひだを自然に巻きつけている。ダークブラックの髪は、頭頂部、こめかみ、顔の横から豊かな質感の毛束がこぼれ落ちる、ルーズで無造作な高いお団子にまとめられている。数本の細い後れ毛が頭の周りに自然に浮き上がっている。鮮やかな {argument name="fluid colors" default="ターコイズ、赤、ピンク、ゴールデンイエロー、オレンジ"} の絵の具のような流体と混ざり合った、透明な液体の劇的で凍りついたスプラッシュに囲まれ、体の周りで上向きかつ外向きに広がっている。個々の水滴が空中にシャープに静止し、カラフルな流体の弧が彼女の周りにダイナミックな円形のフレームを作り出している。スプラッシュの間に明るいニュートラルな背景が見え、リアルな反射と屈折を伴う非常に詳細で半透明な液体の表面。前景と背景の強い深度分離、シネマティックな遠近法。鮮明な顔のディテールに対し、レンズの深度により最も近い前景に向かって突き出した手は徐々にソフトになっている。スプラッシュの瞬間に凍りついたリアルな動きのエネルギー。顔への柔らかな正面照明と、濡れた液体の滴や髪の毛に沿った繊細なハイライトを伴う洗練されたスタジオ照明。鮮やかでありながら自然にバランスの取れた色合い、リアルな布の質感、自然な写真のディテール、シネマティックな被写界深度、ハイダイナミックレンジ。肌：自然でニュートラルな温かみのあるアンダートーンの明るい肌色、柔らかく健康的な輝き、目に見える肌の質感、細かい毛穴、顔と体のトーンの一貫性。表情：目は大きく見開き、明るく遊び心のある眼差しで直接カメラを見つめている。眉は興奮で自然に上がり、口は上歯を見せる広々とした {argument name="smile type" default="自然な笑顔"} を浮かべている。唇は笑顔によって自然に引き伸ばされ、頬は目や口の周りに自然な笑いじわを形成しながら顕著に持ち上がり、喜びにあふれた自発的でエネルギッシュな表情を作り出している。ネガティブプロンプト：歪んだ顔、余分な指、奇形の手、複製された四肢、歪んだ遠近感、人工的な肌、過度なスムージング、CGI のような見た目、乱れた顔の特徴。
+開いた本から物理的に飛び出すような、フォトリアルなシネマティック・ジオラマを作成してください。自動推論項目：HERO_ENTITY（主要な存在）、TITLE（タイトル）、WORLD（世界観）、TITLE_MATERIAL（タイトルの素材）、FOREGROUND_EVENT（前景のイベント）、MINIATURE_ACTORS（ミニチュアの登場人物）、PROP_SET（小道具セット）、LIGHT_DNA（光の DNA）、FX_DNA（エフェクトの DNA） 構図： - 開いたハードカバーの本がフレームの下部大部分を占める - 本のページはきれいな紙のままではなく、物理的に {argument name="topic" default="scifi book"} へと変容する - TITLE は地形に埋め込まれた巨大な自立型 3D タイポグラフィとなる - TITLE の素材と構造は TOPIC から推論される - HERO_ENTITY がタイポグラフィの背後、上方、内部、または周囲から、圧倒的なスケール感で立ち上がる - FOREGROUND_EVENT がミニチュアの物語シーンとして表紙全体で展開される - ミニチュアの登場人物、乗り物、道具、植物、残骸、建造物、または小道具は、意味的に有用な場合にのみ推論される - ページの端が見えるようにし、「本から世界が飛び出している」という錯覚を明確にする 照明：TOPIC から推論されるシネマティックな実用照明に加え、説得力のある環境照明。レンダリング：マクロの実写エフェクト撮影、本物の本の繊維、物理的なミニチュア素材、接触影、埃や表面の不完全さ、大気の奥行き、ハイエンドな手作りジオラマのリアリズム。タイトル、キャラクター、環境、素材、アクション、乗り物、または視覚効果をハードコード（固定）しないでください。
 ```
 
 #### 🖼️ 生成画像
@@ -5543,259 +5734,35 @@ Nano Banana Pro を使用して、近未来のロンドンを舞台にした、G
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1787639844605_3cbv9r_HQdbMO1aMAAy6DN.jpg" width="600" alt="ゲームアセット - 流体スプラッシュを纏ったシネマティックなファンタジーポートレート - Image 1">
+<img src="https://cms-assets.youmind.com/media/1787910194613_obrhko_HQmw-mvXEAAD8E1.jpg" width="600" alt="ゲームアセット - SF 本のシネマティック・ジオラマ - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1787639844557_555q4h_HQdbMO9aMAAOtlc.jpg" width="600" alt="ゲームアセット - 流体スプラッシュを纏ったシネマティックなファンタジーポートレート - Image 2">
+<img src="https://cms-assets.youmind.com/media/1787910194574_lbhl1s_HQmw-m-WMAA3vXO.jpg" width="600" alt="ゲームアセット - SF 本のシネマティック・ジオラマ - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1787639844623_o6zh82_HQdbMO8bUAE4BwP.jpg" width="600" alt="ゲームアセット - 流体スプラッシュを纏ったシネマティックなファンタジーポートレート - Image 3">
+<img src="https://cms-assets.youmind.com/media/1787910194598_u6xloa_HQmw-m1XsAIE_YC.jpg" width="600" alt="ゲームアセット - SF 本のシネマティック・ジオラマ - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1787910195271_kvba8k_HQmw-pWWYAAdxqT.jpg" width="600" alt="ゲームアセット - SF 本のシネマティック・ジオラマ - Image 4">
 </div>
 
 #### 📌 詳細
 
-- **作者:** [Ayushi Srivastava](https://x.com/punkhuri1)
-- **ソース:** [Twitter Post](https://x.com/punkhuri1/status/2091740825734803621)
-- **公開日:** 2026年8月24日
+- **作者:** [Gadgetify](https://x.com/Gdgtify)
+- **ソース:** [Twitter Post](https://x.com/Gdgtify/status/2093007884854378782)
+- **公開日:** 2026年8月27日
 - **言語:** en
 
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32399)**
-
----
-
-### No. 117: ゲームアセット - ハイブリッド 3D ベクターイラストスタイル
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-光沢のある 3D レンダリングとフラットなベクターのシンプルさを融合させた、芸術的なポートレート向けのユニークなスタイルプロンプト。鮮やかな色彩と流れるような有機的要素が特徴です。
-
-#### 📝 プロンプト
-
-```
-プレミアムな 3D ファンタジーイラストの幻想的で光沢のある立体的なレンダリングと、現代的なフラットベクターポートレートのクリーンでエレガントなシンプルさをシームレスに融合させた、洗練された {argument name="subject" default="ハイブリッドな人物ポートレートスタイル"} です。人物の被写体は、認識可能な解剖学的構造、自然な顔の比率、本物の表情、そして明確に識別できる特徴を備えつつ、全体の外観を洗練された様式化されたイラストへと変換してください。顔は、滑らかな立体モデリングと簡略化されたグラフィック面を組み合わせる必要があります。柔らかく彫刻された肌、繊細なボリューム感のあるシェーディング、繊細なハイライト、クリーンな角のある形状、そして慎重に制御されたフラットカラーの領域で構成してください。プレミアムなデジタルキャラクターイラストの視覚言語を使用します。輝く表情豊かな瞳、柔らかくレンダリングされた肌、層状の房を持つ滑らかに流れる髪、磨き上げられたハイライト、穏やかな奥行き、触感のある表面、そして繊細な絵画的グラデーションを取り入れてください。同時に、現代のエディトリアルポートレートイラストにインスパイアされた、エレガントなベクター風の形状、クリーンなシルエット、制御された線画、最小限の視覚的ノイズ、そして明確に定義された色面でレンダリングを簡略化してください。{argument name="artistic elements" default="流れるようなペイントの飛沫、柔らかい液状のリボン、抽象的な有機的形状など、人物の周囲に流れる芸術的な要素"} を統合してください。これらの要素は、背景の装飾としてではなく、ポートレートから有機的に浮かび上がるような、エネルギッシュで立体的な感覚を与える必要があります。髪は、クリーンなグラフィックの塊と、シルクのような立体的な房、そして大きく流れるような形状を組み合わせてください。顔の特徴は、誇張された漫画的な歪みではなく、繊細な幾何学的簡略化によって強化された、洗練された人間らしいものであるべきです。衣服は、抑制された幾何学的なディテールを持つ大胆で簡略化されたシルエットを使用し、エレガントで現代的なファッションイラストの外観を維持してください。カラー処理は、現代のベクターポートレートの温かみのある抑制されたパレットと、{argument name="color scheme" default="幻想的なファンタジーイラストの鮮やかなトロピカルエネルギー"} を融合させてください。温かみのあるコーラル、オレンジ、クリーム、ピーチ、ターコイズ、シアン、スカイブルー、ディープネイビー、エメラルド、レッド、ゴールデンイエロー、そして繊細なラベンダーのアクセントを使用します。主にクリーンで彩度の高い色面を使用し、ソフトなグラデーション、光沢のあるハイライト、半透明のエッジ、そして穏やかなボリューム感のある照明で選択的に強調してください。背景はクリーンで整然とした状態を保ち、できればシンプルな温かみのある単色または柔らかい質感の背景にすることで、人物の被写体と周囲の芸術的な飛沫が主要な焦点となるようにしてください。最終的な美学は、エレガントなエディトリアルベクターポートレート、現代的なデジタルペインティング、幻想的な 3D キャラクターイラスト、プレミアムなファッションアートワーク、そしてカラフルで流動的なファンタジーアートの独創的な融合であると感じられるはずです。クリーンでありながら豊かな立体感を持ち、洗練されていながら遊び心があり、表現力豊かで、磨き上げられ、触感があり、モダンで、芸術的で、視覚的に際立った仕上がりを目指してください。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793135_75pudi_HQZ5lDnbMAAjjNN.jpg" width="600" alt="ゲームアセット - ハイブリッド 3D ベクターイラストスタイル - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793140_0ibsb7_HQZ5lD9bAAApjg8.jpg" width="600" alt="ゲームアセット - ハイブリッド 3D ベクターイラストスタイル - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787552793095_nx9jpa_HQZ5lDlaIAAKtp0.jpg" width="600" alt="ゲームアセット - ハイブリッド 3D ベクターイラストスタイル - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Zayan](https://x.com/HustleXR)
-- **ソース:** [Twitter Post](https://x.com/HustleXR/status/2091492763397411268)
-- **公開日:** 2026年8月23日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32411)**
-
----
-
-### No. 118: ゲームアセット - 夕暮れ時の穏やかな風景とシュールな人物像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-夢のような風景プロンプトを 2 つご紹介します。1 つはパステルカラーの反射が美しい鮮やかな山の湖、もう 1 つは輝く紫の木の下に佇む人物を描いたものです。
-
-#### 📝 プロンプト
-
-```
-遠くの山々に鮮やかで輝く夕日が沈む、穏やかなデジタル風景画です。太陽の光が、{argument name="reflections" default="ピンク、紫、ターコイズのパステルカラーの反射"}を穏やかな湖面に落としています。背の高い松の木が生い茂る 2 つの小さな島が前景を縁取り、全体としてソフトなグラデーションとミニマルな構図が、落ち着いた霞がかった背景の中で静寂で夢のような雰囲気を醸し出しています。
-
-崖の縁で、{argument name="tree details" default="紫に輝く葉"}をつけた大きな木の下に佇む人物を描いたシュールな風景画です。崖の先には夕日に照らされた遠くの山々が広がっています。崖からは魔法のような輝きを放つターコイズブルーの川が流れ落ちています。全体が柔らかなパステルカラーに包まれ、静寂で神秘的な雰囲気を演出しています。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787379851536_v99f1l_HQQ44bQXoAAEdYz.jpg" width="600" alt="ゲームアセット - 夕暮れ時の穏やかな風景とシュールな人物像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787379851506_zj81ft_HQQ46uPW0AAavV9.jpg" width="600" alt="ゲームアセット - 夕暮れ時の穏やかな風景とシュールな人物像 - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Viki](https://x.com/churvikv)
-- **ソース:** [Twitter Post](https://x.com/churvikv/status/2090858753583169966)
-- **公開日:** 2026年8月21日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32186)**
-
----
-
-### No. 119: ゲームアセット - Sydney Sweeney のゲーミングセットアップポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-Sydney Sweeney がパープルにライトアップされた人間工学に基づいたセットアップで映る、プロのゲーミングストリーマー向けポートレートの JSON 形式詳細プロンプト。
-
-#### 📝 プロンプト
-
-```
-{
-  "subject": {
-    "identity": {
-      "biometric_reference": "{argument name="celebrity" default="Sydney Sweeney"}",
-      "facial_structure": "認識可能な柔らかい顔のプロポーション、明るいブルーの瞳、透明なフレームのメガネ、自然で控えめなメイク、ソフトピンクの唇、ダイヤモンドのスタッドピアス",
-      "skin": "色白の肌、滑らかで自然な肌の質感、明確な解剖学的定義、スムージング処理なし"
-    },
-    "hair": {
-      "color": "ブロンド",
-      "style": "清潔感のあるセンターパートの、肩までの長さの洗練されたボブカット",
-      "finish": "柔らかく自然な質感と髪の動き"
-    },
-    "body": {
-      "somatotype": "引き締まったアスリート体型、ウエストと胴体のラインが明確",
-      "precision": "人間工学に基づいたゲーミングチェアに前向きに座り、少し後ろに寄りかかりながら頭を優しく横に傾けている"
-    },
-    "wardrobe": {
-      "apparel": "{argument name="clothing" default="白のリブ編みノースリーブクロップタンクトップ、ダークブルーのドローストリング付きラウンジショーツ"}",
-      "textiles": "トップスはリブ編みのコットンニット、ショーツは柔らかなフリースコットン",
-      "branding_override": "衣服にテキストやロゴはなし",
-      "accessories": "重ね付けしたダイヤモンドのテニスネックレスとゴールドチェーン、手首にゴールドチェーンのブレスレット"
-    },
-    "pose_action": {
-      "posture": "グレーのテクスチャ加工されたゲーミングチェアに快適に座り、腕をアームレストの近くに自然に置き、頭を右に少し傾けている",
-      "expression": "リラックスした、カメラレンズを直接見つめる控えめで魅力的な表情"
-    }
-  },
-  "scene": {
-    "environment": "{argument name="room style" default="モダンなゲーミングセットアップとストリーミングルーム、グレーのファブリック製人間工学ゲーミングチェア"}",
-    "lighting": "鮮やかなパープルの LED アンビエント背景照明と、被写体の顔と上半身を直接照らす柔らかくクリーンなホワイトのキーライトの組み合わせ"
-  },
-  "camera": {
-    "framing": "9:16 の縦長アスペクト比、アイレベルのポートレートショット、被写体とゲーミングチェアのセットアップを中心にしたミディアムクローズアップ",
-    "lens_settings": "35mm レンズ、被写体の顔、メガネの反射、椅子のディテールにシャープなピント、背景は滑らかにボケている",
-    "aesthetic": "ハイエンドなストリーマー向けポートレート写真、鮮やかな色のコントラスト、シャープなディテール、リアルな肌の質感"
-  },
-  "negative_constraints": {
-    "anatomy": "余分な手足、変形した指、余分な指、癒着した指、左右非対称の目、不自然な解剖学的構造は禁止",
-    "rendering": "美肌スムージング、プラスチックのような肌、低品質、顔のぼやけ、ノイズ、圧縮アーティファクトは禁止",
-    "elements": "衣服への不要なテキスト、余分なウォーターマーク、'Pinodi' 以外のロゴは禁止"
-  }
-}
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787120731463_cj0t5w_HQBN45eXcAAtoxR.jpg" width="600" alt="ゲームアセット - Sydney Sweeney のゲーミングセットアップポートレート - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1787120731466_ws5vlb_HQBN6XfWgAA5RQu.jpg" width="600" alt="ゲームアセット - Sydney Sweeney のゲーミングセットアップポートレート - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Pinodi](https://x.com/PinodiArt)
-- **ソース:** [Twitter Post](https://x.com/PinodiArt/status/2089755909845131739)
-- **公開日:** 2026年8月18日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31876)**
-
----
-
-### No. 120: ゲームアセット - 近未来的なクモ型ゲーマーのペルソナ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-アップロードした人物を近未来的なクモをモチーフにしたゲーマーへと変身させる、包括的なキャラクター変換プロンプトです。
-
-#### 📝 プロンプト
-
-```
-アップロードされた人物を、プレミアムなオリジナル {argument name="color scheme" default="黒と深紅"} の近未来的な {argument name="theme" default="クモをモチーフにした"} キャラクターへと、シネマティックなゲーミングルームの環境の中で変換してください。その際、人物の自然な外見と本人と認識できる特徴を維持してください。
-
-【フォーマット固定】
-垂直 3:4 の構図。全身ポートレート。頭から靴まで被写体が完全に収まるようにする。見下ろすようなハイアングルからのシネマティックなカメラワーク。中央配置。プレミアムなエディトリアル風ゲーミングルーム写真。
-
-【アイデンティティ固定】
-アップロードされた画像を唯一のアイデンティティ参照元として使用すること。顔の構造、髪型、肌の色、年齢、体の比率、表情、全体的な認識可能な外見を正確に維持すること。人物の自然な特徴を再設計、誇張、美化、または変更してはならない。
-
-【キャラクターデザイン】
-マットブラックのテクニカルファブリック、深紅のアクセント、クモの構造から着想を得た繊細な幾何学模様、リアルな縫い目、レイヤード素材、控えめな保護パネルを使用した、完全にオリジナルの近未来的タクティカルウェアを作成すること。認識可能なスーパーヒーローのシンボルではない、小さなオリジナルの幾何学的な胸部エンブレムを追加すること。既存の映画、コミック、ゲームのコスチュームとは完全に一線を画す、プレミアムな近未来ファッションテックのようなデザインにすること。
-
-【環境】
-チャコールグレーのインテリア、深紅の LED 照明、ゲーミングデスク、RGB キーボードとマウス、抽象的な赤い幾何学模様が表示された大型モニター、ゲーミングチェア、ミニマルなベッド、コレクション棚、温かみのある実用的な照明、ダークウッドの床を備えた、プレミアムでモダンなゲーミングベッドルーム。環境は洗練され、清潔で、シネマティックかつ整理された状態を保つこと。
-
-【ポーズ】
-被写体は中央に自然に立つ。片手は衣装のポケットに自然に入れ、もう片方の手にはゲームコントローラーを持つ。カメラと直接目を合わせる。落ち着いた自信に満ちた表情。自然な姿勢、リラックスした肩、説得力のある解剖学的構造、リアルな手の配置。
-
-【カメラ】
-見下ろすようなハイアングルからのシネマティックな視点。ゲーミングルームの様子が伝わるよう、周囲の環境を含めた全身フレーミング。自然なレンズのパースペクティブ。リアルな被写界深度。被写体が常に主要な焦点となるようにすること。
-
-【照明とスタイル】
-柔らかなシネマティックなキーライト。深くコントロールされた影。繊細な深紅の環境光。自然な肌の色合い。柔らかなリムライト。リアルな生地の反射。柔らかなボリューム感のある雰囲気。プレミアムなエディトリアル風のカラーグレーディング。フォトリアルなファッション写真。極めて詳細なテクスチャ。シャープな顔のディテール。リアルな素材感。ハイエンドなシネマティック・ゲーミングキャンペーンの美学。超高精細な 8K クオリティ。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786774867558_66snrz_HPskDdrW0AA1KBB.jpg" width="600" alt="ゲームアセット - 近未来的なクモ型ゲーマーのペルソナ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1786774867607_5l7ubd_HPskDdUWgAAbE8D.jpg" width="600" alt="ゲームアセット - 近未来的なクモ型ゲーマーのペルソナ - Image 2">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [H A J R A](https://x.com/codewithhajra)
-- **ソース:** [Twitter Post](https://x.com/codewithhajra/status/2088302551531741484)
-- **公開日:** 2026年8月14日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=31469)**
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=32744)**
 
 ---
 
@@ -5805,7 +5772,7 @@ Sydney Sweeney がパープルにライトアップされた人間工学に基�
 
 <div align="center">
 
-### 🎯 15303 さらに多くのプロンプトがあります
+### 🎯 15330 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -5868,6 +5835,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-08-31T08:04:42.888Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-09-01T08:03:45.015Z</sub>
 
 </div>
