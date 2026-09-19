@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15661** |
+| 📝 プロンプト総数 | **15662** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年9月18日金曜日 8:03:38 UTC** |
+| 🔄 最終更新 | **2026年9月19日土曜日 8:03:16 UTC** |
 
 </div>
 
@@ -654,7 +654,40 @@ Grok からの検索結果
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: プロフィール / アバター - フード付きパーカーを着た少年の参考画像プロンプト
+### No. 1: プロフィール / アバター - シネマティック・ポートレート復元プロンプト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+Nano Banana Pro を使用し、古いまたは破損したポートレートを暖かい照明とリアルな肌質感を備えた高解像度シネマティック画像に復元するためのプロンプトです。
+
+#### 📝 プロンプト
+
+```
+シネマティック・ポートレート復元。元のポーズ、表情、構図を厳密に保持してください。黄金時間の暖かいサイドライトを追加し、背後の壁に明確でドラマチックな影を落とします。Ultra-HD にアップスケール：ディテールをシャープにし、リアルな肌質感を強調し、ノイズを低減します。ムード：神秘的、ハイコントラスト、暖かいハイライト、深いシャドウ、フォトリアリスティック。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789799323277_u9t7fy_HSfFbJpaYAA7Iok.jpg" width="600" alt="プロフィール / アバター - シネマティック・ポートレート復元プロンプト - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Tensor](https://x.com/QAiStudio)
+- **ソース:** [Twitter Post](https://x.com/QAiStudio/status/2100864827401150811)
+- **公開日:** 2026年9月18日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=35001)**
+
+---
+
+### No. 2: プロフィール / アバター - フード付きパーカーを着た少年の参考画像プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -673,7 +706,7 @@ Grok からの検索結果
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789713174987_6z4mtn_HSeB3nCaAAAN7ig.jpg" width="600" alt="プロフィール / アバター - フード付きパーカーを着た少年の参考画像プロンプト - Image 1">
+<img src="https://cms-assets.youmind.com/media/1789799324473_cop5ao_HSeB3nCaAAAN7ig.jpg" width="600" alt="プロフィール / アバター - フード付きパーカーを着た少年の参考画像プロンプト - Image 1">
 </div>
 
 #### 📌 詳細
@@ -687,7 +720,7 @@ Grok からの検索結果
 
 ---
 
-### No. 2: プロフィール / アバター - Nano Banana Pro 用スタジオポートレートプロンプト
+### No. 3: プロフィール / アバター - Nano Banana Pro 用スタジオポートレートプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -721,7 +754,41 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 3: プロフィール / アバター - Nano Banana Pro用 セミリアルデジタル油絵プロンプト
+### No. 4: プロフィール / アバター - 超リアルなインド人女性のポートレート
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+ファッション写真スタイルの、スタイリッシュな若いインド人女性の超リアルなコラージュ・ポートレートを生成するための詳細プロンプト。
+
+#### 📝 プロンプト
+
+```
+URE 超リアルなコラージュ・ポートレート、スタイリッシュな若いインド人女性、ブラウンサテンシャツ、ベージュのワイドレッグパンツ、ホワイトプラットフォームサンダル、長いストレートの黒髪、穏やかな笑顔、全身立ちポーズ、背景パネルにはモノクロの candid クローズアップでサングラスを着用、モダンな.. ソフトな自然光、ミニマルなベージュテーマ、高解像度、8K ファッション写真 "{argument name=\"signature_name\" default=\"Hania\"}" 左側に署名。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789799324737_qp2t2r_HSaZYoLbEAAQ72o.jpg" width="600" alt="プロフィール / アバター - 超リアルなインド人女性のポートレート - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [Sahil Verma](https://x.com/sahilvermaai)
+- **ソース:** [Twitter Post](https://x.com/sahilvermaai/status/2100534942220399058)
+- **公開日:** 2026年9月17日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34923)**
+
+---
+
+### No. 5: プロフィール / アバター - Nano Banana Pro用 セミリアルデジタル油絵プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -771,7 +838,7 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 4: プロフィール / アバター - Nano Banana Pro 用 クラシックアカデミック油絵スタイル プロンプト
+### No. 6: プロフィール / アバター - Nano Banana Pro 用 クラシックアカデミック油絵スタイル プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -816,7 +883,7 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 5: プロフィール / アバター - 遊び心のあるセルフィーポートレート用プロンプト
+### No. 7: プロフィール / アバター - 遊び心のあるセルフィーポートレート用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -849,7 +916,7 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 6: プロフィール / アバター - 廊下での女性の写実的なシネマティックポートレート
+### No. 8: プロフィール / アバター - 廊下での女性の写実的なシネマティックポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -888,7 +955,7 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 7: プロフィール / アバター - ギャラリーで優雅なポートレート
+### No. 9: プロフィール / アバター - ギャラリーで優雅なポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -921,7 +988,7 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 8: プロフィール / アバター - シネマティック・エディトリアル・ポートレート
+### No. 10: プロフィール / アバター - シネマティック・エディトリアル・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -966,7 +1033,7 @@ Nano Banana Pro などのモデルで image-to-image 生成を使用する際に
 
 ---
 
-### No. 9: プロフィール / アバター - 南アジアの女性 シュルワ・カメーズ
+### No. 11: プロフィール / アバター - 南アジアの女性 シュルワ・カメーズ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -999,7 +1066,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 10: プロフィール / アバター - 秋の花束を手にしたポートレート
+### No. 12: プロフィール / アバター - 秋の花束を手にしたポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1054,7 +1121,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 11: プロフィール / アバター - 赤い背景のストリートウェア・ポートレート
+### No. 13: プロフィール / アバター - 赤い背景のストリートウェア・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1088,7 +1155,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 12: プロフィール / アバター - 嵐の海の桟橋でのシネマティックなポートレート
+### No. 14: プロフィール / アバター - 嵐の海の桟橋でのシネマティックなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1122,7 +1189,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 13: プロフィール / アバター - ラグジュアリーファッション誌風セルフポートレート
+### No. 15: プロフィール / アバター - ラグジュアリーファッション誌風セルフポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1174,7 +1241,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 14: プロフィール / アバター - 猫と一緒の夜のポートレート（フラッシュ撮影）
+### No. 16: プロフィール / アバター - 猫と一緒の夜のポートレート（フラッシュ撮影）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1208,7 +1275,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 15: プロフィール / アバター - ジムでの自撮りフィットネスエディトリアル
+### No. 17: プロフィール / アバター - ジムでの自撮りフィットネスエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1241,7 +1308,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 16: プロフィール / アバター - 窓辺の光に包まれたエディトリアル・ポートレート
+### No. 18: プロフィール / アバター - 窓辺の光に包まれたエディトリアル・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1315,7 +1382,7 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 
 ---
 
-### No. 17: プロフィール / アバター - 本人確認を維持したプレミアムなフォーマルウェア・ポートレート
+### No. 19: プロフィール / アバター - 本人確認を維持したプレミアムなフォーマルウェア・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1382,98 +1449,6 @@ intricately golden embroidery and delicate sequin detailing, matching sheer dupa
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34301)**
-
----
-
-### No. 18: プロフィール / アバター - エングレービング（彫版）デジタルペインティングスタイル
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-セミリアルなデジタルペインティングと伝統的なエングレービング技法を融合させ、温かみのあるシネマティックな照明で独特の質感を表現する複雑なプロンプトです。
-
-#### 📝 プロンプト
-
-```
-柔らかな {argument name="painting style" default="セミリアルなデジタルペインティング"} と、極めて詳細なエングレービング（彫版）イラストスタイルを融合。絵画的な柔らかさと、超微細なクロスハッチングや点描技法を組み合わせました。被写体の片側を照らす力強い黄金色のオレンジの輝きと、柔らかな寒色の影が対比を成すシネマティックな温かい照明で、ドラマチックな明暗法（キアロスクーロ）を強調しています。肌や質感は、滑らかで光沢のあるデジタルシェーディングと、緻密に重ねられたエングレービングの線が融合することで、柔らかなグラデーションと複雑な線画のバランスを生み出しています。繊細な光沢のあるハイライトと反射面は保持されており、特に瞳には生き生きとした輝きが宿ります。柔らかな筆致による絵画的なブレンドが残る一方で、正確な輪郭線や微細なエッチングとシームレスに統合され、数千もの繊細なストロークから成る豊かな質感を形成しています。エッジは自然に変化し、焦点部分はシャープでクリーンに、未完成部分はラフなスケッチ風のストロークへと溶け込んでいきます。頭頂部と下半身は、柔らかな消失線と部分的に溶け出したフォルムによって、背景へと消え入るような未完成のスケッチ効果を生み出しています。背景には {argument name="background material" default="質感のある茶色の段ボール"} を使用し、マットな粒状感とわずかに粗い触感を表現。スタジオのような暗く雰囲気のある奥行きと微妙に融合させています。構図はミニマルでエレガント、穏やかでありながらドラマチックなムードを演出。カラーグレーディングは温かみのある自然な色調に傾け、わずかに彩度を抑えたフェード感のあるパレットを採用することで、デジタルペインティングの温かさとクラシックなエングレービングの美学の調和を保っています。深い黒と制御されたハイライトによる高コントラストな照明が奥行きを強調しつつ、主要部分では柔らかな階調を維持。超高精細、マクロな質感の強調、シネマティックな影の深み、美術館品質の仕上がり、手彫りのようなエングレービングの感触、8K 解像度。アスペクト比 9:16！
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272371_zflqyh_HR1GrB1aQAETXtM.jpg" width="600" alt="プロフィール / アバター - エングレービング（彫版）デジタルペインティングスタイル - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272360_vnwfw6_HR1Gr99WUAMR5kZ.jpg" width="600" alt="プロフィール / アバター - エングレービング（彫版）デジタルペインティングスタイル - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789022272294_vn5rz4_HR1GszOaUAA7t04.jpg" width="600" alt="プロフィール / アバター - エングレービング（彫版）デジタルペインティングスタイル - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Zayan](https://x.com/HustleXR)
-- **ソース:** [Twitter Post](https://x.com/HustleXR/status/2097910747980255291)
-- **公開日:** 2026年9月10日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34124)**
-
----
-
-### No. 19: プロフィール / アバター - 座る女性の油絵
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-フランス風のアームチェアで物思いにふける女性のファインアート油絵を生成します。
-
-#### 📝 プロンプト
-
-```
-装飾が施された {argument name="armchair style" default="水色のフランス風アームチェア"} に座る {argument name="subject" default="若い女性"} のミディアムフルショット。金色の塗料と古びた質感が際立っています。彼女はボリュームのある {argument name="fabric" default="クリーム色の布地"} をガウンやカバーのように纏っており、柔らかく描かれたドレープが特徴です。裸足で足を組み、手を組んで片手に頭を乗せ、物思いにふけっています。視線は右側のフレーム外に向けられています。ダークカラーの髪はルーズにまとめられています。柔らかく、思慮深く、どこか憂いを帯びた表情。窓から差し込むような温かみのある黄金色の自然光が、彼女の顔、布地、そして椅子を照らし出し、暗く質感のあるチャコールブルーに近い背景と対比をなしています。ファインアート油絵、伝統的な技法、写実的なディテール、柔らかな光、深い影、情緒的な雰囲気。レンブラントやサージェントのような巨匠のスタイル。高精細。高解像度。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789108567344_ojz6wq_HR0-araagAAyQK_.jpg" width="600" alt="プロフィール / アバター - 座る女性の油絵 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789108565830_jhz003_HR0-arZboAAlCC2.jpg" width="600" alt="プロフィール / アバター - 座る女性の油絵 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789108567330_jreae0_HR0-arcaQAAPqtr.jpg" width="600" alt="プロフィール / アバター - 座る女性の油絵 - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Ayushi Srivastava](https://x.com/punkhuri1)
-- **ソース:** [Twitter Post](https://x.com/punkhuri1/status/2097901637583196347)
-- **公開日:** 2026年9月10日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34121)**
 
 ---
 
@@ -1560,41 +1535,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: ソーシャルメディア投稿 - 超リアルなインド人女性のポートレート
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 説明
-
-ファッション写真スタイルの、スタイリッシュな若いインド人女性の超リアルなコラージュ・ポートレートを生成するための詳細プロンプト。
-
-#### 📝 プロンプト
-
-```
-URE 超リアルなコラージュ・ポートレート、スタイリッシュな若いインド人女性、ブラウンサテンシャツ、ベージュのワイドレッグパンツ、ホワイトプラットフォームサンダル、長いストレートの黒髪、穏やかな笑顔、全身立ちポーズ、背景パネルにはモノクロの candid クローズアップでサングラスを着用、モダンな.. ソフトな自然光、ミニマルなベージュテーマ、高解像度、8K ファッション写真 "{argument name=\"signature_name\" default=\"Hania\"}" 左側に署名。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789713176373_0h6by0_HSaZYoLbEAAQ72o.jpg" width="600" alt="ソーシャルメディア投稿 - 超リアルなインド人女性のポートレート - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Hania](https://x.com/Techbyhani)
-- **ソース:** [Twitter Post](https://x.com/Techbyhani/status/2100534942220399058)
-- **公開日:** 2026年9月17日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34923)**
-
----
-
-### No. 23: ソーシャルメディア投稿 - 画像生成モデル向けシネマティックな車写真プロンプト
+### No. 22: ソーシャルメディア投稿 - 画像生成モデル向けシネマティックな車写真プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1631,7 +1572,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 24: ソーシャルメディア投稿 - 香港ウェディングスナッププロンプト
+### No. 23: ソーシャルメディア投稿 - 香港ウェディングスナッププロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1689,7 +1630,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 25: ソーシャルメディア投稿 - ミリー・ボビー・ブラウン風ポートレートのRawスタイル用プロンプト
+### No. 24: ソーシャルメディア投稿 - ミリー・ボビー・ブラウン風ポートレートのRawスタイル用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1738,7 +1679,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 26: ソーシャルメディア投稿 - Nano Banana Pro 用スパイダーマン風エディトリアル・コラージュプロンプト
+### No. 25: ソーシャルメディア投稿 - Nano Banana Pro 用スパイダーマン風エディトリアル・コラージュプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1781,7 +1722,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 27: ソーシャルメディア投稿 - ボタニカル・シュルレアリスム プロンプト
+### No. 26: ソーシャルメディア投稿 - ボタニカル・シュルレアリスム プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1906,7 +1847,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 28: ソーシャルメディア投稿 - Nano Banana Pro 用：高級車と夕暮れのシネマティックシーンプロンプト
+### No. 27: ソーシャルメディア投稿 - Nano Banana Pro 用：高級車と夕暮れのシネマティックシーンプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1939,7 +1880,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 29: ソーシャルメディア投稿 - ダークスタジオポートレートプロンプト
+### No. 28: ソーシャルメディア投稿 - ダークスタジオポートレートプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2004,7 +1945,7 @@ URE 超リアルなコラージュ・ポートレート、スタイリッシュ�
 
 ---
 
-### No. 30: ソーシャルメディア投稿 - 路上理髪店のドキュメンタリー写真
+### No. 29: ソーシャルメディア投稿 - 路上理髪店のドキュメンタリー写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2037,7 +1978,7 @@ Nano Banana Pro を使用して、路地裏の理髪店で髪を切る床屋を�
 
 ---
 
-### No. 31: ソーシャルメディア投稿 - ストリート candid フォト プロンプト
+### No. 30: ソーシャルメディア投稿 - ストリート candid フォト プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2070,106 +2011,7 @@ Nano Banana Pro を使用して、路地裏の理髪店で髪を切る床屋を�
 
 ---
 
-### No. 32: ソーシャルメディア投稿 - Anya Taylor Joy Cosmic Threshold Prompt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-Structured JSON prompt for generating a surreal, hyper-realistic portrait of Anya Taylor Joy with cosmic elements.
-
-#### 📝 プロンプト
-
-```
-{
-  "vibe_title_en": "The Apathetic Elegance at the Cosmic Threshold Above Clouds",
-  "master_prompt": "A hyper-realistic voyeuristic portrait of The Protagonist exuding haute apathy. Shot through heavily occluding foreground elements of out-of-focus physical dry-ice clouds and weathered teal wooden shutters, creating an intimate, unposed glimpse from a distance. The subject stands center-frame in the threshold, facing the camera with a deadpan, neutral expression, heavy relaxed eyelids, and a limp but chic posture, wearing a loose off-the-shoulder white raw silk drape. Behind them, an impossible practical-effect cosmic void swirls with deep purple and blue fiber-optic lights. High-key, pristine studio lighting illuminates the subject's flawless, pore-detailed skin, contrasting with the surreal, tactile background. Hasselblad H6D-100c, 200mm telephoto lens, f/2.8, Kodak Portra 400 film stock, authentic cinematic film grain. NO NEON.",
-  "meta": {
-    "intent": "Create a surreal, aspirational editorial template blending haute apathy with a practical-effect cosmic threshold.",
-    "priorities": "High-key skin perfection, heavy foreground occlusion, and tactile surrealism.",
-    "device_profile": "Hasselblad Medium Format"
-  },
-  "frame": {
-    "aspect": "4:5",
-    "composition": "Centered subject framed within a doorway, layered through extreme foreground occlusion.",
-    "layout": "Foreground clouds/shutters, midground subject in threshold, background cosmic fiber-optic void.",
-    "camera_angle": "Straight-on, voyeuristic distance.",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist",
-    "demographics": "Ageless, high-fashion features",
-    "face": "Flawless finish, deadpan, heavy relaxed eyelids.",
-    "hair": "Pulled back smoothly, sleek and out of the face.",
-    "body": "Limp but chic, slumped shoulders, effortless posture.",
-    "expression": "Haute apathy, detached elegance.",
-    "pose": "Standing effortlessly in the threshold, facing forward, slight lean against the doorframe."
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Off-the-shoulder draped tunic",
-        "material": "Raw silk",
-        "color": "Crisp white",
-        "fit": "Loose, effortless"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Minimalist stud earring",
-        "color": "Silver",
-        "material": "Sterling silver",
-        "brand_style": "Avant-garde minimal"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "A freestanding, weathered teal wooden doorway floating amidst dense, practical dry-ice clouds.",
-    "surfaces": "Peeling teal paint on wood, dense matte clouds, glossy fiber-optic cosmic background.",
-    "depth": "Extreme depth via 200mm lens compression, blending blurry foreground with a sharp midground.",
-    "atmosphere": "Ethereal, silent, cosmic yet grounded by highly tactile materials.",
-    "lens_inte
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789540499342_2bjlyw_HSRXD9oXgAAW2bK.jpg" width="600" alt="ソーシャルメディア投稿 - Anya Taylor Joy Cosmic Threshold Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789540499287_tw0a7x_HSRXD7rXgAAzRJH.jpg" width="600" alt="ソーシャルメディア投稿 - Anya Taylor Joy Cosmic Threshold Prompt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789540499291_2hla8g_HSRXD-dWUAAMBIt.jpg" width="600" alt="ソーシャルメディア投稿 - Anya Taylor Joy Cosmic Threshold Prompt - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1789540500141_m2cutl_HSRXEA-WsAALksZ.jpg" width="600" alt="ソーシャルメディア投稿 - Anya Taylor Joy Cosmic Threshold Prompt - Image 4">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2099899056847720822)
-- **公開日:** 2026年9月15日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34752)**
-
----
-
-### No. 33: インフォグラフィック / 教育ビジュアル - 手書きメモ風レシピイラスト
+### No. 31: インフォグラフィック / 教育ビジュアル - 手書きメモ風レシピイラスト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2231,7 +2073,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 34: インフォグラフィック / 教育ビジュアル - 手書き風 3 ステッププロセス Slides
+### No. 32: インフォグラフィック / 教育ビジュアル - 手書き風 3 ステッププロセス Slides
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2297,7 +2139,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 35: インフォグラフィック / 教育ビジュアル - ヴィンテージな英国風風刺画
+### No. 33: インフォグラフィック / 教育ビジュアル - ヴィンテージな英国風風刺画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2330,7 +2172,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 36: インフォグラフィック / 教育ビジュアル - 企業収益レポートのインフォグラフィック
+### No. 34: インフォグラフィック / 教育ビジュアル - 企業収益レポートのインフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2364,7 +2206,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 37: インフォグラフィック / 教育ビジュアル - ヴィンテージ・トラベルジャーナル風エディトリアル・コラージュ
+### No. 35: インフォグラフィック / 教育ビジュアル - ヴィンテージ・トラベルジャーナル風エディトリアル・コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2397,7 +2239,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 38: インフォグラフィック / 教育ビジュアル - エディトリアル・クッキング・ストーリーボード・レイアウト
+### No. 36: インフォグラフィック / 教育ビジュアル - エディトリアル・クッキング・ストーリーボード・レイアウト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2435,7 +2277,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 39: インフォグラフィック / 教育ビジュアル - ヴィンテージ・トラベルジャーナル・コラージュ
+### No. 37: インフォグラフィック / 教育ビジュアル - ヴィンテージ・トラベルジャーナル・コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2487,7 +2329,7 @@ Structured JSON prompt for generating a surreal, hyper-realistic portrait of Any
 
 ---
 
-### No. 40: インフォグラフィック / 教育ビジュアル - 地域文化アトラスポスター
+### No. 38: インフォグラフィック / 教育ビジュアル - 地域文化アトラスポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2567,7 +2409,7 @@ GRAPHIC_SYSTEM := ちぎり紙、印刷されたグリッド、落ち着いた�
 
 ---
 
-### No. 41: インフォグラフィック / 教育ビジュアル - 遊び心あふれる塗り絵用イラスト
+### No. 39: インフォグラフィック / 教育ビジュアル - 遊び心あふれる塗り絵用イラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2601,7 +2443,7 @@ GRAPHIC_SYSTEM := ちぎり紙、印刷されたグリッド、落ち着いた�
 
 ---
 
-### No. 42: インフォグラフィック / 教育ビジュアル - プロフェッショナルなビーフタコスの商品撮影
+### No. 40: インフォグラフィック / 教育ビジュアル - プロフェッショナルなビーフタコスの商品撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2634,7 +2476,7 @@ GRAPHIC_SYSTEM := ちぎり紙、印刷されたグリッド、落ち着いた�
 
 ---
 
-### No. 43: インフォグラフィック / 教育ビジュアル - Milkshake 製品インフォグラフィック
+### No. 41: インフォグラフィック / 教育ビジュアル - Milkshake 製品インフォグラフィック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2667,7 +2509,7 @@ GRAPHIC_SYSTEM := ちぎり紙、印刷されたグリッド、落ち着いた�
 
 ---
 
-### No. 44: インフォグラフィック / 教育ビジュアル - ヨーロッパハムスターの野生動物写真
+### No. 42: インフォグラフィック / 教育ビジュアル - ヨーロッパハムスターの野生動物写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2701,7 +2543,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 45: インフォグラフィック / 教育ビジュアル - ドードー鳥のリアルなイラスト
+### No. 43: インフォグラフィック / 教育ビジュアル - ドードー鳥のリアルなイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2735,7 +2577,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 46: インフォグラフィック / 教育ビジュアル - 人間工学オフィスチェア向け E コマース用モバイル詳細ページ
+### No. 44: インフォグラフィック / 教育ビジュアル - 人間工学オフィスチェア向け E コマース用モバイル詳細ページ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2769,7 +2611,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 47: インフォグラフィック / 教育ビジュアル - ミニチュア・ポップアップブック・ジオラマ
+### No. 45: インフォグラフィック / 教育ビジュアル - ミニチュア・ポップアップブック・ジオラマ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2803,7 +2645,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 48: YouTube サムネイル - テキストオーバーレイ付き YouTube サムネイルデザインプロンプト
+### No. 46: YouTube サムネイル - テキストオーバーレイ付き YouTube サムネイルデザインプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2839,7 +2681,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 49: YouTube サムネイル - 嵐の中の崩落する橋と蒸気機関車
+### No. 47: YouTube サムネイル - 嵐の中の崩落する橋と蒸気機関車
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2879,7 +2721,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 50: YouTube サムネイル - 損傷した宇宙船に乗る宇宙飛行士のシネマティックな光景
+### No. 48: YouTube サムネイル - 損傷した宇宙船に乗る宇宙飛行士のシネマティックな光景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2928,7 +2770,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 51: YouTube サムネイル - 二重露光のバイクと夕日のポートレート
+### No. 49: YouTube サムネイル - 二重露光のバイクと夕日のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2962,7 +2804,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 52: YouTube サムネイル - 高精細ポートレート変換
+### No. 50: YouTube サムネイル - 高精細ポートレート変換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2996,7 +2838,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 53: YouTube サムネイル - プレミアム・ダークファンタジー・アニメ・シネマティック
+### No. 51: YouTube サムネイル - プレミアム・ダークファンタジー・アニメ・シネマティック
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3030,7 +2872,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 54: YouTube サムネイル - 甲子園野球中継のスクリーンショット
+### No. 52: YouTube サムネイル - 甲子園野球中継のスクリーンショット
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3064,7 +2906,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 55: YouTube サムネイル - タイポグラフィック・エマージェンス映画ポスターグリッド
+### No. 53: YouTube サムネイル - タイポグラフィック・エマージェンス映画ポスターグリッド
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3098,7 +2940,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 56: YouTube サムネイル - SF 風コーヒーメーカーのボス戦
+### No. 54: YouTube サムネイル - SF 風コーヒーメーカーのボス戦
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3132,7 +2974,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 57: YouTube サムネイル - ヴェネツィアに現れた超現実的な巨大な女性
+### No. 55: YouTube サムネイル - ヴェネツィアに現れた超現実的な巨大な女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3166,7 +3008,7 @@ Nano Banana 2 向けに設計された、野原で食事をするヨーロッパ
 
 ---
 
-### No. 58: YouTube サムネイル - 映画のようなスポーツドキュメンタリーのキービジュアル
+### No. 56: YouTube サムネイル - 映画のようなスポーツドキュメンタリーのキービジュアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3200,7 +3042,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 59: YouTube サムネイル - 雄大な象の雲のフォトグラフィー
+### No. 57: YouTube サムネイル - 雄大な象の雲のフォトグラフィー
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3244,7 +3086,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 60: YouTube サムネイル - アニメ風鉄道駅への変換
+### No. 58: YouTube サムネイル - アニメ風鉄道駅への変換
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3278,7 +3120,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 61: YouTube サムネイル - ミスター・ビーンとミニ・クーパーのハチャメチャなドライブ
+### No. 59: YouTube サムネイル - ミスター・ビーンとミニ・クーパーのハチャメチャなドライブ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3332,7 +3174,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 62: YouTube サムネイル - シネマティックな月夜の屋上ポートレートコラージュ
+### No. 60: YouTube サムネイル - シネマティックな月夜の屋上ポートレートコラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3372,7 +3214,7 @@ do this for {argument name="event" default="2026 年アルゼンチン・ワー�
 
 ---
 
-### No. 63: YouTube サムネイル - ストリートグラマーなケーキナイフのポートレート
+### No. 61: YouTube サムネイル - ストリートグラマーなケーキナイフのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3406,7 +3248,7 @@ Balenciaga スタイルの服を着た女性がカーペットの上でケーキ
 
 ---
 
-### No. 64: YouTube サムネイル - シネマティックな自警団のグラフィックポスター
+### No. 62: YouTube サムネイル - シネマティックな自警団のグラフィックポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3457,7 +3299,7 @@ Balenciaga スタイルの服を着た女性がカーペットの上でケーキ
 
 ---
 
-### No. 65: YouTube サムネイル - バスケットボールアリーナの放送風ポートレート
+### No. 63: YouTube サムネイル - バスケットボールアリーナの放送風ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3493,7 +3335,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 66: YouTube サムネイル - NBA 放送のスタジアムスクリーンショット
+### No. 64: YouTube サムネイル - NBA 放送のスタジアムスクリーンショット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3527,7 +3369,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 67: コミック / ストーリーボード - モダンコミックブックイラストレーションスタイルプロンプト
+### No. 65: コミック / ストーリーボード - モダンコミックブックイラストレーションスタイルプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3578,7 +3420,7 @@ usw image1 をメインのアイデンティティアンカーとして使用
 
 ---
 
-### No. 68: コミック / ストーリーボード - サイバーパンク探偵の映画スチール
+### No. 66: コミック / ストーリーボード - サイバーパンク探偵の映画スチール
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3691,7 +3533,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 69: コミック / ストーリーボード - モノクロインク ボールペン ジン ポスター
+### No. 67: コミック / ストーリーボード - モノクロインク ボールペン ジン ポスター
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3731,7 +3573,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 70: コミック / ストーリーボード - 80 歳のハリー・ポッターと冬の情景
+### No. 68: コミック / ストーリーボード - 80 歳のハリー・ポッターと冬の情景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3784,7 +3626,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 71: コミック / ストーリーボード - カートゥーンモンスターのラットロッド・ドラッグレース
+### No. 69: コミック / ストーリーボード - カートゥーンモンスターのラットロッド・ドラッグレース
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3818,7 +3660,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 72: コミック / ストーリーボード - 精巧な詩的ドラゴンのファンタジーテキスト
+### No. 70: コミック / ストーリーボード - 精巧な詩的ドラゴンのファンタジーテキスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3916,7 +3758,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 73: コミック / ストーリーボード - スタイリッシュな格闘アニメ少女
+### No. 71: コミック / ストーリーボード - スタイリッシュな格闘アニメ少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3949,7 +3791,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 74: コミック / ストーリーボード - メープルシロップの CM 用絵コンテ
+### No. 72: コミック / ストーリーボード - メープルシロップの CM 用絵コンテ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4027,7 +3869,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 75: コミック / ストーリーボード - クレイアニメ風のカメレオンと森
+### No. 73: コミック / ストーリーボード - クレイアニメ風のカメレオンと森
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4061,7 +3903,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 76: コミック / ストーリーボード - ストロベリー チーズケーキ アイスクリームのストーリーボード
+### No. 74: コミック / ストーリーボード - ストロベリー チーズケーキ アイスクリームのストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4141,7 +3983,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 77: コミック / ストーリーボード - ギリシャヨーグルトの CM 用絵コンテ
+### No. 75: コミック / ストーリーボード - ギリシャヨーグルトの CM 用絵コンテ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4210,7 +4052,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 78: コミック / ストーリーボード - シネマティック 2D アニメイラスト
+### No. 76: コミック / ストーリーボード - シネマティック 2D アニメイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4256,7 +4098,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 79: コミック / ストーリーボード - 雨の夜のシネマティックな車内ポートレート
+### No. 77: コミック / ストーリーボード - 雨の夜のシネマティックな車内ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4289,7 +4131,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 80: コミック / ストーリーボード - プレミアムヨーグルト CM 用ストーリーボード
+### No. 78: コミック / ストーリーボード - プレミアムヨーグルト CM 用ストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4367,7 +4209,7 @@ Nano Banana Pro 向けの JSON 形式で構成された、雨の降る近未来�
 
 ---
 
-### No. 81: コミック / ストーリーボード - 家族の夕食のシネマティック・コンタクトシート
+### No. 79: コミック / ストーリーボード - 家族の夕食のシネマティック・コンタクトシート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4473,7 +4315,7 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 82: コミック / ストーリーボード - 灯台守のストーリーボード
+### No. 80: コミック / ストーリーボード - 灯台守のストーリーボード
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4543,7 +4385,7 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 83: コミック / ストーリーボード - スケッチ風のポートレートイラスト
+### No. 81: コミック / ストーリーボード - スケッチ風のポートレートイラスト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4577,7 +4419,7 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 84: コミック / ストーリーボード - 幻想的な滝のファンタジーポートレート
+### No. 82: コミック / ストーリーボード - 幻想的な滝のファンタジーポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4611,7 +4453,7 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 85: プロダクトマーケティング - 超リアルな産業技術者写真プロンプト
+### No. 83: プロダクトマーケティング - 超リアルな産業技術者写真プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4683,7 +4525,106 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 86: プロダクトマーケティング - 高級ファッション・エディトリアル・ポートレート
+### No. 84: プロダクトマーケティング - Anya Taylor Joy Cosmic Threshold Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 説明
+
+Structured JSON prompt for generating a surreal, hyper-realistic portrait of Anya Taylor Joy with cosmic elements.
+
+#### 📝 プロンプト
+
+```
+{
+  "vibe_title_en": "The Apathetic Elegance at the Cosmic Threshold Above Clouds",
+  "master_prompt": "A hyper-realistic voyeuristic portrait of The Protagonist exuding haute apathy. Shot through heavily occluding foreground elements of out-of-focus physical dry-ice clouds and weathered teal wooden shutters, creating an intimate, unposed glimpse from a distance. The subject stands center-frame in the threshold, facing the camera with a deadpan, neutral expression, heavy relaxed eyelids, and a limp but chic posture, wearing a loose off-the-shoulder white raw silk drape. Behind them, an impossible practical-effect cosmic void swirls with deep purple and blue fiber-optic lights. High-key, pristine studio lighting illuminates the subject's flawless, pore-detailed skin, contrasting with the surreal, tactile background. Hasselblad H6D-100c, 200mm telephoto lens, f/2.8, Kodak Portra 400 film stock, authentic cinematic film grain. NO NEON.",
+  "meta": {
+    "intent": "Create a surreal, aspirational editorial template blending haute apathy with a practical-effect cosmic threshold.",
+    "priorities": "High-key skin perfection, heavy foreground occlusion, and tactile surrealism.",
+    "device_profile": "Hasselblad Medium Format"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Centered subject framed within a doorway, layered through extreme foreground occlusion.",
+    "layout": "Foreground clouds/shutters, midground subject in threshold, background cosmic fiber-optic void.",
+    "camera_angle": "Straight-on, voyeuristic distance.",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Protagonist",
+    "demographics": "Ageless, high-fashion features",
+    "face": "Flawless finish, deadpan, heavy relaxed eyelids.",
+    "hair": "Pulled back smoothly, sleek and out of the face.",
+    "body": "Limp but chic, slumped shoulders, effortless posture.",
+    "expression": "Haute apathy, detached elegance.",
+    "pose": "Standing effortlessly in the threshold, facing forward, slight lean against the doorframe."
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Off-the-shoulder draped tunic",
+        "material": "Raw silk",
+        "color": "Crisp white",
+        "fit": "Loose, effortless"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Minimalist stud earring",
+        "color": "Silver",
+        "material": "Sterling silver",
+        "brand_style": "Avant-garde minimal"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "A freestanding, weathered teal wooden doorway floating amidst dense, practical dry-ice clouds.",
+    "surfaces": "Peeling teal paint on wood, dense matte clouds, glossy fiber-optic cosmic background.",
+    "depth": "Extreme depth via 200mm lens compression, blending blurry foreground with a sharp midground.",
+    "atmosphere": "Ethereal, silent, cosmic yet grounded by highly tactile materials.",
+    "lens_inte
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789540499342_2bjlyw_HSRXD9oXgAAW2bK.jpg" width="600" alt="プロダクトマーケティング - Anya Taylor Joy Cosmic Threshold Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789540499287_tw0a7x_HSRXD7rXgAAzRJH.jpg" width="600" alt="プロダクトマーケティング - Anya Taylor Joy Cosmic Threshold Prompt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789540499291_2hla8g_HSRXD-dWUAAMBIt.jpg" width="600" alt="プロダクトマーケティング - Anya Taylor Joy Cosmic Threshold Prompt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1789540500141_m2cutl_HSRXEA-WsAALksZ.jpg" width="600" alt="プロダクトマーケティング - Anya Taylor Joy Cosmic Threshold Prompt - Image 4">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2099899056847720822)
+- **公開日:** 2026年9月15日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=34752)**
+
+---
+
+### No. 85: プロダクトマーケティング - 高級ファッション・エディトリアル・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4724,7 +4665,7 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 87: プロダクトマーケティング - 秋のファッションポートレート
+### No. 86: プロダクトマーケティング - 秋のファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4763,7 +4704,7 @@ Nano Banana Pro を使用して、写実的でエレガントなエディトリ�
 
 ---
 
-### No. 88: プロダクトマーケティング - レトロな赤い電話のポートレート
+### No. 87: プロダクトマーケティング - レトロな赤い電話のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4809,7 +4750,7 @@ Nano Banana Pro を使用して、赤い電話をテーマにしたシネマテ�
 
 ---
 
-### No. 89: プロダクトマーケティング - ラグジュアリーファッション・エディトリアルポートレート
+### No. 88: プロダクトマーケティング - ラグジュアリーファッション・エディトリアルポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4848,7 +4789,7 @@ Nano Banana Pro を使用して、赤い電話をテーマにしたシネマテ�
 
 ---
 
-### No. 90: プロダクトマーケティング - ガネーシャ・チャトゥルティ 3D ロゴ
+### No. 89: プロダクトマーケティング - ガネーシャ・チャトゥルティ 3D ロゴ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4900,7 +4841,7 @@ Generate 3d logo style text "{argument name="text" default="GANESH"}" with Ganes
 
 ---
 
-### No. 91: プロダクトマーケティング - ラグジュアリーファッション・エディトリアルポートレート
+### No. 90: プロダクトマーケティング - ラグジュアリーファッション・エディトリアルポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4934,7 +4875,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 92: プロダクトマーケティング - 都会的なエレガンスを纏うポートレート
+### No. 91: プロダクトマーケティング - 都会的なエレガンスを纏うポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4968,7 +4909,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 93: プロダクトマーケティング - 地中海のサマーエディトリアル
+### No. 92: プロダクトマーケティング - 地中海のサマーエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5013,7 +4954,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 94: プロダクトマーケティング - ヴィンテージ新聞のファッションエディトリアル
+### No. 93: プロダクトマーケティング - ヴィンテージ新聞のファッションエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5051,7 +4992,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 95: E コマースのメイン画像 - エディトリアル・メンズファッション撮影
+### No. 94: E コマースのメイン画像 - エディトリアル・メンズファッション撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5103,7 +5044,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 96: E コマースのメイン画像 - 高級プロダクトの静物撮影キャンペーン
+### No. 95: E コマースのメイン画像 - 高級プロダクトの静物撮影キャンペーン
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5151,7 +5092,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 97: E コマースのメイン画像 - 赤いキャップを被ったファッションモデルのクローズアップ
+### No. 96: E コマースのメイン画像 - 赤いキャップを被ったファッションモデルのクローズアップ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5185,7 +5126,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 98: E コマースのメイン画像 - ミニマリストな建築的ファッションポートレート
+### No. 97: E コマースのメイン画像 - ミニマリストな建築的ファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5231,7 +5172,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 99: E コマースのメイン画像 - ラストカラーのシルクドレス：ピクニック・エディトリアル
+### No. 98: E コマースのメイン画像 - ラストカラーのシルクドレス：ピクニック・エディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5265,7 +5206,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 100: E コマースのメイン画像 - ギターフレットのすり合わせ（マクロ撮影）
+### No. 99: E コマースのメイン画像 - ギターフレットのすり合わせ（マクロ撮影）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5299,7 +5240,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 101: E コマースのメイン画像 - プレミアム飲料の広告写真撮影
+### No. 100: E コマースのメイン画像 - プレミアム飲料の広告写真撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5339,7 +5280,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 102: E コマースのメイン画像 - エレガントな黒のオーガンジーリボン
+### No. 101: E コマースのメイン画像 - エレガントな黒のオーガンジーリボン
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5379,7 +5320,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 103: E コマースのメイン画像 - 高級チョコレートの広告用静物写真
+### No. 102: E コマースのメイン画像 - 高級チョコレートの広告用静物写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5431,7 +5372,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 104: E コマースのメイン画像 - シュールで美しいヘアローラーの製品広告
+### No. 103: E コマースのメイン画像 - シュールで美しいヘアローラーの製品広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5465,7 +5406,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 105: E コマースのメイン画像 - ラズベリーシェルを用いたプロダクト撮影
+### No. 104: E コマースのメイン画像 - ラズベリーシェルを用いたプロダクト撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5517,7 +5458,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 106: E コマースのメイン画像 - クモの巣をあしらった映画のような製品広告
+### No. 105: E コマースのメイン画像 - クモの巣をあしらった映画のような製品広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5557,7 +5498,7 @@ Nano Banana Pro 向けのハイエンドなエディトリアルファッショ�
 
 ---
 
-### No. 107: E コマースのメイン画像 - 氷のキューブに入ったプロダクトのミニマリスト風撮影
+### No. 106: E コマースのメイン画像 - 氷のキューブに入ったプロダクトのミニマリスト風撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5591,7 +5532,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 108: E コマースのメイン画像 - 高級ウォーターボトルの製品撮影
+### No. 107: E コマースのメイン画像 - 高級ウォーターボトルの製品撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5631,7 +5572,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 109: E コマースのメイン画像 - 夏のスキンケア製品の撮影
+### No. 108: E コマースのメイン画像 - 夏のスキンケア製品の撮影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5683,7 +5624,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 110: E コマースのメイン画像 - Nano Banana Pro 製品コラージュ
+### No. 109: E コマースのメイン画像 - Nano Banana Pro 製品コラージュ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5723,7 +5664,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 111: E コマースのメイン画像 - スタイライズされたコレクティブルトイのパッケージ
+### No. 110: E コマースのメイン画像 - スタイライズされたコレクティブルトイのパッケージ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5775,7 +5716,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 112: E コマースのメイン画像 - プレミアムなプロダクトスタジオへの変身
+### No. 111: E コマースのメイン画像 - プレミアムなプロダクトスタジオへの変身
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5827,7 +5768,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 113: E コマースのメイン画像 - 高級スキンケア製品の広告
+### No. 112: E コマースのメイン画像 - 高級スキンケア製品の広告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5879,7 +5820,7 @@ Grok Imagine 2.0 と Nano Banana 2 を比較するために使用される、シ
 
 ---
 
-### No. 114: ゲームアセット - 機械的憂鬱 マクロポートレート プロンプト
+### No. 113: ゲームアセット - 機械的憂鬱 マクロポートレート プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6021,7 +5962,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 115: ゲームアセット - ちびキャラ RPG ゲームキャンペーン用キービジュアル
+### No. 114: ゲームアセット - ちびキャラ RPG ゲームキャンペーン用キービジュアル
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6072,7 +6013,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 116: ゲームアセット - 表現力豊かな絵画的リアリズムのハイブリッド・ポートレート
+### No. 115: ゲームアセット - 表現力豊かな絵画的リアリズムのハイブリッド・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6131,7 +6072,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 117: ゲームアセット - Artifact Diorama SQL 生成
+### No. 116: ゲームアセット - Artifact Diorama SQL 生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6183,7 +6124,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 118: ゲームアセット - ウッドパンク・キネティック・スカルプチャー・オートマタ
+### No. 117: ゲームアセット - ウッドパンク・キネティック・スカルプチャー・オートマタ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6241,7 +6182,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 119: ゲームアセット - マンガ デスクトップ ジオラマ モデルキット
+### No. 118: ゲームアセット - マンガ デスクトップ ジオラマ モデルキット
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6275,7 +6216,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
-### No. 120: ゲームアセット - 幻想的な女性と花のポートレート
+### No. 119: ゲームアセット - 幻想的な女性と花のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6309,13 +6250,47 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 ---
 
+### No. 120: ゲームアセット - アニメ風パンクスタイルの女性イラスト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+大胆なパンクスタイルを纏った女性のアニメ風デジタルイラストです。ツートンカラーの髪、カラフルなタトゥー、ダイナミックなスタジオライティングなど、細部まで作り込まれたキャラクターデザインが特徴です。
+
+#### 📝 プロンプト
+
+```
+{argument name="reference image" default="image_0.png"} をベースにした、大胆なパンクスタイルが魅力的な若い女性のアニメ風デジタルイラストです。長く流れるような髪はツートンカラーで、右側は {argument name="right hair color" default="鮮やかなティールブルー"}、左側は {argument name="left hair color" default="鮮やかなレッド"} に染め分けられ、無造作なツインテールのお団子にまとめられています。自信に満ちた口を開けた笑顔、赤と黒のメイク（目の下の十字マークを含む）を施した明るい青い瞳、そして多数の耳のピアスと黒いチョーカーが特徴です。左腕には花や生き物をモチーフにした緻密でカラフルなネオトラディショナル・タトゥーが施され、腹部にも赤い服を着たキャラクターや小さな図像などの複雑なタトゥーが入っています。白いバンドの上にダークティールのスポーツブラを着用し、肩を少し落としたオーバーサイズの黄色いパフジャケットを羽織っています。ジャケットには抽象的な青とピンクのパッチや、スタイリッシュなカタカナのテキストがあしらわれています。ダークなショートパンツと黒いレザーベルトでコーディネートを完成させました。背景は清潔感のあるオフホワイトのスタジオ設定です。ミディアムクローズアップショット、ダイナミックなライティング、緻密なコミックアートスタイルで描かれています。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg" width="600" alt="ゲームアセット - アニメ風パンクスタイルの女性イラスト - Image 1">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
+- **ソース:** [Twitter Post](https://x.com/afrinxai/status/2095734348712423924)
+- **公開日:** 2026年9月4日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=33374)**
+
+---
+
 ---
 
 ## 📚 その他のプロンプト
 
 <div align="center">
 
-### 🎯 15541 さらに多くのプロンプトがあります
+### 🎯 15542 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6378,6 +6353,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-09-18T08:03:38.425Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-09-19T08:03:16.353Z</sub>
 
 </div>
