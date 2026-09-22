@@ -145,7 +145,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **15678** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **lunedì 21 settembre 2026 alle ore 08:04:55 UTC** |
+| 🔄 Ultimo aggiornamento | **martedì 22 settembre 2026 alle ore 08:04:42 UTC** |
 
 </div>
 
@@ -1447,7 +1447,7 @@ Ritratto di moda lifestyle ultra-realista di una giovane donna seduta casualment
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Post sui social media - Prompt per Ritratto di Moda Lifestyle - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Post sui social media - Prompt per Ritratto di Moda Lifestyle - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -6217,6 +6217,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-21T08:04:55.498Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-09-22T08:04:42.334Z</sub>
 
 </div>

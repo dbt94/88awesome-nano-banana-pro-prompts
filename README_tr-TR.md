@@ -145,7 +145,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **15678** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **21 Eylül 2026 Pazartesi 08:05:14 UTC** |
+| 🔄 Son Güncelleme | **22 Eylül 2026 Salı 08:04:58 UTC** |
 
 </div>
 
@@ -1447,7 +1447,7 @@ Bacaklarını bağdaş kurarak oturuyor, her iki kolunu kaldırmış, elleri ba�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Sosyal Medya Gönderisi - Yaşam Tarzı Moda Portresi İstem Metni - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Sosyal Medya Gönderisi - Yaşam Tarzı Moda Portresi İstem Metni - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6209,6 +6209,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-21T08:05:14.764Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-09-22T08:04:58.902Z</sub>
 
 </div>

@@ -145,7 +145,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **15678** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:04:18 UTC Thứ Hai, 21 tháng 9, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:04:06 UTC Thứ Ba, 22 tháng 9, 2026** |
 
 </div>
 
@@ -1447,7 +1447,7 @@ Cô ngồi xếp bằng, hai tay giơ lên, đặt nhẹ sau đầu, ánh mắt 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc chân dung thời trang phong cách sống - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Bài đăng trên mạng xã hội - Lời nhắc chân dung thời trang phong cách sống - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6213,6 +6213,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-21T08:04:18.787Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-09-22T08:04:06.741Z</sub>
 
 </div>

@@ -145,7 +145,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **15678** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, September 21, 2026 at 8:03:42 AM UTC** |
+| 🔄 Last Updated | **Tuesday, September 22, 2026 at 8:03:30 AM UTC** |
 
 </div>
 
@@ -1426,13 +1426,13 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social Media Post - Lifestyle Fashion Portrait Prompt
+### No. 21: Social Media Post - Realistic Fashion Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A detailed prompt for creating an ultra-realistic lifestyle fashion portrait of a young woman in streetwear against a pink studio background with window shadows.
+A detailed prompt for generating an ultra-realistic lifestyle fashion portrait of a young woman in streetwear attire, featuring natural lighting and studio background.
 
 #### 📝 Prompt
 
@@ -1447,7 +1447,7 @@ She sits cross-legged with both arms raised, hands gently resting behind her hea
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Social Media Post - Lifestyle Fashion Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Social Media Post - Realistic Fashion Portrait Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -6230,6 +6230,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-09-21T08:03:42.979Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-09-22T08:03:30.463Z</sub>
 
 </div>

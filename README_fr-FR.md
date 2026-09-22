@@ -145,7 +145,7 @@ Lors de l'utilisation dans Raycast, vous pouvez remplacer dynamiquement les argu
 |--------|-------|
 | 📝 Total des prompts | **15678** |
 | ⭐ En vedette | **9** |
-| 🔄 Dernière mise à jour | **lundi 21 septembre 2026 à 08:04:48 UTC** |
+| 🔄 Dernière mise à jour | **mardi 22 septembre 2026 à 08:04:35 UTC** |
 
 </div>
 
@@ -1447,7 +1447,7 @@ Elle est assise en tailleur, les deux bras levés, les mains posées doucement d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt de Portrait Mode Lifestyle - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Publication sur les réseaux sociaux - Prompt de Portrait Mode Lifestyle - Image 1">
 </div>
 
 #### 📌 Détails
@@ -6217,6 +6217,6 @@ Sous licence [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Soumettre un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Mettre une étoile à ce dépôt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-21T08:04:48.853Z</sub>
+<sub>🤖 Ce README est généré automatiquement. Dernière mise à jour : 2026-09-22T08:04:35.943Z</sub>
 
 </div>

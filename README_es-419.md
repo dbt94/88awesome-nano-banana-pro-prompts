@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **15678** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **lunes, 21 de septiembre de 2026, 8:04:35 a.m. UTC** |
+| 🔄 Última actualización | **martes, 22 de septiembre de 2026, 8:04:23 a.m. UTC** |
 
 </div>
 
@@ -1447,7 +1447,7 @@ Está sentada con las piernas cruzadas y ambos brazos levantados, con las manos 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Publicación en redes sociales - Prompt de Retrato de Moda Estilo de Vida - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Publicación en redes sociales - Prompt de Retrato de Moda Estilo de Vida - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6217,6 +6217,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-21T08:04:35.416Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-09-22T08:04:23.913Z</sub>
 
 </div>

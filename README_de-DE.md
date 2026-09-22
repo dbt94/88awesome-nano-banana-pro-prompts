@@ -145,7 +145,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **15678** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Montag, 21. September 2026 um 08:04:42 UTC** |
+| 🔄 Zuletzt aktualisiert | **Dienstag, 22. September 2026 um 08:04:29 UTC** |
 
 </div>
 
@@ -1447,7 +1447,7 @@ Sie sitzt im Schneidersitz mit beiden erhobenen Armen, die Hände sanft hinter d
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1789973010369_zuvmlj_HStptmCaYAExUSI.jpg" width="600" alt="Social-Media-Beitrag - Lifestyle Fashion Portrait Prompt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1790058724904_8gey91_HStptmCaYAExUSI.jpg" width="600" alt="Social-Media-Beitrag - Lifestyle Fashion Portrait Prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -6213,6 +6213,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-21T08:04:42.589Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-09-22T08:04:29.950Z</sub>
 
 </div>
