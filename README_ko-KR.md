@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15749** |
+| 📝 총 프롬프트 수 | **15752** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 10월 5일 월요일 AM 8시 12분 27초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 10월 6일 화요일 AM 8시 4분 11초 UTC** |
 
 </div>
 
@@ -1653,7 +1653,135 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 소셜 미디어 게시물 - 참조 이미지를 활용한 시네마틱 럭셔리 이브닝 초상화
+### No. 21: 소셜 미디어 게시물 - 골든 여신 마하락슈미 이미지
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+3D 골든 텍스트 및 여신 이미지를 생성하기 위한 프롬프트로, 도구로 Nano Banana Pro를 명시적으로 언급합니다.
+
+#### 📝 프롬프트
+
+```
+"{argument name="text" default="Mahalakshmi"}"의 3D 골든 텍스트와 해당 텍스트 위에 앉아 있는 골든 여신 마하락슈미 이미지를 생성하세요. 검은색 배경, 1:1 비율, 8k 해상도
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268438100_gyjbu9_HT6TWwlbgAAY-zQ.jpg" width="600" alt="소셜 미디어 게시물 - 골든 여신 마하락슈미 이미지 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268437949_wpm8br_HT6TXgSb0AAizLP.jpg" width="600" alt="소셜 미디어 게시물 - 골든 여신 마하락슈미 이미지 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268437981_pivtm1_HT6TYK-bMAA5Qks.jpg" width="600" alt="소셜 미디어 게시물 - 골든 여신 마하락슈미 이미지 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268439129_9qgcag_HT6TYvoa0AA9SsR.jpg" width="600" alt="소셜 미디어 게시물 - 골든 여신 마하락슈미 이미지 - Image 4">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [🇮🇳 Jignesh Hindustani 🇮🇳](https://x.com/jigu10)
+- **출처:** [Twitter Post](https://x.com/jigu10/status/2107283736945717306)
+- **게시일:** 2026년 10월 6일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36028)**
+
+---
+
+### No. 22: 소셜 미디어 게시물 - 럭셔리 욕조 패션 포트레이트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+참조 이미지의 신원 보존을 강조하며, 욕조에 있는 여성의 초현실적인 럭셔리 패션 포트레이트를 생성하기 위한 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+업로드된 참조 이미지를 정확한 얼굴 신원 기준으로 사용하세요. 그녀의 얼굴, 골격 구조, 눈, 눈썹, 코, 입술, 턱선, 피부 톤, 헤어스타일 및 신원을 정확히 유지해야 하며, 신원 이탈이나 얼굴 변형은 허용되지 않습니다.
+
+같은 여성이 고급스러운 흰색 독립식 욕조에 우아하게 기대어 있는 초현실적이고 다채로운 럭셔리 패션 포트레이트를 제작하세요. 그녀는 우아한 드레이핑이 특징인 짙은 에메랄드 그린 새틴 롱 드레스와 긴 검은색 오페라 장갑을 착용하고 있습니다. 레이어링된 다이아몬드 목걸이, 반짝이는 귀걸이, 그리고 정교한 럭셔리 주얼리를 추가하세요.
+
+그녀는 한 손으로 진한 레드 와인이 담긴 크리스탈 와인 잔을 들고 있으며, 다른 장갑 낀 손은 머리 근처에 우아하게 놓여 있습니다. 머리는 매끄럽고 단정하며, 자신감 있고 미스터리한 표정으로 카메라를 정면 응시합니다.
+
+럭셔리한 크림색과 금색의 대리석 욕실, 따뜻한 샴페인 조명, 은은한 반사광, 풍부한 에메랄드, 버건디 및 골드 컬러 팔레트, 시네마틱한 그림자, 빛나는 하이라이트, 사실적인 새틴 질감, 자연스러운 피부 모공, 현실적인 주얼리 반짝임, 하이패션 에디토리얼 사진 촬영, 세련된 할리우드 시네마토그래피, 85mm 렌즈, 얕은 피사계 심도, 초고해상도 디테일, 포토 리얼리즘, 우아하고 글래머러스한 분위기.
+
+세로 4:5 비율, 전신 구도, 시네마틱 럭셔리 에디토리얼 스타일, 사실적인 색상, AI 특유의 부자연스러운 느낌 제거.
+
+네거티브 프롬프트: 다른 얼굴, 신원 이탈, 변형된 얼굴 특징, 플라스틱 같은 피부, 과도한 리터칭, 왜곡된 손, 추가된 손가락, 잘못된 해부학 구조, CGI, 카툰 스타일, 흐릿함, 저품질, 워터마크, 텍스트, 로고.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268438098_i3xbnh_HT32hgma8AAhKOw.jpg" width="600" alt="소셜 미디어 게시물 - 럭셔리 욕조 패션 포트레이트 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Elvorya](https://x.com/Elvorya)
+- **출처:** [Twitter Post](https://x.com/Elvorya/status/2107111265827225704)
+- **게시일:** 2026년 10월 5일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36027)**
+
+---
+
+### No. 23: 소셜 미디어 게시물 - 럭셔리 패션 에디토리얼: 스포츠 세단과 함께
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 사실적인 럭셔리 패션 에디토리얼 생성 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+세련된 유럽풍 도시 거리에 주차된 광택 있는 갈색 럭셔리 스포츠 세단 앞에 자신감 있게 서 있는 우아한 젊은 여성의 사실적인 럭셔리 패션 에디토리얼을 제작하세요. 그녀는 맞춤 제작된 초콜릿 브라운 블레이저, 같은 색상의 하이웨이스트 트라우저, 실크 소재의 갈색 블라우스, 그리고 뾰족한 갈색 힐을 착용하고 있습니다. 부드럽게 웨이브진 긴 갈색 머리, 자연스럽고 결점 없는 피부, 은은한 럭셔리 메이크업, 그리고 자신감 넘치는 표정을 지니고 있습니다. 배경에는 높은 아치형 창문과 부티크 입구가 있는 따뜻한 베이지색 역사적 건축물이 보이며, 시네마틱한 골든 아워 조명, 얕은 피사계 심도, 자동차의 현실적인 반사광, 프리미엄 패션 캠페인 미학, 전신 구도, 세로 4:5 비율, 초고해상도 디테일, 사실적인 사진 촬영 스타일을 유지하세요. 텍스트, 워터마크, 왜곡된 손이나 얼굴은 포함하지 마세요.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268436716_v2nmdl_HT3ygv9awAAHeSj.jpg" width="600" alt="소셜 미디어 게시물 - 럭셔리 패션 에디토리얼: 스포츠 세단과 함께 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Aynelle](https://x.com/aynellex)
+- **출처:** [Twitter Post](https://x.com/aynellex/status/2107106858385248517)
+- **게시일:** 2026년 10월 5일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36026)**
+
+---
+
+### No. 24: 소셜 미디어 게시물 - 참조 이미지를 활용한 시네마틱 럭셔리 이브닝 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1686,7 +1814,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182791357_o25pg1_HTysDgUa8AAx58V.jpg" width="600" alt="소셜 미디어 게시물 - 참조 이미지를 활용한 시네마틱 럭셔리 이브닝 초상화 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791268438601_dqbur7_HTysDgUa8AAx58V.jpg" width="600" alt="소셜 미디어 게시물 - 참조 이미지를 활용한 시네마틱 럭셔리 이브닝 초상화 - Image 1">
 </div>
 
 #### 📌 상세 정보
@@ -1700,7 +1828,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 소셜 미디어 게시물 - Cheetos 스낵 광고 인물 사진
+### No. 25: 소셜 미디어 게시물 - Cheetos 스낵 광고 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1743,7 +1871,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 소셜 미디어 게시물 - 참고 이미지 기반 하이엔드 뷰티 초상화
+### No. 26: 소셜 미디어 게시물 - 참고 이미지 기반 하이엔드 뷰티 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1780,7 +1908,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 소셜 미디어 게시물 - Cheetos 스낵 광고 초상화
+### No. 27: 소셜 미디어 게시물 - Cheetos 스낵 광고 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1835,7 +1963,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 소셜 미디어 게시물 - 역사적인 홀에서의 럭셔리 벨리댄서 에디토리얼
+### No. 28: 소셜 미디어 게시물 - 역사적인 홀에서의 럭셔리 벨리댄서 에디토리얼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1878,7 +2006,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 소셜 미디어 게시물 - 컨버터블 차량 속 럭셔리 패션 인물 사진
+### No. 29: 소셜 미디어 게시물 - 컨버터블 차량 속 럭셔리 패션 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1917,7 +2045,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 소셜 미디어 게시물 - 럭셔리 패션 초상화 아이덴티티
+### No. 30: 소셜 미디어 게시물 - 럭셔리 패션 초상화 아이덴티티
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1956,7 +2084,7 @@ Negative Prompt
 
 ---
 
-### No. 28: 소셜 미디어 게시물 - 몽환적인 초상화 구성 프롬프트
+### No. 31: 소셜 미디어 게시물 - 몽환적인 초상화 구성 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1992,7 +2120,7 @@ Negative Prompt
 
 ---
 
-### No. 29: 소셜 미디어 게시물 - 초현실주의 에디토리얼 포트레이트 프롬프트
+### No. 32: 소셜 미디어 게시물 - 초현실주의 에디토리얼 포트레이트 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2086,7 +2214,7 @@ Negative Prompt
 
 ---
 
-### No. 30: 소셜 미디어 게시물 - 아늑한 홈 라이프스타일 초상화
+### No. 33: 소셜 미디어 게시물 - 아늑한 홈 라이프스타일 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2126,132 +2254,6 @@ Negative Prompt
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35846)**
-
----
-
-### No. 31: 소셜 미디어 게시물 - 아방가르드 실버 가운 패션 에디토리얼
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-참고 이미지의 얼굴 정체성을 유지하며, 아방가르드한 은색 드레스를 입은 여성의 풀바디 하이패션 에디토리얼 사진을 생성합니다.
-
-#### 📝 프롬프트
-
-```
-참고 이미지는 오직 얼굴 정체성(Identity) 참조로만 사용하세요. 얼굴 구조, 눈, 코, 입술, 피부 톤 및 알아볼 수 있는 특징을 그대로 보존하여 정체성 드리프트(Identity Drift) 없이 소녀의 정확한 얼굴을 유지해야 합니다. 머리부터 발끝까지 완전히 보이는 풀바디 패션 에디토리얼 사진을 제작하세요.
-
-초현실적인 럭셔리 패션 스튜디오에 자신 있게 서 있는 인상적인 젊은 여성. 흐르는 듯한 반투명 은색 원단과 섬세한 금속 꽃잎으로 만든 아방가르드한 조각적 드레스를 입고 있습니다. 비대칭 실루엣, 건축적인 어깨 라인, 절제된 크리스탈 장식, 우아한 하이패션 스타일링, 매끄러운 다크 헤어, 미니멀한 은색 주얼리, 자연스럽고 자신감 있는 표정. 원단은 부드러운 미풍에 따라 살짝 움직입니다. 반사되는 검은 바닥, 기하학적 건축 그림자, 세련된 미래지향적 분위기, 프리미엄 오트 쿠튀르 에디토리얼, 사실적인 원단 질감, 자연스러운 피부 모공과 미세한 얼굴 디테일, 현실적인 손과 손가락, 해부학적으로 정확한 비율, 사진처럼 리얼한 촬영, 풀바디 구도, 크롭 없이 전체 신체를 담기 위해 눈높이에 위치하고 충분히 멀리 떨어진 카메라, 85mm 패션 사진, 부드러운 방향성 스튜디오 조명, 초고해상도 디테일, 8K, 럭셔리 잡지 미학, 동일한 참고 얼굴, 일관된 정체성, 얼굴 변형 없음.
-
-네거티브 프롬프트:
-identity drift, different face, altered facial features, face morphing, cropped head, cropped feet, half-body, close-up, distorted anatomy, elongated limbs, bad proportions, extra fingers, malformed hands, duplicate limbs, plastic skin, over-smoothed skin, CGI, cartoon, unrealistic fabric, blurry face, asymmetrical eyes, low resolution, text, logo, watermark.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101707931_s17g6f_HToVf2ZaYAAoxOT.jpg" width="600" alt="소셜 미디어 게시물 - 아방가르드 실버 가운 패션 에디토리얼 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Elvorya](https://x.com/Elvorya)
-- **출처:** [Twitter Post](https://x.com/Elvorya/status/2106019421063889140)
-- **게시일:** 2026년 10월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35845)**
-
----
-
-### No. 32: 소셜 미디어 게시물 - 부티크에서의 에디토리얼 패션 초상화
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-고급 부티크에서 촬영한 여성을 묘사하는 사실적인 에디토리얼 패션 사진 생성 프롬프트로, 구체적인 의상 디테일과 시네마틱 조명이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-참조 이미지와 동일한 외모를 가진 아름다운 젊은 여성의 전신 에디토리얼 패션 사진. 길고 윤기 나는 검은 머리에 부드러운 앞머리, 하얀 피부, 정제된 여성스러운 이목구비를 지니고 있습니다. 그녀는 고급스러운 미니멀리즘 패션 부티크에 자연스럽게 서 있으며, 오버사이즈 파스텔 블루 니트 스웨터에 블랙 플리츠 테니스 스타일 스커트, 화이트 크루 삭스, 그리고 두꺼운 밑창의 디자이너 스니커즈를 매치했습니다. 여유롭고 자신감 있는 포즈, 은은한 미소, 현대적인 옷걸이와 뉴트럴 톤 의류가 배치된 럭셔리 리테일 인테리어, 따뜻한 앰비언트 조명, 나무와 돌의 질감, 깔끔한 건축적 라인, 시네마틱 피사계 심도, 현실적인 조명, 프리미엄 패션 광고, Vogue 스타일의 에디토리얼, 초고해상도 디테일, 선명한 포커스, 사실적인 표현, 4K.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791009133081_ah0zla_HTmmzRYbAAA0cV-.jpg" width="600" alt="소셜 미디어 게시물 - 부티크에서의 에디토리얼 패션 초상화 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Nawal](https://x.com/nawalsehar)
-- **출처:** [Twitter Post](https://x.com/nawalsehar/status/2105897710918242518)
-- **게시일:** 2026년 10월 2일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35800)**
-
----
-
-### No. 33: 소셜 미디어 게시물 - 체스 킹 전략적 권력 초상화 프롬프트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-Nano Banana Pro와 호환되는, 유령 초상화와 체스 킹 옆에 서 있는 인물로 구성된 합성 이미지를 생성하기 위한 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-CONCEPT — EXACT: 레이어링된 합성 이미지 — 상단 배경을 가득 채운 거대하고 흐릿한 클로즈업 유령 초상화가 어두운 대리석 질감의 배경과 자연스럽게 융합되며, 전경에는 같은 남성의 선명한 풀컬러 스탠딩 초상화가 거대한 오버사이즈 블랙 체스 킹 말 옆에 서 있습니다. 전략적 권력과 리더십 테마를 표현합니다.
-
-BACKGROUND GHOST PORTRAIT — EXACT: 크게 확대된 흐릿한 클로즈업 초상화, 고개를 살짝 돌린 자세, 차분하고 강렬하며 절제된 시선, 짧고 단정한 헤어스타일, 가벼운 수염이 어두운 회색-블랙 대리석 텍스처와 블렌딩되어 미묘한 톤 오버레이로 읽히도록 합니다.
-
-MAIN SUBJECT — FOREGROUND — EXACT: 자신보다 키가 큰 거대한 블랙 대리석 체스 킹 말 옆에 서 있는 포즈, 한 손은 체스 말의 왕관 위에 얹어 놓고, 다른 손은 바지 주머니에 넣은 채 카메라를 향해 차분하고 자신감 있으며 절제된 시선을 유지합니다.
-
-MAIN SUBJECT IDENTITY LOCK: 전경의 얼굴은 유령 초상화와 정확히 일치해야 하며 — 동일한 턱 너비, 볼통, 수염 밀도, 코 모양, 입술 모양을 유지하고 자연스러운 머리 대 몸 비율을 준수합니다.
-
-BODY: 중간 태닝 피부톤, 마른 체형, 자신감 있고 절제된 서 있는 자세.
-
-OUTFIT: 블랙 테일러드 더블 브레스트 오버코트 안에 블랙 터틀넥, 블랙 테일러드 트라우저, 블랙 가죽 드레스 슈즈, 실버 손목시계.
-
-PROP DETAIL — EXACT: 피사체 옆에 정교하게 조각된 디테일이 있는 오버사이즈 블랙 대리석 체스 킹 말, 전경의 체크무늬 대리석 바닥에는 작은 흰색 및 검은색 체스 말이 흩어져 있습니다.
-
-BACKGROUND — EXACT: 부드러운 베인(vain) 텍스처가 있는 어두운 회색-블랙 대리석 홀, 미묘한 체크무늬 대리석 바닥 패턴, 규모와 권력을 암시하는 극적인 여백 공간.
-
-LIGHTING — EXACT: 단일 극적인 사이드 키 라이트, 대리석 홀 절반에 걸친 깊은 그림자, 체스 말의 조각된 가장자리와 피사체의 턱선을 따라 선명한 하이라이트.
-
-COLOR GRADE — EXACT: 전체적으로 딥 차콜 앤 블랙 우세 팔레트, 쿨 마블 그레이 언더톤, 유일한 대비를 제공하는 자연스러운 웜 스킨톤, 초고해상도 8K 선명도를 갖춘 드라마틱한 하이엔드 에디토리얼 파워 포트레이트 컬러 그레이딩.
-
-Shot on Sony A7R IV, 50mm f/1.8 — 전경 피사체와 체스 말은 직물 및 돌 디테일이 선명한 tack sharp 상태이며, 배경 유령 초상화는 부드럽게 블렌딩됩니다. Ultra photorealistic — AI 아티팩트 제로, 워터마크 없음.
-
-IMPORTANT — 업로드한 얼굴 참조 이미지의 구조와 신원을 BOTH 유령 처리된 배경 초상화 AND 풀컬러 전경 스탠딩 인물에만 사용하십시오. 실제 외모와 완전히 동일하게 신원 변경 없이 얼굴을 유지해야 합니다. 업로드된 이미지에 표시된 대로 정확한 헤어스타일, 헤어라인, 이마 모양, 눈썹, 눈 모양, 코 구조, 입술, 수염 밀도, 콧수염 스타일, 턱선, 피부톤, 얼굴 질감, 남성적 비율 및 모든 자연스러운 불완전함을 그대로 보존하십시오. 얼굴을美化(beautify), 만화화(cartoonize), 피부 매끄럽게(skin smoothing), 여성화(feminize)하거나 랜덤 셀럽 또는 모델로 교체하지 마십시오.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790922802908_fbtg66_HTjj2GiaAAAsLf-.jpg" width="600" alt="소셜 미디어 게시물 - 체스 킹 전략적 권력 초상화 프롬프트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **출처:** [Twitter Post](https://x.com/JamilAI55/status/2105683448715485557)
-- **게시일:** 2026년 10월 1일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35799)**
 
 ---
 
@@ -4729,7 +4731,78 @@ Kodak 필름 에뮬레이션을 적용한 가족 저녁 식사 장면의 3x3 포
 
 ---
 
-### No. 87: 제품 마케팅 - 밤의 침실 독서 장면
+### No. 87: 제품 마케팅 - 아방가르드 실버 가운 패션 에디토리얼
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+참고 이미지의 얼굴 정체성을 유지하며, 아방가르드한 은색 드레스를 입은 여성의 풀바디 하이패션 에디토리얼 사진을 생성합니다.
+
+#### 📝 프롬프트
+
+```
+참고 이미지는 오직 얼굴 정체성(Identity) 참조로만 사용하세요. 얼굴 구조, 눈, 코, 입술, 피부 톤 및 알아볼 수 있는 특징을 그대로 보존하여 정체성 드리프트(Identity Drift) 없이 소녀의 정확한 얼굴을 유지해야 합니다. 머리부터 발끝까지 완전히 보이는 풀바디 패션 에디토리얼 사진을 제작하세요.
+
+초현실적인 럭셔리 패션 스튜디오에 자신 있게 서 있는 인상적인 젊은 여성. 흐르는 듯한 반투명 은색 원단과 섬세한 금속 꽃잎으로 만든 아방가르드한 조각적 드레스를 입고 있습니다. 비대칭 실루엣, 건축적인 어깨 라인, 절제된 크리스탈 장식, 우아한 하이패션 스타일링, 매끄러운 다크 헤어, 미니멀한 은색 주얼리, 자연스럽고 자신감 있는 표정. 원단은 부드러운 미풍에 따라 살짝 움직입니다. 반사되는 검은 바닥, 기하학적 건축 그림자, 세련된 미래지향적 분위기, 프리미엄 오트 쿠튀르 에디토리얼, 사실적인 원단 질감, 자연스러운 피부 모공과 미세한 얼굴 디테일, 현실적인 손과 손가락, 해부학적으로 정확한 비율, 사진처럼 리얼한 촬영, 풀바디 구도, 크롭 없이 전체 신체를 담기 위해 눈높이에 위치하고 충분히 멀리 떨어진 카메라, 85mm 패션 사진, 부드러운 방향성 스튜디오 조명, 초고해상도 디테일, 8K, 럭셔리 잡지 미학, 동일한 참고 얼굴, 일관된 정체성, 얼굴 변형 없음.
+
+네거티브 프롬프트:
+identity drift, different face, altered facial features, face morphing, cropped head, cropped feet, half-body, close-up, distorted anatomy, elongated limbs, bad proportions, extra fingers, malformed hands, duplicate limbs, plastic skin, over-smoothed skin, CGI, cartoon, unrealistic fabric, blurry face, asymmetrical eyes, low resolution, text, logo, watermark.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791101707931_s17g6f_HToVf2ZaYAAoxOT.jpg" width="600" alt="제품 마케팅 - 아방가르드 실버 가운 패션 에디토리얼 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Elvorya](https://x.com/Elvorya)
+- **출처:** [Twitter Post](https://x.com/Elvorya/status/2106019421063889140)
+- **게시일:** 2026년 10월 2일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35845)**
+
+---
+
+### No. 88: 제품 마케팅 - 부티크에서의 에디토리얼 패션 초상화
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 설명
+
+고급 부티크에서 촬영한 여성을 묘사하는 사실적인 에디토리얼 패션 사진 생성 프롬프트로, 구체적인 의상 디테일과 시네마틱 조명이 특징입니다.
+
+#### 📝 프롬프트
+
+```
+참조 이미지와 동일한 외모를 가진 아름다운 젊은 여성의 전신 에디토리얼 패션 사진. 길고 윤기 나는 검은 머리에 부드러운 앞머리, 하얀 피부, 정제된 여성스러운 이목구비를 지니고 있습니다. 그녀는 고급스러운 미니멀리즘 패션 부티크에 자연스럽게 서 있으며, 오버사이즈 파스텔 블루 니트 스웨터에 블랙 플리츠 테니스 스타일 스커트, 화이트 크루 삭스, 그리고 두꺼운 밑창의 디자이너 스니커즈를 매치했습니다. 여유롭고 자신감 있는 포즈, 은은한 미소, 현대적인 옷걸이와 뉴트럴 톤 의류가 배치된 럭셔리 리테일 인테리어, 따뜻한 앰비언트 조명, 나무와 돌의 질감, 깔끔한 건축적 라인, 시네마틱 피사계 심도, 현실적인 조명, 프리미엄 패션 광고, Vogue 스타일의 에디토리얼, 초고해상도 디테일, 선명한 포커스, 사실적인 표현, 4K.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791009133081_ah0zla_HTmmzRYbAAA0cV-.jpg" width="600" alt="제품 마케팅 - 부티크에서의 에디토리얼 패션 초상화 - Image 1">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [Nawal](https://x.com/nawalsehar)
+- **출처:** [Twitter Post](https://x.com/nawalsehar/status/2105897710918242518)
+- **게시일:** 2026년 10월 2일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35800)**
+
+---
+
+### No. 89: 제품 마케팅 - 밤의 침실 독서 장면
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4774,7 +4847,7 @@ Negative prompt(부정적 프롬프트): CGI, cartoon(만화), illustration(일�
 
 ---
 
-### No. 88: 제품 마케팅 - 시네마틱 이중 노출 포스터 프롬프트
+### No. 90: 제품 마케팅 - 시네마틱 이중 노출 포스터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4807,7 +4880,7 @@ Negative prompt(부정적 프롬프트): CGI, cartoon(만화), illustration(일�
 
 ---
 
-### No. 89: 제품 마케팅 - 이스탄불 보스포루스 여행 초상화
+### No. 91: 제품 마케팅 - 이스탄불 보스포루스 여행 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4850,7 +4923,7 @@ Negative prompt(부정적 프롬프트): CGI, cartoon(만화), illustration(일�
 
 ---
 
-### No. 90: 제품 마케팅 - 시네마틱 에디토리얼 침실 인물 사진
+### No. 92: 제품 마케팅 - 시네마틱 에디토리얼 침실 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4894,7 +4967,7 @@ different face, altered identity, face swap, identity drift, different facial fe
 
 ---
 
-### No. 91: 제품 마케팅 - 모던 주방 패션 초상화
+### No. 93: 제품 마케팅 - 모던 주방 패션 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4929,7 +5002,7 @@ different face, altered identity, face swap, identity drift, different facial fe
 
 ---
 
-### No. 92: 제품 마케팅 - 비 오는 역 전신 초상화
+### No. 94: 제품 마케팅 - 비 오는 역 전신 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4976,46 +5049,7 @@ Nano Banana Pro를 사용하여 비가 내리는 기차역에서 기다리는 �
 
 ---
 
-### No. 93: 제품 마케팅 - 럭셔리 이브닝 초상화
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사실적인 럭셔리 이브닝 초상화를 제작하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-세련된 스튜디오 환경에서 포즈를 취한 젊은 여성의 매우 사실적인 세로형 4:5 비율 럭셔리 이브닝 초상화를 생성하세요. 그녀는 카메라에서 약간 등을 돌린 채 우아한 오버 더 숄더(over-the-shoulder) 포즈를 취하며, 자신감 있고 우아한 표정으로 카메라를 정면으로 응시합니다.
-
-다크 브라운 머리는 매끄러운 낮은 업스타일로 스타일링했으며, 볼 주변에는 부드럽게 얼굴을 감싸는 몇 가닥의 헤어 스트랜드가 있습니다. 그녀의 얼굴은 정제된 자연스러운 특징을 가지고 있으며, 현실적인 질감이 있는 따뜻한 톤의 밝은 피부, 표현력 있는 갈색 눈, 뚜렷한 눈썹, 은은한 스모키 버건디 아이 메이크업, 부드러운 블러셔, 그리고 깊은 로즈 레드 글로시 립을 하고 있습니다.
-
-그녀는 접힌 드레이프 네크라인과 피트된 실루엣이 돋보이는 우아한 오프 숄더 딥 버건디 새틴 이브닝 가운을 입고 있습니다. 등 부분에는 섬세한 주얼리 장식과 반짝이는 디테일이 추가되어 있습니다. 럭셔리한 보석들을 착용하세요: 다이아몬드 목걸이, 루비와 다이아몬드가 달린 드롭 귀걸이, 여러 개의 우아한 반지, 레이어링된 메탈릭 브레이슬릿, 그리고 클래식한 럭셔리 손목시계. 그녀의 손톱은 길고 글로시하며, 복잡한 딥 레드와 실버 네일 아트로 장식되어 있습니다.
-
-한쪽 손은 어깨 근처에 우아하게 배치하고, 다른 한쪽 손은 허리에 자연스럽게 얹혀 있습니다. 배경은 한쪽에 부드러운 크림색 조명 영역이 있는 리치 다크 버건디 스튜디오 벽으로, 극적인 투톤 백드롭을 만들어냅니다. 시네마틱한 웜 라이팅, 피부 위의 부드러운 하이라이트, 미묘한 그림자, 하이엔드 주얼리 캠페인 미학, 현실적인 원단 및 주얼리 디테일, 자연스러운 손과 손가락, 얕은 심도 필드, 전문 패션 사진, 85mm 렌즈 룩, 초사실주의(ultra-photorealistic), 우아하고 세련된 분위기, 텍스트 없음, 워터마크 없음.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750134723_q1b5j6_HTTkk4lbwAE7FNP.jpg" width="600" alt="제품 마케팅 - 럭셔리 이브닝 초상화 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Aynah](https://x.com/AynahhX)
-- **출처:** [Twitter Post](https://x.com/AynahhX/status/2104558271369826806)
-- **게시일:** 2026년 9월 28일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35618)**
-
----
-
-### No. 94: 전자상거래 메인 이미지 - Nano Banana Pro 스튜디오 인물 사진 프롬프트
+### No. 95: 전자상거래 메인 이미지 - Nano Banana Pro 스튜디오 인물 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5061,7 +5095,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 95: 전자상거래 메인 이미지 - 남성 패션 화보 촬영
+### No. 96: 전자상거래 메인 이미지 - 남성 패션 화보 촬영
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5113,7 +5147,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 96: 전자상거래 메인 이미지 - 럭셔리 제품 정물화 캠페인
+### No. 97: 전자상거래 메인 이미지 - 럭셔리 제품 정물화 캠페인
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5161,7 +5195,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 97: 전자상거래 메인 이미지 - 강렬한 레드 캡 패션 클로즈업
+### No. 98: 전자상거래 메인 이미지 - 강렬한 레드 캡 패션 클로즈업
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5195,7 +5229,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 98: 전자상거래 메인 이미지 - 미니멀리스트 건축적 패션 포트레이트
+### No. 99: 전자상거래 메인 이미지 - 미니멀리스트 건축적 패션 포트레이트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5241,7 +5275,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 99: 전자상거래 메인 이미지 - 러스트 실크 드레스 피크닉 화보
+### No. 100: 전자상거래 메인 이미지 - 러스트 실크 드레스 피크닉 화보
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5275,7 +5309,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 100: 전자상거래 메인 이미지 - 기타 프렛 드레싱 매크로 촬영
+### No. 101: 전자상거래 메인 이미지 - 기타 프렛 드레싱 매크로 촬영
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5309,7 +5343,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 101: 전자상거래 메인 이미지 - 프리미엄 음료 광고 사진 촬영
+### No. 102: 전자상거래 메인 이미지 - 프리미엄 음료 광고 사진 촬영
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5349,7 +5383,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 102: 전자상거래 메인 이미지 - 우아한 블랙 오간자 리본
+### No. 103: 전자상거래 메인 이미지 - 우아한 블랙 오간자 리본
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5389,7 +5423,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 103: 전자상거래 메인 이미지 - 럭셔리 초콜릿 광고 정물 사진
+### No. 104: 전자상거래 메인 이미지 - 럭셔리 초콜릿 광고 정물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5441,7 +5475,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 104: 전자상거래 메인 이미지 - 초현실적인 뷰티 제품 헤어 롤러
+### No. 105: 전자상거래 메인 이미지 - 초현실적인 뷰티 제품 헤어 롤러
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5475,7 +5509,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 105: 전자상거래 메인 이미지 - 라즈베리 쉘 제품 사진
+### No. 106: 전자상거래 메인 이미지 - 라즈베리 쉘 제품 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5527,7 +5561,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 106: 전자상거래 메인 이미지 - 거미줄을 활용한 영화 같은 제품 광고
+### No. 107: 전자상거래 메인 이미지 - 거미줄을 활용한 영화 같은 제품 광고
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5567,7 +5601,7 @@ Nano Banana Pro를 사용하여 스튜디오 환경에서 젊은 여성의 사�
 
 ---
 
-### No. 107: 전자상거래 메인 이미지 - 얼음 큐브 속 미니멀리즘 제품
+### No. 108: 전자상거래 메인 이미지 - 얼음 큐브 속 미니멀리즘 제품
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5601,7 +5635,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 ---
 
-### No. 108: 전자상거래 메인 이미지 - 럭셔리 워터 보틀 제품 사진 촬영
+### No. 109: 전자상거래 메인 이미지 - 럭셔리 워터 보틀 제품 사진 촬영
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5641,7 +5675,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 ---
 
-### No. 109: 전자상거래 메인 이미지 - 여름 스킨케어 제품 사진
+### No. 110: 전자상거래 메인 이미지 - 여름 스킨케어 제품 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5693,7 +5727,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 ---
 
-### No. 110: 전자상거래 메인 이미지 - Nano Banana Pro 제품 콜라주
+### No. 111: 전자상거래 메인 이미지 - Nano Banana Pro 제품 콜라주
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5733,7 +5767,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 ---
 
-### No. 111: 전자상거래 메인 이미지 - 인체공학 사무용 의자 이커머스 모바일 상세 페이지
+### No. 112: 전자상거래 메인 이미지 - 인체공학 사무용 의자 이커머스 모바일 상세 페이지
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5767,7 +5801,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 ---
 
-### No. 112: 전자상거래 메인 이미지 - 스타일화된 수집용 장난감 패키징
+### No. 113: 전자상거래 메인 이미지 - 스타일화된 수집용 장난감 패키징
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5819,7 +5853,7 @@ Grok Imagine 2.0 과 Nano Banana 2 를 비교하기 위해 사용된 간단한 �
 
 ---
 
-### No. 113: 게임 에셋 - 기계적 우울함 매크로 초상화 프롬프트
+### No. 114: 게임 에셋 - 기계적 우울함 매크로 초상화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5961,7 +5995,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 114: 게임 에셋 - 치비 RPG 게임 캠페인 키 비주얼
+### No. 115: 게임 에셋 - 치비 RPG 게임 캠페인 키 비주얼
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6012,7 +6046,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 115: 게임 에셋 - 표현력이 풍부한 회화적 사실주의 하이브리드 초상화
+### No. 116: 게임 에셋 - 표현력이 풍부한 회화적 사실주의 하이브리드 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6071,7 +6105,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 116: 게임 에셋 - Artifact Diorama SQL 생성
+### No. 117: 게임 에셋 - Artifact Diorama SQL 생성
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6123,7 +6157,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 117: 게임 에셋 - 우드펑크(Woodpunk) 키네틱 조각 오토마타
+### No. 118: 게임 에셋 - 우드펑크(Woodpunk) 키네틱 조각 오토마타
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6181,7 +6215,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 118: 게임 에셋 - 만화 데스크톱 디오라마 모델 키트
+### No. 119: 게임 에셋 - 만화 데스크톱 디오라마 모델 키트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6215,7 +6249,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 119: 게임 에셋 - 신비로운 여성과 꽃 장식 헤어 초상화
+### No. 120: 게임 에셋 - 신비로운 여성과 꽃 장식 헤어 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6249,47 +6283,13 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 ---
 
-### No. 120: 게임 에셋 - 애니메이션 펑크 스타일 여성 일러스트
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 설명
-
-대담한 펑크 스타일의 애니메이션풍 디지털 일러스트입니다. 투톤 헤어, 화려한 타투, 역동적인 스튜디오 조명 등 디테일한 캐릭터 디자인이 특징입니다.
-
-#### 📝 프롬프트
-
-```
-{argument name="reference image" default="image_0.png"}을(를) 기반으로 한, 대담하고 펑크한 스타일의 활기찬 젊은 여성 애니메이션풍 디지털 일러스트입니다. 길고 찰랑거리는 머리카락은 투톤으로, 오른쪽은 {argument name="right hair color" default="밝은 청록색"}, 왼쪽은 {argument name="left hair color" default="선명한 빨간색"}이며 지저분한 트윈 번 스타일로 묶여 있습니다. 자신감 넘치는 미소와 함께 눈 아래 십자가 모양을 포함한 빨간색과 검은색 메이크업을 한 밝은 파란색 눈이 돋보이며, 여러 개의 귀 피어싱과 검은색 초커를 착용하고 있습니다. 왼쪽 팔은 꽃과 생물 등 디테일하고 화려한 네오 트래디셔널 타투로 덮여 있고, 복부에도 빨간 옷을 입은 캐릭터와 작은 인물들이 포함된 복잡한 타투가 새겨져 있습니다. 흰색 밴드 위에 짙은 청록색 스포츠 브라를 입고 있으며, 한쪽 어깨가 살짝 내려간 오버사이즈 노란색 패딩 재킷에는 추상적인 파란색/분홍색 패치와 스타일리시한 일본어 가타카나가 적혀 있습니다. 다크 쇼츠와 검은색 가죽 벨트로 룩을 완성했습니다. 배경은 깔끔한 오프 화이트 톤의 스튜디오입니다. 미디엄 클로즈업 샷, 역동적인 조명, 디테일한 만화 아트 스타일입니다.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg" width="600" alt="게임 에셋 - 애니메이션 펑크 스타일 여성 일러스트 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
-- **출처:** [Twitter Post](https://x.com/afrinxai/status/2095734348712423924)
-- **게시일:** 2026년 9월 4일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=33374)**
-
----
-
 ---
 
 ## 📚 더 많은 프롬프트
 
 <div align="center">
 
-### 🎯 15629 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15632 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6352,6 +6352,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-05T08:12:27.930Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-06T08:04:11.354Z</sub>
 
 </div>

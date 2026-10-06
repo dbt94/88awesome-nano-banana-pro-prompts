@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15749** |
+| 📝 提示詞總數 | **15752** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年10月5日 星期一 上午8:11:48 [UTC]** |
+| 🔄 最後更新 | **2026年10月6日 星期二 上午8:03:58 [UTC]** |
 
 </div>
 
@@ -1648,7 +1648,135 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 以參考圖生成電影感奢華夜景人像
+### No. 21: 社群媒體貼文 - 金色女神 Lakshmi 圖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+用於創建 3D 金色文字與女神圖像的提示詞，明確提及使用 Nano Banana Pro 作為工具。
+
+#### 📝 提示詞
+
+```
+生成 3D 金色文字 "{argument name="text" default="Mahalakshmi"}" 以及坐在該文字上方並調整位置的金色女神 Mahalakshmi 圖像。黑色背景。1:1 比例，8k 解析度
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268438100_gyjbu9_HT6TWwlbgAAY-zQ.jpg" width="600" alt="社群媒體貼文 - 金色女神 Lakshmi 圖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268437949_wpm8br_HT6TXgSb0AAizLP.jpg" width="600" alt="社群媒體貼文 - 金色女神 Lakshmi 圖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268437981_pivtm1_HT6TYK-bMAA5Qks.jpg" width="600" alt="社群媒體貼文 - 金色女神 Lakshmi 圖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268439129_9qgcag_HT6TYvoa0AA9SsR.jpg" width="600" alt="社群媒體貼文 - 金色女神 Lakshmi 圖像 - Image 4">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [🇮🇳 Jignesh Hindustani 🇮🇳](https://x.com/jigu10)
+- **來源:** [Twitter Post](https://x.com/jigu10/status/2107283736945717306)
+- **發布時間:** 2026年10月6日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36028)**
+
+---
+
+### No. 22: 社群媒體貼文 - 奢華浴缸時尚人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+生成超寫實奢華時尚人像的提示詞，重點在於從參考圖像中保留人物身份。
+
+#### 📝 提示詞
+
+```
+使用上傳的參考圖像作為精確的面部身份基準。嚴格保留她的臉部、面部結構、眼睛、眉毛、鼻子、嘴唇、下顎線、膚色、髮型及整體身份特徵——確保無身份偏移或面部改變。
+
+創作一幅超寫實且色彩豐富的奢華時尚人像，描繪同一位女性優雅地斜倚在一個豪華的白色獨立式浴缸中。她身穿深祖母綠色緞面長禮服，剪裁優雅垂墜，並佩戴黑色長款歌劇手套。搭配多層鑽石項鍊、閃耀耳環及精緻的高級珠寶。
+
+她一手持著盛滿紅酒的水晶酒杯，另一隻戴著手套的手輕柔地靠近頭部。頭髮光滑整齊，神情自信而神秘，與鏡頭進行直接的眼神接觸。
+
+背景為奢華的奶油色與金色大理石浴室，溫暖的香檳色燈光，細微的反光效果，以祖母綠、酒紅和金色為主調，電影感的陰影，發亮的高光，逼真的緞面質感，自然的皮膚毛孔，真實的珠寶閃爍效果，高級時尚編輯攝影風格，好萊塢式的精緻電影攝影感，85mm 鏡頭，淺景深，超高細節，照片級寫實，優雅迷人。
+
+垂直 4:5 比例，全身構圖，電影感奢華編輯風格，真實色彩，避免 AI 生成的痕跡。
+
+負面提示：不同的臉孔、身份偏移、改變的面部特徵、塑膠感皮膚、過度修圖、扭曲的手部、多餘的手指、錯誤的人體解剖結構、CGI、卡通風格、模糊、低品質、浮水印、文字、標誌。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268438098_i3xbnh_HT32hgma8AAhKOw.jpg" width="600" alt="社群媒體貼文 - 奢華浴缸時尚人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Elvorya](https://x.com/Elvorya)
+- **來源:** [Twitter Post](https://x.com/Elvorya/status/2107111265827225704)
+- **發布時間:** 2026年10月5日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36027)**
+
+---
+
+### No. 23: 社群媒體貼文 - 豪華時尚編輯：運動型轎車主題
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用於生成寫實豪華時尚編輯照片的提示詞，展現優雅女性與跑車，針對 Nano Banana Pro 進行最佳化。
+
+#### 📝 提示詞
+
+```
+創作一張寫實的豪華時尚編輯照片，主角是一位優雅的年輕女性，自信地站在一輛光澤感十足的棕色豪華運動型轎車前，車輛停在精緻的歐式風格城市街道上。她身穿剪裁合身的巧克力棕色西裝外套、搭配高腰長褲、絲滑的棕色襯衫以及尖頭棕色高跟鞋。留著柔軟微捲的棕色長髮，膚質自然完美，妝容呈現低調奢華感，神情充滿自信。背景為溫暖米色的歷史建築，具有高聳的拱形窗戶和精品店入口，採用電影感的黃金時段照明，淺景深效果，車身反射真實細膩，整體呈現高級時尚廣告的美學風格，全身構圖，垂直 4:5 比例，超高細節，寫實攝影風格，無文字，無浮水印，手部與臉部無變形。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791268436716_v2nmdl_HT3ygv9awAAHeSj.jpg" width="600" alt="社群媒體貼文 - 豪華時尚編輯：運動型轎車主題 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Aynelle](https://x.com/aynellex)
+- **來源:** [Twitter Post](https://x.com/aynellex/status/2107106858385248517)
+- **發布時間:** 2026年10月5日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36026)**
+
+---
+
+### No. 24: 社群媒體貼文 - 以參考圖生成電影感奢華夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1681,7 +1809,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182791357_o25pg1_HTysDgUa8AAx58V.jpg" width="600" alt="社群媒體貼文 - 以參考圖生成電影感奢華夜景人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791268438601_dqbur7_HTysDgUa8AAx58V.jpg" width="600" alt="社群媒體貼文 - 以參考圖生成電影感奢華夜景人像 - Image 1">
 </div>
 
 #### 📌 詳情
@@ -1695,7 +1823,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社群媒體貼文 - Cheetos 零食廣告人像
+### No. 25: 社群媒體貼文 - Cheetos 零食廣告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1738,7 +1866,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社群媒體貼文 - 含參考圖的高級美容人像
+### No. 26: 社群媒體貼文 - 含參考圖的高級美容人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1775,7 +1903,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社群媒體貼文 - Cheetos 零食廣告人像
+### No. 27: 社群媒體貼文 - Cheetos 零食廣告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1830,7 +1958,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社群媒體貼文 - 歷史大廳中的奢華肚皮舞者時尚編輯照
+### No. 28: 社群媒體貼文 - 歷史大廳中的奢華肚皮舞者時尚編輯照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1873,7 +2001,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社群媒體貼文 - 敞篷車中的奢華時尚人像
+### No. 29: 社群媒體貼文 - 敞篷車中的奢華時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1912,7 +2040,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社群媒體貼文 - 高級時尚人像身份識別
+### No. 30: 社群媒體貼文 - 高級時尚人像身份識別
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1951,7 +2079,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社群媒體貼文 - 夢幻人像構圖提示詞
+### No. 31: 社群媒體貼文 - 夢幻人像構圖提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1987,7 +2115,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社群媒體貼文 - 超現實主義編輯人像提示詞
+### No. 32: 社群媒體貼文 - 超現實主義編輯人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2081,7 +2209,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社群媒體貼文 - 溫馨居家生活風格人像
+### No. 33: 社群媒體貼文 - 溫馨居家生活風格人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2119,132 +2247,6 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35846)**
-
----
-
-### No. 31: 社群媒體貼文 - 前衛銀色禮服時尚編輯
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一張全身高時尚編輯照片，展示一位身穿前衛銀色禮服的女性，並保留參考圖片中的面部特徵。
-
-#### 📝 提示詞
-
-```
-僅將參考圖片作為身份識別依據。請完整保留女孩的臉部特徵、五官結構、眼睛、鼻子、嘴唇、膚色及可辨識的面部細節，確保無任何身份偏移。創作一張全身時尚編輯攝影作品，從頭到腳完整呈現人物，雙腳需清晰可見。
-
-一位氣質出众的年輕女性自信地站立於充滿未來感的奢華時尚攝影棚中，身著由流動半透明銀色面料與精緻金屬花瓣製成的前衛雕塑感禮服，不對稱輪廓設計，建築感肩部剪裁，點綴細微水晶裝飾，展現優雅的高級時裝風格，烏黑亮麗的髮型，極簡銀飾搭配，神情自然且充滿自信。面料隨柔和微風輕盈飄動。反光黑色地板，幾何建築陰影，營造精緻未來主義氛圍，高級訂製時裝編輯風格，真實面料質感，自然皮膚毛孔與細膩面部特徵，寫實的手部與手指結構，符合人體工學的正確比例，超寫實攝影，全身構圖，相機位於視線高度並保持足夠距離以捕捉完整身體而不裁切，85mm 時尚攝影鏡頭，柔和定向工作室燈光，超高細節，8K 解析度，奢華雜誌美學，相同參考面孔，一致的身份特徵，無面部修改。
-
-負面提示詞：
-身份偏移，不同面孔，改變的五官特徵，面部變形，裁切頭部，裁切腳部，半身照，特寫，解剖結構失真，四肢拉長，比例錯誤，多餘手指，畸形手部，重複肢體，塑膠質感皮膚，過度平滑皮膚，CGI 效果，卡通風格，不真實面料，模糊面孔，不對稱眼睛，低解析度，文字，標誌，浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101707931_s17g6f_HToVf2ZaYAAoxOT.jpg" width="600" alt="社群媒體貼文 - 前衛銀色禮服時尚編輯 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Elvorya](https://x.com/Elvorya)
-- **來源:** [Twitter Post](https://x.com/Elvorya/status/2106019421063889140)
-- **發布時間:** 2026年10月2日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35845)**
-
----
-
-### No. 32: 社群媒體貼文 - 精品店中的時尚編輯人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成寫實時尚編輯照的提示詞，呈現高級精品店中女性的特定服裝細節與電影感光影。
-
-#### 📝 提示詞
-
-```
-一張全身時尚編輯攝影作品，主角是一位美麗的年輕女性，外貌與參考圖一致：長而亮澤的深色頭髮、柔和瀏海、白皙肌膚及精緻的女性五官。她隨意地站在一家高級極簡主義時尚精品店內，身穿寬鬆的粉藍色針織毛衣，搭配黑色百褶網球裙、白色中筒襪以及厚底設計師運動鞋。姿態放鬆自信，帶著溫柔微笑；背景為奢華零售內部空間，配有現代化衣架、中性色調服飾、溫暖環境光線、木質與石材紋理、乾淨建築線條、電影感景深、真實光影效果、高端時尚廣告風格、Vogue 式編輯美學、超高細節、銳利對焦、寫實風格、4K 解析度。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791009133081_ah0zla_HTmmzRYbAAA0cV-.jpg" width="600" alt="社群媒體貼文 - 精品店中的時尚編輯人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Nawal](https://x.com/nawalsehar)
-- **來源:** [Twitter Post](https://x.com/nawalsehar/status/2105897710918242518)
-- **發布時間:** 2026年10月2日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35800)**
-
----
-
-### No. 33: 社群媒體貼文 - 西洋棋國王戰略權力人像提示詞
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用於建立包含幽靈肖像與站在西洋棋國王旁站立人物的複合影像提示詞，相容於 Nano Banana Pro。
-
-#### 📝 提示詞
-
-```
-概念 — 精確：分層複合影像 — 上方背景充滿巨大的淡色特寫幽靈肖像，融入深色大理石紋理背景中；前景則為同一男子的較小清晰全彩站立肖像，身旁立有一顆巨大的黑色西洋棋國王棋子，呈現戰略權力與領導力主題。
-
-背景幽靈肖像 — 精確：大型淡色特寫肖像，頭部微微轉動，眼神平靜、強烈且沉著，短髮整齊，留有輕微鬍渣，融入深灰黑色大理石紋理中，讀起來如同細微的色調疊加效果。
-
-主要主體 — 前景 — 精確：站立姿態位於一顆比自身更高的巨大黑色大理石西洋棋國王棋子旁，一手輕放於棋子頂端的王冠上，另一手插入褲袋，眼神平靜自信且沉著地望向鏡頭。
-
-主要主體身份鎖定：前景臉部必須與幽靈肖像完全一致 — 相同的下顎寬度、臉頰飽滿度、鬍子密度、鼻型及唇形，並保持自然的頭身比例。
-
-身體：中等淺褐色膚色，精瘦體型，自信沉著的站立姿勢。
-
-服裝：黑色剪裁雙排扣大衣搭配黑色高領毛衣，黑色剪裁長褲，黑色皮革正裝鞋，銀色腕錶。
-
-道具細節 — 精確：一顆具有精緻雕刻細節的巨大黑色大理石西洋棋國王棋子立於主體旁，前景的大理石棋盤格地板上散落著較小的白色與黑色西洋棋棋子。
-
-背景 — 精確：深灰黑色大理石大廳帶有柔和的脈絡紋理，細微的大理石棋盤格地板圖案，戲劇性的空曠空間暗示規模與權力。
-
-光線 — 精確：單一的戲劇性側向主光源，半個大理石大廳籠罩在深邃陰影中，沿著棋子的雕刻邊緣和主體的下顎線形成清晰的高光。
-
-色彩調校 — 精確：整體以深炭灰色與黑色為主導調色盤，帶有冷色調的大理石灰底色調，自然的暖色膚色提供唯一的對比，採用戲劇性的高端編輯風格權力人像調色，具備超詳細的 8K 清晰度。
-
-使用 Sony A7R IV, 50mm f/1.8 拍攝 — 前景主體與棋子銳利清晰，布料與石頭細節分明，背景幽靈肖像柔和融合。超寫實主義 — 零 AI 偽影，無浮水印。
-
-重要事項 — 僅使用我上傳的人臉參考圖像來確定 BOTH 幽靈背景肖像 AND 全彩前景站立人物的面部結構與身份。我的臉部必須與真實外貌完全相同，身份不得有任何改變。請保留我在上傳圖像中顯示的確切髮型、髮際線、額頭形狀、眉毛、眼型、鼻子結構、嘴唇、鬍子密度、八字鬍風格、下顎線、膚色、皮膚質感、男性化比例以及所有自然瑕疵。請勿美化、卡通化、磨皮、女性化或將我的臉替換成隨機名人或模特兒
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790922802908_fbtg66_HTjj2GiaAAAsLf-.jpg" width="600" alt="社群媒體貼文 - 西洋棋國王戰略權力人像提示詞 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **來源:** [Twitter Post](https://x.com/JamilAI55/status/2105683448715485557)
-- **發布時間:** 2026年10月1日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35799)**
 
 ---
 
@@ -4728,7 +4730,78 @@ STORYBOARD：
 
 ---
 
-### No. 87: 產品行銷 - 夜間臥室閱讀場景
+### No. 87: 產品行銷 - 前衛銀色禮服時尚編輯
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+生成一張全身高時尚編輯照片，展示一位身穿前衛銀色禮服的女性，並保留參考圖片中的面部特徵。
+
+#### 📝 提示詞
+
+```
+僅將參考圖片作為身份識別依據。請完整保留女孩的臉部特徵、五官結構、眼睛、鼻子、嘴唇、膚色及可辨識的面部細節，確保無任何身份偏移。創作一張全身時尚編輯攝影作品，從頭到腳完整呈現人物，雙腳需清晰可見。
+
+一位氣質出众的年輕女性自信地站立於充滿未來感的奢華時尚攝影棚中，身著由流動半透明銀色面料與精緻金屬花瓣製成的前衛雕塑感禮服，不對稱輪廓設計，建築感肩部剪裁，點綴細微水晶裝飾，展現優雅的高級時裝風格，烏黑亮麗的髮型，極簡銀飾搭配，神情自然且充滿自信。面料隨柔和微風輕盈飄動。反光黑色地板，幾何建築陰影，營造精緻未來主義氛圍，高級訂製時裝編輯風格，真實面料質感，自然皮膚毛孔與細膩面部特徵，寫實的手部與手指結構，符合人體工學的正確比例，超寫實攝影，全身構圖，相機位於視線高度並保持足夠距離以捕捉完整身體而不裁切，85mm 時尚攝影鏡頭，柔和定向工作室燈光，超高細節，8K 解析度，奢華雜誌美學，相同參考面孔，一致的身份特徵，無面部修改。
+
+負面提示詞：
+身份偏移，不同面孔，改變的五官特徵，面部變形，裁切頭部，裁切腳部，半身照，特寫，解剖結構失真，四肢拉長，比例錯誤，多餘手指，畸形手部，重複肢體，塑膠質感皮膚，過度平滑皮膚，CGI 效果，卡通風格，不真實面料，模糊面孔，不對稱眼睛，低解析度，文字，標誌，浮水印。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791101707931_s17g6f_HToVf2ZaYAAoxOT.jpg" width="600" alt="產品行銷 - 前衛銀色禮服時尚編輯 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Elvorya](https://x.com/Elvorya)
+- **來源:** [Twitter Post](https://x.com/Elvorya/status/2106019421063889140)
+- **發布時間:** 2026年10月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35845)**
+
+---
+
+### No. 88: 產品行銷 - 精品店中的時尚編輯人像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+生成寫實時尚編輯照的提示詞，呈現高級精品店中女性的特定服裝細節與電影感光影。
+
+#### 📝 提示詞
+
+```
+一張全身時尚編輯攝影作品，主角是一位美麗的年輕女性，外貌與參考圖一致：長而亮澤的深色頭髮、柔和瀏海、白皙肌膚及精緻的女性五官。她隨意地站在一家高級極簡主義時尚精品店內，身穿寬鬆的粉藍色針織毛衣，搭配黑色百褶網球裙、白色中筒襪以及厚底設計師運動鞋。姿態放鬆自信，帶著溫柔微笑；背景為奢華零售內部空間，配有現代化衣架、中性色調服飾、溫暖環境光線、木質與石材紋理、乾淨建築線條、電影感景深、真實光影效果、高端時尚廣告風格、Vogue 式編輯美學、超高細節、銳利對焦、寫實風格、4K 解析度。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791009133081_ah0zla_HTmmzRYbAAA0cV-.jpg" width="600" alt="產品行銷 - 精品店中的時尚編輯人像 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Nawal](https://x.com/nawalsehar)
+- **來源:** [Twitter Post](https://x.com/nawalsehar/status/2105897710918242518)
+- **發布時間:** 2026年10月2日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35800)**
+
+---
+
+### No. 89: 產品行銷 - 夜間臥室閱讀場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4773,7 +4846,7 @@ STORYBOARD：
 
 ---
 
-### No. 88: 產品行銷 - 電影感雙重曝光海報提示詞
+### No. 90: 產品行銷 - 電影感雙重曝光海報提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4806,7 +4879,7 @@ STORYBOARD：
 
 ---
 
-### No. 89: 產品行銷 - 伊斯坦堡博斯普魯斯海峽旅行人像
+### No. 91: 產品行銷 - 伊斯坦堡博斯普魯斯海峽旅行人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4849,7 +4922,7 @@ STORYBOARD：
 
 ---
 
-### No. 90: 產品行銷 - 電影級編輯風格臥室人像
+### No. 92: 產品行銷 - 電影級編輯風格臥室人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4893,7 +4966,7 @@ STORYBOARD：
 
 ---
 
-### No. 91: 產品行銷 - 現代廚房時尚人像
+### No. 93: 產品行銷 - 現代廚房時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4928,7 +5001,7 @@ STORYBOARD：
 
 ---
 
-### No. 92: 產品行銷 - 雨中的車站全身人像
+### No. 94: 產品行銷 - 雨中的車站全身人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4975,46 +5048,7 @@ STORYBOARD：
 
 ---
 
-### No. 93: 產品行銷 - 高級晚間肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-使用 Nano Banana Pro 創建年輕女性工作室高級晚間肖像的高細節提示詞。
-
-#### 📝 提示詞
-
-```
-創建一張高度逼真的垂直 4:5 比例高級晚間肖像，描繪一位年輕女性在精緻的工作室場景中擺姿勢。她微微側身背對鏡頭，展現優雅的回眸姿態，同時自信而優雅地直視鏡頭。
-
-她的深棕色頭髮梳成光滑的低髮髻，臉頰周圍留有幾縷柔和的碎髮。她擁有精緻自然的五官，溫暖白皙且質感真實的皮膚，富有表現力的棕色眼睛，輪廓分明的眉毛，微妙的煙燻酒紅色眼妝，柔和的腮紅，以及深玫瑰紅色亮澤雙唇。
-
-她身穿一件優雅的露肩深酒紅色緞面晚禮服，領口有摺疊垂墜設計，剪裁修身合體。背部裝飾著精緻的珠寶鑲嵌和閃亮的細節。添加奢華首飾：鑽石項鍊、紅寶石與鑽石耳墜、多枚優雅戒指、層疊金屬手鐲，以及一款經典豪華腕錶。她的指甲長而亮澤，飾有複雜的深紅色與銀色美甲藝術。
-
-她的一隻手輕柔地擺在肩膀附近，另一隻手自然地放在腰間。背景是豐富的深酒紅色工作室牆面，一側帶有柔和的奶油色光區，營造出戲劇性的雙色調背景。電影感暖色調照明，皮膚上的柔和高光，微妙陰影，高端珠寶廣告美學，逼真的織物與珠寶細節，自然的手部與手指，淺景深，專業時尚攝影，85mm 鏡頭效果，超寫實主義，優雅精緻，無文字，無浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750134723_q1b5j6_HTTkk4lbwAE7FNP.jpg" width="600" alt="產品行銷 - 高級晚間肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Aynah](https://x.com/AynahhX)
-- **來源:** [Twitter Post](https://x.com/AynahhX/status/2104558271369826806)
-- **發布時間:** 2026年9月28日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35618)**
-
----
-
-### No. 94: 電子商務主圖 - Nano Banana Pro Studio Portrait Prompt
+### No. 95: 電子商務主圖 - Nano Banana Pro Studio Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5060,7 +5094,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 95: 電子商務主圖 - 時尚編輯風格男裝拍攝
+### No. 96: 電子商務主圖 - 時尚編輯風格男裝拍攝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5112,7 +5146,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 96: 電子商務主圖 - 奢華產品靜物攝影企劃
+### No. 97: 電子商務主圖 - 奢華產品靜物攝影企劃
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5160,7 +5194,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 97: 電子商務主圖 - 紅色棒球帽時尚特寫
+### No. 98: 電子商務主圖 - 紅色棒球帽時尚特寫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5194,7 +5228,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 98: 電子商務主圖 - 極簡建築風格時尚人像
+### No. 99: 電子商務主圖 - 極簡建築風格時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5240,7 +5274,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 99: 電子商務主圖 - 鐵鏽紅絲綢洋裝野餐時尚特輯
+### No. 100: 電子商務主圖 - 鐵鏽紅絲綢洋裝野餐時尚特輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5274,7 +5308,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 100: 電子商務主圖 - 吉他琴衍整修微距攝影
+### No. 101: 電子商務主圖 - 吉他琴衍整修微距攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5308,7 +5342,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 101: 電子商務主圖 - 頂級飲品廣告攝影
+### No. 102: 電子商務主圖 - 頂級飲品廣告攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5348,7 +5382,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 102: 電子商務主圖 - 優雅黑色歐根紗緞帶
+### No. 103: 電子商務主圖 - 優雅黑色歐根紗緞帶
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5388,7 +5422,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 103: 電子商務主圖 - 奢華巧克力廣告靜物攝影
+### No. 104: 電子商務主圖 - 奢華巧克力廣告靜物攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5440,7 +5474,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 104: 電子商務主圖 - 超現實美妝產品髮捲
+### No. 105: 電子商務主圖 - 超現實美妝產品髮捲
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5474,7 +5508,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 105: 電子商務主圖 - 覆盆子外殼產品攝影
+### No. 106: 電子商務主圖 - 覆盆子外殼產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5526,7 +5560,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 106: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
+### No. 107: 電子商務主圖 - 帶有蜘蛛網元素的電影級產品廣告
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5566,7 +5600,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 107: 電子商務主圖 - 冰塊中的極簡主義產品
+### No. 108: 電子商務主圖 - 冰塊中的極簡主義產品
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5600,7 +5634,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 108: 電子商務主圖 - 奢華水瓶產品攝影
+### No. 109: 電子商務主圖 - 奢華水瓶產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5640,7 +5674,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 109: 電子商務主圖 - 夏季護膚品產品攝影
+### No. 110: 電子商務主圖 - 夏季護膚品產品攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5692,7 +5726,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 110: 電子商務主圖 - Nano Banana Pro 產品拼貼圖
+### No. 111: 電子商務主圖 - Nano Banana Pro 產品拼貼圖
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5732,7 +5766,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 111: 電子商務主圖 - 人體工學辦公椅電商行動版詳情頁
+### No. 112: 電子商務主圖 - 人體工學辦公椅電商行動版詳情頁
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5766,7 +5800,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 112: 電子商務主圖 - 風格化收藏玩具包裝
+### No. 113: 電子商務主圖 - 風格化收藏玩具包裝
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5818,7 +5852,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 113: 遊戲素材 - 機械憂鬱微距人像提示詞
+### No. 114: 遊戲素材 - 機械憂鬱微距人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5960,7 +5994,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 114: 遊戲素材 - Q 版 RPG 遊戲活動主視覺
+### No. 115: 遊戲素材 - Q 版 RPG 遊戲活動主視覺
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6011,7 +6045,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 115: 遊戲素材 - 表現主義繪畫風格寫實混合肖像
+### No. 116: 遊戲素材 - 表現主義繪畫風格寫實混合肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6070,7 +6104,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 116: 遊戲素材 - Artifact Diorama SQL 生成
+### No. 117: 遊戲素材 - Artifact Diorama SQL 生成
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6122,7 +6156,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 117: 遊戲素材 - Woodpunk 動力木製雕塑自動裝置
+### No. 118: 遊戲素材 - Woodpunk 動力木製雕塑自動裝置
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6180,7 +6214,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 118: 遊戲素材 - 漫畫主題桌面立體透視模型套件
+### No. 119: 遊戲素材 - 漫畫主題桌面立體透視模型套件
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6214,7 +6248,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 119: 遊戲素材 - 空靈女子花卉髮飾肖像
+### No. 120: 遊戲素材 - 空靈女子花卉髮飾肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6248,47 +6282,13 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 120: 遊戲素材 - 動漫龐克風格女性插畫
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張展現大膽龐克美學的動漫風格數位插畫。此提示詞包含細緻的角色設計，包括雙色染髮、彩色紋身以及動態攝影棚燈光效果。
-
-#### 📝 提示詞
-
-```
-一張充滿活力的年輕女性動漫風格數位插畫，展現大膽的龐克造型，基於 {argument name="reference image" default="image_0.png"}。她留著一頭飄逸的長髮，採用雙色染髮設計，右側為 {argument name="right hair color" default="亮青藍色"}，左側為 {argument name="left hair color" default="鮮紅色"}，並綁成凌亂的雙馬尾包頭。她露出自信且開懷的笑容，明亮的藍色雙眼搭配紅黑色的眼妝（眼下有十字圖案），並配戴多個耳環與黑色頸圈。她的左手臂佈滿細緻且色彩鮮豔的新傳統風格紋身（花卉與生物），腹部則有複雜的紋身，包含一個穿著紅衣的角色與小型圖案。她身穿深青色運動內衣搭配白色內搭，外罩一件寬鬆的黃色羽絨外套，外套部分滑落至肩下，上面有抽象的藍色/粉紅色補丁與風格化的日文片假名文字。整體造型以深色短褲與黑色皮帶完成。背景為乾淨的米白色攝影棚。中景特寫鏡頭，動態燈光，呈現細膩的漫畫藝術風格。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591084657_67012g_HRVdSThbkAA-5ar.jpg" width="600" alt="遊戲素材 - 動漫龐克風格女性插畫 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [𝑨𝒇𝒓𝒊𝒏](https://x.com/afrinxai)
-- **來源:** [Twitter Post](https://x.com/afrinxai/status/2095734348712423924)
-- **發布時間:** 2026年9月4日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33374)**
-
----
-
 ---
 
 ## 📚 更多提示詞
 
 <div align="center">
 
-### 🎯 15629 更多提示詞未在此顯示
+### 🎯 15632 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6351,6 +6351,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-05T08:11:48.823Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-06T08:03:58.728Z</sub>
 
 </div>
