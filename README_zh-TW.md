@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15752** |
+| 📝 提示詞總數 | **15755** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年10月6日 星期二 上午8:03:58 [UTC]** |
+| 🔄 最後更新 | **2026年10月7日 星期三 上午8:04:29 [UTC]** |
 
 </div>
 
@@ -2912,7 +2912,40 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 49: YouTube 縮圖 - 南極探險歷史寫實風格比較
+### No. 49: YouTube 縮圖 - 使用參考圖片生成科幻電影劇照
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+此提示詞用於透過多張參考圖片，生成具有電影感的科幻電影劇照，並應用於角色定位與風格轉換。適合從現有照片創建一致性的場景。
+
+#### 📝 提示詞
+
+```
+好萊塢科幻電影劇照。採用過肩鏡頭，前景左側為圖 1 中的男性。焦點位於畫面右側，為圖 2 中的女性。場景設定取自圖 3 的不同角度。請以圖 4 作為色彩調色、燈光、風格及膠片類型的參考依據。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="YouTube 縮圖 - 使用參考圖片生成科幻電影劇照 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Gertywood](https://x.com/Gertywood5)
+- **來源:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **發布時間:** 2026年10月7日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: YouTube 縮圖 - 南極探險歷史寫實風格比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2951,7 +2984,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 50: YouTube 縮圖 - 寺廟屋頂上的兜帽刺客奇幻藝術
+### No. 51: YouTube 縮圖 - 寺廟屋頂上的兜帽刺客奇幻藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2990,7 +3023,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 51: YouTube 縮圖 - YouTube 縮圖設計提示詞：文字疊加效果
+### No. 52: YouTube 縮圖 - YouTube 縮圖設計提示詞：文字疊加效果
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3026,7 +3059,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 52: YouTube 縮圖 - 蒸汽火車崩塌橋樑風暴
+### No. 53: YouTube 縮圖 - 蒸汽火車崩塌橋樑風暴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3066,7 +3099,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 53: YouTube 縮圖 - 電影感：受損太空船上的太空人
+### No. 54: YouTube 縮圖 - 電影感：受損太空船上的太空人
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3115,7 +3148,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 54: YouTube 縮圖 - 摩托車與夕陽的雙重曝光人像
+### No. 55: YouTube 縮圖 - 摩托車與夕陽的雙重曝光人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3149,7 +3182,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 55: YouTube 縮圖 - 高畫質人像轉換
+### No. 56: YouTube 縮圖 - 高畫質人像轉換
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3183,7 +3216,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 56: YouTube 縮圖 - 頂級暗黑奇幻動畫電影質感
+### No. 57: YouTube 縮圖 - 頂級暗黑奇幻動畫電影質感
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3217,7 +3250,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 57: YouTube 縮圖 - 甲子園棒球轉播畫面
+### No. 58: YouTube 縮圖 - 甲子園棒球轉播畫面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3251,7 +3284,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 58: YouTube 縮圖 - 排版湧現電影海報網格
+### No. 59: YouTube 縮圖 - 排版湧現電影海報網格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3285,7 +3318,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 59: YouTube 縮圖 - 微型立體書場景模型
+### No. 60: YouTube 縮圖 - 微型立體書場景模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3319,7 +3352,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 60: YouTube 縮圖 - 科幻風格咖啡機 Boss 戰
+### No. 61: YouTube 縮圖 - 科幻風格咖啡機 Boss 戰
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3353,7 +3386,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 61: YouTube 縮圖 - 威尼斯超現實巨型女子
+### No. 62: YouTube 縮圖 - 威尼斯超現實巨型女子
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3387,7 +3420,7 @@ GRAPHIC_SYSTEM := 推斷撕紙效果、印刷網格、柔和色塊、地形線�
 
 ---
 
-### No. 62: YouTube 縮圖 - 電影感運動紀錄片主視覺設計
+### No. 63: YouTube 縮圖 - 電影感運動紀錄片主視覺設計
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3421,7 +3454,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 63: YouTube 縮圖 - 壯麗大象雲朵攝影
+### No. 64: YouTube 縮圖 - 壯麗大象雲朵攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3465,7 +3498,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 64: YouTube 縮圖 - 動漫風格火車站變換
+### No. 65: YouTube 縮圖 - 動漫風格火車站變換
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3499,7 +3532,7 @@ do this for {argument name="event" default="2026 年阿根廷世界盃"}, void m
 
 ---
 
-### No. 65: YouTube 縮圖 - 豆豆先生與 Mini Cooper 的混亂時刻
+### No. 66: YouTube 縮圖 - 豆豆先生與 Mini Cooper 的混亂時刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3553,7 +3586,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 66: YouTube 縮圖 - 電影感月光屋頂人像拼貼
+### No. 67: YouTube 縮圖 - 電影感月光屋頂人像拼貼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3593,7 +3626,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 67: YouTube 縮圖 - 街頭魅力蛋糕刀肖像
+### No. 68: YouTube 縮圖 - 街頭魅力蛋糕刀肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3627,18 +3660,18 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 68: YouTube 縮圖 - 電影感義警視覺海報
+### No. 69: 漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-一款高對比度的電影感海報提示詞，主角為身穿戰術套裝的蒙面義警，搭配大膽的排版與粗獷的黑色電影美學。
+此提示詞旨在生成引人注目的魔法少女動漫主視覺與海報設計，包含標題 Logo 元素。
 
 #### 📝 提示詞
 
 ```
-一張電影感十足的垂直視覺海報，主角是一位身穿碳纖維戰術套裝的蒙面義警。角色位於前景，呈現出粗獷的霧面黑色質感。背景採用巨大的粗體模板風格排版，呈現深緋紅色，並帶有厚重的金屬刮痕與風化紋理。燈光低調且極具戲劇性，套裝邊緣的細微輪廓光勾勒出裝甲板的細節。高對比度的黑色電影美學，氛圍陰鬱，細節銳利，8k 解析度。極致的微距特寫，聚焦於怪物般的綠色皮膚臉龐，重點在於鼻子、皺起的眉頭以及強烈發光的綠色雙眼。皮膚細節極致豐富，帶有深層皺紋、汗水以及粗糙的皮革質感。畫面中央垂直疊加著「HULK」字樣，採用大型、粗體、風化的白色無襯線字體，並帶有金屬刮痕質感。色調以深祖母綠與陰影為主，畫面中充滿爆發性的綠色能量粒子與飛散的碎片。電影級燈光，粗獷氛圍，8k 解析度，超寫實，營造出強烈且具侵略性的氛圍。
+為魔法少女動漫創建主視覺。將其完成為包含標題 Logo 的精美海報設計。
 ```
 
 #### 🖼️ 生成圖片
@@ -3646,39 +3679,39 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="YouTube 縮圖 - 電影感義警視覺海報 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="YouTube 縮圖 - 電影感義警視覺海報 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="YouTube 縮圖 - 電影感義警視覺海報 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="YouTube 縮圖 - 電影感義警視覺海報 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="漫畫 / 分鏡腳本 - Nano Banana Pro 魔法少女動漫主視覺提示詞 - Image 4">
 </div>
 
 #### 📌 詳情
 
-- **作者:** [Aijaz](https://x.com/iamsofiaijaz)
-- **來源:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **發布時間:** 2026年5月12日
-- **多語言:** en
+- **作者:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **來源:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **發布時間:** 2026年10月6日
+- **多語言:** ja
 
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=19783)**
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: 漫畫 / 分鏡腳本 - 現代漫畫插畫風格提示詞
+### No. 70: 漫畫 / 分鏡腳本 - 現代漫畫插畫風格提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3729,7 +3762,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 70: 漫畫 / 分鏡腳本 - 賽博龐克偵探電影劇照
+### No. 71: 漫畫 / 分鏡腳本 - 賽博龐克偵探電影劇照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3842,7 +3875,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 71: 漫畫 / 分鏡腳本 - 單色墨水原子筆雜誌海報
+### No. 72: 漫畫 / 分鏡腳本 - 單色墨水原子筆雜誌海報
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3882,7 +3915,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 72: 漫畫 / 分鏡腳本 - 年邁哈利波特冬季場景
+### No. 73: 漫畫 / 分鏡腳本 - 年邁哈利波特冬季場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3935,7 +3968,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 73: 漫畫 / 分鏡腳本 - 卡通怪獸 Rat Rod 直線加速賽
+### No. 74: 漫畫 / 分鏡腳本 - 卡通怪獸 Rat Rod 直線加速賽
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3969,7 +4002,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 74: 漫畫 / 分鏡腳本 - 錯綜複雜的龍之奇幻詩篇
+### No. 75: 漫畫 / 分鏡腳本 - 錯綜複雜的龍之奇幻詩篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4070,7 +4103,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 75: 漫畫 / 分鏡腳本 - 風格化武術動漫少女
+### No. 76: 漫畫 / 分鏡腳本 - 風格化武術動漫少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4103,7 +4136,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 76: 漫畫 / 分鏡腳本 - 楓糖漿商業廣告專案
+### No. 77: 漫畫 / 分鏡腳本 - 楓糖漿商業廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4181,7 +4214,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 77: 漫畫 / 分鏡腳本 - 黏土動畫變色龍森林
+### No. 78: 漫畫 / 分鏡腳本 - 黏土動畫變色龍森林
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4215,7 +4248,7 @@ Mini Cooper 內裝呈現照片級細節（儀表板、方向盤、座椅、倒�
 
 ---
 
-### No. 78: 漫畫 / 分鏡腳本 - 草莓起司蛋糕冰淇淋專案
+### No. 79: 漫畫 / 分鏡腳本 - 草莓起司蛋糕冰淇淋專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4295,7 +4328,7 @@ STORYBOARD：
 
 ---
 
-### No. 79: 漫畫 / 分鏡腳本 - 希臘優格廣告專案
+### No. 80: 漫畫 / 分鏡腳本 - 希臘優格廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4329,7 +4362,7 @@ STORYBOARD：
 
 ---
 
-### No. 80: 漫畫 / 分鏡腳本 - 電影感 2D 動漫插畫
+### No. 81: 漫畫 / 分鏡腳本 - 電影感 2D 動漫插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4375,7 +4408,7 @@ STORYBOARD：
 
 ---
 
-### No. 81: 漫畫 / 分鏡腳本 - 電影感雨夜車內人像
+### No. 82: 漫畫 / 分鏡腳本 - 電影感雨夜車內人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4408,7 +4441,7 @@ STORYBOARD：
 
 ---
 
-### No. 82: 漫畫 / 分鏡腳本 - 頂級優格廣告專案
+### No. 83: 漫畫 / 分鏡腳本 - 頂級優格廣告專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4486,7 +4519,7 @@ STORYBOARD：
 
 ---
 
-### No. 83: 漫畫 / 分鏡腳本 - 家庭晚餐電影感聯絡頁
+### No. 84: 漫畫 / 分鏡腳本 - 家庭晚餐電影感聯絡頁
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4592,7 +4625,7 @@ STORYBOARD：
 
 ---
 
-### No. 84: 漫畫 / 分鏡腳本 - 燈塔守護者的專案
+### No. 85: 漫畫 / 分鏡腳本 - 燈塔守護者的專案
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4662,7 +4695,7 @@ STORYBOARD：
 
 ---
 
-### No. 85: 漫畫 / 分鏡腳本 - 素描風格人像插畫
+### No. 86: 漫畫 / 分鏡腳本 - 素描風格人像插畫
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4693,40 +4726,6 @@ STORYBOARD：
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: 漫畫 / 分鏡腳本 - 神秘瀑布奇幻肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一張令人驚嘆的奇幻肖像提示詞，描繪了一位身著傳統服飾的亞洲女性站在霧氣繚繞的瀑布前，呈現出魔法般的水流特效與體積光束。
-
-#### 📝 提示詞
-
-```
-一張電影級的肖像照，描繪了一位美麗的 {argument name="ethnicity" default="亞洲"} 女性，站在清澈且霧氣繚繞的河水中，身後是壯麗的瀑布與茂密的森林植被。她身穿優雅的 {argument name="outfit material" default="白色緞面"} 傳統交領長袍，腰間繫著腰帶，並搭配精緻的金色臂環與華麗的金色項鍊。她烏黑的長直髮隨風飄動，彷彿被神秘的微風吹拂。她表情專注而強烈，雙手張開，動態的水花與漩渦在魔法作用下圍繞著她向上彎曲，超寫實的體積光束穿透森林樹冠，細節豐富的水滴，戲劇性的光影，奇幻寫實風格，8k 解析度。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="漫畫 / 分鏡腳本 - 神秘瀑布奇幻肖像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Zara Quinn](https://x.com/Zara__Ai)
-- **來源:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **發布時間:** 2026年9月4日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6288,7 +6287,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15632 更多提示詞未在此顯示
+### 🎯 15635 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6351,6 +6350,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-06T08:03:58.728Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-07T08:04:29.802Z</sub>
 
 </div>

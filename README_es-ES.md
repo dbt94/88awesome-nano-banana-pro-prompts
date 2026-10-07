@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15752** |
+| 📝 Total de prompts | **15755** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **martes, 6 de octubre de 2026, 8:04:50 UTC** |
+| 🔄 Última actualización | **miércoles, 7 de octubre de 2026, 8:05:19 UTC** |
 
 </div>
 
@@ -2896,7 +2896,40 @@ un {argument name="bird species" default="dodo"}. Su cuerpo es regordete y redon
 
 ---
 
-### No. 49: Miniatura de YouTube - Comparación de Realismo Histórico para Expedición Antártica
+### No. 49: Miniatura de YouTube - Fotograma de película de ciencia ficción con imágenes de referencia
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para generar una escena cinematográfica de ciencia ficción utilizando múltiples imágenes de referencia para la posición de los personajes y la transferencia de estilo. Útil para crear escenas consistentes a partir de fotos existentes.
+
+#### 📝 Prompt
+
+```
+Fotograma de una película de ciencia ficción de Hollywood. Plano sobre el hombro del hombre en la imagen 1. Está en el lado izquierdo del encuadre, en primer plano. La mujer de la imagen 2 está en el lado derecho del encuadre, enfocada. El escenario es un ángulo diferente de la imagen 3. Usa la imagen 4 como influencia para la corrección de color, la iluminación, el estilo y el tipo de película.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="Miniatura de YouTube - Fotograma de película de ciencia ficción con imágenes de referencia - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Gertywood](https://x.com/Gertywood5)
+- **Fuente:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **Publicado:** 7 de octubre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: Miniatura de YouTube - Comparación de Realismo Histórico para Expedición Antártica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2935,7 +2968,7 @@ Fotografía en blanco y negro de archivo crudo de una expedición antártica de 
 
 ---
 
-### No. 50: Miniatura de YouTube - Arte fantástico de un asesino encapuchado en el tejado de un templo
+### No. 51: Miniatura de YouTube - Arte fantástico de un asesino encapuchado en el tejado de un templo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2971,7 +3004,7 @@ Composición épica, perspectiva contrapicada, silueta dramática, luz lunar vol
 
 ---
 
-### No. 51: Miniatura de YouTube - Prompt de diseño de miniaturas de YouTube con superposición de texto
+### No. 52: Miniatura de YouTube - Prompt de diseño de miniaturas de YouTube con superposición de texto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3007,7 +3040,7 @@ El pie de foto de la miniatura es ["{argument name=\"caption_text\" default=\"Ya
 
 ---
 
-### No. 52: Miniatura de YouTube - Locomotora de vapor en puente colapsando durante una tormenta
+### No. 53: Miniatura de YouTube - Locomotora de vapor en puente colapsando durante una tormenta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3047,7 +3080,7 @@ El visual clave: tren gigantesco + puente colapsando + tormenta oceánica + rel�
 
 ---
 
-### No. 53: Miniatura de YouTube - Astronauta cinematográfico en una nave espacial dañada
+### No. 54: Miniatura de YouTube - Astronauta cinematográfico en una nave espacial dañada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3096,7 +3129,7 @@ Un prompt estructurado para generar una escena conmovedora de un astronauta soli
 
 ---
 
-### No. 54: Miniatura de YouTube - Retrato de doble exposición: motocicleta al atardecer
+### No. 55: Miniatura de YouTube - Retrato de doble exposición: motocicleta al atardecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3130,7 +3163,7 @@ Una imagen 3D fotorrealista de un joven elegante posando junto a una moderna mot
 
 ---
 
-### No. 55: Miniatura de YouTube - Transformación de retratos en alta definición
+### No. 56: Miniatura de YouTube - Transformación de retratos en alta definición
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3164,7 +3197,7 @@ Convierte esta imagen en: un retrato en primer plano ultra realista de un {argum
 
 ---
 
-### No. 56: Miniatura de YouTube - Cinemática de anime de fantasía oscura premium
+### No. 57: Miniatura de YouTube - Cinemática de anime de fantasía oscura premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3198,7 +3231,7 @@ Crea una impresionante ilustración cinemática de anime de ultra alta calidad a
 
 ---
 
-### No. 57: Miniatura de YouTube - Pantalla de transmisión de béisbol de Koshien
+### No. 58: Miniatura de YouTube - Pantalla de transmisión de béisbol de Koshien
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3232,7 +3265,7 @@ Una captura de pantalla de la transmisión de la final de béisbol de preparator
 
 ---
 
-### No. 58: Miniatura de YouTube - Cuadrícula de pósteres de películas con tipografía emergente
+### No. 59: Miniatura de YouTube - Cuadrícula de pósteres de películas con tipografía emergente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3266,7 +3299,7 @@ Cuadrícula de 2x2, 16:9, haz esto para 4 películas famosas: TYPOGRAPHIC_EMERGE
 
 ---
 
-### No. 59: Miniatura de YouTube - Diorama de libro desplegable en miniatura
+### No. 60: Miniatura de YouTube - Diorama de libro desplegable en miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3300,7 +3333,7 @@ Cuadrícula 2x2, 16:9, haz esto para 4 {argument name="subject" default="ciudade
 
 ---
 
-### No. 60: Miniatura de YouTube - Batalla contra el jefe: Máquina de café de ciencia ficción
+### No. 61: Miniatura de YouTube - Batalla contra el jefe: Máquina de café de ciencia ficción
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3334,7 +3367,7 @@ Un prompt humorístico al estilo meme que reimagina la máquina de café de la o
 
 ---
 
-### No. 61: Miniatura de YouTube - Mujer gigante surrealista en Venecia
+### No. 62: Miniatura de YouTube - Mujer gigante surrealista en Venecia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3368,7 +3401,7 @@ Una {argument name="subject" default="mujer gigante"} surrealista sentada con el
 
 ---
 
-### No. 62: Miniatura de YouTube - Arte principal para documental deportivo cinematográfico
+### No. 63: Miniatura de YouTube - Arte principal para documental deportivo cinematográfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3402,7 +3435,7 @@ do this for {argument name="event" default="Copa Mundial de Argentina 2026"}, vo
 
 ---
 
-### No. 63: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
+### No. 64: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3446,7 +3479,7 @@ Ambiente: majestuoso, tranquilo, surrealista pero creíble, realismo de document
 
 ---
 
-### No. 64: Miniatura de YouTube - Transformación de estación de tren al estilo anime
+### No. 65: Miniatura de YouTube - Transformación de estación de tren al estilo anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3480,7 +3513,7 @@ Por favor, créalo en un estilo anime. {argument name="descripción de la escena
 
 ---
 
-### No. 65: Miniatura de YouTube - El caos de Mr. Bean en su Mini Cooper
+### No. 66: Miniatura de YouTube - El caos de Mr. Bean en su Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3534,7 +3567,7 @@ Vibrante, caótico, vertiginoso, cinematográfico, humorístico
 
 ---
 
-### No. 66: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
+### No. 67: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3574,7 +3607,7 @@ Utiliza la imagen de referencia facial cargada como referencia de identidad exac
 
 ---
 
-### No. 67: Miniatura de YouTube - Retrato de glamour callejero con cuchillo de pastel
+### No. 68: Miniatura de YouTube - Retrato de glamour callejero con cuchillo de pastel
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3608,18 +3641,18 @@ No cambies los rasgos faciales. Un retrato cinematográfico en primer plano de u
 
 ---
 
-### No. 68: Miniatura de YouTube - Póster gráfico cinematográfico de vigilante
+### No. 69: Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Descripción
 
-Un prompt para un póster cinematográfico de alto contraste que presenta a un vigilante enmascarado con traje táctico, tipografía llamativa y una estética noir cruda.
+Un prompt diseñado para generar una impactante key visual y diseño de póster de anime de chicas mágicas, incluyendo elementos del logotipo del título.
 
 #### 📝 Prompt
 
 ```
-Un póster gráfico cinematográfico vertical de un vigilante enmascarado con un traje táctico de fibra de carbono. El personaje está situado en primer plano con una textura negra mate y cruda. El fondo presenta una tipografía masiva y llamativa de estilo estarcido en un rojo carmesí intenso con fuertes arañazos metálicos y texturas desgastadas. La iluminación es tenue y dramática, con una sutil luz de contorno en el traje para definir sus placas de armadura. Estética noir de alto contraste, atmósfera melancólica, detalles nítidos, resolución 8k. Primer plano macro extremo de un rostro monstruoso de piel verde, centrado en la nariz, el entrecejo fruncido y unos intensos ojos verdes brillantes. La piel es hiperdetallada con arrugas profundas, sudor y una textura rugosa y correosa. Superpuesta verticalmente en el centro está la palabra "HULK" en una tipografía sans-serif grande, llamativa y desgastada de color blanco con un acabado metálico y rayado. La paleta de colores está dominada por verdes esmeralda intensos y sombras, con partículas de energía verde explosivas y escombros volando por el encuadre. Iluminación cinematográfica, atmósfera cruda, resolución 8k, hiperrealista, estado de ánimo agresivo y poderoso.
+Crea una key visual para un anime de chicas mágicas. Termina el diseño como un atractivo póster que incluya el logotipo del título.
 ```
 
 #### 🖼️ Imágenes generadas
@@ -3627,39 +3660,39 @@ Un póster gráfico cinematográfico vertical de un vigilante enmascarado con un
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="Miniatura de YouTube - Póster gráfico cinematográfico de vigilante - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="Miniatura de YouTube - Póster gráfico cinematográfico de vigilante - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="Miniatura de YouTube - Póster gráfico cinematográfico de vigilante - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="Miniatura de YouTube - Póster gráfico cinematográfico de vigilante - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="Cómic / Guion gráfico - Prompt de Key Visual para Anime de Chicas Mágicas con Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Detalles
 
-- **Autor:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Fuente:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **Publicado:** 12 de mayo de 2026
-- **Idiomas:** en
+- **Autor:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **Fuente:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **Publicado:** 6 de octubre de 2026
+- **Idiomas:** ja
 
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=19783)**
+**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: Cómic / Guion gráfico - Prompt de Estilo de Ilustración de Cómic Moderno
+### No. 70: Cómic / Guion gráfico - Prompt de Estilo de Ilustración de Cómic Moderno
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3710,7 +3743,7 @@ Estilo de ilustración de cómic moderno con un enfoque semi-realista, líneas d
 
 ---
 
-### No. 70: Cómic / Guion gráfico - Fotograma de película de detective cyberpunk
+### No. 71: Cómic / Guion gráfico - Fotograma de película de detective cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3823,7 +3856,7 @@ Un prompt de escena cinematográfica cyberpunk estructurado en formato JSON para
 
 ---
 
-### No. 71: Cómic / Guion gráfico - Póster tipo fanzine con bolígrafo de tinta monocromática
+### No. 72: Cómic / Guion gráfico - Póster tipo fanzine con bolígrafo de tinta monocromática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3863,7 +3896,7 @@ Ilustración a bolígrafo azul ultra detallada traducida a tinta negra monocrom�
 
 ---
 
-### No. 72: Cómic / Guion gráfico - Escena invernal de Harry Potter anciano
+### No. 73: Cómic / Guion gráfico - Escena invernal de Harry Potter anciano
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3916,7 +3949,7 @@ Un prompt cinematográfico y emotivo que imagina a un Harry Potter de 80 años r
 
 ---
 
-### No. 73: Cómic / Guion gráfico - Carrera de aceleración de monstruos de dibujos animados estilo Rat Rod
+### No. 74: Cómic / Guion gráfico - Carrera de aceleración de monstruos de dibujos animados estilo Rat Rod
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3950,7 +3983,7 @@ Una vibrante ilustración de estilo caricaturesco muestra a una {argument name="
 
 ---
 
-### No. 74: Cómic / Guion gráfico - Texto de fantasía poética intrincada sobre dragones
+### No. 75: Cómic / Guion gráfico - Texto de fantasía poética intrincada sobre dragones
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4051,7 +4084,7 @@ abra su mano silenciosa y necesaria.
 
 ---
 
-### No. 75: Cómic / Guion gráfico - Chica de anime de artes marciales estilizada
+### No. 76: Cómic / Guion gráfico - Chica de anime de artes marciales estilizada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4084,7 +4117,7 @@ Una ilustración digital de anime estilizada de una joven de Asia Oriental con u
 
 ---
 
-### No. 76: Cómic / Guion gráfico - Storyboard para comercial de jarabe de arce
+### No. 77: Cómic / Guion gráfico - Storyboard para comercial de jarabe de arce
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4162,7 +4195,7 @@ Publicidad de alimentos ultrarrealista, viscosidad realista del jarabe, textura 
 
 ---
 
-### No. 77: Cómic / Guion gráfico - Camaleón de plastilina en el bosque
+### No. 78: Cómic / Guion gráfico - Camaleón de plastilina en el bosque
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4196,7 +4229,7 @@ Una escena vibrante y fantástica de animación con plastilina muestra a un colo
 
 ---
 
-### No. 78: Cómic / Guion gráfico - Storyboard para helado de tarta de queso con fresa
+### No. 79: Cómic / Guion gráfico - Storyboard para helado de tarta de queso con fresa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4276,7 +4309,7 @@ Comercial de postres congelados premium ultrarrealista, textura de helado rica y
 
 ---
 
-### No. 79: Cómic / Guion gráfico - Storyboard para comercial de yogur griego
+### No. 80: Cómic / Guion gráfico - Storyboard para comercial de yogur griego
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4310,7 +4343,7 @@ TÍTULO: Storyboard para comercial de producto de yogur griego premium FORMATO: 
 
 ---
 
-### No. 80: Cómic / Guion gráfico - Ilustración de anime 2D cinematográfica
+### No. 81: Cómic / Guion gráfico - Ilustración de anime 2D cinematográfica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4356,7 +4389,7 @@ Ilustración digital 2D cinematográfica, {argument name="style aesthetic" defau
 
 ---
 
-### No. 81: Cómic / Guion gráfico - Retrato cinematográfico en coche en una noche lluviosa
+### No. 82: Cómic / Guion gráfico - Retrato cinematográfico en coche en una noche lluviosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4389,7 +4422,7 @@ Un prompt cinematográfico y emotivo de una mujer en el asiento trasero de un co
 
 ---
 
-### No. 82: Cómic / Guion gráfico - Storyboard para comercial de yogur premium
+### No. 83: Cómic / Guion gráfico - Storyboard para comercial de yogur premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4467,7 +4500,7 @@ Fotografía gastronómica de lácteos ultrarrealista, textura cremosa y espesa, 
 
 ---
 
-### No. 83: Cómic / Guion gráfico - Hoja de contacto cinematográfica de cena familiar
+### No. 84: Cómic / Guion gráfico - Hoja de contacto cinematográfica de cena familiar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4573,7 +4606,7 @@ Un prompt JSON estructurado para generar un collage cinematográfico fotorrealis
 
 ---
 
-### No. 84: Cómic / Guion gráfico - Storyboard del Guardián del Faro
+### No. 85: Cómic / Guion gráfico - Storyboard del Guardián del Faro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4643,7 +4676,7 @@ Un prompt cinematográfico detallado para una escena misteriosa de un faro azota
 
 ---
 
-### No. 85: Cómic / Guion gráfico - Ilustración de retrato estilo boceto
+### No. 86: Cómic / Guion gráfico - Ilustración de retrato estilo boceto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4674,40 +4707,6 @@ una cautivadora ilustración digital de una mujer joven con {argument name="skin
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: Cómic / Guion gráfico - Retrato de fantasía de una cascada mística
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un impresionante prompt de retrato de fantasía de una mujer asiática con túnicas tradicionales en una cascada brumosa, con efectos mágicos de agua en remolino y rayos de sol volumétricos.
-
-#### 📝 Prompt
-
-```
-Un retrato cinematográfico de una hermosa mujer {argument name="ethnicity" default="asiática"} de pie hasta la cintura en un río claro y brumoso frente a una majestuosa cascada rodeada de un denso follaje forestal. Viste una elegante túnica tradicional de {argument name="outfit material" default="satén blanco"} con solapas cruzadas y una faja atada, combinada con intrincados brazaletes dorados y un collar de oro ornamentado. Su largo cabello negro y liso se balancea dramáticamente como si fuera atrapado por una brisa mística. Con una expresión intensa y enfocada, mantiene las manos abiertas mientras salpicaduras dinámicas y remolinos de agua se curvan mágicamente a su alrededor, rayos de sol volumétricos hiperrealistas atraviesan el dosel del bosque, gotas de agua altamente detalladas, iluminación dramática, realismo de fantasía, resolución 8k.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="Cómic / Guion gráfico - Retrato de fantasía de una cascada mística - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Zara Quinn](https://x.com/Zara__Ai)
-- **Fuente:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **Publicado:** 4 de septiembre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-ES/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6269,7 +6268,7 @@ Retrato en primer plano de una {argument name="subject" default="joven etérea"}
 
 <div align="center">
 
-### 🎯 15632 prompts más no mostrados aquí
+### 🎯 15635 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6332,6 +6331,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-06T08:04:50.464Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-07T08:05:19.824Z</sub>
 
 </div>

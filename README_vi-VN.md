@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15752** |
+| 📝 Tổng số câu lệnh | **15755** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:04:32 UTC Thứ Ba, 6 tháng 10, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:05:05 UTC Thứ Tư, 7 tháng 10, 2026** |
 
 </div>
 
@@ -2897,7 +2897,40 @@ một {argument name="bird species" default="chim dodo"}. Cơ thể nó đầy �
 
 ---
 
-### No. 49: Hình thu nhỏ trên YouTube - So sánh tính chân thực lịch sử trong các cuộc thám hiểm Nam Cực
+### No. 49: Hình thu nhỏ trên YouTube - Ảnh tĩnh phim Khoa học Viễn tưởng với Hình ảnh Tham chiếu
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Mô tả
+
+Prompt để tạo ảnh tĩnh phim khoa học viễn tưởng điện ảnh bằng nhiều hình ảnh tham chiếu cho vị trí nhân vật và chuyển đổi phong cách. Hữu ích để tạo các cảnh nhất quán từ những bức ảnh có sẵn.
+
+#### 📝 Câu lệnh
+
+```
+Ảnh tĩnh từ một bộ phim khoa học viễn tưởng Hollywood. Góc quay qua vai của người đàn ông trong hình 1. Anh ấy ở phía bên trái khung hình, nằm ở tiền cảnh. Người phụ nữ từ hình 2 ở phía bên phải khung hình và được lấy nét. Bối cảnh là một góc khác của hình 3. Sử dụng hình 4 làm nguồn cảm hứng cho việc chỉnh màu, ánh sáng, phong cách và loại phim.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="Hình thu nhỏ trên YouTube - Ảnh tĩnh phim Khoa học Viễn tưởng với Hình ảnh Tham chiếu - Image 1">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [Gertywood](https://x.com/Gertywood5)
+- **Nguồn:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **Đã xuất bản:** 7 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: Hình thu nhỏ trên YouTube - So sánh tính chân thực lịch sử trong các cuộc thám hiểm Nam Cực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2936,7 +2969,7 @@ Bức ảnh đen trắng từ kho lưu trữ gốc của một cuộc thám hi�
 
 ---
 
-### No. 50: Hình thu nhỏ trên YouTube - Nghệ thuật Fantasy: Sát thủ trùm đầu trên mái đền
+### No. 51: Hình thu nhỏ trên YouTube - Nghệ thuật Fantasy: Sát thủ trùm đầu trên mái đền
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2972,7 +3005,7 @@ Bố cục sử thi, phối cảnh góc thấp, bóng đổ kịch tính, ánh t
 
 ---
 
-### No. 51: Hình thu nhỏ trên YouTube - Prompt thiết kế hình thu nhỏ YouTube với lớp phủ văn bản
+### No. 52: Hình thu nhỏ trên YouTube - Prompt thiết kế hình thu nhỏ YouTube với lớp phủ văn bản
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3008,7 +3041,7 @@ Văn bản chú thích của hình thu nhỏ là ["{argument name=\"caption_text
 
 ---
 
-### No. 52: Hình thu nhỏ trên YouTube - Đầu máy hơi nước trên cây cầu sập giữa cơn bão
+### No. 53: Hình thu nhỏ trên YouTube - Đầu máy hơi nước trên cây cầu sập giữa cơn bão
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3048,7 +3081,7 @@ Hình ảnh chủ đạo: đoàn tàu khổng lồ + cây cầu sập + bão bi�
 
 ---
 
-### No. 53: Hình thu nhỏ trên YouTube - Phi hành gia điện ảnh trên tàu vũ trụ hư hỏng
+### No. 54: Hình thu nhỏ trên YouTube - Phi hành gia điện ảnh trên tàu vũ trụ hư hỏng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3097,7 +3130,7 @@ Một câu lệnh có cấu trúc để tạo ra một cảnh quay đầy cảm 
 
 ---
 
-### No. 54: Hình thu nhỏ trên YouTube - Chân dung phơi sáng kép: Xe mô tô và hoàng hôn
+### No. 55: Hình thu nhỏ trên YouTube - Chân dung phơi sáng kép: Xe mô tô và hoàng hôn
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3131,7 +3164,7 @@ Một hình ảnh 3D chân thực, sắc nét về một chàng trai trẻ sành
 
 ---
 
-### No. 55: Hình thu nhỏ trên YouTube - Chuyển đổi chân dung độ phân giải cao
+### No. 56: Hình thu nhỏ trên YouTube - Chuyển đổi chân dung độ phân giải cao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3165,7 +3198,7 @@ Chuyển đổi hình ảnh này thành: Ảnh chân dung cận cảnh siêu th�
 
 ---
 
-### No. 56: Hình thu nhỏ trên YouTube - Ảnh Anime Điện ảnh Dark Fantasy Cao cấp
+### No. 57: Hình thu nhỏ trên YouTube - Ảnh Anime Điện ảnh Dark Fantasy Cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3199,7 +3232,7 @@ Tạo ra một tác phẩm nghệ thuật anime điện ảnh siêu cao cấp, n
 
 ---
 
-### No. 57: Hình thu nhỏ trên YouTube - Màn hình phát sóng bóng chày Koshien
+### No. 58: Hình thu nhỏ trên YouTube - Màn hình phát sóng bóng chày Koshien
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3233,7 +3266,7 @@ Một câu lệnh chi tiết để tạo ảnh chụp màn hình phát sóng tru
 
 ---
 
-### No. 58: Hình thu nhỏ trên YouTube - Lưới áp phích phim Typography Emergence
+### No. 59: Hình thu nhỏ trên YouTube - Lưới áp phích phim Typography Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3267,7 +3300,7 @@ Lưới 2x2, 16:9, thực hiện cho 4 bộ phim nổi tiếng: TYPOGRAPHIC_EMER
 
 ---
 
-### No. 59: Hình thu nhỏ trên YouTube - Diorama Sách Pop-up Thu nhỏ
+### No. 60: Hình thu nhỏ trên YouTube - Diorama Sách Pop-up Thu nhỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3301,7 +3334,7 @@ Lưới 2x2, 16:9, thực hiện cho 4 {argument name="subject" default="thành 
 
 ---
 
-### No. 60: Hình thu nhỏ trên YouTube - Trận chiến trùm máy pha cà phê phong cách khoa học viễn tưởng
+### No. 61: Hình thu nhỏ trên YouTube - Trận chiến trùm máy pha cà phê phong cách khoa học viễn tưởng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3335,7 +3368,7 @@ Một câu lệnh (prompt) hài hước theo phong cách meme, tái hiện chi�
 
 ---
 
-### No. 61: Hình thu nhỏ trên YouTube - Người phụ nữ khổng lồ siêu thực tại Venice
+### No. 62: Hình thu nhỏ trên YouTube - Người phụ nữ khổng lồ siêu thực tại Venice
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3369,7 +3402,7 @@ Một khung cảnh siêu thực với {argument name="subject" default="người
 
 ---
 
-### No. 62: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo cho phim tài liệu thể thao điện ảnh
+### No. 63: Hình thu nhỏ trên YouTube - Hình ảnh chủ đạo cho phim tài liệu thể thao điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3403,7 +3436,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 63: Hình thu nhỏ trên YouTube - Nhiếp ảnh đám mây hình voi hùng vĩ
+### No. 64: Hình thu nhỏ trên YouTube - Nhiếp ảnh đám mây hình voi hùng vĩ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3447,7 +3480,7 @@ Tâm trạng: hùng vĩ, bình lặng, siêu thực nhưng đáng tin, chân th�
 
 ---
 
-### No. 64: Hình thu nhỏ trên YouTube - Biến hóa nhà ga tàu hỏa theo phong cách Anime
+### No. 65: Hình thu nhỏ trên YouTube - Biến hóa nhà ga tàu hỏa theo phong cách Anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3481,7 +3514,7 @@ Vui lòng tạo nó theo phong cách anime. {argument name="scene description" d
 
 ---
 
-### No. 65: Hình thu nhỏ trên YouTube - Sự hỗn loạn của Mr Bean trên chiếc Mini Cooper
+### No. 66: Hình thu nhỏ trên YouTube - Sự hỗn loạn của Mr Bean trên chiếc Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3535,7 +3568,7 @@ Sống động, hỗn loạn, nhịp độ nhanh, đậm chất điện ảnh, h
 
 ---
 
-### No. 66: Hình thu nhỏ trên YouTube - Ảnh ghép chân dung điện ảnh dưới ánh trăng trên sân thượng
+### No. 67: Hình thu nhỏ trên YouTube - Ảnh ghép chân dung điện ảnh dưới ánh trăng trên sân thượng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3575,7 +3608,7 @@ Sử dụng hình ảnh tham chiếu khuôn mặt đã tải lên làm tham chi�
 
 ---
 
-### No. 67: Hình thu nhỏ trên YouTube - Chân dung Street Glamour với dao cắt bánh
+### No. 68: Hình thu nhỏ trên YouTube - Chân dung Street Glamour với dao cắt bánh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3609,18 +3642,18 @@ Không thay đổi các đường nét trên khuôn mặt. Một bức chân dun
 
 ---
 
-### No. 68: Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù
+### No. 69: Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Mô tả
 
-Gợi ý tạo poster điện ảnh có độ tương phản cao, khắc họa một người hùng báo thù đeo mặt nạ trong bộ đồ tác chiến, kết hợp cùng kiểu chữ đậm nét và phong cách noir gai góc.
+Prompt được thiết kế để tạo ra hình ảnh chính (key visual) và thiết kế poster anime cô gái phép thuật hấp dẫn, bao gồm cả các yếu tố logo tiêu đề.
 
 #### 📝 Câu lệnh
 
 ```
-Một poster đồ họa dọc mang phong cách điện ảnh về một người hùng báo thù đeo mặt nạ trong bộ đồ tác chiến bằng sợi carbon. Nhân vật được đặt ở tiền cảnh với kết cấu đen nhám, gai góc. Phông nền nổi bật với kiểu chữ stencil cỡ lớn, đậm nét màu đỏ thẫm, điểm xuyết những vết xước kim loại và kết cấu phong hóa. Ánh sáng được thiết kế theo phong cách low-key đầy kịch tính, với ánh sáng viền tinh tế trên bộ đồ để làm nổi bật các tấm giáp. Thẩm mỹ noir độ tương phản cao, không khí u tối, chi tiết sắc nét, độ phân giải 8k. Cận cảnh macro cực đại gương mặt quái vật da xanh, tập trung vào phần mũi, lông mày nhíu lại và đôi mắt xanh rực sáng đầy mãnh liệt. Làn da được thể hiện siêu chi tiết với những nếp nhăn sâu, mồ hôi và kết cấu da sần sùi. Chữ "HULK" được đặt dọc ở chính giữa với kiểu chữ sans-serif màu trắng, cỡ lớn, đậm nét và phong hóa, mang lớp hoàn thiện kim loại bị trầy xước. Bảng màu chủ đạo là xanh lục bảo đậm và các mảng bóng tối, kết hợp với các hạt năng lượng xanh bùng nổ và mảnh vụn bay khắp khung hình. Ánh sáng điện ảnh, không khí gai góc, độ phân giải 8k, siêu thực, mang lại cảm giác mạnh mẽ và đầy uy lực.
+Tạo một key visual cho anime cô gái phép thuật. Hoàn thiện nó thành một thiết kế poster bắt mắt, bao gồm cả logo tiêu đề.
 ```
 
 #### 🖼️ Hình ảnh được tạo
@@ -3628,39 +3661,39 @@ Một poster đồ họa dọc mang phong cách điện ảnh về một ngườ
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="Hình thu nhỏ trên YouTube - Poster đồ họa phong cách điện ảnh về người hùng báo thù - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Prompt Key Visual Anime Cô Gái Phép Thuật cho Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Chi tiết
 
-- **Tác giả:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Nguồn:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **Đã xuất bản:** 12 tháng 5, 2026
-- **Ngôn ngữ:** en
+- **Tác giả:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **Nguồn:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **Đã xuất bản:** 6 tháng 10, 2026
+- **Ngôn ngữ:** ja
 
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=19783)**
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: Truyện tranh / Bảng phân cảnh - Prompt Phong Cách Minh Họa Truyện Tranh Hiện Đại
+### No. 70: Truyện tranh / Bảng phân cảnh - Prompt Phong Cách Minh Họa Truyện Tranh Hiện Đại
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3711,7 +3744,7 @@ Phong cách minh họa truyện tranh hiện đại với phương pháp bán th
 
 ---
 
-### No. 70: Truyện tranh / Bảng phân cảnh - Ảnh tĩnh phim thám tử Cyberpunk
+### No. 71: Truyện tranh / Bảng phân cảnh - Ảnh tĩnh phim thám tử Cyberpunk
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3824,7 +3857,7 @@ Một câu lệnh (prompt) về cảnh phim cyberpunk điện ảnh được c�
 
 ---
 
-### No. 71: Truyện tranh / Bảng phân cảnh - Poster Zine Bút Bi Mực Đơn Sắc
+### No. 72: Truyện tranh / Bảng phân cảnh - Poster Zine Bút Bi Mực Đơn Sắc
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3864,7 +3897,7 @@ Hình minh họa bút bi xanh siêu chi tiết được chuyển đổi sang m�
 
 ---
 
-### No. 72: Truyện tranh / Bảng phân cảnh - Cảnh Harry Potter tuổi già trong mùa đông
+### No. 73: Truyện tranh / Bảng phân cảnh - Cảnh Harry Potter tuổi già trong mùa đông
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3917,7 +3950,7 @@ Một câu lệnh (prompt) đậm chất điện ảnh và giàu cảm xúc, hì
 
 ---
 
-### No. 73: Truyện tranh / Bảng phân cảnh - Cuộc đua xe drag phong cách quái vật hoạt hình
+### No. 74: Truyện tranh / Bảng phân cảnh - Cuộc đua xe drag phong cách quái vật hoạt hình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3951,7 +3984,7 @@ Một bức tranh minh họa hoạt hình sống động mô tả một {argumen
 
 ---
 
-### No. 74: Truyện tranh / Bảng phân cảnh - Văn bản giả tưởng về rồng mang phong cách thơ ca tinh xảo
+### No. 75: Truyện tranh / Bảng phân cảnh - Văn bản giả tưởng về rồng mang phong cách thơ ca tinh xảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4052,7 +4085,7 @@ mở bàn tay tĩnh lặng, cần thiết của nó ra.
 
 ---
 
-### No. 75: Truyện tranh / Bảng phân cảnh - Cô gái anime võ thuật cách điệu
+### No. 76: Truyện tranh / Bảng phân cảnh - Cô gái anime võ thuật cách điệu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4085,7 +4118,7 @@ Một bức tranh minh họa kỹ thuật số phong cách anime cách điệu v
 
 ---
 
-### No. 76: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh quảng cáo siro lá phong
+### No. 77: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh quảng cáo siro lá phong
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4163,7 +4196,7 @@ Quảng cáo thực phẩm siêu thực, độ nhớt của siro chân thực, k
 
 ---
 
-### No. 77: Truyện tranh / Bảng phân cảnh - Tắc kè hoa đất sét trong rừng
+### No. 78: Truyện tranh / Bảng phân cảnh - Tắc kè hoa đất sét trong rừng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4197,7 +4230,7 @@ Một khung cảnh hoạt hình đất sét sống động và đầy chất th�
 
 ---
 
-### No. 78: Truyện tranh / Bảng phân cảnh - Storyboard cho Kem Phô mai Dâu tây
+### No. 79: Truyện tranh / Bảng phân cảnh - Storyboard cho Kem Phô mai Dâu tây
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4277,7 +4310,7 @@ Quảng cáo tráng miệng đông lạnh cao cấp siêu thực, kết cấu ke
 
 ---
 
-### No. 79: Truyện tranh / Bảng phân cảnh - Kịch bản phân cảnh quảng cáo sữa chua Hy Lạp
+### No. 80: Truyện tranh / Bảng phân cảnh - Kịch bản phân cảnh quảng cáo sữa chua Hy Lạp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4311,7 +4344,7 @@ TIÊU ĐỀ: Kịch bản phân cảnh quảng cáo sản phẩm sữa chua Hy L
 
 ---
 
-### No. 80: Truyện tranh / Bảng phân cảnh - Minh họa Anime 2D đậm chất điện ảnh
+### No. 81: Truyện tranh / Bảng phân cảnh - Minh họa Anime 2D đậm chất điện ảnh
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4357,7 +4390,7 @@ Minh họa kỹ thuật số 2D đậm chất điện ảnh, {argument name="sty
 
 ---
 
-### No. 81: Truyện tranh / Bảng phân cảnh - Chân dung điện ảnh trong đêm mưa trên xe hơi
+### No. 82: Truyện tranh / Bảng phân cảnh - Chân dung điện ảnh trong đêm mưa trên xe hơi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4390,7 +4423,7 @@ Một câu lệnh (prompt) điện ảnh đầy cảm xúc về một người p
 
 ---
 
-### No. 82: Truyện tranh / Bảng phân cảnh - Storyboard quảng cáo sữa chua cao cấp
+### No. 83: Truyện tranh / Bảng phân cảnh - Storyboard quảng cáo sữa chua cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4468,7 +4501,7 @@ Nhiếp ảnh thực phẩm từ sữa siêu thực, kết cấu kem đặc, mi�
 
 ---
 
-### No. 83: Truyện tranh / Bảng phân cảnh - Bảng liên hệ điện ảnh bữa tối gia đình
+### No. 84: Truyện tranh / Bảng phân cảnh - Bảng liên hệ điện ảnh bữa tối gia đình
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4574,7 +4607,7 @@ Một cấu trúc prompt JSON để tạo ảnh ghép điện ảnh 3x3 chân th
 
 ---
 
-### No. 84: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh Người gác hải đăng
+### No. 85: Truyện tranh / Bảng phân cảnh - Bảng phân cảnh Người gác hải đăng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4644,7 +4677,7 @@ Một câu lệnh điện ảnh chi tiết cho khung cảnh ngọn hải đăng 
 
 ---
 
-### No. 85: Truyện tranh / Bảng phân cảnh - Minh họa chân dung phong cách phác thảo
+### No. 86: Truyện tranh / Bảng phân cảnh - Minh họa chân dung phong cách phác thảo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4675,40 +4708,6 @@ một bức minh họa kỹ thuật số đầy lôi cuốn về một người 
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: Truyện tranh / Bảng phân cảnh - Chân dung giả tưởng thác nước huyền bí
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Mô tả
-
-Một câu lệnh tạo ảnh chân dung giả tưởng tuyệt đẹp về một người phụ nữ châu Á trong trang phục truyền thống tại một thác nước đầy sương mù, với hiệu ứng nước xoáy ma thuật và các tia nắng thể tích.
-
-#### 📝 Câu lệnh
-
-```
-Một bức chân dung điện ảnh về một người phụ nữ {argument name="ethnicity" default="châu Á"} xinh đẹp đang đứng ngang thắt lưng dưới dòng sông trong vắt đầy sương mù trước một thác nước hùng vĩ, bao quanh bởi tán lá rừng xanh rậm rạp. Cô mặc một chiếc áo choàng truyền thống thanh lịch bằng {argument name="outfit material" default="lụa trắng"} với cổ áo vắt chéo và đai thắt lưng, kết hợp cùng vòng tay vàng tinh xảo và vòng cổ vàng cầu kỳ. Mái tóc đen dài thẳng của cô đung đưa đầy ấn tượng như thể đang bị cuốn vào một làn gió huyền bí. Với biểu cảm tập trung, mãnh liệt, cô mở rộng đôi bàn tay khi những tia nước bắn tung tóe và xoáy tròn một cách ma thuật uốn cong lên xung quanh cô, các tia nắng thể tích siêu thực xuyên qua tán rừng, những giọt nước chi tiết cao, ánh sáng ấn tượng, chủ nghĩa hiện thực giả tưởng, độ phân giải 8k.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="Truyện tranh / Bảng phân cảnh - Chân dung giả tưởng thác nước huyền bí - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Zara Quinn](https://x.com/Zara__Ai)
-- **Nguồn:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **Đã xuất bản:** 4 tháng 9, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6270,7 +6269,7 @@ Chân dung cận cảnh một {argument name="subject" default="người phụ n
 
 <div align="center">
 
-### 🎯 15632 câu lệnh khác không hiển thị ở đây
+### 🎯 15635 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6333,6 +6332,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-06T08:04:32.300Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-07T08:05:05.724Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15752** |
+| 📝 คำสั่งทั้งหมด | **15755** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 6 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 04 นาที 19 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพุธที่ 7 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 04 นาที 55 วินาที UTC** |
 
 </div>
 
@@ -2916,7 +2916,40 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 49: ภาพขนาดย่อของ YouTube - เปรียบเทียบความสมจริงเชิงประวัติศาสตร์ของภารกิจสำรวจแอนตาร์กติกา
+### No. 49: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากภาพยนตร์ Sci-Fi พร้อมรูปภาพอ้างอิง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพนิ่งสไตล์ภาพยนตร์ Sci-Fi แบบซีเนมาติก โดยใช้รูปภาพอ้างอิงหลายภาพเพื่อกำหนดตำแหน่งตัวละครและถ่ายโอนสไตล์ เหมาะสำหรับสร้างฉากที่สอดคล้องกันจากภาพถ่ายที่มีอยู่
+
+#### 📝 คำสั่ง
+
+```
+ภาพนิ่งจากภาพยนตร์ Sci-Fi สไตล์ฮอลลีวูด ถ่ายแบบ Over-the-shoulder ของชายในภาพที่ 1 เขาอยู่ด้านซ้ายของเฟรมในส่วนหน้า (Foreground) ส่วนหญิงสาวจากภาพที่ 2 อยู่ด้านขวาของเฟรมโดยโฟกัสที่เธอ ฉากหลังเป็นมุมอื่นจากภาพที่ 3 ใช้ภาพที่ 4 เป็นอิทธิพลในการกำหนด Color Grade, แสงสว่าง, สไตล์ และประเภทของฟิล์ม
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพนิ่งจากภาพยนตร์ Sci-Fi พร้อมรูปภาพอ้างอิง - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Gertywood](https://x.com/Gertywood5)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **เผยแพร่เมื่อ:** 7 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: ภาพขนาดย่อของ YouTube - เปรียบเทียบความสมจริงเชิงประวัติศาสตร์ของภารกิจสำรวจแอนตาร์กติกา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2955,7 +2988,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 50: ภาพขนาดย่อของ YouTube - ศิลปะแฟนตาซีนักฆ่าสวมฮู้ดบนหลังคาวิหาร
+### No. 51: ภาพขนาดย่อของ YouTube - ศิลปะแฟนตาซีนักฆ่าสวมฮู้ดบนหลังคาวิหาร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2991,7 +3024,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - พรอมต์ออกแบบภาพปก YouTube พร้อมข้อความซ้อนทับ
+### No. 52: ภาพขนาดย่อของ YouTube - พรอมต์ออกแบบภาพปก YouTube พร้อมข้อความซ้อนทับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3027,7 +3060,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 52: ภาพขนาดย่อของ YouTube - รถจักรไอน้ำบนสะพานถล่มท่ามกลางพายุ
+### No. 53: ภาพขนาดย่อของ YouTube - รถจักรไอน้ำบนสะพานถล่มท่ามกลางพายุ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3067,7 +3100,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - นักบินอวกาศในภาพยนตร์บนยานอวกาศที่เสียหาย
+### No. 54: ภาพขนาดย่อของ YouTube - นักบินอวกาศในภาพยนตร์บนยานอวกาศที่เสียหาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3116,7 +3149,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตมอเตอร์ไซค์ท่ามกลางพระอาทิตย์ตกดินในสไตล์ Double Exposure
+### No. 55: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตมอเตอร์ไซค์ท่ามกลางพระอาทิตย์ตกดินในสไตล์ Double Exposure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3150,7 +3183,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
+### No. 56: ภาพขนาดย่อของ YouTube - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3184,7 +3217,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - ภาพยนตร์อนิเมะดาร์กแฟนตาซีระดับพรีเมียม
+### No. 57: ภาพขนาดย่อของ YouTube - ภาพยนตร์อนิเมะดาร์กแฟนตาซีระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3218,7 +3251,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - หน้าจอถ่ายทอดสดการแข่งขันเบสบอลโคชิเอ็น
+### No. 58: ภาพขนาดย่อของ YouTube - หน้าจอถ่ายทอดสดการแข่งขันเบสบอลโคชิเอ็น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3252,7 +3285,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
+### No. 59: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3286,7 +3319,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
+### No. 60: ภาพขนาดย่อของ YouTube - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3320,7 +3353,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
+### No. 61: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3354,7 +3387,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
+### No. 62: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3388,7 +3421,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
+### No. 63: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3422,7 +3455,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 63: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
+### No. 64: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3466,7 +3499,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 64: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
+### No. 65: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3500,7 +3533,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 65: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
+### No. 66: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3554,7 +3587,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 66: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
+### No. 67: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3594,7 +3627,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 67: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
+### No. 68: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3628,18 +3661,18 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 68: ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์
+### No. 69: คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 คำอธิบาย
 
-พรอมต์สำหรับสร้างโปสเตอร์ภาพยนตร์ที่มีคอนทราสต์สูง นำเสนอภาพศาลเตี้ยสวมหน้ากากในชุดยุทธวิธี พร้อมตัวอักษรที่โดดเด่นและสุนทรียศาสตร์แบบฟิล์มนัวร์ที่ดิบเถื่อน
+พรอมต์ที่ออกแบบมาเพื่อสร้างคีย์วิชวลและดีไซน์โปสเตอร์อนิเมะสาวเวทมนตร์ที่น่าดึงดูด รวมถึงองค์ประกอบโลโก้ชื่อเรื่อง
 
 #### 📝 คำสั่ง
 
 ```
-โปสเตอร์กราฟิกแนวตั้งสไตล์ภาพยนตร์ของศาลเตี้ยสวมหน้ากากในชุดยุทธวิธีคาร์บอนไฟเบอร์ ตัวละครอยู่ในตำแหน่งด้านหน้าด้วยพื้นผิวสีดำด้านที่ดูดิบเถื่อน พื้นหลังโดดเด่นด้วยตัวอักษรขนาดใหญ่สไตล์สเตนซิลสีแดงเข้ม พร้อมรอยขีดข่วนแบบโลหะและพื้นผิวที่ดูผ่านกาลเวลา แสงไฟเป็นแบบโลว์คีย์ที่ดูน่าเกรงขาม พร้อมแสงขอบที่ละเอียดอ่อนบนชุดเพื่อเน้นแผ่นเกราะ สุนทรียศาสตร์แบบฟิล์มนัวร์ที่มีคอนทราสต์สูง บรรยากาศหม่นหมอง รายละเอียดคมชัด ความละเอียด 8k ภาพโคลสอัพมาโครสุดขีดของใบหน้าสัตว์ประหลาดผิวสีเขียว เน้นที่จมูก คิ้วที่ขมวด และดวงตาสีเขียวเรืองแสงที่ดุดัน ผิวหนังมีรายละเอียดสูงมากพร้อมรอยย่นลึก เหงื่อ และพื้นผิวที่หยาบกร้านเหมือนหนัง มีคำว่า "HULK" วางซ้อนในแนวตั้งตรงกลางด้วยตัวอักษรซานเซอริฟสีขาวขนาดใหญ่ที่ดูเก่าและมีรอยขีดข่วนแบบโลหะ จานสีเน้นโทนสีเขียวมรกตเข้มและเงา พร้อมละอองพลังงานสีเขียวและเศษซากที่กระจัดกระจายทั่วเฟรม แสงสไตล์ภาพยนตร์ บรรยากาศดิบเถื่อน ความละเอียด 8k สมจริงขั้นสูง ให้อารมณ์ที่ดุดันและทรงพลัง
+สร้างคีย์วิชวลสำหรับอนิเมะสาวเวทมนตร์ ให้เสร็จสมบูรณ์ในรูปแบบดีไซน์โปสเตอร์ที่น่าสนใจ ซึ่งรวมเอาโลโก้ชื่อเรื่องไว้ด้วย
 ```
 
 #### 🖼️ รูปภาพที่สร้าง
@@ -3647,39 +3680,39 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์ - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์ - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์ - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - โปสเตอร์กราฟิกแนวศาลเตี้ยสไตล์ภาพยนตร์ - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 รายละเอียด
 
-- **ผู้เขียน:** [Aijaz](https://x.com/iamsofiaijaz)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **เผยแพร่เมื่อ:** 12 พฤษภาคม 2569
-- **ภาษา:** en
+- **ผู้เขียน:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **เผยแพร่เมื่อ:** 6 ตุลาคม 2569
+- **ภาษา:** ja
 
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=19783)**
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: คอมิก / สตอรี่บอร์ด - Prompt สไตล์ภาพประกอบหนังสือการ์ตูนสมัยใหม่
+### No. 70: คอมิก / สตอรี่บอร์ด - Prompt สไตล์ภาพประกอบหนังสือการ์ตูนสมัยใหม่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3730,7 +3763,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 70: คอมิก / สตอรี่บอร์ด - ภาพนิ่งจากภาพยนตร์แนวไซเบอร์พังก์นักสืบ
+### No. 71: คอมิก / สตอรี่บอร์ด - ภาพนิ่งจากภาพยนตร์แนวไซเบอร์พังก์นักสืบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3843,7 +3876,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - โปสเตอร์ Zine ลายเส้นปากกาลูกลื่นหมึกสีเดียว
+### No. 72: คอมิก / สตอรี่บอร์ด - โปสเตอร์ Zine ลายเส้นปากกาลูกลื่นหมึกสีเดียว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3883,7 +3916,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - ฉากฤดูหนาวของ Harry Potter ในวัยชรา
+### No. 73: คอมิก / สตอรี่บอร์ด - ฉากฤดูหนาวของ Harry Potter ในวัยชรา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3936,7 +3969,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - การแข่งรถแดร็กของสัตว์ประหลาดการ์ตูนสไตล์ Rat Rod
+### No. 74: คอมิก / สตอรี่บอร์ด - การแข่งรถแดร็กของสัตว์ประหลาดการ์ตูนสไตล์ Rat Rod
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3970,7 +4003,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - บทกวีแฟนตาซีมังกรอันวิจิตรบรรจง
+### No. 75: คอมิก / สตอรี่บอร์ด - บทกวีแฟนตาซีมังกรอันวิจิตรบรรจง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4071,7 +4104,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - ภาพวาดสาวน้อยนักสู้สไตล์อนิเมะ
+### No. 76: คอมิก / สตอรี่บอร์ด - ภาพวาดสาวน้อยนักสู้สไตล์อนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4104,7 +4137,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาน้ำเชื่อมเมเปิล
+### No. 77: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาน้ำเชื่อมเมเปิล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4182,7 +4215,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - กิ้งก่าคาเมเลียนในป่าดินน้ำมัน
+### No. 78: คอมิก / สตอรี่บอร์ด - กิ้งก่าคาเมเลียนในป่าดินน้ำมัน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4216,7 +4249,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาไอศกรีมสตรอว์เบอร์รีชีสเค้ก
+### No. 79: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาไอศกรีมสตรอว์เบอร์รีชีสเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4296,7 +4329,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณากรีกโยเกิร์ต
+### No. 80: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณากรีกโยเกิร์ต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4330,7 +4363,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - ภาพประกอบอนิเมะ 2D สไตล์ภาพยนตร์
+### No. 81: คอมิก / สตอรี่บอร์ด - ภาพประกอบอนิเมะ 2D สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4376,7 +4409,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตในรถบรรยากาศคืนฝนตกสไตล์ภาพยนตร์
+### No. 82: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตในรถบรรยากาศคืนฝนตกสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4409,7 +4442,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาโยเกิร์ตระดับพรีเมียม
+### No. 83: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาโยเกิร์ตระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4487,7 +4520,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำของครอบครัว
+### No. 84: คอมิก / สตอรี่บอร์ด - แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำของครอบครัว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4593,7 +4626,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดเรื่อง The Lighthouse Keeper
+### No. 85: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดเรื่อง The Lighthouse Keeper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4663,7 +4696,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 85: คอมิก / สตอรี่บอร์ด - ภาพวาดพอร์ตเทรตสไตล์สเกตช์
+### No. 86: คอมิก / สตอรี่บอร์ด - ภาพวาดพอร์ตเทรตสไตล์สเกตช์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4694,40 +4727,6 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแฟนตาซีน้ำตกสุดลึกลับ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์ภาพพอร์ตเทรตแฟนตาซีอันน่าทึ่งของหญิงสาวชาวเอเชียในชุดโบราณ ณ น้ำตกที่มีหมอกปกคลุม โดดเด่นด้วยเอฟเฟกต์สายน้ำหมุนวนสุดมหัศจรรย์และแสงอาทิตย์ที่ส่องผ่านลงมา
-
-#### 📝 คำสั่ง
-
-```
-ภาพพอร์ตเทรตสไตล์ภาพยนตร์ของหญิงสาว {argument name="ethnicity" default="ชาวเอเชีย"} ผู้สวยงาม ยืนแช่น้ำระดับเอวในแม่น้ำที่ใสสะอาดและเต็มไปด้วยหมอก เบื้องหน้าคือน้ำตกตระการตาที่รายล้อมไปด้วยพุ่มไม้เขียวขจีหนาทึบ เธอสวมชุดโบราณ {argument name="outfit material" default="ผ้าซาตินสีขาว"} ที่สง่างาม มีปกเสื้อแบบไขว้และสายคาดเอว จับคู่กับกำไลแขนทองคำที่วิจิตรบรรจงและสร้อยคอทองคำอันหรูหรา ผมสีดำยาวตรงของเธอพริ้วไหวอย่างน่าทึ่งราวกับต้องลมเวทมนตร์ ด้วยสีหน้าที่มุ่งมั่นและจดจ่อ เธอแบมือออกขณะที่ละอองน้ำและสายน้ำที่หมุนวนอย่างมีพลังโค้งตัวขึ้นรอบตัวเธออย่างน่าอัศจรรย์ แสงอาทิตย์ที่ส่องผ่านยอดไม้ลงมาให้ความรู้สึกสมจริงอย่างเหลือเชื่อ รายละเอียดหยดน้ำที่คมชัด แสงเงาที่ดูมีมิติ ความสมจริงแบบแฟนตาซี ความละเอียดระดับ 8k
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตแฟนตาซีน้ำตกสุดลึกลับ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Zara Quinn](https://x.com/Zara__Ai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **เผยแพร่เมื่อ:** 4 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6289,7 +6288,7 @@ Input A คือหัวข้อใดก็ได้ (วัตถุ, ส�
 
 <div align="center">
 
-### 🎯 15632 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15635 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6352,6 +6351,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-06T08:04:19.995Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-07T08:04:55.465Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15752** |
+| 📝 提示词总数 | **15755** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年10月6日星期二 UTC 08:03:52** |
+| 🔄 最后更新 | **2026年10月7日星期三 UTC 08:04:21** |
 
 </div>
 
@@ -2914,7 +2914,40 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 49: YouTube 缩略图 - 南极探险历史现实主义对比
+### No. 49: YouTube 缩略图 - 结合参考图像的科幻电影剧照
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+一个用于生成电影感科幻电影剧照的提示词，利用多张参考图像进行角色定位和风格迁移。适用于基于现有照片创建场景一致性。
+
+#### 📝 提示词
+
+```
+好莱坞科幻电影剧照。对图 1 中的男子采用过肩镜头拍摄。他位于画面左侧的前景中。图 2 中的女子位于画面右侧，处于焦点清晰范围内。场景设定为图 3 的不同角度。使用图 4 作为色彩分级、光照、风格和胶片质感的参考依据。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="YouTube 缩略图 - 结合参考图像的科幻电影剧照 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Gertywood](https://x.com/Gertywood5)
+- **来源:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **发布时间:** 2026年10月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: YouTube 缩略图 - 南极探险历史现实主义对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2953,7 +2986,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 50: YouTube 缩略图 - 寺庙屋顶兜帽刺客奇幻艺术
+### No. 51: YouTube 缩略图 - 寺庙屋顶兜帽刺客奇幻艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2992,7 +3025,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 51: YouTube 缩略图 - 带文字叠加的 YouTube 缩略图设计提示词
+### No. 52: YouTube 缩略图 - 带文字叠加的 YouTube 缩略图设计提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3028,7 +3061,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 52: YouTube 缩略图 - 蒸汽机车与坍塌桥梁风暴
+### No. 53: YouTube 缩略图 - 蒸汽机车与坍塌桥梁风暴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3068,7 +3101,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 53: YouTube 缩略图 - 电影质感的受损飞船宇航员
+### No. 54: YouTube 缩略图 - 电影质感的受损飞船宇航员
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3117,7 +3150,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 54: YouTube 缩略图 - 摩托车日落双重曝光人像
+### No. 55: YouTube 缩略图 - 摩托车日落双重曝光人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3151,7 +3184,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 55: YouTube 缩略图 - 高清肖像转换
+### No. 56: YouTube 缩略图 - 高清肖像转换
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3185,7 +3218,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 56: YouTube 缩略图 - 顶级暗黑奇幻动漫电影感画面
+### No. 57: YouTube 缩略图 - 顶级暗黑奇幻动漫电影感画面
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3219,7 +3252,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 57: YouTube 缩略图 - 甲子园棒球转播画面
+### No. 58: YouTube 缩略图 - 甲子园棒球转播画面
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3253,7 +3286,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 58: YouTube 缩略图 - 排版涌现电影海报网格
+### No. 59: YouTube 缩略图 - 排版涌现电影海报网格
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3287,7 +3320,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 59: YouTube 缩略图 - 微缩立体书透视模型
+### No. 60: YouTube 缩略图 - 微缩立体书透视模型
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3321,7 +3354,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 60: YouTube 缩略图 - 科幻风格咖啡机 Boss 战
+### No. 61: YouTube 缩略图 - 科幻风格咖啡机 Boss 战
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3355,7 +3388,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 61: YouTube 缩略图 - 威尼斯超现实主义巨型女性
+### No. 62: YouTube 缩略图 - 威尼斯超现实主义巨型女性
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3389,7 +3422,7 @@ GRAPHIC_SYSTEM := 推断撕纸效果、印刷网格、柔和色块、地形线�
 
 ---
 
-### No. 62: YouTube 缩略图 - 电影级体育纪录片主视觉图
+### No. 63: YouTube 缩略图 - 电影级体育纪录片主视觉图
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3423,7 +3456,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 63: YouTube 缩略图 - 雄伟象群云朵摄影
+### No. 64: YouTube 缩略图 - 雄伟象群云朵摄影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3467,7 +3500,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 64: YouTube 缩略图 - 动漫风格火车站转换
+### No. 65: YouTube 缩略图 - 动漫风格火车站转换
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3501,7 +3534,7 @@ do this for {argument name="event" default="2026 年阿根廷世界杯"}, void m
 
 ---
 
-### No. 65: YouTube 缩略图 - 憨豆先生与 Mini Cooper 的疯狂时刻
+### No. 66: YouTube 缩略图 - 憨豆先生与 Mini Cooper 的疯狂时刻
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3555,7 +3588,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 66: YouTube 缩略图 - 电影感月光天台人像拼贴
+### No. 67: YouTube 缩略图 - 电影感月光天台人像拼贴
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3595,7 +3628,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 67: YouTube 缩略图 - 街头时尚风格蛋糕刀人像
+### No. 68: YouTube 缩略图 - 街头时尚风格蛋糕刀人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3629,18 +3662,18 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 68: YouTube 缩略图 - 电影感义警主题海报
+### No. 69: 漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 描述
 
-一款高对比度的电影感海报提示词，描绘了一位身着战术套装的蒙面义警，配有醒目的排版和粗犷的黑色电影美学。
+专为生成引人注目的魔法少女动漫主视觉及海报设计（含标题 Logo 元素）而设计的提示词。
 
 #### 📝 提示词
 
 ```
-一张电影感的竖版海报，描绘了一位身着碳纤维战术套装的蒙面义警。角色位于前景，呈现出粗犷的哑光黑色质感。背景采用了巨大的粗体模板风格排版，呈现深绯红色，并带有厚重的金属划痕和风化纹理。灯光低调且富有戏剧性，套装边缘的微弱轮廓光勾勒出装甲板的细节。高对比度的黑色电影美学，氛围感十足，细节锐利，8k 分辨率。极端微距特写，聚焦于一张狰狞的绿色皮肤面孔，重点刻画鼻子、紧锁的眉头和闪烁着强烈绿光的眼睛。皮肤呈现出超高细节，布满深皱纹、汗水以及粗糙的皮革质感。画面中心垂直叠加着“HULK”字样，采用大型粗体、风化效果的白色无衬线字体，并带有金属划痕质感。色调以深祖母绿和阴影为主，画面中充斥着爆炸性的绿色能量粒子和飞溅的碎片。电影级布光，粗犷的氛围，8k 分辨率，超写实，充满侵略性和力量感。
+为魔法少女动漫创建主视觉。将其完善为包含标题 Logo 的精美海报设计。
 ```
 
 #### 🖼️ 生成图片
@@ -3648,39 +3681,39 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="YouTube 缩略图 - 电影感义警主题海报 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词 - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="YouTube 缩略图 - 电影感义警主题海报 - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词 - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="YouTube 缩略图 - 电影感义警主题海报 - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词 - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="YouTube 缩略图 - 电影感义警主题海报 - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="漫画 / 故事板 - Nano Banana Pro 魔法少女动漫主视觉提示词 - Image 4">
 </div>
 
 #### 📌 详情
 
-- **作者:** [Aijaz](https://x.com/iamsofiaijaz)
-- **来源:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **发布时间:** 2026年5月12日
-- **多语言:** en
+- **作者:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **来源:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **发布时间:** 2026年10月6日
+- **多语言:** ja
 
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=19783)**
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: 漫画 / 故事板 - 现代漫画插画风格提示词
+### No. 70: 漫画 / 故事板 - 现代漫画插画风格提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3731,7 +3764,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 70: 漫画 / 故事板 - 赛博朋克侦探电影剧照
+### No. 71: 漫画 / 故事板 - 赛博朋克侦探电影剧照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3844,7 +3877,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 71: 漫画 / 故事板 - 单色圆珠笔手绘风格杂志海报
+### No. 72: 漫画 / 故事板 - 单色圆珠笔手绘风格杂志海报
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3884,7 +3917,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 72: 漫画 / 故事板 - 80 岁哈利·波特的冬日场景
+### No. 73: 漫画 / 故事板 - 80 岁哈利·波特的冬日场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3937,7 +3970,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 73: 漫画 / 故事板 - 卡通怪物 Rat Rod 直线竞速赛
+### No. 74: 漫画 / 故事板 - 卡通怪物 Rat Rod 直线竞速赛
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3971,7 +4004,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 74: 漫画 / 故事板 - 错综复杂的龙之奇幻诗篇
+### No. 75: 漫画 / 故事板 - 错综复杂的龙之奇幻诗篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4072,7 +4105,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 75: 漫画 / 故事板 - 风格化武术动漫少女
+### No. 76: 漫画 / 故事板 - 风格化武术动漫少女
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4105,7 +4138,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 76: 漫画 / 故事板 - 枫糖浆商业广告项目
+### No. 77: 漫画 / 故事板 - 枫糖浆商业广告项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4183,7 +4216,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 77: 漫画 / 故事板 - 黏土动画风格的变色龙森林
+### No. 78: 漫画 / 故事板 - 黏土动画风格的变色龙森林
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4217,7 +4250,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 78: 漫画 / 故事板 - 草莓芝士蛋糕冰淇淋项目
+### No. 79: 漫画 / 故事板 - 草莓芝士蛋糕冰淇淋项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4297,7 +4330,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 79: 漫画 / 故事板 - 希腊酸奶商业广告项目
+### No. 80: 漫画 / 故事板 - 希腊酸奶商业广告项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4331,7 +4364,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 80: 漫画 / 故事板 - 电影感 2D 动漫插画
+### No. 81: 漫画 / 故事板 - 电影感 2D 动漫插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4377,7 +4410,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 81: 漫画 / 故事板 - 电影感雨夜车内人像
+### No. 82: 漫画 / 故事板 - 电影感雨夜车内人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4410,7 +4443,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 82: 漫画 / 故事板 - 高端酸奶商业广告项目
+### No. 83: 漫画 / 故事板 - 高端酸奶商业广告项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4488,7 +4521,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 83: 漫画 / 故事板 - 家庭晚餐电影感联络表
+### No. 84: 漫画 / 故事板 - 家庭晚餐电影感联络表
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4594,7 +4627,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 84: 漫画 / 故事板 - 灯塔守望者项目
+### No. 85: 漫画 / 故事板 - 灯塔守望者项目
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4664,7 +4697,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 85: 漫画 / 故事板 - 素描风格肖像插画
+### No. 86: 漫画 / 故事板 - 素描风格肖像插画
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4695,40 +4728,6 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: 漫画 / 故事板 - 神秘瀑布奇幻肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-一个令人惊叹的奇幻肖像提示词，描绘了一位身着传统长袍的亚洲女性在雾气缭绕的瀑布前，展现出神奇的漩涡水流特效和体积光束。
-
-#### 📝 提示词
-
-```
-一张电影质感的肖像照，一位美丽的 {argument name="ethnicity" default="亚洲"} 女性站在清澈且雾气弥漫的河流中，腰部没入水中，背景是雄伟的瀑布和茂密的森林植被。她身着优雅的 {argument name="outfit material" default="白色缎面"} 传统长袍，领口交叠，腰间系着腰带，搭配精致的金色臂环和华丽的金色项链。她乌黑的长直发仿佛被神秘的微风吹拂，飘逸灵动。她神情专注而强烈，双手张开，动态的水花和漩涡在她的周围神奇地向上弯曲，超写实的体积光束穿透森林树冠，细节丰富的水滴，戏剧性的光影，奇幻写实风格，8k 分辨率。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="漫画 / 故事板 - 神秘瀑布奇幻肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Zara Quinn](https://x.com/Zara__Ai)
-- **来源:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **发布时间:** 2026年9月4日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6290,7 +6289,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 <div align="center">
 
-### 🎯 15632 更多提示词未在此显示
+### 🎯 15635 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6353,6 +6352,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-06T08:03:52.278Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-07T08:04:21.778Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15752** |
+| 📝 Total Prompts | **15755** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Tuesday, October 6, 2026 at 8:03:46 AM UTC** |
+| 🔄 Last Updated | **Wednesday, October 7, 2026 at 8:04:15 AM UTC** |
 
 </div>
 
@@ -2933,7 +2933,40 @@ a {argument name="bird species" default="dodo bird"}. Its body is plump and roun
 
 ---
 
-### No. 49: YouTube Thumbnail - Antarctic Expedition Historical Realism Comparison
+### No. 49: YouTube Thumbnail - Sci-Fi Movie Still with Reference Images
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt for generating a cinematic sci-fi movie still using multiple reference images for character positioning and style transfer. Useful for creating consistent scenes from existing photos.
+
+#### 📝 Prompt
+
+```
+Still from a Hollywood sci-fi movie. Over-the-shoulder shot of the man in image 1. He is on the left side of the frame in the foreground. The woman from image 2 is on the right side of the frame in focus. The setting is a different angle of image 3. Use image 4 as the influence for the color grade, lighting, style, and film stock type.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="YouTube Thumbnail - Sci-Fi Movie Still with Reference Images - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Gertywood](https://x.com/Gertywood5)
+- **Source:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **Published:** October 7, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: YouTube Thumbnail - Antarctic Expedition Historical Realism Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2972,7 +3005,7 @@ Raw archival black and white photograph from a 1923 Antarctic expedition, grain,
 
 ---
 
-### No. 50: YouTube Thumbnail - Hooded Assassin on Temple Rooftop Fantasy Art
+### No. 51: YouTube Thumbnail - Hooded Assassin on Temple Rooftop Fantasy Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3008,7 +3041,7 @@ Epic composition, low-angle perspective, dramatic silhouette, volumetric moonlig
 
 ---
 
-### No. 51: YouTube Thumbnail - YouTube Thumbnail Design Prompt with Text Overlay
+### No. 52: YouTube Thumbnail - YouTube Thumbnail Design Prompt with Text Overlay
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3044,7 +3077,7 @@ The caption of the thumbnail is  ["{argument name="caption_text" default="You Do
 
 ---
 
-### No. 52: YouTube Thumbnail - Steam Locomotive Collapsing Bridge Storm
+### No. 53: YouTube Thumbnail - Steam Locomotive Collapsing Bridge Storm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3084,7 +3117,7 @@ The key visual: gigantic train + collapsing bridge + ocean storm + lightning + t
 
 ---
 
-### No. 53: YouTube Thumbnail - Cinematic Astronaut on Damaged Spacecraft
+### No. 54: YouTube Thumbnail - Cinematic Astronaut on Damaged Spacecraft
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3133,7 +3166,7 @@ A structured prompt for generating a poignant scene of a lonely astronaut inside
 
 ---
 
-### No. 54: YouTube Thumbnail - Double Exposure Motorcycle Sunset Portrait
+### No. 55: YouTube Thumbnail - Double Exposure Motorcycle Sunset Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3167,7 +3200,7 @@ A realistic photorealistic 3D image of a stylish young man posing next to a mode
 
 ---
 
-### No. 55: YouTube Thumbnail - High Definition Portrait Transformation
+### No. 56: YouTube Thumbnail - High Definition Portrait Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3201,7 +3234,7 @@ Turn this image into a: Ultra-realistic close-up portrait of a {argument name="s
 
 ---
 
-### No. 56: YouTube Thumbnail - Premium Dark Fantasy Anime Cinematic
+### No. 57: YouTube Thumbnail - Premium Dark Fantasy Anime Cinematic
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3235,7 +3268,7 @@ Create a breathtaking, ultra-premium anime cinematic artwork set in a dark fanta
 
 ---
 
-### No. 57: YouTube Thumbnail - Koshien Baseball Broadcast Screen
+### No. 58: YouTube Thumbnail - Koshien Baseball Broadcast Screen
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3269,7 +3302,7 @@ A screenshot of the 2026 Koshien high school baseball finals broadcast. High sch
 
 ---
 
-### No. 58: YouTube Thumbnail - Typographic Emergence Movie Poster Grid
+### No. 59: YouTube Thumbnail - Typographic Emergence Movie Poster Grid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3303,7 +3336,7 @@ A highly technical, SQL-style logic prompt for creating 2x2 grids of typographic
 
 ---
 
-### No. 59: YouTube Thumbnail - Miniature Pop-up Book Diorama
+### No. 60: YouTube Thumbnail - Miniature Pop-up Book Diorama
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3337,7 +3370,7 @@ A detailed prompt for generating photorealistic miniature pop-up book dioramas o
 
 ---
 
-### No. 60: YouTube Thumbnail - Sci-Fi Coffee Machine Boss Battle
+### No. 61: YouTube Thumbnail - Sci-Fi Coffee Machine Boss Battle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3371,7 +3404,7 @@ A humorous meme-style prompt reimagining an office coffee machine as a large-sca
 
 ---
 
-### No. 61: YouTube Thumbnail - Surreal Giant Woman in Venice
+### No. 62: YouTube Thumbnail - Surreal Giant Woman in Venice
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3405,7 +3438,7 @@ A surreal {argument name="subject" default="giant woman"} sitting gracefully in 
 
 ---
 
-### No. 62: YouTube Thumbnail - Cinematic Sports Documentary Key Art
+### No. 63: YouTube Thumbnail - Cinematic Sports Documentary Key Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3439,7 +3472,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 63: YouTube Thumbnail - Majestic Elephant Cloud Photography
+### No. 64: YouTube Thumbnail - Majestic Elephant Cloud Photography
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3483,7 +3516,7 @@ Mood: majestic, calm, surreal yet believable, wildlife documentary realism.
 
 ---
 
-### No. 64: YouTube Thumbnail - Anime Railway Station Transformation
+### No. 65: YouTube Thumbnail - Anime Railway Station Transformation
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3517,7 +3550,7 @@ Please create it in an anime style. {argument name="scene description" default="
 
 ---
 
-### No. 65: YouTube Thumbnail - Mr Bean Mini Cooper Chaos
+### No. 66: YouTube Thumbnail - Mr Bean Mini Cooper Chaos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3571,7 +3604,7 @@ Vibrant, chaotic, fast-paced, cinematic, humorous
 
 ---
 
-### No. 66: YouTube Thumbnail - Cinematic Moonlight Rooftop Portrait Collage
+### No. 67: YouTube Thumbnail - Cinematic Moonlight Rooftop Portrait Collage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3611,7 +3644,7 @@ Use the uploaded face reference image as the exact identity reference. Maintain 
 
 ---
 
-### No. 67: YouTube Thumbnail - Street Glamour Cake Knife Portrait
+### No. 68: YouTube Thumbnail - Street Glamour Cake Knife Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3645,18 +3678,18 @@ Do not change the facial features. A cinematic close-up portrait of a young woma
 
 ---
 
-### No. 68: YouTube Thumbnail - Cinematic Vigilante Graphic Poster
+### No. 69: Comic / Storyboard - Magic Girl Anime Key Visual Prompt for Nano Banana Pro
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Description
 
-A high-contrast cinematic poster prompt featuring a masked vigilante in a tactical suit with bold typography and a gritty noir aesthetic.
+A prompt designed to generate a compelling magic girl anime key visual and poster design, including title logo elements.
 
 #### 📝 Prompt
 
 ```
-A cinematic, vertical graphic poster of a masked vigilante in a tactical carbon-fiber suit. The character is positioned in the foreground with a gritty, matte black texture. The background features massive, bold stencil-style typography in a deep crimson red with heavy metallic scratching and weathered textures. The lighting is low-key and dramatic, with subtle rim lighting on the suit to define its armor plates. High-contrast noir aesthetic, moody atmosphere, sharp details, 8k resolution, Extreme macro close-up of a monstrous green-skinned face, focused on the nose, furrowed brow, and intense glowing green eyes. The skin is hyper-detailed with deep wrinkles, sweat, and a rough, leathery texture. Overlaid vertically across the center is the word "HULK" in large, bold, weathered white sans-serif typography with a metallic, scratched finish. The color palette is dominated by deep emerald greens and shadows, featuring explosive green energy particles and debris flying across the frame. Cinematic lighting, gritty atmosphere, 8k resolution, hyper-realistic, aggressive and powerful mood.
+Create a key visual for a magical girl anime. Finish it as an attractive poster design that includes the title logo.
 ```
 
 #### 🖼️ Generated Images
@@ -3664,39 +3697,39 @@ A cinematic, vertical graphic poster of a masked vigilante in a tactical carbon-
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="YouTube Thumbnail - Cinematic Vigilante Graphic Poster - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="Comic / Storyboard - Magic Girl Anime Key Visual Prompt for Nano Banana Pro - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="YouTube Thumbnail - Cinematic Vigilante Graphic Poster - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="Comic / Storyboard - Magic Girl Anime Key Visual Prompt for Nano Banana Pro - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="YouTube Thumbnail - Cinematic Vigilante Graphic Poster - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="Comic / Storyboard - Magic Girl Anime Key Visual Prompt for Nano Banana Pro - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="YouTube Thumbnail - Cinematic Vigilante Graphic Poster - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="Comic / Storyboard - Magic Girl Anime Key Visual Prompt for Nano Banana Pro - Image 4">
 </div>
 
 #### 📌 Details
 
-- **Author:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Source:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **Published:** May 12, 2026
-- **Languages:** en
+- **Author:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **Source:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **Published:** October 6, 2026
+- **Languages:** ja
 
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=19783)**
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: Comic / Storyboard - Modern Comic Book Illustration Style
+### No. 70: Comic / Storyboard - Modern Comic Book Illustration Style
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3748,7 +3781,7 @@ ar 9:16!
 
 ---
 
-### No. 70: Comic / Storyboard - Cyberpunk Detective Movie Still
+### No. 71: Comic / Storyboard - Cyberpunk Detective Movie Still
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3861,7 +3894,7 @@ A cinematic cyberpunk scene prompt structured in JSON format for Nano Banana Pro
 
 ---
 
-### No. 71: Comic / Storyboard - Monochrome Ink Ballpoint Pen Zine Poster
+### No. 72: Comic / Storyboard - Monochrome Ink Ballpoint Pen Zine Poster
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3901,7 +3934,7 @@ Ultra-detailed blue ballpoint pen illustration translated into monochrome black 
 
 ---
 
-### No. 72: Comic / Storyboard - Elderly Harry Potter Winter Scene
+### No. 73: Comic / Storyboard - Elderly Harry Potter Winter Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3954,7 +3987,7 @@ A cinematic and emotional prompt imagining an 80-year-old Harry Potter reflectin
 
 ---
 
-### No. 73: Comic / Storyboard - Cartoon Monster Rat Rod Drag Race
+### No. 74: Comic / Storyboard - Cartoon Monster Rat Rod Drag Race
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3988,7 +4021,7 @@ A vibrant, cartoonish illustration depicts a {argument name="creature" default="
 
 ---
 
-### No. 74: Comic / Storyboard - Intricate Poetic Dragon Fantasy Text
+### No. 75: Comic / Storyboard - Intricate Poetic Dragon Fantasy Text
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4088,7 +4121,7 @@ opens its quiet, necessary hand.
 
 ---
 
-### No. 75: Comic / Storyboard - Stylized Martial Arts Anime Girl
+### No. 76: Comic / Storyboard - Stylized Martial Arts Anime Girl
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4121,7 +4154,7 @@ A stylized digital anime illustration of a young East Asian girl with a serious,
 
 ---
 
-### No. 76: Comic / Storyboard - Maple Syrup Commercial Storyboard
+### No. 77: Comic / Storyboard - Maple Syrup Commercial Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4198,7 +4231,7 @@ Ultra-realistic food advertising, realistic syrup viscosity, glossy golden textu
 
 ---
 
-### No. 77: Comic / Storyboard - Whimsical Claymation Chameleon Scene
+### No. 78: Comic / Storyboard - Whimsical Claymation Chameleon Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4232,7 +4265,7 @@ A vibrant, whimsical claymation scene depicts a colorful {argument name="animal"
 
 ---
 
-### No. 78: Comic / Storyboard - Strawberry Cheesecake Ice Cream Storyboard
+### No. 79: Comic / Storyboard - Strawberry Cheesecake Ice Cream Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4312,7 +4345,7 @@ Ultra-realistic premium frozen dessert commercial, rich creamy ice cream texture
 
 ---
 
-### No. 79: Comic / Storyboard - Greek Yogurt Commercial Storyboard
+### No. 80: Comic / Storyboard - Greek Yogurt Commercial Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4346,7 +4379,7 @@ TITLE: Premium Greek Yogurt Product Commercial Storyboard FORMAT: • Single-pag
 
 ---
 
-### No. 80: Comic / Storyboard - Cinematic 2D Anime Illustration
+### No. 81: Comic / Storyboard - Cinematic 2D Anime Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4392,7 +4425,7 @@ Cinematic 2D digital illustration, polished semi-realistic anime aesthetic, clea
 
 ---
 
-### No. 81: Comic / Storyboard - Cinematic Rainy Night Car Portrait
+### No. 82: Comic / Storyboard - Cinematic Rainy Night Car Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4425,7 +4458,7 @@ An emotional cinematic prompt of a woman in a car backseat on a rainy night, dra
 
 ---
 
-### No. 82: Comic / Storyboard - Premium Yogurt Commercial Storyboard
+### No. 83: Comic / Storyboard - Premium Yogurt Commercial Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4503,7 +4536,7 @@ Ultra-realistic dairy food photography, thick creamy texture, realistic fruit pi
 
 ---
 
-### No. 83: Comic / Storyboard - Family Dinner Cinematic Contact Sheet
+### No. 84: Comic / Storyboard - Family Dinner Cinematic Contact Sheet
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4609,7 +4642,7 @@ A structured JSON prompt for generating a photorealistic 3x3 cinematic collage o
 
 ---
 
-### No. 84: Comic / Storyboard - The Lighthouse Keeper Storyboard
+### No. 85: Comic / Storyboard - The Lighthouse Keeper Storyboard
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4679,7 +4712,7 @@ A detailed cinematic prompt for a mysterious storm-weathered lighthouse scene wi
 
 ---
 
-### No. 85: Comic / Storyboard - Sketch-Style Portrait Illustration
+### No. 86: Comic / Storyboard - Sketch-Style Portrait Illustration
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4710,40 +4743,6 @@ a captivating digital illustration of a young woman with a {argument name="skin 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: Comic / Storyboard - Mystical Waterfall Fantasy Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A breathtaking fantasy portrait prompt of an Asian woman in traditional robes at a misty waterfall, featuring magical swirling water effects and volumetric sunbeams.
-
-#### 📝 Prompt
-
-```
-A cinematic portrait of a beautiful {argument name="ethnicity" default="Asian"} woman standing waist-deep in a clear misty river in front of a majestic cascading waterfall surrounded by dense green forest foliage. She wears an elegant {argument name="outfit material" default="white satin"} traditional robe with cross-over lapels and a tied sash paired with intricate gold arm cuffs and an ornate gold necklace Her long straight black hair sways dramatically as if caught in a mystical breeze. With an intense, focused expression, she holds her hands open as dynamic splashes and swirls of water magically curve upward around her, hyper-realistic volumetric sunbeams piercing through the forest canopy, highly detailed water droplets dramatic lighting, fantasy realism, 8k resolution.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="Comic / Storyboard - Mystical Waterfall Fantasy Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Zara Quinn](https://x.com/Zara__Ai)
-- **Source:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **Published:** September 4, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6305,7 +6304,7 @@ Close-up portrait of an ethereal {argument name="subject" default="young woman"}
 
 <div align="center">
 
-### 🎯 15632 more prompts not shown here
+### 🎯 15635 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6368,6 +6367,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-06T08:03:46.745Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T08:04:15.885Z</sub>
 
 </div>

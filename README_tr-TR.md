@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15752** |
+| 📝 Toplam İstem | **15755** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **6 Ekim 2026 Salı 08:05:42 UTC** |
+| 🔄 Son Güncelleme | **7 Ekim 2026 Çarşamba 08:06:10 UTC** |
 
 </div>
 
@@ -2896,7 +2896,40 @@ bir {argument name="bird species" default="dodo kuşu"}. Vücudu dolgun ve yuvar
 
 ---
 
-### No. 49: YouTube Küçük Resmi - Antarktika Keşif Tarihsel Gerçekçilik Karşılaştırması
+### No. 49: YouTube Küçük Resmi - Referans Görsellerle Bilim Kurgu Film Sahnesi
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Açıklama
+
+Karakter konumlandırma ve stil transferi için birden fazla referans görsel kullanarak sinematik bir bilim kurgu film sahnesi oluşturma istemi. Mevcut fotoğraflardan tutarlı sahneler oluşturmak için idealdir.
+
+#### 📝 İstem
+
+```
+Hollywood yapımı bir bilim kurgu filminin sahne görüntüsü. 1. görseldeki adamın omuz üstü (over-the-shoulder) çekimi. Adam, kadrajın sol tarafında ön planda yer alıyor. 2. görseldeki kadın ise kadrajın sağ tarafında ve odak noktasında bulunuyor. Mekan, 3. görselin farklı bir açıdan çekilmiş hali olarak kullanılmalı. Renk düzenlemesi, aydınlatma, stil ve film dokusu için 4. görselden ilham alınmalı.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791354769650_w1tgvs_HUAbl0la0AA74FE.png" width="600" alt="YouTube Küçük Resmi - Referans Görsellerle Bilim Kurgu Film Sahnesi - Image 1">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [Gertywood](https://x.com/Gertywood5)
+- **Kaynak:** [Twitter Post](https://x.com/Gertywood5/status/2107715555411247528)
+- **Yayınlandı:** 7 Ekim 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36075)**
+
+---
+
+### No. 50: YouTube Küçük Resmi - Antarktika Keşif Tarihsel Gerçekçilik Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2935,7 +2968,7 @@ Tarihsel gerçekçilik istemiyle Nano Banana Pro ve Flux 2 Pro karşılaştırma
 
 ---
 
-### No. 50: YouTube Küçük Resmi - Tapınak Çatısında Kapüşonlu Suikastçı Fantastik Sanatı
+### No. 51: YouTube Küçük Resmi - Tapınak Çatısında Kapüşonlu Suikastçı Fantastik Sanatı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2971,7 +3004,7 @@ Epik kompozisyon, düşük açı perspektifi, dramatik siluet, hacimsel ay ış�
 
 ---
 
-### No. 51: YouTube Küçük Resmi - Metin Katmanlı YouTube Thumbnail Tasarım İstemi
+### No. 52: YouTube Küçük Resmi - Metin Katmanlı YouTube Thumbnail Tasarım İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3007,7 +3040,7 @@ Thumbnail'ın altyazı metni ["{argument name=\"caption_text\" default=\"Artık 
 
 ---
 
-### No. 52: YouTube Küçük Resmi - Buharlı Lokomotif Yıkılan Köprü Fırtınası
+### No. 53: YouTube Küçük Resmi - Buharlı Lokomotif Yıkılan Köprü Fırtınası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3047,7 +3080,7 @@ Ana görsel: devasa tren + yıkılan köprü + okyanus fırtınası + şimşek +
 
 ---
 
-### No. 53: YouTube Küçük Resmi - Hasarlı Uzay Aracında Sinematik Astronot
+### No. 54: YouTube Küçük Resmi - Hasarlı Uzay Aracında Sinematik Astronot
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3096,7 +3129,7 @@ Ana görsel: devasa tren + yıkılan köprü + okyanus fırtınası + şimşek +
 
 ---
 
-### No. 54: YouTube Küçük Resmi - Çift Pozlama Motosiklet Gün Batımı Portresi
+### No. 55: YouTube Küçük Resmi - Çift Pozlama Motosiklet Gün Batımı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3130,7 +3163,7 @@ Islak ve yansıtıcı bir zeminde modern bir Yamaha MT-15 motosikletinin yanınd
 
 ---
 
-### No. 55: YouTube Küçük Resmi - Yüksek Çözünürlüklü Portre Dönüşümü
+### No. 56: YouTube Küçük Resmi - Yüksek Çözünürlüklü Portre Dönüşümü
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3164,7 +3197,7 @@ Bu görseli şuna dönüştür: {argument name="subject" default="kendinden emin
 
 ---
 
-### No. 56: YouTube Küçük Resmi - Premium Dark Fantasy Anime Sinematik
+### No. 57: YouTube Küçük Resmi - Premium Dark Fantasy Anime Sinematik
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3198,7 +3231,7 @@ Karanlık bir fantezi dünyasında geçen, şimdiye kadar üretilmiş en pahalı
 
 ---
 
-### No. 57: YouTube Küçük Resmi - Koshien Beyzbol Yayın Ekranı
+### No. 58: YouTube Küçük Resmi - Koshien Beyzbol Yayın Ekranı
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3232,7 +3265,7 @@ Lise beyzbol finalinin gerçekçi bir televizyon yayını ekran görüntüsünü
 
 ---
 
-### No. 58: YouTube Küçük Resmi - Tipografik Belirme Film Afişi Izgarası
+### No. 59: YouTube Küçük Resmi - Tipografik Belirme Film Afişi Izgarası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3266,7 +3299,7 @@ Görsellerin tamamen metinlerden oluşturulduğu 2x2'lik tipografik film afişi 
 
 ---
 
-### No. 59: YouTube Küçük Resmi - Minyatür Açılır Kitap (Pop-up Book) Dioraması
+### No. 60: YouTube Küçük Resmi - Minyatür Açılır Kitap (Pop-up Book) Dioraması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3300,7 +3333,7 @@ Karmaşık kağıt mühendisliği harikası simge yapılar ve yapısal kağıt m
 
 ---
 
-### No. 60: YouTube Küçük Resmi - Bilim Kurgu Kahve Makinesi Boss Savaşı
+### No. 61: YouTube Küçük Resmi - Bilim Kurgu Kahve Makinesi Boss Savaşı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3334,7 +3367,7 @@ Ofis kahve makinesini büyük ölçekli bir bilim kurgu boss karşılaşması ol
 
 ---
 
-### No. 61: YouTube Küçük Resmi - Venedik'te Sürreal Dev Kadın
+### No. 62: YouTube Küçük Resmi - Venedik'te Sürreal Dev Kadın
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3368,7 +3401,7 @@ Venedik'in San Marco Meydanı'nda turistlerin arasında zarifçe oturan dev bir 
 
 ---
 
-### No. 62: YouTube Küçük Resmi - Sinematik Spor Belgeseli Ana Görseli
+### No. 63: YouTube Küçük Resmi - Sinematik Spor Belgeseli Ana Görseli
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3402,7 +3435,7 @@ do this for {argument name="event" default="2026 Arjantin Dünya Kupası"}, void
 
 ---
 
-### No. 63: YouTube Küçük Resmi - Görkemli Fil Bulut Fotoğrafçılığı
+### No. 64: YouTube Küçük Resmi - Görkemli Fil Bulut Fotoğrafçılığı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3446,7 +3479,7 @@ Atmosfer: görkemli, sakin, sürreal ancak inandırıcı, vahşi yaşam belgesel
 
 ---
 
-### No. 64: YouTube Küçük Resmi - Anime Tarzı Tren İstasyonu Dönüşümü
+### No. 65: YouTube Küçük Resmi - Anime Tarzı Tren İstasyonu Dönüşümü
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3480,7 +3513,7 @@ Lütfen bunu anime tarzında oluştur. {argument name="sahne açıklaması" defa
 
 ---
 
-### No. 65: YouTube Küçük Resmi - Mr. Bean Mini Cooper Kaosu
+### No. 66: YouTube Küçük Resmi - Mr. Bean Mini Cooper Kaosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3534,7 +3567,7 @@ Canlı, kaotik, hızlı tempolu, sinematik, mizahi
 
 ---
 
-### No. 66: YouTube Küçük Resmi - Sinematik Ay Işığı Çatı Katı Portre Kolajı
+### No. 67: YouTube Küçük Resmi - Sinematik Ay Işığı Çatı Katı Portre Kolajı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3574,7 +3607,7 @@ Yüklenen yüz referans görselini kesin kimlik referansı olarak kullanın. Tü
 
 ---
 
-### No. 67: YouTube Küçük Resmi - Sokak Cazibesi Pasta Bıçağı Portresi
+### No. 68: YouTube Küçük Resmi - Sokak Cazibesi Pasta Bıçağı Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3608,18 +3641,18 @@ Yüz hatlarını değiştirmeyin. Genç bir kadının sinematik yakın çekim po
 
 ---
 
-### No. 68: YouTube Küçük Resmi - Sinematik Kanunsuz Grafik Posteri
+### No. 69: Çizgi Roman / Hikaye Taslağı - Nano Banana Pro İçin Sihirli Kız Anime Ana Görsel İstemi
 
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
 #### 📖 Açıklama
 
-Maskeli bir kanunsuzun taktiksel kıyafetle yer aldığı, cesur tipografi ve sert noir estetiğine sahip, yüksek kontrastlı sinematik poster istemi.
+Başlık logosu öğelerini içeren, büyüleyici bir sihirli kız anime ana görseli ve poster tasarımı oluşturmak için tasarlanmış bir istem.
 
 #### 📝 İstem
 
 ```
-Taktiksel karbon fiber kıyafetli maskeli bir kanunsuzun yer aldığı sinematik, dikey grafik posteri. Karakter, sert ve mat siyah bir dokuyla ön planda konumlandırılmıştır. Arka planda, derin kızıl renkte, ağır metalik çizikler ve yıpranmış dokularla işlenmiş devasa, cesur şablon tarzı tipografi yer almaktadır. Aydınlatma düşük anahtarlı ve dramatiktir; zırh plakalarını belirginleştirmek için kıyafet üzerinde hafif bir kenar ışığı kullanılmıştır. Yüksek kontrastlı noir estetiği, karamsar atmosfer, keskin detaylar, 8k çözünürlük. Canavar gibi yeşil tenli bir yüzün aşırı makro yakın çekimi; burun, çatık kaşlar ve yoğun parlayan yeşil gözlere odaklanılmıştır. Cilt, derin kırışıklıklar, ter ve pürüzlü, kösele benzeri dokuyla hiper detaylıdır. Merkeze dikey olarak yerleştirilmiş "HULK" kelimesi, metalik ve çizik görünümlü, büyük, cesur ve yıpranmış beyaz sans-serif tipografi ile yazılmıştır. Renk paletine derin zümrüt yeşilleri ve gölgeler hakimdir; kare boyunca uçuşan patlayıcı yeşil enerji parçacıkları ve enkazlar yer almaktadır. Sinematik aydınlatma, sert atmosfer, 8k çözünürlük, hiper gerçekçi, agresif ve güçlü bir ruh hali.
+Sihirli kız anime için bir ana görsel oluşturun. Başlık logosunu içeren çekici bir poster tasarımı olarak tamamlayın.
 ```
 
 #### 🖼️ Oluşturulan Görseller
@@ -3627,39 +3660,39 @@ Taktiksel karbon fiber kıyafetli maskeli bir kanunsuzun yer aldığı sinematik
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221748_h4cc7u_HIG59DebMAAIM25.jpg" width="600" alt="YouTube Küçük Resmi - Sinematik Kanunsuz Grafik Posteri - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791354771776_dxl39k_HT_DQXGbIAAI0IB.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Nano Banana Pro İçin Sihirli Kız Anime Ana Görsel İstemi - Image 1">
 </div>
 
 ##### Image 2
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221820_srt4ws_HIG59DSbMAAFx7N.jpg" width="600" alt="YouTube Küçük Resmi - Sinematik Kanunsuz Grafik Posteri - Image 2">
+<img src="https://cms-assets.youmind.com/media/1791354771782_d329wx_HT_DQrMa0AEBZ60.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Nano Banana Pro İçin Sihirli Kız Anime Ana Görsel İstemi - Image 2">
 </div>
 
 ##### Image 3
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657221773_jvlbzr_HIG59HvaQAEVxYo.jpg" width="600" alt="YouTube Küçük Resmi - Sinematik Kanunsuz Grafik Posteri - Image 3">
+<img src="https://cms-assets.youmind.com/media/1791354771816_mijo5d_HT_DQ8rbEAABylv.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Nano Banana Pro İçin Sihirli Kız Anime Ana Görsel İstemi - Image 3">
 </div>
 
 ##### Image 4
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1778657222547_16g73f_HIG59FMbQAA6Gnw.jpg" width="600" alt="YouTube Küçük Resmi - Sinematik Kanunsuz Grafik Posteri - Image 4">
+<img src="https://cms-assets.youmind.com/media/1791354773115_q4whg8_HT_DRPga4AA1HZi.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Nano Banana Pro İçin Sihirli Kız Anime Ana Görsel İstemi - Image 4">
 </div>
 
 #### 📌 Detaylar
 
-- **Yazar:** [Aijaz](https://x.com/iamsofiaijaz)
-- **Kaynak:** [Twitter Post](https://x.com/iamsofiaijaz/status/2054127368365908220)
-- **Yayınlandı:** 12 Mayıs 2026
-- **Diller:** en
+- **Yazar:** [SSSS.CRYPTOMAN⚡️AI](https://x.com/SSSS_CRYPTOMAN)
+- **Kaynak:** [Twitter Post](https://x.com/SSSS_CRYPTOMAN/status/2107617855906975865)
+- **Yayınlandı:** 6 Ekim 2026
+- **Diller:** ja
 
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=19783)**
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36077)**
 
 ---
 
-### No. 69: Çizgi Roman / Hikaye Taslağı - Modern Çizgi Roman İllüstrasyon Stili Promptu
+### No. 70: Çizgi Roman / Hikaye Taslağı - Modern Çizgi Roman İllüstrasyon Stili Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3710,7 +3743,7 @@ Yarı gerçekçi yaklaşıma sahip modern çizgi roman illüstrasyon stili; temi
 
 ---
 
-### No. 70: Çizgi Roman / Hikaye Taslağı - Cyberpunk Dedektif Film Karesi
+### No. 71: Çizgi Roman / Hikaye Taslağı - Cyberpunk Dedektif Film Karesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3823,7 +3856,7 @@ Nano Banana Pro için JSON formatında yapılandırılmış, yağmurlu fütüris
 
 ---
 
-### No. 71: Çizgi Roman / Hikaye Taslağı - Monokrom Tükenmez Kalem Zine Posteri
+### No. 72: Çizgi Roman / Hikaye Taslağı - Monokrom Tükenmez Kalem Zine Posteri
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3863,7 +3896,7 @@ Ultra detaylı mavi tükenmez kalem illüstrasyonunun monokrom siyah mürekkebe 
 
 ---
 
-### No. 72: Çizgi Roman / Hikaye Taslağı - Yaşlı Harry Potter Kış Sahnesi
+### No. 73: Çizgi Roman / Hikaye Taslağı - Yaşlı Harry Potter Kış Sahnesi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3916,7 +3949,7 @@ Ultra detaylı mavi tükenmez kalem illüstrasyonunun monokrom siyah mürekkebe 
 
 ---
 
-### No. 73: Çizgi Roman / Hikaye Taslağı - Çizgi Film Canavarı Rat Rod Drag Yarışı
+### No. 74: Çizgi Roman / Hikaye Taslağı - Çizgi Film Canavarı Rat Rod Drag Yarışı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3950,7 +3983,7 @@ Canlı ve karikatürize bir illüstrasyon, {argument name="creature" default="p�
 
 ---
 
-### No. 74: Çizgi Roman / Hikaye Taslağı - Karmaşık Şiirsel Ejderha Fantezi Metni
+### No. 75: Çizgi Roman / Hikaye Taslağı - Karmaşık Şiirsel Ejderha Fantezi Metni
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4046,7 +4079,7 @@ birbirlerini kısaca tanıdıkları yerdir.
 
 ---
 
-### No. 75: Çizgi Roman / Hikaye Taslağı - Stilize Dövüş Sanatları Anime Kızı
+### No. 76: Çizgi Roman / Hikaye Taslağı - Stilize Dövüş Sanatları Anime Kızı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4079,7 +4112,7 @@ Ciddi ve kararlı bir ifadeyle kolları göğsünde kavuşturulmuş şekilde dur
 
 ---
 
-### No. 76: Çizgi Roman / Hikaye Taslağı - Akçaağaç Şurubu Reklamı Storyboard'u
+### No. 77: Çizgi Roman / Hikaye Taslağı - Akçaağaç Şurubu Reklamı Storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4157,7 +4190,7 @@ Ultra gerçekçi gıda reklamcılığı, gerçekçi şurup kıvamı, parlak alt�
 
 ---
 
-### No. 77: Çizgi Roman / Hikaye Taslağı - Kil Animasyon Bukalemun Ormanı
+### No. 78: Çizgi Roman / Hikaye Taslağı - Kil Animasyon Bukalemun Ormanı
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4191,7 +4224,7 @@ Canlı ve tuhaf bir kil animasyon sahnesi, yemyeşil ve fantastik bir ormanda yo
 
 ---
 
-### No. 78: Çizgi Roman / Hikaye Taslağı - Çilekli Cheesecake'li Dondurma Storyboard'u
+### No. 79: Çizgi Roman / Hikaye Taslağı - Çilekli Cheesecake'li Dondurma Storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4271,7 +4304,7 @@ Ultra gerçekçi premium dondurulmuş tatlı reklamı, zengin kremsi dondurma do
 
 ---
 
-### No. 79: Çizgi Roman / Hikaye Taslağı - Yunan Yoğurdu Reklamı Storyboard'u
+### No. 80: Çizgi Roman / Hikaye Taslağı - Yunan Yoğurdu Reklamı Storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4305,7 +4338,7 @@ BAŞLIK: Premium Yunan Yoğurdu Ürün Reklamı Storyboard'u FORMAT: • Tek say
 
 ---
 
-### No. 80: Çizgi Roman / Hikaye Taslağı - Sinematik 2D Anime İllüstrasyonu
+### No. 81: Çizgi Roman / Hikaye Taslağı - Sinematik 2D Anime İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4351,7 +4384,7 @@ Sinematik 2D dijital illüstrasyon, {argument name="style aesthetic" default="ci
 
 ---
 
-### No. 81: Çizgi Roman / Hikaye Taslağı - Sinematik Yağmurlu Gece Araba Portresi
+### No. 82: Çizgi Roman / Hikaye Taslağı - Sinematik Yağmurlu Gece Araba Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4384,7 +4417,7 @@ Yağmurlu bir gecede arabanın arka koltuğunda oturan ve buğulu cama yazı yaz
 
 ---
 
-### No. 82: Çizgi Roman / Hikaye Taslağı - Premium Yoğurt Reklamı Storyboard'u
+### No. 83: Çizgi Roman / Hikaye Taslağı - Premium Yoğurt Reklamı Storyboard'u
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4462,7 +4495,7 @@ Ultra gerçekçi süt ürünleri fotoğrafçılığı, yoğun kremsi doku, gerç
 
 ---
 
-### No. 83: Çizgi Roman / Hikaye Taslağı - Aile Yemeği Sinematik İletişim Sayfası
+### No. 84: Çizgi Roman / Hikaye Taslağı - Aile Yemeği Sinematik İletişim Sayfası
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4568,7 +4601,7 @@ Kodak film emülasyonu ile bir aile yemeği sahnesinin fotogerçekçi 3x3 sinema
 
 ---
 
-### No. 84: Çizgi Roman / Hikaye Taslağı - Deniz Feneri Bekçisi Hikaye Panosu
+### No. 85: Çizgi Roman / Hikaye Taslağı - Deniz Feneri Bekçisi Hikaye Panosu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4638,7 +4671,7 @@ Yoğun duygusal atmosfere sahip, gizemli ve fırtınalı bir deniz feneri sahnes
 
 ---
 
-### No. 85: Çizgi Roman / Hikaye Taslağı - Eskiz Tarzı Portre İllüstrasyonu
+### No. 86: Çizgi Roman / Hikaye Taslağı - Eskiz Tarzı Portre İllüstrasyonu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4669,40 +4702,6 @@ genç bir kadının büyüleyici dijital illüstrasyonu; {argument name="skin to
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33476)**
-
----
-
-### No. 86: Çizgi Roman / Hikaye Taslağı - Mistik Şelale Fantastik Portresi
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Açıklama
-
-Sisli bir şelalenin önünde geleneksel kıyafetler içindeki Asyalı bir kadının yer aldığı, büyülü su girdapları ve hacimsel güneş ışınlarıyla bezeli, nefes kesici bir fantastik portre istemi.
-
-#### 📝 İstem
-
-```
-Sık yeşil orman bitki örtüsüyle çevrili görkemli bir şelalenin önünde, berrak ve sisli bir nehrin içinde beline kadar suyun içinde duran güzel bir {argument name="ethnicity" default="Asyalı"} kadının sinematik portresi. Üzerinde çapraz yakalı ve kuşaklı, zarif bir {argument name="outfit material" default="beyaz saten"} geleneksel kıyafet, tamamlayıcı olarak karmaşık altın kol manşetleri ve süslü bir altın kolye var. Uzun, düz siyah saçları sanki mistik bir esintiye kapılmış gibi dramatik bir şekilde dalgalanıyor. Yoğun ve odaklanmış bir ifadeyle ellerini açık tutarken, suyun dinamik sıçramaları ve girdapları sihirli bir şekilde etrafında yukarı doğru kıvrılıyor; orman örtüsünden süzülen hiper-gerçekçi hacimsel güneş ışınları, yüksek detaylı su damlaları, dramatik aydınlatma, fantastik gerçekçilik, 8k çözünürlük.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788591087214_kzhx9e_HRXNiMua8AA3EgU.jpg" width="600" alt="Çizgi Roman / Hikaye Taslağı - Mistik Şelale Fantastik Portresi - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Zara Quinn](https://x.com/Zara__Ai)
-- **Kaynak:** [Twitter Post](https://x.com/Zara__Ai/status/2095807198043496837)
-- **Yayınlandı:** 4 Eylül 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=33466)**
 
 ---
 
@@ -6264,7 +6263,7 @@ Porselen tenli ve etkileyici ela-kahverengi gözlü, dudakları aralık, {argume
 
 <div align="center">
 
-### 🎯 15632 burada gösterilmeyen daha fazla istem
+### 🎯 15635 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6327,6 +6326,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-06T08:05:42.902Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-07T08:06:10.714Z</sub>
 
 </div>
