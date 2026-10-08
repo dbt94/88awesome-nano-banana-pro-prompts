@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15755** |
+| 📝 提示词总数 | **15757** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年10月7日星期三 UTC 08:04:21** |
+| 🔄 最后更新 | **2026年10月8日星期四 UTC 08:05:24** |
 
 </div>
 
@@ -1651,7 +1651,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社交媒体帖子 - 金色女神吉祥天女图像
+### No. 21: 社交媒体帖子 - 雾湖木舟配文字说明
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+用于生成宁静场景的提示词：蓝调时刻，一艘小木船漂浮在雾气弥漫的湖面上，色调为柔和的灰绿色，并配有特定衬线字体文字说明“stillness is a place”。
+
+#### 📝 提示词
+
+```
+蓝调时刻，一艘小巧的木制划艇静泊于雾气笼罩、波澜不惊的湖面，整体呈现柔和的灰绿色调，远处湖岸若隐若现，配以小型衬线字体说明文字：“{argument name="caption" default="stillness is a place"}”
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441398614_ptf903_HUBgWGbWgAAbXUJ.jpg" width="600" alt="社交媒体帖子 - 雾湖木舟配文字说明 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Emilio](https://x.com/EmilioSchwaiger)
+- **来源:** [Twitter Post](https://x.com/EmilioSchwaiger/status/2107790561126010965)
+- **发布时间:** 2026年10月7日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36101)**
+
+---
+
+### No. 22: 社交媒体帖子 - 金色女神吉祥天女图像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1703,7 +1737,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社交媒体帖子 - 奢华浴缸时尚人像
+### No. 23: 社交媒体帖子 - 奢华浴缸时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1746,7 +1780,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社交媒体帖子 - 豪华时尚大片：运动轿车篇
+### No. 24: 社交媒体帖子 - 豪华时尚大片：运动轿车篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1779,7 +1813,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社交媒体帖子 - 基于参考图的电影感奢华夜景人像
+### No. 25: 社交媒体帖子 - 基于参考图的电影感奢华夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1826,7 +1860,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社交媒体帖子 - Cheetos 零食广告人像
+### No. 26: 社交媒体帖子 - Cheetos 零食广告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1869,7 +1903,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社交媒体帖子 - 高端美容人像（带参考图）
+### No. 27: 社交媒体帖子 - 高端美容人像（带参考图）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1906,7 +1940,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社交媒体帖子 - 奇多零食广告人像
+### No. 28: 社交媒体帖子 - 奇多零食广告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1961,7 +1995,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社交媒体帖子 - 历史大厅中的奢华肚皮舞者编辑照
+### No. 29: 社交媒体帖子 - 历史大厅中的奢华肚皮舞者编辑照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2004,7 +2038,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社交媒体帖子 - 敞篷车中的奢华时尚人像
+### No. 30: 社交媒体帖子 - 敞篷车中的奢华时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2043,7 +2077,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社交媒体帖子 - 奢华时尚人像身份保留
+### No. 31: 社交媒体帖子 - 奢华时尚人像身份保留
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2082,7 +2116,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社交媒体帖子 - 梦幻人像构图提示词
+### No. 32: 社交媒体帖子 - 梦幻人像构图提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2118,7 +2152,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: 社交媒体帖子 - 超现实主义编辑风格人像提示词
+### No. 33: 社交媒体帖子 - 超现实主义编辑风格人像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2208,47 +2242,6 @@ https://t.co/QxbYpfFVj6
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35848)**
-
----
-
-### No. 33: 社交媒体帖子 - 温馨居家生活方式人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一位女性在温暖阳光下放松地坐在沙发上的逼真生活方式人像，适用于个人品牌宣传或图库素材。
-
-#### 📝 提示词
-
-```
-创作一幅高质量、逼真的生活方式人像，描绘一位美丽的年轻成年女性舒适地躺在现代温馨家居中的柔软中性色沙发上。她留着自然微卷的深棕色长发，肤色为温暖的浅橄榄色至白皙色调，眼神富有表现力呈棕色，妆容自然柔和，脸颊带有淡淡的红晕，嘴角挂着温柔而自信的微笑。她将脸颊自然地靠在一侧手上，目光直视镜头。
-
-她身穿一件宽松的白色纹理针织毛衣，搭配浅色水洗休闲牛仔裤，佩戴精致的小金耳环和一条带小吊坠的细金项链。整体造型优雅自然，配饰简约。
-
-午后温暖的阳光从侧面洒入，在她的头发上形成柔和的高光，并凸显出自然的皮肤质感。背景包括米色沙发、中性色调墙壁、插着白色花朵的小花瓶、书籍、靠垫以及一扇深色门框，所有元素均通过浅景深效果进行柔化模糊处理。
-
-摄影风格：写实 DSLR 摄影，50mm 镜头，f/1.8 光圈，柔和的自然窗光，微妙的电影色调，真实的皮肤毛孔细节，发丝清晰可见，织物纹理真实，比例协调，阴影柔和，专业生活方式编辑类摄影，捕捉真实自然的瞬间感，高动态范围，眼神锐利，4K 高清细节。
-
-负面提示词：塑料感皮肤，过度修图，假脸，手部扭曲，多余手指，解剖结构畸形，眼睛模糊，CGI，卡通，插画，色彩过饱和，文字，Logo，水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101708784_dbxjsv_HTog6qDbcAA-QGA.jpg" width="600" alt="社交媒体帖子 - 温馨居家生活方式人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Aynelle](https://x.com/aynellex)
-- **来源:** [Twitter Post](https://x.com/aynellex/status/2106031986003615843)
-- **发布时间:** 2026年10月2日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35846)**
 
 ---
 
@@ -4731,7 +4724,40 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 87: 产品营销 - 前卫银色礼服时尚大片
+### No. 87: 产品营销 - 超现实糖果娃娃角色提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用于创建由半透明糖果辫子构成的超现实时尚娃娃的提示词，包含五个不同的头部（亚洲女性、戴面具者、绿巨人般的绿色面孔、狗、猫）以及章鱼触手和树根等混合材质。专为采用专业布光的高级时装摄影设计。
+
+#### 📝 提示词
+
+```
+一个拥有 5 个头、10 只耳朵、2 条手臂和 2 条腿的超现实娃娃，坐在时尚的高脚椅上。中央的脸是一张写实的亚洲女性面孔，左侧的脸戴着狂欢节面具，右侧的脸像绿巨人一样呈绿色，最右侧是狗脸，而最左侧则是猫脸。身体完全由光泽、半透明的多色糖果编织并扭曲而成，表面光滑如糖果般闪亮。左臂由章鱼触手构成。右腿由树根组成。她坐在一把高脚椅上，进行专业的高级时装工作室拍摄，自然地倚靠在一种不寻常且放松的编辑风格姿势中。五个头部从同一个身体中协调地生长出来，营造出一种刻意的超现实高级定制轮廓，而非独立的形象。干净、素雅的工作室背景。淡粉色主导着糖果塑料质感的身体，微妙的柔和红色高光点缀在光泽表面上。柔和、受控的专业工作室灯光，柔和的粉彩调色板，精致的高级时装编辑美学，写实的面部皮肤与人造糖果塑料身体形成对比，细节精致的材质表现，抛光级的摄影质感。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg" width="600" alt="产品营销 - 超现实糖果娃娃角色提示词 - Image 1">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Anantha Shayana. D](https://x.com/RAYSITI)
+- **来源:** [Twitter Post](https://x.com/RAYSITI/status/2107599888636862834)
+- **发布时间:** 2026年10月6日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36102)**
+
+---
+
+### No. 88: 产品营销 - 前卫银色礼服时尚大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4769,7 +4795,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 88: 产品营销 - 精品店时尚编辑人像
+### No. 89: 产品营销 - 精品店时尚编辑人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4802,7 +4828,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 89: 产品营销 - 夜间卧室阅读场景
+### No. 90: 产品营销 - 夜间卧室阅读场景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4847,7 +4873,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 90: 产品营销 - 电影感双重曝光海报提示词
+### No. 91: 产品营销 - 电影感双重曝光海报提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4880,7 +4906,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 91: 产品营销 - 伊斯坦布尔博斯普鲁斯海峡旅行人像
+### No. 92: 产品营销 - 伊斯坦布尔博斯普鲁斯海峡旅行人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4923,7 +4949,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 92: 产品营销 - 电影感编辑风格卧室人像
+### No. 93: 产品营销 - 电影感编辑风格卧室人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4967,7 +4993,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 93: 产品营销 - 现代厨房时尚人像
+### No. 94: 产品营销 - 现代厨房时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4999,53 +5025,6 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35666)**
-
----
-
-### No. 94: 产品营销 - 雨中车站全身肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-为 Nano Banana Pro 设计的提示词，用于生成一位女性在暴雨中等待火车站的全身电影感场景，同时保留参考图像中的身份特征。
-
-#### 📝 提示词
-
-```
-创建一个超写实 4K 电影级全身场景，描绘参考图像中的同一位女性，她自然地坐在优雅的火车站座椅上，在暴雨中等待列车。
-
-严格保留其参考面部特征和身份。她以平静、优雅的神情自然地看向镜头。
-
-展示从头部到脚部的完整身体，两只鞋子均完全可见。将她的全皮行李箱放置在座椅旁，包括轮子和拉杆。一把正常尺寸的黑色雨伞自然靠在座椅旁。
-
-穿着奢华驼色风衣、黑色长裤、抛光黑色短靴，佩戴精致金饰，手持优雅手袋。
-
-透过大型车站窗户可见倾盆大雨，背景中有湿滑的铁轨、水洼、雾气、倒影以及一列正在驶来的火车。呈现高端豪华的车站建筑风格，配以温暖的金色灯光和抛光大理石地面。
-
-采用宽幅全身构图，平视相机视角，45–50mm 镜头，自然比例，面部清晰锐利，衣物和皮革细节丰富，雨水效果逼真，具有电影景深。
-
-质量：4K UHD，照片级实拍质感，HDR，真实皮肤毛孔，自然发丝，电影级布光，高级色彩分级，细微胶片颗粒感。
-
-负面提示词：截断的脚部，截断的鞋子，截断的行李箱，过大的雨伞，扭曲的手部，多余的手指，面部漂移，不同身份，塑料皮肤，卡通，动漫，CGI，3D 渲染，不真实的雨水，模糊的面部，低分辨率，不必要的文字，多余的标志，水印。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750137642_0zgt5n_HTT7pQAbAAAWE68.jpg" width="600" alt="产品营销 - 雨中车站全身肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Elvorya](https://x.com/Elvorya)
-- **来源:** [Twitter Post](https://x.com/Elvorya/status/2104583621537611933)
-- **发布时间:** 2026年9月28日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35617)**
 
 ---
 
@@ -6289,7 +6268,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 <div align="center">
 
-### 🎯 15635 更多提示词未在此显示
+### 🎯 15637 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6352,6 +6331,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-07T08:04:21.778Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-08T08:05:24.476Z</sub>
 
 </div>

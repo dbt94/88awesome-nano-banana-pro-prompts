@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15755** |
+| 📝 Total Prompts | **15757** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, October 7, 2026 at 8:04:15 AM UTC** |
+| 🔄 Last Updated | **Thursday, October 8, 2026 at 8:05:21 AM UTC** |
 
 </div>
 
@@ -1655,7 +1655,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social Media Post - Golden Goddess Mahalakshmi Image
+### No. 21: Social Media Post - Misty Lake Rowboat with Text Caption
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A prompt for generating a serene scene of a tiny wooden rowboat on a misty lake at blue hour, featuring muted grey-green tones and a specific serif text caption 'stillness is a place'.
+
+#### 📝 Prompt
+
+```
+A tiny wooden rowing boat on a perfectly still misty lake at blue hour, muted grey-green tones, the far shore barely visible, small serif caption: "{argument name="caption" default="stillness is a place"}"
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441398614_ptf903_HUBgWGbWgAAbXUJ.jpg" width="600" alt="Social Media Post - Misty Lake Rowboat with Text Caption - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Emilio](https://x.com/EmilioSchwaiger)
+- **Source:** [Twitter Post](https://x.com/EmilioSchwaiger/status/2107790561126010965)
+- **Published:** October 7, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36101)**
+
+---
+
+### No. 22: Social Media Post - Golden Goddess Mahalakshmi Image
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1707,7 +1741,7 @@ Generate image of 3d golden text "{argument name="text" default="Mahalakshmi"}" 
 
 ---
 
-### No. 22: Social Media Post - Luxury Bathtub Fashion Portrait
+### No. 23: Social Media Post - Luxury Bathtub Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1750,7 +1784,7 @@ Negative prompt: different face, identity drift, altered facial features, plasti
 
 ---
 
-### No. 23: Social Media Post - Luxury Fashion Editorial with Sports Sedan
+### No. 24: Social Media Post - Luxury Fashion Editorial with Sports Sedan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1783,7 +1817,7 @@ Create a photorealistic luxury fashion editorial of an elegant young woman stand
 
 ---
 
-### No. 24: Social Media Post - Cinematic Luxury Evening Portrait by Infinity Pool
+### No. 25: Social Media Post - Cinematic Luxury Evening Portrait by Infinity Pool
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1830,7 +1864,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 25: Social Media Post - Cheetos Snack Ad Portrait
+### No. 26: Social Media Post - Cheetos Snack Ad Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1873,7 +1907,7 @@ Expressive smile, fun street-commercial aesthetic.
 
 ---
 
-### No. 26: Social Media Post - High-End Beauty Portrait with Reference
+### No. 27: Social Media Post - High-End Beauty Portrait with Reference
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1910,7 +1944,7 @@ Warm golden-orange cinematic lighting, strong soft rim light around the hair, co
 
 ---
 
-### No. 27: Social Media Post - Cheetos Snack Ad Portrait
+### No. 28: Social Media Post - Cheetos Snack Ad Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1965,7 +1999,7 @@ Expressive smile, fun street-commercial aesthetic.
 
 ---
 
-### No. 28: Social Media Post - Luxury Belly Dancer Editorial in Historic Hall
+### No. 29: Social Media Post - Luxury Belly Dancer Editorial in Historic Hall
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2008,7 +2042,7 @@ The final image should feel like an established fashion photographer documented 
 
 ---
 
-### No. 29: Social Media Post - Luxury Fashion Portrait in Convertible Car
+### No. 30: Social Media Post - Luxury Fashion Portrait in Convertible Car
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2047,7 +2081,7 @@ Negative prompt: CGI, 3D render, cartoon, illustration, plastic skin, distorted 
 
 ---
 
-### No. 30: Social Media Post - Luxury Crimson Silk Gown Portrait
+### No. 31: Social Media Post - Luxury Crimson Silk Gown Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2087,7 +2121,7 @@ Different face, identity drift, facial redesign, altered facial structure, diffe
 
 ---
 
-### No. 31: Social Media Post - South Asian Man Artistic Portrait
+### No. 32: Social Media Post - South Asian Man Artistic Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2122,7 +2156,7 @@ featuring a young South Asian man with green eyes and a well-groomed beard. In t
 
 ---
 
-### No. 32: Social Media Post - Surrealist Editorial Portrait Prompt
+### No. 33: Social Media Post - Surrealist Editorial Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2213,47 +2247,6 @@ A complex JSON-based prompt for creating a high-budget surrealist editorial shot
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=35848)**
-
----
-
-### No. 33: Social Media Post - Photorealistic Lifestyle Portrait of Woman on Sofa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A detailed prompt for generating a photorealistic portrait of a woman relaxing on a sofa in a cozy home setting, emphasizing natural lighting and realistic textures.
-
-#### 📝 Prompt
-
-```
-Create a photorealistic high-quality lifestyle portrait of a beautiful young adult woman relaxing on a soft neutral sofa in a cozy modern home. She has long, naturally wavy dark-brown hair, warm fair-to-light olive skin, expressive brown eyes, soft natural makeup, subtle rosy cheeks, and a gentle confident smile. She rests her cheek naturally on one hand while looking directly into the camera.
-
-She wears an oversized cream-white textured knit sweater, light-wash relaxed-fit jeans, delicate small gold earrings, and a thin gold necklace with a tiny pendant. Natural elegant styling, minimal accessories.
-
-Warm late-afternoon sunlight enters from the side, creating soft highlights on her hair and natural skin texture. Background includes a beige sofa, neutral walls, a small vase of white flowers, books, cushions, and a dark doorway, all softly blurred with shallow depth of field.
-
-Photography: realistic DSLR photography, 50mm lens, f/1.8, soft natural window light, subtle cinematic tones, realistic skin pores, detailed hair strands, natural fabric texture, realistic proportions, gentle shadows, professional lifestyle editorial photography, authentic candid feeling, high dynamic range, sharp eyes, 4K detail.
-
-Negative prompt: plastic skin, excessive retouching, artificial face, distorted hands, extra fingers, deformed anatomy, blurry eyes, CGI, cartoon, illustration, oversaturated colors, text, logo, watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101708784_dbxjsv_HTog6qDbcAA-QGA.jpg" width="600" alt="Social Media Post - Photorealistic Lifestyle Portrait of Woman on Sofa - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Aynelle](https://x.com/aynellex)
-- **Source:** [Twitter Post](https://x.com/aynellex/status/2106031986003615843)
-- **Published:** October 2, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=35846)**
 
 ---
 
@@ -4746,7 +4739,40 @@ a captivating digital illustration of a young woman with a {argument name="skin 
 
 ---
 
-### No. 87: Product Marketing - Full-body Fashion Editorial with Identity Preservation
+### No. 87: Product Marketing - Surreal Candy Doll Character Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Description
+
+A prompt for creating a surreal fashion doll made of translucent candy braids, featuring five distinct heads (Asian female, masked, Hulk-like green, dog, cat) and mixed materials like octopus tentacles and tree roots. Designed for high-fashion studio photography with professional lighting.
+
+#### 📝 Prompt
+
+```
+A surreal doll with 5 heads, 10 ears, 2 arms and 2 legs seated on a fashionable high-chair. The central face is a realistic asian female face, the left face is wearing a Carnival mask, the right face is green like Hulk, The far right face is that of a dog, while the far-left face is that of a cat. The body is entirely made of glossy, translucent.multi-colored candy braided and twisted together, with a smooth confectionery sheen. Left arm is made of octopus tentacles. The right leg is made up of tree-roots.  She is seated on a tall high-chair for a professional high-fashion studio photoshoot, slouching naturally into an unusual, relaxed editorial pose. The five heads emerge cohesively from the same single body, creating an intentional surreal couture silhouette rather than separate figures.  Clean, plain studio background. Light pink dominates the candy-plastic body, with subtle muted reddish specular highlights catching the glossy surfaces. Soft, controlled professional studio lighting, muted pastel color palette, sophisticated fashion-editorial aesthetic, realistic facial skin contrasted against the artificial candy-plastic body, refined material detail, polished photographic finish.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg" width="600" alt="Product Marketing - Surreal Candy Doll Character Prompt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Author:** [Anantha Shayana. D](https://x.com/RAYSITI)
+- **Source:** [Twitter Post](https://x.com/RAYSITI/status/2107599888636862834)
+- **Published:** October 6, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36102)**
+
+---
+
+### No. 88: Product Marketing - Full-body Fashion Editorial with Identity Preservation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4784,7 +4810,7 @@ identity drift, different face, altered facial features, face morphing, cropped 
 
 ---
 
-### No. 88: Product Marketing - Pastel Blue Knit Sweater Boutique Portrait
+### No. 89: Product Marketing - Pastel Blue Knit Sweater Boutique Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4817,7 +4843,7 @@ A full-body editorial fashion photograph of a beautiful young woman with the sam
 
 ---
 
-### No. 89: Product Marketing - Nighttime Bedroom Reading Scene
+### No. 90: Product Marketing - Nighttime Bedroom Reading Scene
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4862,7 +4888,7 @@ Negative prompt: CGI, cartoon, illustration, plastic skin, excessive makeup, dis
 
 ---
 
-### No. 90: Product Marketing - Cinematic Double Exposure Poster Prompt
+### No. 91: Product Marketing - Cinematic Double Exposure Poster Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4895,7 +4921,7 @@ Generate a high-quality cinematic double exposure poster of the uploaded handsom
 
 ---
 
-### No. 91: Product Marketing - Istanbul Bosphorus Travel Portrait
+### No. 92: Product Marketing - Istanbul Bosphorus Travel Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4938,7 +4964,7 @@ Negative prompt: face distortion, identity drift, extra fingers, malformed hands
 
 ---
 
-### No. 92: Product Marketing - Cinematic Editorial Bedroom Portrait
+### No. 93: Product Marketing - Cinematic Editorial Bedroom Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4982,7 +5008,7 @@ different face, altered identity, face swap, identity drift, different facial fe
 
 ---
 
-### No. 93: Product Marketing - Kitchen Island Fashion Portrait Prompt
+### No. 94: Product Marketing - Kitchen Island Fashion Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5014,53 +5040,6 @@ She is leaning slightly against the marble kitchen counter, one arm resting natu
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=35666)**
-
----
-
-### No. 94: Product Marketing - Cinematic Woman Waiting for Train in Rain
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Description
-
-A detailed prompt for generating a photorealistic full-body shot of a woman waiting at a railway station in heavy rain, emphasizing luxury fashion and cinematic lighting.
-
-#### 📝 Prompt
-
-```
-Create an ultra-photorealistic 4K cinematic full-body scene of the same woman from the reference image, sitting naturally on an elegant railway station chair while waiting for her train in heavy rain.
-
-Preserve her exact reference face and identity. She looks naturally toward the camera with a calm, elegant expression.
-
-Show her entire body from head to toe, with both shoes completely visible. Place her full leather suitcase beside the chair, including wheels and handle. A normal-sized black umbrella rests naturally beside the chair.
-
-Luxury camel trench coat, black trousers, polished black ankle boots, subtle gold jewelry, and elegant handbag.
-
-Heavy rain is visible through the large station windows, with wet railway tracks, puddles, mist, reflections, and an approaching train in the background. Premium luxury railway-station architecture with warm golden lighting and polished marble floor
-
-Wide full-body composition, eye-level camera, 45–50mm lens, natural proportions, sharp face, detailed clothing and leather, realistic rain, cinematic depth of field.
-
-Quality: 4K UHD, photorealistic live-action, HDR, realistic skin pores, natural hair, cinematic lighting, premium color grading, subtle film grain.
-
-Negative prompt: cropped feet, cropped shoes, cropped suitcase, oversized umbrella, distorted hands, extra fingers, face drift, different identity, plastic skin, cartoon, anime, CGI, 3D render, unrealistic rain, blurry face, low resolution, unwanted text, extra logos, watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750137642_0zgt5n_HTT7pQAbAAAWE68.jpg" width="600" alt="Product Marketing - Cinematic Woman Waiting for Train in Rain - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Elvorya](https://x.com/Elvorya)
-- **Source:** [Twitter Post](https://x.com/Elvorya/status/2104583621537611933)
-- **Published:** September 28, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=35617)**
 
 ---
 
@@ -6304,7 +6283,7 @@ Close-up portrait of an ethereal {argument name="subject" default="young woman"}
 
 <div align="center">
 
-### 🎯 15635 more prompts not shown here
+### 🎯 15637 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6367,6 +6346,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-07T08:04:15.885Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-08T08:05:21.198Z</sub>
 
 </div>

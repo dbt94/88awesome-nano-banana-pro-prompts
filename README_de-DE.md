@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15755** |
+| 📝 Gesamtanzahl Prompts | **15757** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 7. Oktober 2026 um 08:05:34 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 8. Oktober 2026 um 08:05:54 UTC** |
 
 </div>
 
@@ -1654,7 +1654,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social-Media-Beitrag - Bild der goldenen Göttin Mahalakshmi
+### No. 21: Social-Media-Beitrag - Ruderboot auf nebligem See mit Text-Caption
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Beschreibung
+
+Ein Prompt zur Generierung einer ruhigen Szene eines kleinen Holzruderboots auf einem nebligen See während der blauen Stunde, mit gedämpften graugrünen Tönen und einer spezifischen Serifen-Text-Caption 'stillness is a place'.
+
+#### 📝 Prompt
+
+```
+Ein kleines Holzruderboot auf einem spiegelglatten, nebligen See während der blauen Stunde, gedämpfte Graugrün-Töne, das gegenüberliegende Ufer kaum sichtbar, kleine Serifen-Caption: "{argument name="caption" default="stillness is a place"}"
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441398614_ptf903_HUBgWGbWgAAbXUJ.jpg" width="600" alt="Social-Media-Beitrag - Ruderboot auf nebligem See mit Text-Caption - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Emilio](https://x.com/EmilioSchwaiger)
+- **Quelle:** [Twitter Post](https://x.com/EmilioSchwaiger/status/2107790561126010965)
+- **Veröffentlicht:** 7. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36101)**
+
+---
+
+### No. 22: Social-Media-Beitrag - Bild der goldenen Göttin Mahalakshmi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1706,7 +1740,7 @@ Generate image of 3d golden text "{argument name="text" default="Mahalakshmi"}" 
 
 ---
 
-### No. 22: Social-Media-Beitrag - Luxuriöses Badewannen-Modeporträt
+### No. 23: Social-Media-Beitrag - Luxuriöses Badewannen-Modeporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1749,7 +1783,7 @@ Negativ-Prompt: anderes Gesicht, Identitätsdrift, veränderte Gesichtsmerkmale,
 
 ---
 
-### No. 23: Social-Media-Beitrag - Luxuriöses Mode-Editorial mit Sportlimousine
+### No. 24: Social-Media-Beitrag - Luxuriöses Mode-Editorial mit Sportlimousine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1782,7 +1816,7 @@ Erstelle ein fotorealistisches luxuriöses Mode-Editorial einer eleganten jungen
 
 ---
 
-### No. 24: Social-Media-Beitrag - Kinoästhetisches Luxus-Abendporträt mit Referenzbild
+### No. 25: Social-Media-Beitrag - Kinoästhetisches Luxus-Abendporträt mit Referenzbild
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1829,7 +1863,7 @@ Negativer Prompt: Identitätswechsel, Gesichtsabweichung, andere Person, veränd
 
 ---
 
-### No. 25: Social-Media-Beitrag - Cheetos Snack-Werbung Porträt
+### No. 26: Social-Media-Beitrag - Cheetos Snack-Werbung Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1872,7 +1906,7 @@ Ausdrucksvolles Lächeln, ästhetischer Stil einer lustigen Straßenwerbung.
 
 ---
 
-### No. 26: Social-Media-Beitrag - Hochwertiges Beauty-Porträt mit Referenz
+### No. 27: Social-Media-Beitrag - Hochwertiges Beauty-Porträt mit Referenz
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1909,7 +1943,7 @@ Warmes golden-oranges kinematografisches Licht, starkes weiches Rim-Light um das
 
 ---
 
-### No. 27: Social-Media-Beitrag - Cheetos Snack-Werbung Porträt
+### No. 28: Social-Media-Beitrag - Cheetos Snack-Werbung Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1964,7 +1998,7 @@ Ausdrucksstarkes Lächeln, ästhetischer Stil im Sinne von Straßenwerbung.
 
 ---
 
-### No. 28: Social-Media-Beitrag - Luxuriöses Bauchtänzerinnen-Editorial in historischer Halle
+### No. 29: Social-Media-Beitrag - Luxuriöses Bauchtänzerinnen-Editorial in historischer Halle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2007,7 +2041,7 @@ Das finale Bild soll sich anfühlen, als hätte ein etablierter Modefotograf ein
 
 ---
 
-### No. 29: Social-Media-Beitrag - Luxuriöses Mode-Porträt im Cabrio
+### No. 30: Social-Media-Beitrag - Luxuriöses Mode-Porträt im Cabrio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2046,7 +2080,7 @@ Negativ-Prompt: CGI, 3D-Render, Cartoon, Illustration, Plastikhaut, verzerrtes G
 
 ---
 
-### No. 30: Social-Media-Beitrag - Luxuriöses Modeporträt mit Identitätserhalt
+### No. 31: Social-Media-Beitrag - Luxuriöses Modeporträt mit Identitätserhalt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2085,7 +2119,7 @@ Anderes Gesicht, Identitätsdrift, Neugestaltung des Gesichts, veränderte Gesic
 
 ---
 
-### No. 31: Social-Media-Beitrag - Traumhafte Porträtkomposition-Prompt
+### No. 32: Social-Media-Beitrag - Traumhafte Porträtkomposition-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2121,7 +2155,7 @@ mit einem jungen südasianischen Mann mit grünen Augen und einem gepflegten Bar
 
 ---
 
-### No. 32: Social-Media-Beitrag - Surrealistischer Editorial-Porträt-Prompt
+### No. 33: Social-Media-Beitrag - Surrealistischer Editorial-Porträt-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2204,47 +2238,6 @@ Ein komplexer JSON-basierter Prompt für die Erstellung eines aufwendigen surrea
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35848)**
-
----
-
-### No. 33: Social-Media-Beitrag - Gemütliches Wohnambiente-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Erzeugt ein fotorealistisches Lifestyle-Porträt einer Frau, die auf einem Sofa bei warmem Sonnenlicht entspannt – ideal für Personal Branding oder Stockbilder.
-
-#### 📝 Prompt
-
-```
-Erstelle ein fotorealistisches, hochwertiges Lifestyle-Porträt einer schönen jungen erwachsenen Frau, die auf einem weichen, neutralen Sofa in einem gemütlichen modernen Zuhause entspannt. Sie hat lange, natürlich gewellte dunkelbraune Haare, eine warme helle bis leicht olivfarbene Haut, ausdrucksstarke braune Augen, dezentes natürliches Make-up, sanft gerötete Wangen und ein freundliches, selbstbewusstes Lächeln. Sie legt ihre Wange natürlich auf eine Hand und blickt direkt in die Kamera.
-
-Sie trägt einen übergroßen, strukturierten Strickpullover in Cremeweiß, eine locker geschnittene Jeans in heller Waschung, kleine zarte goldene Ohrringe und eine dünne Goldkette mit einem winzigen Anhänger. Natürliche elegante Styling, minimale Accessoires.
-
-Warmes Nachmittagslicht fällt von der Seite herein und erzeugt sanfte Highlights auf ihrem Haar und ihrer natürlichen Hauttextur. Der Hintergrund umfasst ein beiges Sofa, neutrale Wände, eine kleine Vase mit weißen Blumen, Bücher, Kissen und einen dunklen Türrahmen, alles weichgezeichnet durch geringe Schärfentiefe.
-
-Fotografie: realistische DSLR-Fotografie, 50mm-Objektiv, f/1.8, weiches natürliches Fensterlicht, subtile cineastische Töne, realistische Poren, detaillierte Haarsträhnen, natürliche Stofftextur, realistische Proportionen, sanfte Schatten, professionelle Lifestyle-Editorial-Fotografie, authentischer Schnappschuss-Effekt, hoher Dynamikumfang, scharfe Augen, 4K-Detail.
-
-Negativ-Prompt: Plastik-Haut, übermäßige Retusche, künstliches Gesicht, verzerrte Hände, zusätzliche Finger, deformierte Anatomie, unscharfe Augen, CGI, Cartoon, Illustration, übersättigte Farben, Text, Logo, Wasserzeichen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101708784_dbxjsv_HTog6qDbcAA-QGA.jpg" width="600" alt="Social-Media-Beitrag - Gemütliches Wohnambiente-Porträt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Aynelle](https://x.com/aynellex)
-- **Quelle:** [Twitter Post](https://x.com/aynellex/status/2106031986003615843)
-- **Veröffentlicht:** 2. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35846)**
 
 ---
 
@@ -4720,7 +4713,40 @@ eine fesselnde digitale Illustration einer jungen Frau mit einem {argument name=
 
 ---
 
-### No. 87: Produktmarketing - Avantgarde-Silberkleid Mode-Editorial
+### No. 87: Produktmarketing - Surrealer Candy-Doll-Charakter-Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein Prompt zur Erstellung einer surrealen Modepuppe aus transluzenten Candy-Zöpfen mit fünf unterschiedlichen Köpfen (asiatische Frau, Maske, Hulk-artiges Grün, Hund, Katze) und gemischten Materialien wie Oktopus-Tentakeln und Baumwurzeln. Konzipiert für High-Fashion-Studiofotografie mit professionellem Licht.
+
+#### 📝 Prompt
+
+```
+Eine surreale Puppe mit 5 Köpfen, 10 Ohren, 2 Armen und 2 Beinen, die auf einem modischen Hochstuhl sitzt. Das zentrale Gesicht ist ein realistisches asiatisches Frauen-Gesicht, das linke Gesicht trägt eine Karnevalsmaske, das rechte Gesicht ist grün wie der Hulk, das ganz rechte Gesicht ist das eines Hundes, während das ganz linke Gesicht das einer Katze ist. Der Körper besteht vollständig aus glänzenden, transluzenten, mehrfarbigen Candy-Zöpfen, die ineinander verflochten und gedreht sind, mit einem glatten Süßwaren-Schimmer. Der linke Arm besteht aus Oktopus-Tentakeln. Das rechte Bein besteht aus Baumwurzeln. Sie sitzt auf einem hohen Stuhl für ein professionelles High-Fashion-Studio-Shooting und lehnt sich natürlich in eine ungewöhnliche, entspannte Editorial-Pose zurück. Die fünf Köpfe gehen kohärent aus demselben einzelnen Körper hervor und schaffen so eine beabsichtigte surreale Couture-Silhouette anstelle getrennter Figuren. Sauberer, schlichter Studiohintergrund. Hellrosa dominiert den Candy-Kunststoffkörper, mit subtilen gedämpften rötlichen Spekular-Highlights, die die glänzenden Oberflächen einfangen. Weiches, kontrolliertes professionelles Studio-Licht, gedämpfte Pastell-Farbpalette, anspruchsvolle Fashion-Editorial-Ästhetik, realistische Hauttextur im Kontrast zum künstlichen Candy-Kunststoffkörper, verfeinerte Materialdetails, polierter fotografischer Finish.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg" width="600" alt="Produktmarketing - Surrealer Candy-Doll-Charakter-Prompt - Image 1">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Anantha Shayana. D](https://x.com/RAYSITI)
+- **Quelle:** [Twitter Post](https://x.com/RAYSITI/status/2107599888636862834)
+- **Veröffentlicht:** 6. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36102)**
+
+---
+
+### No. 88: Produktmarketing - Avantgarde-Silberkleid Mode-Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4758,7 +4784,7 @@ Identitätsdrift, anderes Gesicht, veränderte Gesichtsmerkmale, Gesichts-Morphi
 
 ---
 
-### No. 88: Produktmarketing - Editorial-Modeportrait in einer Boutique
+### No. 89: Produktmarketing - Editorial-Modeportrait in einer Boutique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4791,7 +4817,7 @@ Ganzkörper-Editorial-Modefoto einer schönen jungen Frau mit demselben Aussehen
 
 ---
 
-### No. 89: Produktmarketing - Nächtliche Leseszene im Schlafzimmer
+### No. 90: Produktmarketing - Nächtliche Leseszene im Schlafzimmer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4836,7 +4862,7 @@ Negativer Prompt: CGI, Cartoon, Illustration, Plastik-Haut, übermäßiges Make-
 
 ---
 
-### No. 90: Produktmarketing - Cinematic Double Exposure Poster Prompt
+### No. 91: Produktmarketing - Cinematic Double Exposure Poster Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4869,7 +4895,7 @@ Generate a high-quality cinematic double exposure poster of the uploaded handsom
 
 ---
 
-### No. 91: Produktmarketing - Istanbul Bosporus Reiseporträt
+### No. 92: Produktmarketing - Istanbul Bosporus Reiseporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4912,7 +4938,7 @@ Negativ-Prompt: Gesichtsverzerrung, Identitätsdrift, zusätzliche Finger, missg
 
 ---
 
-### No. 92: Produktmarketing - Kinematografisches Editorial-Schlafzimmer-Porträt
+### No. 93: Produktmarketing - Kinematografisches Editorial-Schlafzimmer-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4956,7 +4982,7 @@ anderes Gesicht, veränderte Identität, Face-Swap, Identitätsdrift, andere Ges
 
 ---
 
-### No. 93: Produktmarketing - Modernes Küchen-Fashion-Porträt
+### No. 94: Produktmarketing - Modernes Küchen-Fashion-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4988,53 +5014,6 @@ Sie lehnt leicht an der Marmorküchenzeile, ein Arm ruht natürlich auf der Arbe
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35666)**
-
----
-
-### No. 94: Produktmarketing - Regenbahnstation Ganzkörperporträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt für Nano Banana Pro zur Generierung einer kinoreifen Ganzkörperszene einer Frau, die bei starkem Regen auf einem Bahnhof wartet, unter Beibehaltung der Referenzidentität.
-
-#### 📝 Prompt
-
-```
-Erstellen Sie eine ultraphotorealistische 4K-KinSzene im Ganzkörperformat derselben Frau aus dem Referenzbild, die natürlich auf einer eleganten Bahnhofsbank sitzt und bei starkem Regen auf ihren Zug wartet.
-
-Bewahren Sie ihr exaktes Gesicht und ihre Identität aus der Referenz. Sie blickt mit einem ruhigen, eleganten Ausdruck natürlich in die Kamera.
-
-Zeigen Sie ihren gesamten Körper von Kopf bis Fuß, wobei beide Schuhe vollständig sichtbar sind. Platzieren Sie ihren vollständigen Lederkoffer neben der Bank, einschließlich Rädern und Griff. Ein normal großer schwarzer Regenschirm liegt natürlich neben der Bank.
-
-Luxuriöser Kamelhaar-Trenchcoat, schwarze Hose, polierte schwarze Stiefeletten, dezenter Goldschmuck und eine elegante Handtasche.
-
-Starker Regen ist durch die großen Bahnhofsfenster sichtbar, mit nassen Gleisen, Pfützen, Nebel, Reflexionen und einem herannahenden Zug im Hintergrund. Premium-Luxus-Bahnhofarchitektur mit warmem goldenem Licht und poliertem Marmorboden.
-
-Breite Ganzkörperkomposition, Augenhöhe-Kamera, 45–50-mm-Objektiv, natürliche Proportionen, scharfes Gesicht, detaillierte Kleidung und Leder, realistischer Regen, kinematografische Tiefenschärfe.
-
-Qualität: 4K UHD, photorealistisches Live-Action, HDR, realistische Hautporen, natürliches Haar, kinematografische Beleuchtung, Premium-Farbgrading, subtiler Filmkorn.
-
-Negativer Prompt: abgeschnittene Füße, abgeschnittene Schuhe, abgeschnittener Koffer, übergroßer Regenschirm, verzerrte Hände, zusätzliche Finger, Gesichtsdrift, andere Identität, Plastik-Haut, Cartoon, Anime, CGI, 3D-Render, unrealistischer Regen, unscharfes Gesicht, niedrige Auflösung, unerwünschter Text, zusätzliche Logos, Wasserzeichen.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750137642_0zgt5n_HTT7pQAbAAAWE68.jpg" width="600" alt="Produktmarketing - Regenbahnstation Ganzkörperporträt - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Elvorya](https://x.com/Elvorya)
-- **Quelle:** [Twitter Post](https://x.com/Elvorya/status/2104583621537611933)
-- **Veröffentlicht:** 28. September 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35617)**
 
 ---
 
@@ -6278,7 +6257,7 @@ Nahaufnahme eines {argument name="subject" default="ätherischen jungen Frau"} m
 
 <div align="center">
 
-### 🎯 15635 weitere Prompts hier nicht angezeigt
+### 🎯 15637 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6341,6 +6320,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-07T08:05:34.581Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-08T08:05:54.093Z</sub>
 
 </div>

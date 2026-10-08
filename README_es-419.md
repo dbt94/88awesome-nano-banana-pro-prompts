@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15755** |
+| 📝 Total de prompts | **15757** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **miércoles, 7 de octubre de 2026, 8:05:27 a.m. UTC** |
+| 🔄 Última actualización | **jueves, 8 de octubre de 2026, 8:05:50 a.m. UTC** |
 
 </div>
 
@@ -1643,7 +1643,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Imagen de la Diosa Dorada Mahalakshmi
+### No. 21: Publicación en redes sociales - Bote de remos en lago brumoso con leyenda de texto
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descripción
+
+Prompt para generar una escena serena de un pequeño bote de remos de madera sobre un lago brumoso durante la hora azul, con tonos gris-verdosos apagados y una leyenda específica en tipografía serif: 'stillness is a place'.
+
+#### 📝 Prompt
+
+```
+Un pequeño bote de remos de madera sobre un lago brumoso perfectamente inmóvil durante la hora azul, tonos gris-verdosos apagados, la orilla lejana apenas visible, pequeña leyenda en tipografía serif: "{argument name="caption" default="stillness is a place"}"
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441398614_ptf903_HUBgWGbWgAAbXUJ.jpg" width="600" alt="Publicación en redes sociales - Bote de remos en lago brumoso con leyenda de texto - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Emilio](https://x.com/EmilioSchwaiger)
+- **Fuente:** [Twitter Post](https://x.com/EmilioSchwaiger/status/2107790561126010965)
+- **Publicado:** 7 de octubre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=36101)**
+
+---
+
+### No. 22: Publicación en redes sociales - Imagen de la Diosa Dorada Mahalakshmi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1695,7 +1729,7 @@ Genera una imagen de texto dorado en 3D "{argument name="text" default="Mahalaks
 
 ---
 
-### No. 22: Publicación en redes sociales - Retrato de Moda en Bañera de Lujo
+### No. 23: Publicación en redes sociales - Retrato de Moda en Bañera de Lujo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1738,7 +1772,7 @@ Prompt negativo: cara diferente, deriva de identidad, rasgos faciales alterados,
 
 ---
 
-### No. 23: Publicación en redes sociales - Editorial de moda de lujo con sedán deportivo
+### No. 24: Publicación en redes sociales - Editorial de moda de lujo con sedán deportivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1771,7 +1805,7 @@ Crea un editorial fotográfico realista de moda de lujo que muestre a una joven 
 
 ---
 
-### No. 24: Publicación en redes sociales - Retrato nocturno de lujo cinematográfico con imagen de referencia
+### No. 25: Publicación en redes sociales - Retrato nocturno de lujo cinematográfico con imagen de referencia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1818,7 +1852,7 @@ Prompt negativo: cambio de identidad, deriva facial, persona diferente, rasgos f
 
 ---
 
-### No. 25: Publicación en redes sociales - Retrato Publicitario de Cheetos
+### No. 26: Publicación en redes sociales - Retrato Publicitario de Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1861,7 +1895,7 @@ Sonrisa expresiva, estética comercial callejera y divertida.
 
 ---
 
-### No. 26: Publicación en redes sociales - Retrato de belleza de alta gama con referencia
+### No. 27: Publicación en redes sociales - Retrato de belleza de alta gama con referencia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1898,7 +1932,7 @@ Iluminación cinematográfica cálida en tonos dorados-anaranjados, fuerte luz d
 
 ---
 
-### No. 27: Publicación en redes sociales - Retrato publicitario de Cheetos
+### No. 28: Publicación en redes sociales - Retrato publicitario de Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1953,7 +1987,7 @@ Sonrisa expresiva, estética comercial urbana y divertida.
 
 ---
 
-### No. 28: Publicación en redes sociales - Editorial de Lujo de Bailarina de Vientre en Salón Histórico
+### No. 29: Publicación en redes sociales - Editorial de Lujo de Bailarina de Vientre en Salón Histórico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1996,7 +2030,7 @@ La imagen final debe sentirse como si un fotógrafo de moda establecido hubiera 
 
 ---
 
-### No. 29: Publicación en redes sociales - Retrato de moda de lujo en auto descapotable
+### No. 30: Publicación en redes sociales - Retrato de moda de lujo en auto descapotable
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2035,7 +2069,7 @@ Prompt negativo: CGI, render 3D, caricatura, ilustración, piel plástica, rostr
 
 ---
 
-### No. 30: Publicación en redes sociales - Retrato de Moda de Lujo con Identidad Facial
+### No. 31: Publicación en redes sociales - Retrato de Moda de Lujo con Identidad Facial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2074,7 +2108,7 @@ Rostro diferente, deriva de identidad, rediseño facial, estructura facial alter
 
 ---
 
-### No. 31: Publicación en redes sociales - Prompt de Composición de Retrato Onírico
+### No. 32: Publicación en redes sociales - Prompt de Composición de Retrato Onírico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2110,7 +2144,7 @@ mostrando a un joven hombre del sur de Asia con ojos verdes y una barba bien cui
 
 ---
 
-### No. 32: Publicación en redes sociales - Prompt de Retrato Editorial Surrealista
+### No. 33: Publicación en redes sociales - Prompt de Retrato Editorial Surrealista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2201,47 +2235,6 @@ Un prompt complejo basado en JSON para crear una fotografía editorial surrealis
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=35848)**
-
----
-
-### No. 33: Publicación en redes sociales - Retrato de Estilo de Vida en un Hogar Acogedor
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Genera un retrato fotorealista de estilo de vida de una mujer relajándose en un sofá con luz solar cálida, ideal para marca personal o imágenes de stock.
-
-#### 📝 Prompt
-
-```
-Crea un retrato fotorealista de alta calidad y estilo de vida de una joven adulta hermosa relajándose en un sofá suave de tono neutro en un hogar moderno y acogedor. Tiene cabello largo, oscuro castaño y naturalmente ondulado, piel clara a oliva con calidez, ojos marrones expresivos, maquillaje natural suave, mejillas sutilmente rosadas y una sonrisa gentil y segura. Apoya su mejilla naturalmente sobre una mano mientras mira directamente a la cámara.
-
-Viste un suéter de punto texturizado crema-blanco de talla grande, jeans de lavado claro y corte holgado, aretes pequeños delicados de oro y un collar fino de oro con un pequeño colgante. Estilo elegante y natural, accesorios mínimos.
-
-La luz cálida del sol al final de la tarde entra desde el lado, creando reflejos suaves en su cabello y textura natural de la piel. El fondo incluye un sofá beige, paredes neutras, un pequeño jarrón con flores blancas, libros, cojines y una puerta oscura, todo suavemente desenfocado con poca profundidad de campo.
-
-Fotografía: fotografía DSLR realista, lente de 50mm, f/1.8, luz natural suave de ventana, tonos cinematográficos sutiles, poros de piel realistas, hebras de cabello detalladas, textura de tela natural, proporciones realistas, sombras suaves, fotografía editorial profesional de estilo de vida, sensación auténtica y espontánea, alto rango dinámico, ojos nítidos, detalle 4K.
-
-Prompt negativo: piel plástica, retoque excesivo, rostro artificial, manos distorsionadas, dedos extra, anatomía deformada, ojos borrosos, CGI, caricatura, ilustración, colores sobresaturados, texto, logo, marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101708784_dbxjsv_HTog6qDbcAA-QGA.jpg" width="600" alt="Publicación en redes sociales - Retrato de Estilo de Vida en un Hogar Acogedor - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Aynelle](https://x.com/aynellex)
-- **Fuente:** [Twitter Post](https://x.com/aynellex/status/2106031986003615843)
-- **Publicado:** 2 de octubre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=35846)**
 
 ---
 
@@ -4721,7 +4714,40 @@ una cautivadora ilustración digital de una mujer joven con {argument name="skin
 
 ---
 
-### No. 87: Marketing de producto - Editorial de Moda con Vestido Plateado Vanguardista
+### No. 87: Marketing de producto - Prompt de Personaje: Muñeca de Dulces Surrealista
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt para crear una muñeca de moda surrealista hecha de trenzas de dulces translúcidos, con cinco cabezas distintas (mujer asiática, enmascarada, verde tipo Hulk, perro y gato) y materiales mixtos como tentáculos de pulpo y raíces de árbol. Diseñado para fotografía de estudio de alta costura con iluminación profesional.
+
+#### 📝 Prompt
+
+```
+Una muñeca surrealista con 5 cabezas, 10 orejas, 2 brazos y 2 piernas, sentada en una silla alta de diseño moderno. El rostro central es el de una mujer asiática realista; el rostro izquierdo lleva una máscara de carnaval; el rostro derecho es verde, similar al de Hulk; el rostro más a la derecha es el de un perro, mientras que el más a la izquierda es el de un gato. El cuerpo está hecho completamente de trenzas de dulces brillantes, translúcidos y multicolores, entrelazados y retorcidos, con un acabado suave de confitería. El brazo izquierdo está compuesto por tentáculos de pulpo. La pierna derecha está formada por raíces de árboles. Está sentada en una silla alta para una sesión de fotos de estudio de alta costura profesional, adoptando naturalmente una pose editorial relajada e inusual. Las cinco cabezas emergen cohesionadamente del mismo cuerpo único, creando una silueta couture surrealista intencional en lugar de figuras separadas. Fondo de estudio limpio y sencillo. Predomina el rosa claro en el cuerpo de plástico-dulce, con sutiles reflejos especulares rojizos apagados que capturan las superficies brillantes. Iluminación de estudio profesional suave y controlada, paleta de colores pastel apagados, estética sofisticada de editorial de moda, piel facial realista contrastada contra el cuerpo artificial de plástico-dulce, detalle material refinado y acabado fotográfico pulido.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg" width="600" alt="Marketing de producto - Prompt de Personaje: Muñeca de Dulces Surrealista - Image 1">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Anantha Shayana. D](https://x.com/RAYSITI)
+- **Fuente:** [Twitter Post](https://x.com/RAYSITI/status/2107599888636862834)
+- **Publicado:** 6 de octubre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=36102)**
+
+---
+
+### No. 88: Marketing de producto - Editorial de Moda con Vestido Plateado Vanguardista
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4759,7 +4785,7 @@ deriva de identidad, cara diferente, rasgos faciales alterados, morfing facial, 
 
 ---
 
-### No. 88: Marketing de producto - Retrato Editorial de Moda en Boutique
+### No. 89: Marketing de producto - Retrato Editorial de Moda en Boutique
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4792,7 +4818,7 @@ Fotografía editorial de moda de cuerpo completo de una joven hermosa con la mis
 
 ---
 
-### No. 89: Marketing de producto - Escena nocturna de lectura en el dormitorio
+### No. 90: Marketing de producto - Escena nocturna de lectura en el dormitorio
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4837,7 +4863,7 @@ Prompt negativo: CGI, caricatura, ilustración, piel plástica, maquillaje exces
 
 ---
 
-### No. 90: Marketing de producto - Prompt para Póster Cinematográfico de Doble Exposición
+### No. 91: Marketing de producto - Prompt para Póster Cinematográfico de Doble Exposición
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4870,7 +4896,7 @@ Genera un póster cinematográfico de alta calidad con efecto de doble exposici�
 
 ---
 
-### No. 91: Marketing de producto - Retrato de viaje en el Bósforo de Estambul
+### No. 92: Marketing de producto - Retrato de viaje en el Bósforo de Estambul
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4913,7 +4939,7 @@ Prompt negativo: distorsión facial, deriva de identidad, dedos extra, manos mal
 
 ---
 
-### No. 92: Marketing de producto - Retrato Editorial de Dormitorio con Estilo Cinematográfico
+### No. 93: Marketing de producto - Retrato Editorial de Dormitorio con Estilo Cinematográfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4957,7 +4983,7 @@ diferente rostro, identidad alterada, intercambio de rostro, deriva de identidad
 
 ---
 
-### No. 93: Marketing de producto - Retrato de Moda en Cocina Moderna
+### No. 94: Marketing de producto - Retrato de Moda en Cocina Moderna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4989,53 +5015,6 @@ Se apoya ligeramente contra la encimera de mármol de la cocina, con un brazo de
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=35666)**
-
----
-
-### No. 94: Marketing de producto - Retrato de cuerpo completo en estación lluviosa
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Prompt para Nano Banana Pro que genera una escena cinematográfica de cuerpo completo de una mujer esperando en una estación de tren bajo una fuerte lluvia, preservando la identidad de referencia.
-
-#### 📝 Prompt
-
-```
-Crea una escena cinematográfica ultra fotorrealista en 4K de cuerpo completo de la misma mujer de la imagen de referencia, sentada naturalmente en un elegante asiento de estación de tren mientras espera su tren bajo una fuerte lluvia.
-
-Preserva exactamente su rostro y su identidad de referencia. Ella mira naturalmente hacia la cámara con una expresión tranquila y elegante.
-
-Muestra todo su cuerpo de la cabeza a los pies, con ambos zapatos completamente visibles. Coloca su maleta de cuero completa junto al asiento, incluyendo ruedas y asa. Un paraguas negro de tamaño normal descansa naturalmente junto al asiento.
-
-Abrigo gabardina de lujo color camel, pantalones negros, botines negros pulidos, joyería sutil de oro y bolso elegante.
-
-La lluvia intensa es visible a través de las grandes ventanas de la estación, con vías húmedas, charcos, niebla, reflejos y un tren acercándose en el fondo. Arquitectura premium de estación de ferrocarril de lujo con iluminación dorada cálida y suelo de mármol pulido.
-
-Composición amplia de cuerpo completo, cámara a nivel de los ojos, lente de 45–50 mm, proporciones naturales, rostro nítido, detalles realistas en ropa y cuero, lluvia realista, profundidad de campo cinematográfica.
-
-Calidad: 4K UHD, acción en vivo fotorrealista, HDR, poros de piel realistas, cabello natural, iluminación cinematográfica, graduación de color premium, grano de película sutil.
-
-Prompt negativo: pies recortados, zapatos recortados, maleta recortada, paraguas sobredimensionado, manos distorsionadas, dedos adicionales, desviación facial, identidad diferente, piel plástica, caricatura, anime, CGI, render 3D, lluvia irrealista, rostro borroso, baja resolución, texto no deseado, logotipos extra, marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750137642_0zgt5n_HTT7pQAbAAAWE68.jpg" width="600" alt="Marketing de producto - Retrato de cuerpo completo en estación lluviosa - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Elvorya](https://x.com/Elvorya)
-- **Fuente:** [Twitter Post](https://x.com/Elvorya/status/2104583621537611933)
-- **Publicado:** 28 de septiembre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=35617)**
 
 ---
 
@@ -6279,7 +6258,7 @@ Retrato en primer plano de una {argument name="subject" default="joven etérea"}
 
 <div align="center">
 
-### 🎯 15635 prompts más no mostrados aquí
+### 🎯 15637 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6342,6 +6321,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-07T08:05:27.168Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-08T08:05:50.805Z</sub>
 
 </div>

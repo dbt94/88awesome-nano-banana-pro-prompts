@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15755** |
+| 📝 提示詞總數 | **15757** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年10月7日 星期三 上午8:04:29 [UTC]** |
+| 🔄 最後更新 | **2026年10月8日 星期四 上午8:05:28 [UTC]** |
 
 </div>
 
@@ -1648,7 +1648,41 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社群媒體貼文 - 金色女神 Lakshmi 圖像
+### No. 21: 社群媒體貼文 - 迷霧湖泊划艇配文字標題
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+生成靜謐場景的提示詞：藍調時刻，一艘小木船漂浮在迷霧籠罩的湖面上，呈現柔和的灰綠色調，並帶有特定襯線字體文字標題「stillness is a place」。
+
+#### 📝 提示詞
+
+```
+藍調時刻，一艘小木船靜靜地漂浮在完全平靜、迷霧瀰漫的湖面上，色調為柔和的灰綠色，遠處岸邊隱約可見，小型襯線字體標題："{argument name="caption" default="stillness is a place"}"
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441398614_ptf903_HUBgWGbWgAAbXUJ.jpg" width="600" alt="社群媒體貼文 - 迷霧湖泊划艇配文字標題 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Emilio](https://x.com/EmilioSchwaiger)
+- **來源:** [Twitter Post](https://x.com/EmilioSchwaiger/status/2107790561126010965)
+- **發布時間:** 2026年10月7日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36101)**
+
+---
+
+### No. 22: 社群媒體貼文 - 金色女神 Lakshmi 圖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1700,7 +1734,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社群媒體貼文 - 奢華浴缸時尚人像
+### No. 23: 社群媒體貼文 - 奢華浴缸時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1743,7 +1777,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社群媒體貼文 - 豪華時尚編輯：運動型轎車主題
+### No. 24: 社群媒體貼文 - 豪華時尚編輯：運動型轎車主題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1776,7 +1810,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社群媒體貼文 - 以參考圖生成電影感奢華夜景人像
+### No. 25: 社群媒體貼文 - 以參考圖生成電影感奢華夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1823,7 +1857,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社群媒體貼文 - Cheetos 零食廣告人像
+### No. 26: 社群媒體貼文 - Cheetos 零食廣告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1866,7 +1900,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社群媒體貼文 - 含參考圖的高級美容人像
+### No. 27: 社群媒體貼文 - 含參考圖的高級美容人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1903,7 +1937,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: 社群媒體貼文 - Cheetos 零食廣告人像
+### No. 28: 社群媒體貼文 - Cheetos 零食廣告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1958,7 +1992,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 28: 社群媒體貼文 - 歷史大廳中的奢華肚皮舞者時尚編輯照
+### No. 29: 社群媒體貼文 - 歷史大廳中的奢華肚皮舞者時尚編輯照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2001,7 +2035,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 29: 社群媒體貼文 - 敞篷車中的奢華時尚人像
+### No. 30: 社群媒體貼文 - 敞篷車中的奢華時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2040,7 +2074,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 30: 社群媒體貼文 - 高級時尚人像身份識別
+### No. 31: 社群媒體貼文 - 高級時尚人像身份識別
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2079,7 +2113,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 31: 社群媒體貼文 - 夢幻人像構圖提示詞
+### No. 32: 社群媒體貼文 - 夢幻人像構圖提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2115,7 +2149,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 32: 社群媒體貼文 - 超現實主義編輯人像提示詞
+### No. 33: 社群媒體貼文 - 超現實主義編輯人像提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2206,47 +2240,6 @@ https://t.co/QxbYpfFVj6
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35848)**
-
----
-
-### No. 33: 社群媒體貼文 - 溫馨居家生活風格人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一張女性在溫暖陽光下於沙發上放鬆的寫實生活風格人像，適用於個人品牌建立或圖庫影像。
-
-#### 📝 提示詞
-
-```
-創建一張高品質、寫實的生活風格人像，描繪一位美麗的年輕成年女性，在舒適現代家居中，於柔軟的中性色沙發上放鬆。她留著長而自然微捲的深棕色頭髮，膚色為溫暖的白皙至淺橄欖色，眼神深邃且富有表現力，化著柔和自然的妝容，臉頰帶有淡淡的紅暈，展現溫柔而自信的微笑。她自然地將臉頰倚靠在一隻手上，直視鏡頭。
-
-她身穿寬鬆的奶油白色紋理針織毛衣、淺洗水寬鬆牛仔褲，佩戴精緻的小巧金色耳環和一條帶有小吊墜的細金項鍊。整體造型自然優雅，配飾極簡。
-
-溫暖的午後陽光從側面射入，在她的頭髮上形成柔和的高光，並突顯自然的皮膚質感。背景包括米色沙發、中性色牆壁、一小瓶白花、書籍、抱枕以及一個深色門口，所有元素均透過淺景深效果呈現柔和模糊。
-
-攝影設定：真實 DSLR 攝影風格，50mm 鏡頭，光圈 f/1.8，柔和的自然窗光，細膩的電影感色調，逼真的皮膚毛孔，細節豐富的髮絲，自然的布料紋理，準確的人體比例，柔和的陰影，專業的生活風格編輯攝影，真實的抓拍感覺，高動態範圍 (HDR)，銳利的眼神，4K 細節。
-
-負面提示詞：塑料感皮膚、過度修圖、人工面孔、扭曲的手部、多餘的手指、解剖結構變形、模糊的眼睛、CGI、卡通、插畫、過度飽和的色彩、文字、標誌、浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101708784_dbxjsv_HTog6qDbcAA-QGA.jpg" width="600" alt="社群媒體貼文 - 溫馨居家生活風格人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Aynelle](https://x.com/aynellex)
-- **來源:** [Twitter Post](https://x.com/aynellex/status/2106031986003615843)
-- **發布時間:** 2026年10月2日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35846)**
 
 ---
 
@@ -4729,7 +4722,40 @@ STORYBOARD：
 
 ---
 
-### No. 87: 產品行銷 - 前衛銀色禮服時尚編輯
+### No. 87: 產品行銷 - 超現實糖果娃娃角色提示詞
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用於創建由半透明糖果辮子組成的超現實時尚娃娃的提示詞，特色為五個不同的頭部（亞洲女性、戴面具者、綠巨人般的綠色面孔、狗、貓）以及章魚觸手和樹根等混合材質。專為專業燈光的高級時裝攝影棚拍攝而設計。
+
+#### 📝 提示詞
+
+```
+一個擁有 5 個頭部、10 隻耳朵、2 條手臂和 2 條腿的超現實娃娃，坐在時尚的高腳椅上。中央的面孔是一張寫實的亞洲女性臉龐，左側的面孔戴著嘉年華面具，右側的面孔呈現如綠巨人般的綠色，最右側的面孔是狗的臉，而最左側的面孔則是貓的臉。身體完全由光澤、半透明的多色糖果編織並扭轉而成，表面帶有平滑的糖果般光澤。左臂由章魚觸手構成。右腿則由樹根組成。她坐在一張高腳椅上，準備進行專業的高級時裝攝影棚拍攝，自然地倚靠在椅背上，擺出獨特且放鬆的編輯風格姿勢。五個頭部從同一個身體中協調地延伸出來，創造出一種刻意設計的超現實高級定製輪廓，而非獨立的個體。乾淨、純色的攝影棚背景。粉紅色主導了糖果塑料質感的軀幹，並在光澤表面上捕捉到細微柔和的紅褐色鏡面高光。柔和、受控的專業攝影棚燈光，柔和的粉彩調色板，精緻的時尚編輯美學，寫實的面部皮膚與人造糖果塑料身體形成對比，細節精緻的材质表現，拋光的攝影成品質感。
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791441399884_qc22a9_HT-jLSzbEAAsrY3.jpg" width="600" alt="產品行銷 - 超現實糖果娃娃角色提示詞 - Image 1">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [Anantha Shayana. D](https://x.com/RAYSITI)
+- **來源:** [Twitter Post](https://x.com/RAYSITI/status/2107599888636862834)
+- **發布時間:** 2026年10月6日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36102)**
+
+---
+
+### No. 88: 產品行銷 - 前衛銀色禮服時尚編輯
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4767,7 +4793,7 @@ STORYBOARD：
 
 ---
 
-### No. 88: 產品行銷 - 精品店中的時尚編輯人像
+### No. 89: 產品行銷 - 精品店中的時尚編輯人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4800,7 +4826,7 @@ STORYBOARD：
 
 ---
 
-### No. 89: 產品行銷 - 夜間臥室閱讀場景
+### No. 90: 產品行銷 - 夜間臥室閱讀場景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4845,7 +4871,7 @@ STORYBOARD：
 
 ---
 
-### No. 90: 產品行銷 - 電影感雙重曝光海報提示詞
+### No. 91: 產品行銷 - 電影感雙重曝光海報提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4878,7 +4904,7 @@ STORYBOARD：
 
 ---
 
-### No. 91: 產品行銷 - 伊斯坦堡博斯普魯斯海峽旅行人像
+### No. 92: 產品行銷 - 伊斯坦堡博斯普魯斯海峽旅行人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4921,7 +4947,7 @@ STORYBOARD：
 
 ---
 
-### No. 92: 產品行銷 - 電影級編輯風格臥室人像
+### No. 93: 產品行銷 - 電影級編輯風格臥室人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4965,7 +4991,7 @@ STORYBOARD：
 
 ---
 
-### No. 93: 產品行銷 - 現代廚房時尚人像
+### No. 94: 產品行銷 - 現代廚房時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4997,53 +5023,6 @@ STORYBOARD：
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35666)**
-
----
-
-### No. 94: 產品行銷 - 雨中的車站全身人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-適用於 Nano Banana Pro 的提示詞，用於生成一位女性在暴雨中於火車站等候的電影感全身場景，並保留參考人物的身分特徵。
-
-#### 📝 提示詞
-
-```
-創建一個超寫實 4K 電影感全身場景，主角為參考圖片中的同一位女性，她自然地坐在優雅的火車站椅子上，在暴雨中等候列車。
-
-嚴格保留她的精確參考面孔與身分特徵。她以平靜、優雅的神情自然地望向鏡頭。
-
-展示從頭到腳的完整身體，雙鞋完全可見。將她的全皮行李箱放置在椅子旁，包括輪子和拉桿。一把正常尺寸的黑色雨傘自然靠在椅子旁邊。
-
-身穿高級駝色風衣、黑色長褲、亮面黑色短靴，佩戴精緻金飾，並搭配一款優雅的手提包。
-
-透過車站的大窗戶可見傾盆大雨，背景中有濕潤的鐵軌、水窪、霧氣、倒影以及一列正在進站的火車。呈現頂級奢華的火車站建築風格，配有溫暖的金黃色燈光和拋光大理石地板。
-
-寬幅全身構圖，視平線相機角度，45–50mm 鏡頭，自然比例，清晰的面部細節，精緻的服裝與皮革質感，逼真的雨水效果，電影級景深。
-
-品質：4K UHD，寫實真人攝影風格，HDR，真實皮膚毛孔，自然髮絲，電影級打光，高級調色，細微膠片顆粒感。
-
-負面提示詞：裁切腳部、裁切鞋子、裁切行李箱、過大的雨傘、扭曲的手部、多餘的手指、面部偏移、不同身分、塑膠感皮膚、卡通、動漫、CGI、3D 渲染、不真實的雨、模糊的面孔、低解析度、不必要的文字、額外的標誌、浮水印。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750137642_0zgt5n_HTT7pQAbAAAWE68.jpg" width="600" alt="產品行銷 - 雨中的車站全身人像 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Elvorya](https://x.com/Elvorya)
-- **來源:** [Twitter Post](https://x.com/Elvorya/status/2104583621537611933)
-- **發布時間:** 2026年9月28日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35617)**
 
 ---
 
@@ -6287,7 +6266,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15635 更多提示詞未在此顯示
+### 🎯 15637 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6350,6 +6329,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-07T08:04:29.802Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-08T08:05:28.385Z</sub>
 
 </div>
