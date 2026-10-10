@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15766** |
+| 📝 คำสั่งทั้งหมด | **15768** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 9 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 06 นาที 03 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 10 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 52 วินาที UTC** |
 
 </div>
 
@@ -654,78 +654,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 > 📝 เรียงตามวันที่เผยแพร่ (ใหม่ล่าสุดก่อน)
 
-### No. 1: โปรไฟล์ / รูปประจำตัว - การถ่ายโอนสไตล์ภาพพอร์ตเทรตชายแบบภาพยนตร์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมป์สำหรับจำลองสไตล์การถ่ายภาพแบบภาพยนตร์จากภาพอ้างอิงอย่างแม่นยำ สร้างภาพพอร์ตเทรตผู้ชายระดับพรีเมียมพร้อมแสงย้อนสีทองอบอุ่น บรรยากาศมืดหม่น และเนื้อผิวสมจริง
-
-#### 📝 คำสั่ง
-
-```
-วิเคราะห์ภาพอ้างอิงที่อัปโหลดและจำลองสไตล์การถ่ายภาพแบบภาพยนตร์ให้ตรงกันทุกประการ
-
-สร้างภาพพอร์ตเทรตผู้ชายแบบภาพยนตร์ระดับพรีเมียมที่มีภาษาภาพเดียวกันกับภาพอ้างอิง
-
-รักษาองค์ประกอบดังนี้:
-
-แสงย้อนสีทองอบอุ่นรอบเส้นผม
-
-พื้นหลังมืดหม่น
-
-ควันหรือละอองบรรยากาศนุ่มนวล
-
-แสงขอบ (Rim lighting) ที่ชัดเจน
-
-แสงส่องผิวโทนอุ่น
-
-เงาแบบภาพยนตร์ลึก
-
-เนื้อผิวธรรมชาติ
-
-ทรงผมหนาและมีเท็กซ์เจอร์ เห็นเส้นผมเป็นเส้นๆ
-
-เสื้อผ้าแฟชั่นสีเข้ม
-
-แว่นกันแดดพร้อมสะท้อนแสงสมจริง
-
-กรอบภาพพอร์ตเทรตระยะใกล้แบบเดียวกัน
-
-อารมณ์แบบบรรณาธิการ sophisticated แบบเดียวกัน
-
-ความชัดลึกของภาพ (Depth of field) แบบตื้นเท่ากัน
-
-การปรับสีโทนน้ำตาล/ทองอุ่นแบบเดียวกัน
-
-การจัดแสงต้องดูสมจริงทางกายภาพ โดยแสงสีทองช่วยแยกตัวแบบออกจากพื้นหลังควันสีเข้ม
-
-มุมมองเลนส์พอร์ตเทรต 85mm, ความชัดลึกตื้น, สุนทรียภาพ f/1.4, รูขุมขนสมจริง, เนื้อผิวหน้าธรรมชาติ, เส้นผมสมจริง, HDR แบบภาพยนตร์, ถ่ายภาพแฟชั่นมืออาชีพ, 8K Ultra HD
-
-คงใบหน้าให้ดูเป็นธรรมชาติและสัดส่วนถูกต้อง อย่าทำให้ผิวดูเหมือนพลาสติก ห้ามมีลักษณะใบหน้าที่เกินจริง ตาเทียม แว่นตาบิดเบี้ยว หรือลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791527771163_zp33s2_HUKjQMNaIAAERkD.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - การถ่ายโอนสไตล์ภาพพอร์ตเทรตชายแบบภาพยนตร์ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/JamilAI55/status/2108427131244179466)
-- **เผยแพร่เมื่อ:** 9 ตุลาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36153)**
-
----
-
-### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตช่วง Golden Hour พร้อมการคงเอกลักษณ์ใบหน้าอย่างเคร่งครัด
+### No. 1: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตช่วง Golden Hour พร้อมการคงเอกลักษณ์ใบหน้าอย่างเคร่งครัด
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -766,7 +695,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 3: โปรไฟล์ / รูปประจำตัว - ภาพเหมือนสมจริงของชายชาวเอเชียใต้ในยามโพล้เพล้
+### No. 2: โปรไฟล์ / รูปประจำตัว - ภาพเหมือนสมจริงของชายชาวเอเชียใต้ในยามโพล้เพล้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -801,7 +730,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 4: โปรไฟล์ / รูปประจำตัว - พรอมต์เปรียบเทียบโมเดลภาพหญิงสาวญี่ปุ่น
+### No. 3: โปรไฟล์ / รูปประจำตัว - พรอมต์เปรียบเทียบโมเดลภาพหญิงสาวญี่ปุ่น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -853,7 +782,7 @@ M8 — คุณรู้หรือไม่: 3 ข้อเท็จจริ
 
 ---
 
-### No. 5: โปรไฟล์ / รูปประจำตัว - South Asian Selfie Mirror Prompt
+### No. 4: โปรไฟล์ / รูปประจำตัว - South Asian Selfie Mirror Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -888,7 +817,7 @@ The background features a modern minimalist interior with a large illuminated wa
 
 ---
 
-### No. 6: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพเหมือนผู้หญิงเอเชียใต้
+### No. 5: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพเหมือนผู้หญิงเอเชียใต้
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -921,7 +850,7 @@ The background features a modern minimalist interior with a large illuminated wa
 
 ---
 
-### No. 7: โปรไฟล์ / รูปประจำตัว - ท่าเล่นเทนนิสของหญิงสาวชาวเกาหลีรูปร่างดี
+### No. 6: โปรไฟล์ / รูปประจำตัว - ท่าเล่นเทนนิสของหญิงสาวชาวเกาหลีรูปร่างดี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -972,7 +901,7 @@ The background features a modern minimalist interior with a large illuminated wa
 
 ---
 
-### No. 8: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายชายหาดแบบเรียบง่าย
+### No. 7: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายชายหาดแบบเรียบง่าย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1005,7 +934,7 @@ The background features a modern minimalist interior with a large illuminated wa
 
 ---
 
-### No. 9: โปรไฟล์ / รูปประจำตัว - พรอมต์สำหรับบูรณะภาพพอร์ตเทรตสมจริงด้วย Nano Banana Pro
+### No. 8: โปรไฟล์ / รูปประจำตัว - พรอมต์สำหรับบูรณะภาพพอร์ตเทรตสมจริงด้วย Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1040,7 +969,7 @@ The background features a modern minimalist interior with a large illuminated wa
 
 ---
 
-### No. 10: โปรไฟล์ / รูปประจำตัว - Autumn Cafe Frappuccino Prompt
+### No. 9: โปรไฟล์ / รูปประจำตัว - Autumn Cafe Frappuccino Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1120,7 +1049,7 @@ The background features a modern minimalist interior with a large illuminated wa
 
 ---
 
-### No. 11: โปรไฟล์ / รูปประจำตัว - Nano Banana Pro Prompt สำหรับเหตุการณ์ไม่คาดคิด
+### No. 10: โปรไฟล์ / รูปประจำตัว - Nano Banana Pro Prompt สำหรับเหตุการณ์ไม่คาดคิด
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1222,7 +1151,7 @@ Prompt แบบละเอียดสำหรับ nano-banana-pro (เร�
 
 ---
 
-### No. 12: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตสตูดิโอขาวดำ
+### No. 11: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพพอร์ตเทรตสตูดิโอขาวดำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1255,7 +1184,7 @@ Prompt แบบละเอียดสำหรับ nano-banana-pro (เร�
 
 ---
 
-### No. 13: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพบุคคลบนระเบียงคาเฟ่
+### No. 12: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพบุคคลบนระเบียงคาเฟ่
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1322,7 +1251,7 @@ Prompt แบบละเอียดสำหรับ nano-banana-pro (เร�
 
 ---
 
-### No. 14: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายเซลฟี่ในร้านหมวก
+### No. 13: โปรไฟล์ / รูปประจำตัว - พรอมต์ภาพถ่ายเซลฟี่ในร้านหมวก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1357,7 +1286,7 @@ Prompt แบบละเอียดสำหรับ nano-banana-pro (เร�
 
 ---
 
-### No. 15: โปรไฟล์ / รูปประจำตัว - สไตล์ภาพถ่าย Night City Dash
+### No. 14: โปรไฟล์ / รูปประจำตัว - สไตล์ภาพถ่าย Night City Dash
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1423,7 +1352,7 @@ Prompt แบบละเอียดสำหรับการสร้าง�
 
 ---
 
-### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้ชายสไตล์ดีกลางแจ้งในฤดูหนาว
+### No. 15: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตผู้ชายสไตล์ดีกลางแจ้งในฤดูหนาว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1457,7 +1386,7 @@ Prompt แบบละเอียดสำหรับการสร้าง�
 
 ---
 
-### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตหญิงสาวเอเชียใต้พร้อมผ้าดูปัตตา
+### No. 16: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตหญิงสาวเอเชียใต้พร้อมผ้าดูปัตตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1490,7 +1419,7 @@ Prompt แบบละเอียดสำหรับการสร้าง�
 
 ---
 
-### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสตูดิโอแนว Fine-Art ด้วยแสงแบบ Butterfly Lighting
+### No. 17: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตสตูดิโอแนว Fine-Art ด้วยแสงแบบ Butterfly Lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1576,7 +1505,7 @@ Prompt แบบละเอียดสำหรับการสร้าง�
 
 ---
 
-### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตไลฟ์สไตล์ยามค่ำคืนแบบภาพยนตร์
+### No. 18: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตไลฟ์สไตล์ยามค่ำคืนแบบภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1617,6 +1546,51 @@ identity drift, different face, altered facial structure, distorted face, asymme
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35563)**
+
+---
+
+### No. 19: โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแจ็กเก็ตฤดูใบไม้ร่วง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ภาพพอร์ตเทรตสมจริงของเด็กหญิงในแจ็กเก็ตหนังท่ามกลางใบไม้เปลี่ยนสีในฤดูใบไม้ร่วง เน้นแสงธรรมชาติและสไตล์การถ่ายภาพด้วย iPhone
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายสมจริง อัตราส่วน 3:4 ภาพพอร์ตเทรตแนวตั้ง ห้ามเปลี่ยนแปลงรูปลักษณ์ของเด็กหญิง ทรงผมธรรมชาติ ปล่อยผมสยายลงบนไหล่ เล็บทรงสี่เหลี่ยมความยาวปานกลาง ทาสีขาวนม
+
+เด็กหญิงสวมแจ็กเก็ตหนังสีน้ำตาลเข้มแบบครอป เสื้อเชิ้ตลายสก๊อตสีน้ำตาล และเลกกิ้งสีดำ เธอยืนพิงราวเหล็กโมเดิร์นเล็กน้อย เอียงตัวไปด้านหลัง มือขวาอยู่หลังศีรษะ ใบหน้าหันข้างด้านซ้าย หลับตา ศีรษะเงยขึ้นเล็กน้อย
+
+ฉากหลังเป็นใบไม้เปลี่ยนสีหนาแน่นในฤดูใบไม้ร่วง: ใบไม้สีส้มสดใส สีเหลือง สีแดง และสีเขียว ลำต้นต้นไม้มีเถาไอวี่เขียวทางซ้าย แสงธรรมชาติอ่อนโยน ไม่มีเงาแข็ง ฉากหลังคมชัด ไม่เบลอ
+
+สไตล์ Pinterest และไลฟ์สไตล์ รายละเอียดสูง ผิวสัมผัสธรรมชาติ ถ่ายในสไตล์ iPhone 17 Pro กรอบภาพที่ดูมีชีวิตชีวาและเป็นธรรมชาติโดยไม่ต้องจัดท่าทาง
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790577969480_fxkpgy_HTNeSWHbUAA4Yk3.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแจ็กเก็ตฤดูใบไม้ร่วง - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1790577968121_uavrw3_HTNeTOraoAAREot.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแจ็กเก็ตฤดูใบไม้ร่วง - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Dr. Samia](https://x.com/oye_samia)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/oye_samia/status/2104129147861864935)
+- **เผยแพร่เมื่อ:** 27 กันยายน 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35558)**
 
 ---
 
@@ -1723,7 +1697,78 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - พรอมต์ฉากบาร์แบบเป็นธรรมชาติกับผู้หญิงสองคน
+### No. 22: โพสต์บนโซเชียลมีเดีย - การถ่ายโอนสไตล์ภาพพอร์ตเทรตชายแบบภาพยนตร์
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมป์สำหรับจำลองสไตล์การถ่ายภาพแบบภาพยนตร์จากภาพอ้างอิงอย่างแม่นยำ สร้างภาพพอร์ตเทรตผู้ชายระดับพรีเมียมพร้อมแสงย้อนสีทองอบอุ่น บรรยากาศมืดหม่น และเนื้อผิวสมจริง
+
+#### 📝 คำสั่ง
+
+```
+วิเคราะห์ภาพอ้างอิงที่อัปโหลดและจำลองสไตล์การถ่ายภาพแบบภาพยนตร์ให้ตรงกันทุกประการ
+
+สร้างภาพพอร์ตเทรตผู้ชายแบบภาพยนตร์ระดับพรีเมียมที่มีภาษาภาพเดียวกันกับภาพอ้างอิง
+
+รักษาองค์ประกอบดังนี้:
+
+แสงย้อนสีทองอบอุ่นรอบเส้นผม
+
+พื้นหลังมืดหม่น
+
+ควันหรือละอองบรรยากาศนุ่มนวล
+
+แสงขอบ (Rim lighting) ที่ชัดเจน
+
+แสงส่องผิวโทนอุ่น
+
+เงาแบบภาพยนตร์ลึก
+
+เนื้อผิวธรรมชาติ
+
+ทรงผมหนาและมีเท็กซ์เจอร์ เห็นเส้นผมเป็นเส้นๆ
+
+เสื้อผ้าแฟชั่นสีเข้ม
+
+แว่นกันแดดพร้อมสะท้อนแสงสมจริง
+
+กรอบภาพพอร์ตเทรตระยะใกล้แบบเดียวกัน
+
+อารมณ์แบบบรรณาธิการ sophisticated แบบเดียวกัน
+
+ความชัดลึกของภาพ (Depth of field) แบบตื้นเท่ากัน
+
+การปรับสีโทนน้ำตาล/ทองอุ่นแบบเดียวกัน
+
+การจัดแสงต้องดูสมจริงทางกายภาพ โดยแสงสีทองช่วยแยกตัวแบบออกจากพื้นหลังควันสีเข้ม
+
+มุมมองเลนส์พอร์ตเทรต 85mm, ความชัดลึกตื้น, สุนทรียภาพ f/1.4, รูขุมขนสมจริง, เนื้อผิวหน้าธรรมชาติ, เส้นผมสมจริง, HDR แบบภาพยนตร์, ถ่ายภาพแฟชั่นมืออาชีพ, 8K Ultra HD
+
+คงใบหน้าให้ดูเป็นธรรมชาติและสัดส่วนถูกต้อง อย่าทำให้ผิวดูเหมือนพลาสติก ห้ามมีลักษณะใบหน้าที่เกินจริง ตาเทียม แว่นตาบิดเบี้ยว หรือลายน้ำ
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613888838_2p8hbq_HUKjQMNaIAAERkD.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายโอนสไตล์ภาพพอร์ตเทรตชายแบบภาพยนตร์ - Image 1">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Muhammad Jamil](https://x.com/JamilAI55)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/JamilAI55/status/2108427131244179466)
+- **เผยแพร่เมื่อ:** 9 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36153)**
+
+---
+
+### No. 23: โพสต์บนโซเชียลมีเดีย - พรอมต์ฉากบาร์แบบเป็นธรรมชาติกับผู้หญิงสองคน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1742,7 +1787,7 @@ https://t.co/QxbYpfFVj6
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791527772238_omy2gl_HUKZ42VaIAAOb75.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ฉากบาร์แบบเป็นธรรมชาติกับผู้หญิงสองคน - Image 1">
+<img src="https://cms-assets.youmind.com/media/1791613887393_688exb_HUKZ42VaIAAOb75.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์ฉากบาร์แบบเป็นธรรมชาติกับผู้หญิงสองคน - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -1756,7 +1801,52 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพถ่ายแฟชั่นพรมแดง
+### No. 24: โพสต์บนโซเชียลมีเดีย - หญิงสาวญี่ปุ่นในออนเซ็นพร้อมวิวใบเมเปิ้ลฤดูใบไม้ร่วง
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพพอร์ตเทรตแบบสมจริงของหญิงสาวชาวญี่ปุ่นวัยเยาว์ที่กำลังผ่อนคลายในบ่อน้ำพุร้อนกลางแจ้ง (ออนเซ็น) ท่ามกลางใบเมเปิ้ลสีส้มแดงในฤดูใบไม้ร่วง
+
+#### 📝 คำสั่ง
+
+```
+ภาพพอร์ตเทรตระยะใกล้ รายละเอียดสูง ของหญิงสาวชาวญี่ปุ่นวัยเยาว์ที่งดงาม ผมยุ่งเล็กน้อย มองตรงเข้ามายังกล้องด้วยรอยยิ้มบางๆ และริมฝีปากที่เม้มอย่างอ่อนโยน เธอแช่ตัวอยู่ในบ่อน้ำพุร้อนแบบดั้งเดิมของญี่ปุ่น (ออนเซ็น) กลางแจ้ง น้ำใสและอุ่น บ่อออนเซ็นตั้งอยู่บนขอบหิน มองเห็นทิวทัศน์ของต้นเมเปิ้ลสีแดงสด สีส้มอำพัน และสีทองอร่าม ที่ปกคลุมหนาแน่น พร้อมมุมมองพาโนรามาที่เปิดโล่งไปยังสันเขาที่ทอดยาวและหุบเขาลึก ใบเมเปิ้ลจำนวนหนึ่งลอยลงมาอย่างเบามือและลอยอยู่บนผิวน้ำ พื้นหลังถูกเบลออย่างนุ่มนวลเพื่อสร้างระยะชัดลึกตื้น แสงเป็นแบบธรรมชาติ อ่อนโยน และอบอุ่น เน้นให้เห็นเนื้อผิวที่เรียบเนียนและดวงตาที่มีชีวิตชีวาของเธอ ภาพถ่ายนี้ถ่ายในสไตล์การถ่ายภาพมืออาชีพ คล้ายกับภาพพอร์ตเทรตคุณภาพสูงหรือภาพนิ่งโปรโมท โดยโฟกัสที่ใบหน้าของเธออย่างคมชัด โทนสีผิวเป็นธรรมชาติ การเปิดรับแสงสมดุล และบรรยากาศที่เงียบสงบและเป็นส่วนตัว
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613888772_qmex3j_HUJhEIRacAAIT2m.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - หญิงสาวญี่ปุ่นในออนเซ็นพร้อมวิวใบเมเปิ้ลฤดูใบไม้ร่วง - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613888666_7006w0_HUJhEIiawAAaA5N.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - หญิงสาวญี่ปุ่นในออนเซ็นพร้อมวิวใบเมเปิ้ลฤดูใบไม้ร่วง - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613888821_tnlv0z_HUJhEIUaQAAqZJG.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - หญิงสาวญี่ปุ่นในออนเซ็นพร้อมวิวใบเมเปิ้ลฤดูใบไม้ร่วง - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Saki H. 咲希](https://x.com/SakiH_AI)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SakiH_AI/status/2108355071075578267)
+- **เผยแพร่เมื่อ:** 9 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36214)**
+
+---
+
+### No. 25: โพสต์บนโซเชียลมีเดีย - พรอมต์ภาพถ่ายแฟชั่นพรมแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1799,7 +1889,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 24: โพสต์บนโซเชียลมีเดีย - ภาพเหมือนศิลปินเซรามิกชาวเอเชียผู้สูงอายุ
+### No. 26: โพสต์บนโซเชียลมีเดีย - ภาพเหมือนศิลปินเซรามิกชาวเอเชียผู้สูงอายุ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1838,7 +1928,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 25: โพสต์บนโซเชียลมีเดีย - Magazine Cover Prompt สำหรับ Nano Banana 2.1
+### No. 27: โพสต์บนโซเชียลมีเดีย - Magazine Cover Prompt สำหรับ Nano Banana 2.1
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1882,7 +1972,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 26: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นระดับลักชัวรี่แบบเอ็ดิทอเรียล
+### No. 28: โพสต์บนโซเชียลมีเดีย - ภาพถ่ายแฟชั่นระดับลักชัวรี่แบบเอ็ดิทอเรียล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1919,7 +2009,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - เรือพายในทะเลสาบหมอกพร้อมข้อความกำกับ
+### No. 29: โพสต์บนโซเชียลมีเดีย - เรือพายในทะเลสาบหมอกพร้อมข้อความกำกับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1953,7 +2043,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 28: โพสต์บนโซเชียลมีเดีย - ภาพเทพีมหาลักษมีสีทอง
+### No. 30: โพสต์บนโซเชียลมีเดีย - ภาพเทพีมหาลักษมีสีทอง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2005,7 +2095,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 29: โพสต์บนโซเชียลมีเดีย - ภาพแฟชั่นพอร์ตเทรตสุดหรูในอ่างอาบน้ำ
+### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพแฟชั่นพอร์ตเทรตสุดหรูในอ่างอาบน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2048,7 +2138,7 @@ Negative prompt: ใบหน้าเปลี่ยน, เอกลักษ�
 
 ---
 
-### No. 30: โพสต์บนโซเชียลมีเดีย - แฟชั่น Editorial ระดับลักชัวรี่พร้อมรถสปอร์ตซีดาน
+### No. 32: โพสต์บนโซเชียลมีเดีย - แฟชั่น Editorial ระดับลักชัวรี่พร้อมรถสปอร์ตซีดาน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2081,7 +2171,7 @@ Negative prompt: ใบหน้าเปลี่ยน, เอกลักษ�
 
 ---
 
-### No. 31: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตยามค่ำสุดหรูสไตล์ภาพยนตร์พร้อมอ้างอิงจากภาพต้นฉบับ
+### No. 33: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตยามค่ำสุดหรูสไตล์ภาพยนตร์พร้อมอ้างอิงจากภาพต้นฉบับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2128,7 +2218,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 32: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตโฆษณาขนม Cheetos
+### No. 34: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตโฆษณาขนม Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2175,7 +2265,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 33: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตความงามระดับไฮเอนด์พร้อมอ้างอิง
+### No. 35: โพสต์บนโซเชียลมีเดีย - ภาพพอร์ตเทรตความงามระดับไฮเอนด์พร้อมอ้างอิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2212,66 +2302,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 34: โพสต์บนโซเชียลมีเดีย - ภาพบุคคลโฆษณาขนม Cheetos
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-Prompt สำหรับภาพถ่ายสตูดิโอของคนที่กำลังยิ้มถือถุง Cheetos พร้อมเอฟเฟกต์เลนส์ฟิชอายและพื้นหลังสีส้มสดใส
-
-#### 📝 คำสั่ง
-
-```
-ภาพถ่ายสตูดิโอของบุคคลหนึ่งคนที่ยิ้มอย่างสดใส ถือถุงมันฝรั่งทอดกรอบรสชีส Cheetos Crunchy เข้าใกล้กล้อง โดยทั้งถุงและศีรษะของแบบอยู่ในระยะหน้า (foreground) ถ่ายด้วยเลนส์ฟิชอายอัลตร้าไวด์เพื่อให้ความรู้สึกขี้เล่น วัยรุ่น และเปี่ยมพลัง
-
-แบบสวมแจ็กเก็ตพาร์ก้าสีส้มสดเงางามทับเสื้อยืดสีขาว
-
-พื้นหลังเป็นไล่เฉดสีส้มสดใสพร้อมจุดเน้นสีเหลืองอ่อน ดูโดดเด่นและสนุกสนาน
-
-แสงสตูดิโอนุ่มนวลแบบภาพยนตร์ มีไฮไลท์ฉ่ำวาว เพิ่มความอิ่มตัวของสีเล็กน้อย ในสไตล์บรรณาธิการโฆษณาขนมสมัยใหม่
-
-รอยยิ้มที่แสดงออกถึงความสุข aesthetic แบบโฆษณาเชิงพาณิชย์แนวสตรีทที่สนุกและมีชีวิตชีวา
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101710257_4rpbqz_HTwZ2I6a4AA-N_z.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพบุคคลโฆษณาขนม Cheetos - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101710262_6d3x3v_HTwZ2JlaEAAyDDP.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพบุคคลโฆษณาขนม Cheetos - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101710269_38c661_HTwZ2Ija0AA6rwP.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพบุคคลโฆษณาขนม Cheetos - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101710835_cfup74_HTwZ2JUbQAAtuxm.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - ภาพบุคคลโฆษณาขนม Cheetos - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Duet | AI](https://x.com/Sheldon056)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Sheldon056/status/2106587208916566057)
-- **เผยแพร่เมื่อ:** 4 ตุลาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35924)**
-
----
-
-### No. 35: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์แปลงวัตถุให้เป็นอาคาร
+### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - พรอมต์แปลงวัตถุให้เป็นอาคาร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2329,7 +2360,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 36: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ขั้นตอนการทำงานสำหรับชีทอ้างอิงสินค้า
+### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ขั้นตอนการทำงานสำหรับชีทอ้างอิงสินค้า
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2367,7 +2398,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 37: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบสูตรอาหารแบบบันทึกเขียนด้วยลายมือ
+### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบสูตรอาหารแบบบันทึกเขียนด้วยลายมือ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2429,7 +2460,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 38: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไลด์ขั้นตอน 3 ขั้นตอนในสไตล์ลายมือ
+### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - สไลด์ขั้นตอน 3 ขั้นตอนในสไตล์ลายมือ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2495,7 +2526,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 39: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพล้อเลียนสไตล์วินเทจแบบอังกฤษ
+### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพล้อเลียนสไตล์วินเทจแบบอังกฤษ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2528,7 +2559,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 40: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกรายงานรายได้องค์กร
+### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกรายงานรายได้องค์กร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2562,7 +2593,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 41: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - คอลลาจภาพถ่ายแนวบันทึกการเดินทางสไตล์วินเทจ
+### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - คอลลาจภาพถ่ายแนวบันทึกการเดินทางสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2595,7 +2626,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 42: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เลย์เอาต์สตอรีบอร์ดการทำอาหารสไตล์บรรณาธิการ
+### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - เลย์เอาต์สตอรีบอร์ดการทำอาหารสไตล์บรรณาธิการ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2633,7 +2664,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 43: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - คอลลาจบันทึกการเดินทางสไตล์วินเทจ
+### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - คอลลาจบันทึกการเดินทางสไตล์วินเทจ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2685,7 +2716,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 44: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์แผนที่วัฒนธรรมระดับภูมิภาค
+### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - โปสเตอร์แผนที่วัฒนธรรมระดับภูมิภาค
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2765,7 +2796,7 @@ GRAPHIC_SYSTEM := อนุมานกระดาษฉีก, ตาราง
 
 ---
 
-### No. 45: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบหน้าสมุดระบายสีสไตล์แฟนซี
+### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบหน้าสมุดระบายสีสไตล์แฟนซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2799,7 +2830,7 @@ GRAPHIC_SYSTEM := อนุมานกระดาษฉีก, ตาราง
 
 ---
 
-### No. 46: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพถ่ายสินค้าทาโก้เนื้อระดับมืออาชีพ
+### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพถ่ายสินค้าทาโก้เนื้อระดับมืออาชีพ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2832,7 +2863,7 @@ GRAPHIC_SYSTEM := อนุมานกระดาษฉีก, ตาราง
 
 ---
 
-### No. 47: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกผลิตภัณฑ์มิลค์เชค
+### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - อินโฟกราฟิกผลิตภัณฑ์มิลค์เชค
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2865,7 +2896,7 @@ GRAPHIC_SYSTEM := อนุมานกระดาษฉีก, ตาราง
 
 ---
 
-### No. 48: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายภาพสัตว์ป่าแฮมสเตอร์ยุโรป
+### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - การถ่ายภาพสัตว์ป่าแฮมสเตอร์ยุโรป
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2899,7 +2930,7 @@ GRAPHIC_SYSTEM := อนุมานกระดาษฉีก, ตาราง
 
 ---
 
-### No. 49: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบนกโดโดที่สมจริง
+### No. 50: อินโฟกราฟิก / ภาพประกอบเพื่อการศึกษา - ภาพประกอบนกโดโดที่สมจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2933,7 +2964,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 50: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากภาพยนตร์ Sci-Fi พร้อมรูปภาพอ้างอิง
+### No. 51: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากภาพยนตร์ Sci-Fi พร้อมรูปภาพอ้างอิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2966,7 +2997,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - เปรียบเทียบความสมจริงเชิงประวัติศาสตร์ของภารกิจสำรวจแอนตาร์กติกา
+### No. 52: ภาพขนาดย่อของ YouTube - เปรียบเทียบความสมจริงเชิงประวัติศาสตร์ของภารกิจสำรวจแอนตาร์กติกา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3005,7 +3036,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 52: ภาพขนาดย่อของ YouTube - ศิลปะแฟนตาซีนักฆ่าสวมฮู้ดบนหลังคาวิหาร
+### No. 53: ภาพขนาดย่อของ YouTube - ศิลปะแฟนตาซีนักฆ่าสวมฮู้ดบนหลังคาวิหาร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3041,7 +3072,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - พรอมต์ออกแบบภาพปก YouTube พร้อมข้อความซ้อนทับ
+### No. 54: ภาพขนาดย่อของ YouTube - พรอมต์ออกแบบภาพปก YouTube พร้อมข้อความซ้อนทับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3077,7 +3108,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - รถจักรไอน้ำบนสะพานถล่มท่ามกลางพายุ
+### No. 55: ภาพขนาดย่อของ YouTube - รถจักรไอน้ำบนสะพานถล่มท่ามกลางพายุ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3117,7 +3148,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - นักบินอวกาศในภาพยนตร์บนยานอวกาศที่เสียหาย
+### No. 56: ภาพขนาดย่อของ YouTube - นักบินอวกาศในภาพยนตร์บนยานอวกาศที่เสียหาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3166,7 +3197,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตมอเตอร์ไซค์ท่ามกลางพระอาทิตย์ตกดินในสไตล์ Double Exposure
+### No. 57: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตมอเตอร์ไซค์ท่ามกลางพระอาทิตย์ตกดินในสไตล์ Double Exposure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3200,7 +3231,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
+### No. 58: ภาพขนาดย่อของ YouTube - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3234,7 +3265,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - ภาพยนตร์อนิเมะดาร์กแฟนตาซีระดับพรีเมียม
+### No. 59: ภาพขนาดย่อของ YouTube - ภาพยนตร์อนิเมะดาร์กแฟนตาซีระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3268,7 +3299,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - หน้าจอถ่ายทอดสดการแข่งขันเบสบอลโคชิเอ็น
+### No. 60: ภาพขนาดย่อของ YouTube - หน้าจอถ่ายทอดสดการแข่งขันเบสบอลโคชิเอ็น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3302,7 +3333,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
+### No. 61: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3336,7 +3367,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
+### No. 62: ภาพขนาดย่อของ YouTube - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3370,7 +3401,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
+### No. 63: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3404,7 +3435,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 63: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
+### No. 64: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3438,7 +3469,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 64: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
+### No. 65: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3472,7 +3503,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 65: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
+### No. 66: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3516,7 +3547,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 66: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
+### No. 67: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3550,7 +3581,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 67: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
+### No. 68: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3604,7 +3635,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 68: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
+### No. 69: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3644,7 +3675,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 69: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
+### No. 70: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3678,7 +3709,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 70: คอมิก / สตอรี่บอร์ด - ฉากฝันริมลำธารพร้อมเสียงและแกลเลอรีรูปภาพแบบหมุนเวียน
+### No. 71: คอมิก / สตอรี่บอร์ด - ฉากฝันริมลำธารพร้อมเสียงและแกลเลอรีรูปภาพแบบหมุนเวียน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3713,7 +3744,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 71: คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro
+### No. 72: คอมิก / สตอรี่บอร์ด - พรอมต์คีย์วิชวลอนิเมะสาวเวทมนตร์สำหรับ Nano Banana Pro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3764,7 +3795,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 72: คอมิก / สตอรี่บอร์ด - Prompt สไตล์ภาพประกอบหนังสือการ์ตูนสมัยใหม่
+### No. 73: คอมิก / สตอรี่บอร์ด - Prompt สไตล์ภาพประกอบหนังสือการ์ตูนสมัยใหม่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3815,7 +3846,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 73: คอมิก / สตอรี่บอร์ด - ภาพนิ่งจากภาพยนตร์แนวไซเบอร์พังก์นักสืบ
+### No. 74: คอมิก / สตอรี่บอร์ด - ภาพนิ่งจากภาพยนตร์แนวไซเบอร์พังก์นักสืบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3928,7 +3959,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 74: คอมิก / สตอรี่บอร์ด - โปสเตอร์ Zine ลายเส้นปากกาลูกลื่นหมึกสีเดียว
+### No. 75: คอมิก / สตอรี่บอร์ด - โปสเตอร์ Zine ลายเส้นปากกาลูกลื่นหมึกสีเดียว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3968,7 +3999,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 75: คอมิก / สตอรี่บอร์ด - ฉากฤดูหนาวของ Harry Potter ในวัยชรา
+### No. 76: คอมิก / สตอรี่บอร์ด - ฉากฤดูหนาวของ Harry Potter ในวัยชรา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4021,7 +4052,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 76: คอมิก / สตอรี่บอร์ด - การแข่งรถแดร็กของสัตว์ประหลาดการ์ตูนสไตล์ Rat Rod
+### No. 77: คอมิก / สตอรี่บอร์ด - การแข่งรถแดร็กของสัตว์ประหลาดการ์ตูนสไตล์ Rat Rod
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4055,7 +4086,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 77: คอมิก / สตอรี่บอร์ด - บทกวีแฟนตาซีมังกรอันวิจิตรบรรจง
+### No. 78: คอมิก / สตอรี่บอร์ด - บทกวีแฟนตาซีมังกรอันวิจิตรบรรจง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4156,7 +4187,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 78: คอมิก / สตอรี่บอร์ด - ภาพวาดสาวน้อยนักสู้สไตล์อนิเมะ
+### No. 79: คอมิก / สตอรี่บอร์ด - ภาพวาดสาวน้อยนักสู้สไตล์อนิเมะ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4189,7 +4220,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 79: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาน้ำเชื่อมเมเปิล
+### No. 80: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาน้ำเชื่อมเมเปิล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4267,7 +4298,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 80: คอมิก / สตอรี่บอร์ด - กิ้งก่าคาเมเลียนในป่าดินน้ำมัน
+### No. 81: คอมิก / สตอรี่บอร์ด - กิ้งก่าคาเมเลียนในป่าดินน้ำมัน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4301,7 +4332,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 81: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาไอศกรีมสตรอว์เบอร์รีชีสเค้ก
+### No. 82: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาไอศกรีมสตรอว์เบอร์รีชีสเค้ก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4381,7 +4412,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 82: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณากรีกโยเกิร์ต
+### No. 83: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณากรีกโยเกิร์ต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4415,7 +4446,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 83: คอมิก / สตอรี่บอร์ด - ภาพประกอบอนิเมะ 2D สไตล์ภาพยนตร์
+### No. 84: คอมิก / สตอรี่บอร์ด - ภาพประกอบอนิเมะ 2D สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4461,7 +4492,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 84: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตในรถบรรยากาศคืนฝนตกสไตล์ภาพยนตร์
+### No. 85: คอมิก / สตอรี่บอร์ด - ภาพพอร์ตเทรตในรถบรรยากาศคืนฝนตกสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4494,7 +4525,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 85: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาโยเกิร์ตระดับพรีเมียม
+### No. 86: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดโฆษณาโยเกิร์ตระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4572,7 +4603,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 86: คอมิก / สตอรี่บอร์ด - แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำของครอบครัว
+### No. 87: คอมิก / สตอรี่บอร์ด - แผ่นรวมภาพถ่ายซีนีมาติกงานเลี้ยงอาหารค่ำของครอบครัว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4678,7 +4709,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 87: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดเรื่อง The Lighthouse Keeper
+### No. 88: คอมิก / สตอรี่บอร์ด - สตอรีบอร์ดเรื่อง The Lighthouse Keeper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4748,7 +4779,52 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 88: การตลาดผลิตภัณฑ์ - พรอมต์ตัวละครตุ๊กตาแคนดี้เหนือจริง
+### No. 89: การตลาดผลิตภัณฑ์ - คอนเซปต์อาร์ตสาวเมคาชุดเกราะเต็มรูปแบบ
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับสร้างภาพคอนเซปต์อาร์ตคุณภาพสูงของสาวเมคาในชุดเกราะเต็มรูปแบบ ในสไตล์ฟิกเกอร์โมเดลพลาสติกขนาด 1/7 ตัวละครมีทรวดทรงลำตัวเพรียวและขาดีไซน์ส้นสูง
+
+#### 📝 คำสั่ง
+
+```
+Full Armor Mecha Girl FAMG-001 Aurelith โมเดลพลาสติกขนาด 1/7, ลำตัวเพรียวพร้อมขาดีไซน์ส้นสูง, คอนเซปต์อาร์ตรายละเอียดสูง, วัสดุและแสงสมจริง, พื้นหลังสีขาว, สไตล์การถ่ายภาพสินค้า
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - คอนเซปต์อาร์ตสาวเมคาชุดเกราะเต็มรูปแบบ - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613889332_1vpg3p_HUFpcqyawAAkhcK.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - คอนเซปต์อาร์ตสาวเมคาชุดเกราะเต็มรูปแบบ - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613889399_foc6em_HUFpcmgaAAAOqql.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - คอนเซปต์อาร์ตสาวเมคาชุดเกราะเต็มรูปแบบ - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [てんねん](https://x.com/munou_ac)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/munou_ac/status/2108437805068058702)
+- **เผยแพร่เมื่อ:** 9 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36215)**
+
+---
+
+### No. 90: การตลาดผลิตภัณฑ์ - พรอมต์ตัวละครตุ๊กตาแคนดี้เหนือจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4781,7 +4857,66 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - ภาพบรรณาธิการแฟชั่นสุดหรูของนักเต้นระบำหน้าท้องในโถงประวัติศาสตร์
+### No. 91: การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+Prompt สำหรับภาพถ่ายสตูดิโอของคนที่กำลังยิ้มถือถุง Cheetos พร้อมเอฟเฟกต์เลนส์ฟิชอายและพื้นหลังสีส้มสดใส
+
+#### 📝 คำสั่ง
+
+```
+ภาพถ่ายสตูดิโอของบุคคลหนึ่งคนที่ยิ้มอย่างสดใส ถือถุงมันฝรั่งทอดกรอบรสชีส Cheetos Crunchy เข้าใกล้กล้อง โดยทั้งถุงและศีรษะของแบบอยู่ในระยะหน้า (foreground) ถ่ายด้วยเลนส์ฟิชอายอัลตร้าไวด์เพื่อให้ความรู้สึกขี้เล่น วัยรุ่น และเปี่ยมพลัง
+
+แบบสวมแจ็กเก็ตพาร์ก้าสีส้มสดเงางามทับเสื้อยืดสีขาว
+
+พื้นหลังเป็นไล่เฉดสีส้มสดใสพร้อมจุดเน้นสีเหลืองอ่อน ดูโดดเด่นและสนุกสนาน
+
+แสงสตูดิโอนุ่มนวลแบบภาพยนตร์ มีไฮไลท์ฉ่ำวาว เพิ่มความอิ่มตัวของสีเล็กน้อย ในสไตล์บรรณาธิการโฆษณาขนมสมัยใหม่
+
+รอยยิ้มที่แสดงออกถึงความสุข aesthetic แบบโฆษณาเชิงพาณิชย์แนวสตรีทที่สนุกและมีชีวิตชีวา
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791101710257_4rpbqz_HTwZ2I6a4AA-N_z.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791101710262_6d3x3v_HTwZ2JlaEAAyDDP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791101710269_38c661_HTwZ2Ija0AA6rwP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791101710835_cfup74_HTwZ2JUbQAAtuxm.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Duet | AI](https://x.com/Sheldon056)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/Sheldon056/status/2106587208916566057)
+- **เผยแพร่เมื่อ:** 4 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35924)**
+
+---
+
+### No. 92: การตลาดผลิตภัณฑ์ - ภาพบรรณาธิการแฟชั่นสุดหรูของนักเต้นระบำหน้าท้องในโถงประวัติศาสตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4824,7 +4959,7 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแฟชั่นหรูในรถเปิดประทุน
+### No. 93: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแฟชั่นหรูในรถเปิดประทุน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4863,7 +4998,7 @@ Negative prompt: CGI, 3D render, การ์ตูน, ภาพวาดปร
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - เอกลักษณ์ภาพพอร์ตเทรตแฟชั่นหรู
+### No. 94: การตลาดผลิตภัณฑ์ - เอกลักษณ์ภาพพอร์ตเทรตแฟชั่นหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4902,7 +5037,7 @@ Different face, identity drift, facial redesign, altered facial structure, diffe
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - พรอมต์ภาพบุคคลสไตล์เซอร์เรียลแบบบรรณาธิการ
+### No. 95: การตลาดผลิตภัณฑ์ - พรอมต์ภาพบุคคลสไตล์เซอร์เรียลแบบบรรณาธิการ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4996,7 +5131,7 @@ Different face, identity drift, facial redesign, altered facial structure, diffe
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - Editorial แฟชั่นชุดราตรีสีเงินสไตล์ Avant-Garde
+### No. 96: การตลาดผลิตภัณฑ์ - Editorial แฟชั่นชุดราตรีสีเงินสไตล์ Avant-Garde
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5034,7 +5169,7 @@ identity drift, different face, altered facial features, face morphing, cropped 
 
 ---
 
-### No. 94: การตลาดผลิตภัณฑ์ - ภาพแฟชั่นสไตล์บรรณาธิการในบูติก
+### No. 97: การตลาดผลิตภัณฑ์ - ภาพแฟชั่นสไตล์บรรณาธิการในบูติก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5067,7 +5202,7 @@ identity drift, different face, altered facial features, face morphing, cropped 
 
 ---
 
-### No. 95: การตลาดผลิตภัณฑ์ - ฉากอ่านหนังสือในห้องนอนตอนกลางคืน
+### No. 98: การตลาดผลิตภัณฑ์ - ฉากอ่านหนังสือในห้องนอนตอนกลางคืน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5112,7 +5247,7 @@ Negative prompt: CGI, การ์ตูน, ภาพประกอบ, ผิ
 
 ---
 
-### No. 96: การตลาดผลิตภัณฑ์ - พรอมต์สร้างโปสเตอร์ Double Exposure สไตล์ภาพยนตร์
+### No. 99: การตลาดผลิตภัณฑ์ - พรอมต์สร้างโปสเตอร์ Double Exposure สไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5145,50 +5280,7 @@ Negative prompt: CGI, การ์ตูน, ภาพประกอบ, ผิ
 
 ---
 
-### No. 97: การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์เทรตการเดินทาง ณ ช่องแคบบอสฟอรัส อิสตันบูล
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์สำหรับสร้างภาพพอร์เทรตการเดินทางสไตล์ภาพยนตร์ของหญิงสาวริมช่องแคบบอสฟอรัสในช่วงพระอาทิตย์ตก โดยคงเอกลักษณ์ใบหน้าจากภาพอ้างอิง
-
-#### 📝 คำสั่ง
-
-```
-สร้างภาพพอร์เทรตการเดินทางสไตล์ภาพยนตร์ที่สมจริงระดับอัลตราโฟโตเรียลิสติก โดยใช้ภาพอ้างอิงที่อัปโหลดเพื่อรักษาเอกลักษณ์ใบหน้าของหญิงสาว คงลักษณะใบหน้าที่จดจำได้ ดวงตาสีฟ้าเขียว ผิวหนังธรรมชาติ ผมบลอนด์จัดทรงมัดหลวมๆ แบบยุ่งเล็กน้อยพร้อมปอยผมระกรอบหน้า และสัดส่วนร่างกายที่สมจริง
-
-วางตำแหน่งเธอยืนอยู่ริมฝั่งน้ำช่องแคบบอสฟอรัสในอิสตันบูล ช่วงเวลาพระอาทิตย์ตกดินสีทองอันงดงาม เธอสวมชุดเดรสยาว midi/maxi สีแดงเข้มแบบไร้แขนที่ดูสง่างาม มีส่วนบนเข้ารูปและกระโปรงพลิ้วไหวอย่างนุ่มนวล เธอถือดอกกุหลาบสีแดงสดหนึ่งดอกด้วยมือทั้งสองข้างอย่างเป็นธรรมชาติ ไม่มีกระเป๋าถือ ไม่มีกระเป๋าสะพายไหล่ ไม่มีกระเป๋าเดินทาง
-
-เธอยืนอยู่ข้างราวระเบียงริมฝั่งน้ำที่ทำจากเหล็กดัดสีดำลายวิจิตร มองมาทางกล้องอย่างอ่อนโยนด้วยสีหน้าที่สงบ เป็นธรรมชาติ และโรแมนติก ด้านหลังของเธอ ให้แสดงช่องแคบบอสฟอรัสที่มีเรือข้ามฟากสมจริง ผิวน้ำระยิบระยับ ทิวทัศน์เมืองประวัติศาสตร์ของอิสตันบูล โดมขนาดใหญ่และหอคอยมัสยิดเรียวสูง อาคารริมฝั่งน้ำโทนอบอุ่น และโคมไฟถนนสไตล์วินเทจที่หรูหรา
-
-พื้นหินเปียกชื้นพร้อมเงาสะท้อนจางๆ รังสีพระอาทิตย์ตกอุ่นเมฆ dramatique นุ่มนวล หมอกบรรยากาศตามธรรมชาติ และการเคลื่อนไหวของลมพัดผ่านเส้นผมและชุดเดรสอย่างสมจริง
-
-การถ่ายภาพ: สไตล์บรรณาธิการท่องเที่ยวหรูหรา ลุคแอ็กชันไลฟ์แอ็กชันสมจริง รูขุมขนและผิวธรรมชาติ มือและนิ้วสมจริง เลนส์ 85mm ระยะชัดลึกตื้น (shallow depth of field) โบเก้สไตล์ภาพยนตร์ แสงย้อนกลับสีทองนุ่มนวล เนื้อผ้าสมจริง สัดส่วนร่างกายธรรมชาติ ช่วงไดนามิกสูง (HDR) การปรับสีอย่างประณีต องค์ประกอบแนวตั้ง 9:16
-
-Negative prompt: ใบหน้าบิดเบี้ยว, เอกลักษณ์ใบหน้าเปลี่ยนไป, นิ้วเกิน, มือผิดรูป, กุหลาบซ้ำซ้อน, กระเป๋าถือ, กระเป๋าเงิน, กระเป๋าเดินทาง, CGI, การ์ตูน, ภาพประกอบ, ผิวพลาสติก, เครื่องสำอางมากเกินไป, สัดส่วนร่างกายปลอม, ข้อความ, คำบรรยาย, โลโก้, ลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1790750136673_042nyt_HTY9mWLaQAAm0JS.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - ภาพถ่ายพอร์เทรตการเดินทาง ณ ช่องแคบบอสฟอรัส อิสตันบูล - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Aynelle](https://x.com/aynellex)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/aynellex/status/2104937619419537834)
-- **เผยแพร่เมื่อ:** 29 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35667)**
-
----
-
-### No. 98: ภาพหลักสำหรับอีคอมเมิร์ซ - Nano Banana Pro Studio Portrait Prompt
+### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - Nano Banana Pro Studio Portrait Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5234,7 +5326,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 99: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นชายสไตล์บรรณาธิการ
+### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นชายสไตล์บรรณาธิการ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5286,7 +5378,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 100: ภาพหลักสำหรับอีคอมเมิร์ซ - แคมเปญภาพถ่ายสินค้าหรูแบบนิ่ง (Still Life)
+### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - แคมเปญภาพถ่ายสินค้าหรูแบบนิ่ง (Still Life)
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5334,7 +5426,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 101: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นโคลสอัพสวมหมวกสีแดง
+### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นโคลสอัพสวมหมวกสีแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5368,7 +5460,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 102: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นสถาปัตยกรรมสไตล์มินิมอล
+### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นสถาปัตยกรรมสไตล์มินิมอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5414,7 +5506,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 103: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นชุดเดรสผ้าไหมสีสนิมในบรรยากาศปิกนิก
+### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายแฟชั่นชุดเดรสผ้าไหมสีสนิมในบรรยากาศปิกนิก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5448,7 +5540,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 104: ภาพหลักสำหรับอีคอมเมิร์ซ - การปรับแต่งเฟรตกีตาร์แบบมาโคร
+### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - การปรับแต่งเฟรตกีตาร์แบบมาโคร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5482,7 +5574,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 105: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพโฆษณาเครื่องดื่มระดับพรีเมียม
+### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพโฆษณาเครื่องดื่มระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5522,7 +5614,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 106: ภาพหลักสำหรับอีคอมเมิร์ซ - ริบบิ้นผ้าออร์แกนซ่าสีดำสุดหรู
+### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - ริบบิ้นผ้าออร์แกนซ่าสีดำสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5562,7 +5654,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 107: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพโฆษณาช็อกโกแลตสุดหรูแนวภาพนิ่ง
+### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพโฆษณาช็อกโกแลตสุดหรูแนวภาพนิ่ง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5614,7 +5706,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 108: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้า Surreal Beauty Product Hair Roller
+### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพถ่ายสินค้า Surreal Beauty Product Hair Roller
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5648,7 +5740,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 109: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพสินค้าในเปลือกราสเบอร์รี่
+### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพสินค้าในเปลือกราสเบอร์รี่
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5700,7 +5792,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 110: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาสินค้าสไตล์ภาพยนตร์พร้อมใยแมงมุม
+### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - โฆษณาสินค้าสไตล์ภาพยนตร์พร้อมใยแมงมุม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5740,7 +5832,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 111: ภาพหลักสำหรับอีคอมเมิร์ซ - สินค้าในก้อนน้ำแข็งสไตล์มินิมอล
+### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - สินค้าในก้อนน้ำแข็งสไตล์มินิมอล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5774,7 +5866,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 112: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพผลิตภัณฑ์ขวดน้ำระดับหรู
+### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพผลิตภัณฑ์ขวดน้ำระดับหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5814,7 +5906,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 113: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพผลิตภัณฑ์ดูแลผิวสำหรับฤดูร้อน
+### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - การถ่ายภาพผลิตภัณฑ์ดูแลผิวสำหรับฤดูร้อน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5866,7 +5958,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 114: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพคอลลาจสินค้า Nano Banana Pro
+### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - ภาพคอลลาจสินค้า Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5906,7 +5998,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 115: ภาพหลักสำหรับอีคอมเมิร์ซ - หน้ารายละเอียดสินค้าเก้าอี้เพื่อสุขภาพสำหรับสำนักงานบนมือถือ
+### No. 117: ภาพหลักสำหรับอีคอมเมิร์ซ - หน้ารายละเอียดสินค้าเก้าอี้เพื่อสุขภาพสำหรับสำนักงานบนมือถือ
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5940,59 +6032,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 116: ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-พรอมต์นี้จะสร้างภาพจำลองเชิงสร้างสรรค์ของวัตถุที่ถูกเปลี่ยนให้เป็นของเล่นสะสม มาพร้อมกับพื้นผิวพลาสติกและบรรจุภัณฑ์แบบแผงพลาสติก (blister pack) เหมือนสินค้าวางจำหน่ายจริง
-
-#### 📝 คำสั่ง
-
-```
-เปลี่ยน {argument name="subject" default="character"} ให้กลายเป็นของเล่นสะสมแบบมีสไตล์ ด้วยพื้นผิวพลาสติกมันวาว ฟีเจอร์ที่ดูเกินจริง อุปกรณ์เสริมขนาดจิ๋ว และบรรจุภัณฑ์แบบแผงพลาสติก (blister pack) ระดับพรีเมียมพร้อมแผ่นรองหลังกระดาษแข็ง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482583777_2nxgwf_HOhEOrOaUAAjfZj.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482584781_v3zokw_HOhEQGwa4AA64iP.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482585132_6jjlyt_HOhERZEbQAA5sXj.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์ - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1785482584615_dz67va_HOhESa_aYAAuSsl.jpg" width="600" alt="ภาพหลักสำหรับอีคอมเมิร์ซ - บรรจุภัณฑ์ของเล่นสะสมแบบมีสไตล์ - Image 4">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [WeWant Mars](https://x.com/Madhuribhai)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Madhuribhai/status/2082989921024049622)
-- **เผยแพร่เมื่อ:** 31 กรกฎาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=30331)**
-
----
-
-### No. 117: สินทรัพย์เกม - ฉากกบสักหลาดน่ารัก
+### No. 118: สินทรัพย์เกม - ฉากกบสักหลาดน่ารัก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6025,7 +6065,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 118: สินทรัพย์เกม - คำสั่งสร้างภาพ Portrait แบบ Macro แนว Melancholy เครื่องจักร
+### No. 119: สินทรัพย์เกม - คำสั่งสร้างภาพ Portrait แบบ Macro แนว Melancholy เครื่องจักร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6167,7 +6207,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 119: สินทรัพย์เกม - ภาพหลักสำหรับแคมเปญเกม RPG สไตล์จิบิ
+### No. 120: สินทรัพย์เกม - ภาพหลักสำหรับแคมเปญเกม RPG สไตล์จิบิ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6218,72 +6258,13 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 ---
 
-### No. 120: สินทรัพย์เกม - ภาพพอร์ตเทรตแนวไฮบริดที่ผสมผสานความสมจริงและงานจิตรกรรมอย่างมีศิลปะ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์การออกแบบคอนเซปต์อาร์ตระดับสูงที่ผสมผสานความสมจริงแบบงานจิตรกรรมคลาสสิกเข้ากับภาพประกอบตัวละครสไตล์ภาพยนตร์ที่ดูประณีต
-
-#### 📝 คำสั่ง
-
-```
-ใช้ภาพวัตถุที่แนบมาเพื่อสร้างสรรค์ผลงานใหม่ให้เหมือนกับต้นฉบับมากที่สุด สร้างภาพพอร์ตเทรตแนวไฮบริดที่ซับซ้อนโดยผสมผสานความสมจริงแบบงานจิตรกรรมที่สื่ออารมณ์เข้ากับภาพประกอบดิจิทัลสไตล์ภาพยนตร์ที่ดูประณีต
-
-คงโครงสร้างใบหน้า การแสดงออก ท่าทาง ทรงผม เสื้อผ้า สัดส่วน และองค์ประกอบโดยรวมให้เหมือนต้นฉบับ ใช้ฝีแปรงที่ชัดเจนและมั่นใจ พื้นผิวแบบแห้ง (dry-brush) ที่ละเอียดอ่อน เส้นร่างที่ประณีต การลงสีแบบเคลือบ (glazing) ที่นุ่มนวล การไล่เฉดสีธรรมชาติ และความไม่สมบูรณ์แบบที่ดูเหมือนทำด้วยมือ หลีกเลี่ยงการทำให้ภาพดูเรียบเนียนหรือดูเหมือนการพ่นสี (airbrushed) จนเกินไป
-
-ใช้โทนสีผิวโทนอุ่น เช่น พีช, ปะการัง, เทอร์ราคอตตา, อำพัน และชมพูอ่อน พร้อมเงาที่เข้มข้นในโทนสีม่วงอมแดง, พลัม, ถ่าน, เอสเพรสโซ และสีเทาสเลท เพิ่มไฮไลท์ที่ส่องสว่างสมจริงบริเวณหน้าผาก จมูก โหนกแก้ม และริมฝีปาก
-
-ทำให้ดวงตามีความสื่ออารมณ์และดูเป็นภาพยนตร์ด้วยรายละเอียดของม่านตา การสะท้อนที่สมจริง ขนตาที่ละเอียด และการควบคุมแสงสะท้อนในดวงตา (catchlights) รักษาโครงสร้างทางกายวิภาคของใบหน้าให้ดูน่าเชื่อถือ สง่างาม และดูเป็นผู้ใหญ่
-
-ผมและเสื้อผ้าควรมีฝีแปรงที่ลื่นไหลแบบงานจิตรกรรม รอยพับที่เป็นธรรมชาติ รายละเอียดที่คมชัดเฉพาะจุด และขอบที่ดูอิสระและสื่ออารมณ์ ใช้แสงสไตล์ภาพยนตร์ที่มีทิศทางชัดเจน แสงขอบ (rim light) ที่นุ่มนวล เงาที่สร้างบรรยากาศ และการเบลอพื้นหลังที่นุ่มนวล
-
-สไตล์โดยรวม: คอนเซปต์อาร์ตสมัยใหม่ระดับพรีเมียมที่ผสมผสานพื้นผิวแบบงานวาดมือดั้งเดิม ความสมจริงแบบอิมเพรสชันนิสม์ เส้นสายที่สง่างาม ความประณีตแบบภาพยนตร์ และภาพประกอบตัวละครที่ผ่านการขัดเกลา
-
-พื้นหลังเน้นบรรยากาศแบบมินิมอล ใช้โทนสีกลางที่อบอุ่น เน้นที่ใบหน้าและสายตาเป็นหลัก
-
-อัตราส่วนภาพ: 9:16 แนวตั้ง
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849667276_jgbjdx_HRnd81AbIAAhBz1.jpg" width="600" alt="สินทรัพย์เกม - ภาพพอร์ตเทรตแนวไฮบริดที่ผสมผสานความสมจริงและงานจิตรกรรมอย่างมีศิลปะ - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849667246_iadpt9_HRnd81IaAAEjoKG.jpg" width="600" alt="สินทรัพย์เกม - ภาพพอร์ตเทรตแนวไฮบริดที่ผสมผสานความสมจริงและงานจิตรกรรมอย่างมีศิลปะ - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788849667335_j624s1_HRnd80-bIAIRaA0.jpg" width="600" alt="สินทรัพย์เกม - ภาพพอร์ตเทรตแนวไฮบริดที่ผสมผสานความสมจริงและงานจิตรกรรมอย่างมีศิลปะ - Image 3">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Zayan](https://x.com/HustleXR)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/HustleXR/status/2096951148515385716)
-- **เผยแพร่เมื่อ:** 7 กันยายน 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=33778)**
-
----
-
 ---
 
 ## 📚 มีคำสั่งเพิ่มเติม
 
 <div align="center">
 
-### 🎯 15646 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15648 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6346,6 +6327,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-09T08:06:03.488Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-10T08:03:52.850Z</sub>
 
 </div>
