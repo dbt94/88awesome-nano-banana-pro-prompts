@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 คำสั่งทั้งหมด | **15785** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันพุธที่ 14 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 32 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันพฤหัสบดีที่ 15 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 41 วินาที UTC** |
 
 </div>
 
@@ -753,7 +753,7 @@ Negative prompt: ใบหน้าแตกต่าง, เอกลักษ�
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแฟชั่นองค์กรระดับลักชัวรี - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="โปรไฟล์ / รูปประจำตัว - ภาพพอร์ตเทรตแฟชั่นองค์กรระดับลักชัวรี - Image 1">
 </div>
 
 #### 📌 รายละเอียด
@@ -6399,6 +6399,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-14T08:03:32.697Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-15T08:03:41.101Z</sub>
 
 </div>

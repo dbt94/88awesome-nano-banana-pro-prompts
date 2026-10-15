@@ -145,7 +145,7 @@ Quando usato in Raycast, puoi sostituire dinamicamente gli argomenti per iterazi
 |--------|-------|
 | 📝 Totale prompt | **15785** |
 | ⭐ In evidenza | **9** |
-| 🔄 Ultimo aggiornamento | **mercoledì 14 ottobre 2026 alle ore 08:04:15 UTC** |
+| 🔄 Ultimo aggiornamento | **giovedì 15 ottobre 2026 alle ore 08:04:25 UTC** |
 
 </div>
 
@@ -753,7 +753,7 @@ Prompt negativo: Viso diverso, deriva dell'identità, tratti facciali alterati, 
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profilo / Avatar - Ritratto di Moda Aziendale di Lusso - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profilo / Avatar - Ritratto di Moda Aziendale di Lusso - Image 1">
 </div>
 
 #### 📌 Dettagli
@@ -6393,6 +6393,6 @@ Concesso in licenza sotto [CC BY 4.0](https://creativecommons.org/licenses/by/4.
 **[📝 Invia un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Metti una stella a questo repository](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-14T08:04:15.065Z</sub>
+<sub>🤖 Questo README è generato automaticamente. Ultimo aggiornamento: 2026-10-15T08:04:25.335Z</sub>
 
 </div>

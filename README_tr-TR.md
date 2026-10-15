@@ -145,7 +145,7 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 |--------|-------|
 | 📝 Toplam İstem | **15785** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **14 Ekim 2026 Çarşamba 08:04:33 UTC** |
+| 🔄 Son Güncelleme | **15 Ekim 2026 Perşembe 08:04:43 UTC** |
 
 </div>
 
@@ -753,7 +753,7 @@ Negatif İstem: Farklı yüz, kimlik kayması, değiştirilmiş yüz özellikler
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profil / Avatar - Lüks Kurumsal Moda Portresi - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profil / Avatar - Lüks Kurumsal Moda Portresi - Image 1">
 </div>
 
 #### 📌 Detaylar
@@ -6381,6 +6381,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-14T08:04:33.073Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-15T08:04:43.271Z</sub>
 
 </div>

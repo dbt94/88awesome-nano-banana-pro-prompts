@@ -145,7 +145,7 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 |--------|-------|
 | 📝 Tổng số câu lệnh | **15785** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:03:39 UTC Thứ Tư, 14 tháng 10, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:03:46 UTC Thứ Năm, 15 tháng 10, 2026** |
 
 </div>
 
@@ -753,7 +753,7 @@ Negative prompt (Prompt phủ định): Khuôn mặt khác, trôi dạt danh tí
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Thời trang Doanh nghiệp Cao cấp - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Chân dung Thời trang Doanh nghiệp Cao cấp - Image 1">
 </div>
 
 #### 📌 Chi tiết
@@ -6386,6 +6386,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-14T08:03:39.107Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-15T08:03:46.742Z</sub>
 
 </div>

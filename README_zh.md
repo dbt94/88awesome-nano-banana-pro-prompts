@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 提示词总数 | **15785** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年10月14日星期三 UTC 08:03:09** |
+| 🔄 最后更新 | **2026年10月15日星期四 UTC 08:03:15** |
 
 </div>
 
@@ -753,7 +753,7 @@ Grok 的搜索结果
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="个人资料 / 头像 - 奢华企业时尚人像 - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="个人资料 / 头像 - 奢华企业时尚人像 - Image 1">
 </div>
 
 #### 📌 详情
@@ -6402,6 +6402,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-14T08:03:09.480Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-15T08:03:15.658Z</sub>
 
 </div>

@@ -145,7 +145,7 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 |--------|-------|
 | 📝 Total Prompts | **15785** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Wednesday, October 14, 2026 at 8:03:03 AM UTC** |
+| 🔄 Last Updated | **Thursday, October 15, 2026 at 8:03:09 AM UTC** |
 
 </div>
 
@@ -724,13 +724,13 @@ Create an ultra-realistic, high-quality fashion portrait of a beautiful young wo
 
 ---
 
-### No. 3: Profile / Avatar - Luxury Corporate Fashion Portrait
+### No. 3: Profile / Avatar - Ultra-photorealistic corporate fashion portrait prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
 #### 📖 Description
 
-A detailed prompt for creating an ultra-photorealistic luxury corporate fashion portrait of a woman in a black tailored pantsuit, emphasizing identity preservation from a reference image.
+A detailed prompt for generating a photorealistic luxury corporate fashion portrait using an uploaded reference image, specifying identity preservation, clothing, lighting, and camera settings.
 
 #### 📝 Prompt
 
@@ -753,7 +753,7 @@ Negative prompt: Different face, identity drift, altered facial features, artifi
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profile / Avatar - Luxury Corporate Fashion Portrait - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profile / Avatar - Ultra-photorealistic corporate fashion portrait prompt - Image 1">
 </div>
 
 #### 📌 Details
@@ -6417,6 +6417,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-14T08:03:03.967Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-15T08:03:09.867Z</sub>
 
 </div>

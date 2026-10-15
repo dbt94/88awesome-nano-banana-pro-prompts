@@ -145,7 +145,7 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 |--------|-------|
 | 📝 Gesamtanzahl Prompts | **15785** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Mittwoch, 14. Oktober 2026 um 08:04:03 UTC** |
+| 🔄 Zuletzt aktualisiert | **Donnerstag, 15. Oktober 2026 um 08:04:12 UTC** |
 
 </div>
 
@@ -753,7 +753,7 @@ Negativ-Prompt: Anderes Gesicht, Identitätsdrift, veränderte Gesichtsmerkmale,
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profil / Avatar - Luxuriöses Corporate-Fashion-Porträt - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Profil / Avatar - Luxuriöses Corporate-Fashion-Porträt - Image 1">
 </div>
 
 #### 📌 Details
@@ -6398,6 +6398,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-14T08:04:03.232Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-15T08:04:12.479Z</sub>
 
 </div>

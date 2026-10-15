@@ -145,7 +145,7 @@ by {argument name="author" default="Steve Jobs"}
 |--------|-------|
 | 📝 Total de prompts | **15785** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **miércoles, 14 de octubre de 2026, 8:03:57 a.m. UTC** |
+| 🔄 Última actualización | **jueves, 15 de octubre de 2026, 8:04:06 a.m. UTC** |
 
 </div>
 
@@ -753,7 +753,7 @@ Prompt negativo: Rostro diferente, deriva de identidad, rasgos faciales alterado
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Perfil / Avatar - Retrato Corporativo de Moda de Lujo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Perfil / Avatar - Retrato Corporativo de Moda de Lujo - Image 1">
 </div>
 
 #### 📌 Detalles
@@ -6391,6 +6391,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-14T08:03:57.160Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-15T08:04:06.836Z</sub>
 
 </div>

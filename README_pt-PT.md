@@ -145,7 +145,7 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 |--------|-------|
 | 📝 Total de prompts | **15785** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **quarta-feira, 14 de outubro de 2026 às 08:04:27 UTC** |
+| 🔄 Última atualização | **quinta-feira, 15 de outubro de 2026 às 08:04:37 UTC** |
 
 </div>
 
@@ -753,7 +753,7 @@ Prompt negativo: Rosto diferente, deriva de identidade, características faciais
 ##### Image 1
 
 <div align="center">
-<img src="https://cms-assets.youmind.com/media/1791959721786_qjqty1_HUhGgdIbAAAmuPM.jpg" width="600" alt="Perfil / Avatar - Retrato de Moda Corporativa de Luxo - Image 1">
+<img src="https://cms-assets.youmind.com/media/1792046032779_sr7mil_HUhGgdIbAAAmuPM.jpg" width="600" alt="Perfil / Avatar - Retrato de Moda Corporativa de Luxo - Image 1">
 </div>
 
 #### 📌 Detalhes
@@ -6385,6 +6385,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-14T08:04:27.906Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-15T08:04:37.152Z</sub>
 
 </div>
