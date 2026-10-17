@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指標 | 數量 |
 |--------|-------|
-| 📝 提示詞總數 | **15789** |
+| 📝 提示詞總數 | **15790** |
 | ⭐ 精選 | **9** |
-| 🔄 最後更新 | **2026年10月16日 星期五 上午8:03:23 [UTC]** |
+| 🔄 最後更新 | **2026年10月17日 星期六 上午8:02:50 [UTC]** |
 
 </div>
 
@@ -4546,7 +4546,94 @@ STORYBOARD：
 
 ---
 
-### No. 83: 產品行銷 - 全裝甲機娘概念藝術
+### No. 83: 產品行銷 - Origami Dreams 賽博鏡像提示
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一段用於 Nano Banana Pro 的複雜 JSON 格式提示詞，內容為 Mackenzie Davis 倒映在金屬水窪中的超現實編輯攝影作品。
+
+#### 📝 提示詞
+
+```
+{
+  "vibe_title_en": "折紙夢境映照於破碎的賽博鏡面",
+  "master_prompt": "一張使用 Hasselblad H6D-100c 搭配 80mm f/1.4 鏡頭拍攝的超寫實 surrealist 編輯風格照片。鏡頭聚焦於深色地板上的一灘破裂、黏稠的金屬液體。在這道裂縫表面中，清晰地反射出主角（The Protagonist），她坐在一架由拉絲鋁材製成的巨大實體折紙飛機上。濃密的低溫工作室霧氣模擬了結構下方的雲海。背景中的實際主體因淺景深而嚴重模糊。反射中的主角展現出一種賽博空靈的合成美感：不可能的對稱特徵、穿透性的非人類凝視，以及在近距離觀察下仍顯露真實微孔的「塑化」皮膚。黑暗、極簡的野獸派房間被冷冽的青色和銳利的白色螢光輪廓光照亮，捕捉到霧氣和金屬飛機的邊緣。使用 Kodak Portra 800 底片拍攝，具有厚重的顆粒感，完全採用高預算的實用特效，無霓虹燈，電影般的明暗對比（chiaroscuro）。",
+  "meta": {
+    "intent": "電影感超現實主義高級時尚肖像",
+    "priorities": "扭曲的反射構圖、合成皮膚質感、實用超現實主義",
+    "device_profile": "模仿類比膠片的數位中畫幅"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "以反射為主導，主體位於水坑反射的中心，而物理身體在背景中保持模糊",
+    "layout": "畫面下半部由清晰反射的水坑主導，上半部顯示模糊的物理場景",
+    "camera_angle": "從上方以 45 度角俯視地板反射的高角度",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "無年齡界限，後人類完美",
+    "face": "異常對稱，帶有明顯微孔的塑化光澤",
+    "hair": "光滑、過度造型、看起來像合成的髮絲捕捉著青色輪廓光",
+    "body": "雕像般的身形，僵硬姿態",
+    "expression": "空白、穿透性、透過反射強烈地觀察觀眾",
+    "pose": "僵硬地坐在金屬折紙結構頂端，稍微前傾以窺視水坑"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "鐵氟龍塗層合成絲綢",
+        "color": "半透明冰白色",
+        "fit": "建築感且僵硬"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "幾何耳夾",
+        "color": "拋光鉻合金",
+        "material": "手術鋼",
+        "brand_style": "前衛賽博極簡主義"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "黑暗、極簡的野獸派航空測試艙",
+    "surfaces": "破裂混凝土、黏稠金屬流體、拉絲鋁折紙"
+  }
+}
+```
+
+#### 🖼️ 生成圖片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="產品行銷 - Origami Dreams 賽博鏡像提示 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="產品行銷 - Origami Dreams 賽博鏡像提示 - Image 2">
+</div>
+
+#### 📌 詳情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **來源:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **發布時間:** 2026年10月16日
+- **多語言:** en
+
+**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: 產品行銷 - 全裝甲機娘概念藝術
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4591,7 +4678,7 @@ STORYBOARD：
 
 ---
 
-### No. 84: 產品行銷 - 紅毯時尚攝影提示詞
+### No. 85: 產品行銷 - 紅毯時尚攝影提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4634,7 +4721,7 @@ STORYBOARD：
 
 ---
 
-### No. 85: 產品行銷 - 高級時尚編輯攝影
+### No. 86: 產品行銷 - 高級時尚編輯攝影
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4671,7 +4758,7 @@ STORYBOARD：
 
 ---
 
-### No. 86: 產品行銷 - 超現實糖果娃娃角色提示詞
+### No. 87: 產品行銷 - 超現實糖果娃娃角色提示詞
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4704,7 +4791,7 @@ STORYBOARD：
 
 ---
 
-### No. 87: 產品行銷 - 奢華浴缸時尚人像
+### No. 88: 產品行銷 - 奢華浴缸時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4747,7 +4834,7 @@ STORYBOARD：
 
 ---
 
-### No. 88: 產品行銷 - 豪華時尚編輯：運動型轎車主題
+### No. 89: 產品行銷 - 豪華時尚編輯：運動型轎車主題
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4780,7 +4867,7 @@ STORYBOARD：
 
 ---
 
-### No. 89: 產品行銷 - 以參考圖生成電影感奢華夜景人像
+### No. 90: 產品行銷 - 以參考圖生成電影感奢華夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4827,7 +4914,7 @@ STORYBOARD：
 
 ---
 
-### No. 90: 產品行銷 - Cheetos 零食廣告人像
+### No. 91: 產品行銷 - Cheetos 零食廣告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4870,7 +4957,7 @@ STORYBOARD：
 
 ---
 
-### No. 91: 產品行銷 - 含參考圖的高級美容人像
+### No. 92: 產品行銷 - 含參考圖的高級美容人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4907,7 +4994,7 @@ STORYBOARD：
 
 ---
 
-### No. 92: 產品行銷 - Cheetos 零食廣告人像
+### No. 93: 產品行銷 - Cheetos 零食廣告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4962,7 +5049,7 @@ STORYBOARD：
 
 ---
 
-### No. 93: 產品行銷 - 歷史大廳中的奢華肚皮舞者時尚編輯照
+### No. 94: 產品行銷 - 歷史大廳中的奢華肚皮舞者時尚編輯照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5005,7 +5092,7 @@ STORYBOARD：
 
 ---
 
-### No. 94: 產品行銷 - 敞篷車中的奢華時尚人像
+### No. 95: 產品行銷 - 敞篷車中的奢華時尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5041,45 +5128,6 @@ STORYBOARD：
 - **多語言:** en
 
 **[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: 產品行銷 - 高級時尚人像身份識別
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用於建立超寫實高級時尚人像的詳細提示詞，保留參考影像中的面部特徵，包含深紅絲綢禮服及特定的負面提示詞。
-
-#### 📝 提示詞
-
-```
-使用上傳的圖片作為主要身份參考。創造同一位女性，保持完全相同的面孔與面部特徵，精確保留她的臉部結構、眼睛、眉毛、鼻子、嘴唇、下顎線、顴骨、膚色、比例、自然不對稱性及可辨識的特徵。請勿重新設計或美化她的臉龐。
-
-創造一張超寫實的高級時尚人像，她身穿一件雕塑感的深紅色絲綢禮服。光澤的絲綢形成巨大的流動褶皺，優雅地環繞著她的身體，並在她肩後如波浪般戲劇性地升起，營造出引人注目的時裝輪廓。收腰設計、深 V 領口、垂墜的紅色布料向下流淌。長而鬆散的深棕色波浪髮、優雅的紅唇、精緻淡雅的妝容、細膩的金色耳環與項鍊。溫暖的方向性攝影棚燈光、豐富深沉的紅色質感背景、逼真的絲綢反光、自然的布料物理特性、精緻的高級編輯風格廣告大片、高度細節化的皮膚紋理、8K 超寫實畫質。正面構圖、中景取景，非全身照。
-
-負面提示詞 (Negative Prompt)
-
-不同的面孔、身份偏移、面部重繪、改變臉部結構、不同的眼睛、不同的鼻子、不同的嘴唇、不同的下顎線、不同的顴骨、改變膚色、過度美化、塑膠感皮膚、過度磨皮、濃妝豔抹、臉部扭曲、不對稱的眼睛、變形的五官、不自然的表情、多餘的四肢、多餘的手指、畸形的手部、變形的身體、不合理的解剖結構、扭曲的布料、僵硬的布料、假絲綢、低細節、模糊的臉部、CGI 外觀、卡通、插畫、3D 渲染、過度銳化、過度修圖、浮水印、Logo、文字、裁切到臉部、側面輪廓。
-```
-
-#### 🖼️ 生成圖片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="產品行銷 - 高級時尚人像身份識別 - Image 1">
-</div>
-
-#### 📌 詳情
-
-- **作者:** [Elvorya](https://x.com/Elvorya)
-- **來源:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **發布時間:** 2026年10月3日
-- **多語言:** en
-
-**[👉 立即嘗試 →](https://youmind.com/zh-TW/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6269,7 +6317,7 @@ Use the facial features from the uploaded reference image. A full-body portrait 
 
 <div align="center">
 
-### 🎯 15669 更多提示詞未在此顯示
+### 🎯 15670 更多提示詞未在此顯示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6332,6 +6380,6 @@ The gallery features:
 **[📝 提交提示詞](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 給倉庫點星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自動生成。最後更新： 2026-10-16T08:03:23.627Z</sub>
+<sub>🤖 此 README 自動生成。最後更新： 2026-10-17T08:02:50.756Z</sub>
 
 </div>

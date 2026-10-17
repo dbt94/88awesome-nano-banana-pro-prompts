@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15789** |
+| 📝 Total Prompts | **15790** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Friday, October 16, 2026 at 8:03:12 AM UTC** |
+| 🔄 Last Updated | **Saturday, October 17, 2026 at 8:02:38 AM UTC** |
 
 </div>
 
@@ -4557,7 +4557,94 @@ A detailed cinematic prompt for a mysterious storm-weathered lighthouse scene wi
 
 ---
 
-### No. 83: Product Marketing - Full Armor Mecha Girl Concept Art
+### No. 83: Product Marketing - Origami Dreams Cyber Mirror Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Description
+
+A complex JSON-formatted prompt for Nano Banana Pro featuring a surreal editorial photograph of Mackenzie Davis reflected in a metallic puddle.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Origami Dreams Reflected in Broken Cyber Mirrors",
+  "master_prompt": "A hyper-realistic surreal editorial photograph shot on Hasselblad H6D-100c, 80mm f/1.4 lens. The camera focuses exclusively on a fractured, viscous metallic puddle on the dark floor. Reflected sharply within this cracked surface is The Protagonist, sitting atop a massive, physically rigged origami airplane crafted from brushed aluminum. Dense, cryogenic studio fog mimics a sea of clouds below the structure. The actual subject in the background is heavily blurred by the shallow depth of field. The reflected Protagonist exhibits a cyber-ethereal synthetic beauty: impossibly symmetrical features, a piercing non-human gaze, and 'plasticized' skin that still reveals authentic micro-pores upon close inspection. The dark, minimalist brutalist chamber is illuminated by stark cyan and sharp white fluorescent rim lighting, catching the edges of the fog and the metal plane. Shot on Kodak Portra 800, heavy film grain, entirely practical high-budget effects, NO NEON, cinematic chiaroscuro.",
+  "meta": {
+    "intent": "Cinematic surrealism high-fashion portrait",
+    "priorities": "Distorted reflection framing, synthetic skin texture, practical surrealism",
+    "device_profile": "Medium Format Digital mimicking Analog Film"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Reflection-dominant, subject centered within the puddle's reflection while physical body remains blurred in the background",
+    "layout": "Lower half of frame dominates with sharp reflective puddle, upper half shows blurred physical scene",
+    "camera_angle": "High angle looking down at a 45-degree angle into the floor reflection",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name="Gender" default="Female"}",
+    "identity": "{argument name="Identity" default="The Cyber-Ethereal Protagonist"}",
+    "demographics": "Ageless, post-human perfection",
+    "face": "Uncannily symmetrical, plasticized sheen with distinct micro-pores",
+    "hair": "Sleek, heavily styled, synthetic-looking strands catching cyan rim light",
+    "body": "Statuesque, rigid posture",
+    "expression": "Blank, piercing, intensely observing the viewer through the reflection",
+    "pose": "Seated rigidly atop the metallic origami structure, leaning slightly forward to peer into the puddle"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name="Garment Item" default="Structured shift dress"}",
+        "material": "Teflon-coated synthetic silk",
+        "color": "Translucent icy white",
+        "fit": "Architectural and rigid"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Geometric ear cuffs",
+        "color": "Polished chrome",
+        "material": "Surgical steel",
+        "brand_style": "Avant-garde cyber minimalism"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Dark, minimalist brutalist aerospace testing chamber",
+    "surfaces": "Cracked concrete, viscous metallic fluid, brushed aluminum origa"
+  }
+}
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Product Marketing - Origami Dreams Cyber Mirror Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Product Marketing - Origami Dreams Cyber Mirror Prompt - Image 2">
+</div>
+
+#### 📌 Details
+
+- **Author:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Source:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **Published:** October 16, 2026
+- **Languages:** en
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: Product Marketing - Full Armor Mecha Girl Concept Art
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4602,7 +4689,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 scale plastic model, slim torso with
 
 ---
 
-### No. 84: Product Marketing - Red Carpet Fashion Photo Prompt
+### No. 85: Product Marketing - Red Carpet Fashion Photo Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4645,7 +4732,7 @@ Negative prompt: cartoon, CGI, 3D render, plastic skin, excessive beauty retouch
 
 ---
 
-### No. 85: Product Marketing - Luxury Fashion Editorial Photo
+### No. 86: Product Marketing - Luxury Fashion Editorial Photo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4682,7 +4769,7 @@ Modern luxury showroom/indoor architectural setting, dark neutral tones, soft di
 
 ---
 
-### No. 86: Product Marketing - Surreal Candy Doll Character Prompt
+### No. 87: Product Marketing - Surreal Candy Doll Character Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4715,7 +4802,7 @@ A surreal doll with 5 heads, 10 ears, 2 arms and 2 legs seated on a fashionable 
 
 ---
 
-### No. 87: Product Marketing - Luxury Bathtub Fashion Portrait
+### No. 88: Product Marketing - Luxury Bathtub Fashion Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4758,7 +4845,7 @@ Negative prompt: different face, identity drift, altered facial features, plasti
 
 ---
 
-### No. 88: Product Marketing - Luxury Fashion Editorial with Sports Sedan
+### No. 89: Product Marketing - Luxury Fashion Editorial with Sports Sedan
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4791,7 +4878,7 @@ Create a photorealistic luxury fashion editorial of an elegant young woman stand
 
 ---
 
-### No. 89: Product Marketing - Cinematic Luxury Evening Portrait by Infinity Pool
+### No. 90: Product Marketing - Cinematic Luxury Evening Portrait by Infinity Pool
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4838,7 +4925,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 90: Product Marketing - Cheetos Snack Ad Portrait
+### No. 91: Product Marketing - Cheetos Snack Ad Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4881,7 +4968,7 @@ Expressive smile, fun street-commercial aesthetic.
 
 ---
 
-### No. 91: Product Marketing - High-End Beauty Portrait with Reference
+### No. 92: Product Marketing - High-End Beauty Portrait with Reference
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4918,7 +5005,7 @@ Warm golden-orange cinematic lighting, strong soft rim light around the hair, co
 
 ---
 
-### No. 92: Product Marketing - Cheetos Snack Ad Portrait
+### No. 93: Product Marketing - Cheetos Snack Ad Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4973,7 +5060,7 @@ Expressive smile, fun street-commercial aesthetic.
 
 ---
 
-### No. 93: Product Marketing - Luxury Belly Dancer Editorial in Historic Hall
+### No. 94: Product Marketing - Luxury Belly Dancer Editorial in Historic Hall
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5016,7 +5103,7 @@ The final image should feel like an established fashion photographer documented 
 
 ---
 
-### No. 94: Product Marketing - Luxury Fashion Portrait in Convertible Car
+### No. 95: Product Marketing - Luxury Fashion Portrait in Convertible Car
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5052,46 +5139,6 @@ Negative prompt: CGI, 3D render, cartoon, illustration, plastic skin, distorted 
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: Product Marketing - Luxury Crimson Silk Gown Portrait
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Description
-
-A prompt for Nano Banana Pro to create an ultra-photorealistic luxury fashion portrait of a woman in a crimson silk gown, strictly preserving facial identity from a reference image.
-
-#### 📝 Prompt
-
-```
-Use the uploaded image as the master identity reference. Create the same woman with the exact same face and facial identity ,preserve her facial structure, eyes, eyebrows, nose, lips, jawline, cheekbones, skin tone, proportions, natural asymmetry, and recognizable features with maximum accuracy. Do not redesign or beautify her face.
-
-Create an ultra-photorealistic luxury fashion portrait of her wearing a sculptural {argument name="dress_color" default="crimson-red"} silk gown. The glossy silk forms enormous flowing folds that wrap elegantly around her body and rise dramatically behind her shoulders like waves, creating a striking couture silhouette. Fitted gathered waist, deep V neckline, flowing red fabric cascading downward. Long loose dark-brown wavy hair, elegant red lips, subtle refined makeup, delicate gold earrings and necklace. Warm directional studio lighting, rich deep-red textured background, realistic silk reflections, natural fabric physics, sophisticated luxury editorial campaign, highly detailed skin texture, photorealistic 8K. Front-facing composition, medium-length framing, not head-to-toe.
-
-Negative Prompt
-
-Different face, identity drift, facial redesign, altered facial structure, different eyes, different nose, different lips, different jawline, different cheekbones, changed skin tone, exaggerated beauty, plastic skin, over-smoothed skin, excessive makeup, face distortion, asymmetrical eyes, warped features, unnatural expression, extra limbs, extra fingers, malformed hands, deformed body, unrealistic anatomy, distorted fabric, stiff fabric, fake silk, low detail, blurry face, CGI look, cartoon, illustration, 3D render, oversharpening, excessive retouching, watermark, logo, text, cropped face, side profile.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="Product Marketing - Luxury Crimson Silk Gown Portrait - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Elvorya](https://x.com/Elvorya)
-- **Source:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **Published:** October 3, 2026
-- **Languages:** en
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6281,7 +6328,7 @@ A unique prompt for visualizing manga and anime franchises as physical clay and 
 
 <div align="center">
 
-### 🎯 15669 more prompts not shown here
+### 🎯 15670 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6344,6 +6391,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-16T08:03:12.768Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-17T08:02:38.525Z</sub>
 
 </div>

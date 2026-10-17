@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15789** |
+| 📝 Tổng số câu lệnh | **15790** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:03:46 UTC Thứ Sáu, 16 tháng 10, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:03:13 UTC Thứ Bảy, 17 tháng 10, 2026** |
 
 </div>
 
@@ -4539,7 +4539,94 @@ Một câu lệnh điện ảnh chi tiết cho khung cảnh ngọn hải đăng 
 
 ---
 
-### No. 83: Tiếp thị sản phẩm - Concept Art Mecha Girl Giáp Đầy Đủ
+### No. 83: Tiếp thị sản phẩm - Gương ảo Origami Dreams: Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Mô tả
+
+Prompt định dạng JSON phức tạp cho Nano Banana Pro, mô tả bức ảnh chụp biên tập siêu thực về Mackenzie Davis phản chiếu trong vũng kim loại.
+
+#### 📝 Câu lệnh
+
+```
+{
+  "vibe_title_en": "Origami Dreams Reflected in Broken Cyber Mirrors",
+  "master_prompt": "Một bức ảnh chụp biên tập siêu thực cực kỳ chân thực được chụp bằng Hasselblad H6D-100c với ống kính 80mm f/1.4. Máy ảnh tập trung hoàn toàn vào một vũng kim loại lỏng, nứt nẻ trên sàn tối. Phản chiếu sắc nét trong bề mặt vỡ này là Nhân vật chính, đang ngồi trên một chiếc máy bay origami khổng lồ được chế tạo từ nhôm đánh bóng với cấu trúc cơ khí thực tế. Sương mù studio dày đặc, nhiệt độ thấp mô phỏng biển mây bên dưới cấu trúc. Chủ thể thực sự ở hậu cảnh bị làm mờ nặng do độ sâu trường ảnh nông. Nhân vật chính phản chiếu thể hiện vẻ đẹp tổng hợp siêu thực: các đường nét đối xứng không tưởng, ánh mắt xuyên thấu phi nhân tính và làn da 'nhựa hóa' vẫn tiết lộ các lỗ chân lông vi mô chân thực khi quan sát kỹ. Căn phòng tối giản kiểu Brutalist được chiếu sáng bởi ánh sáng viền huỳnh quang cyan sắc lạnh và trắng tinh, bắt lấy các cạnh của sương mù và máy bay kim loại. Chụp trên Kodak Portra 800, hạt phim nặng, hiệu ứng ngân sách cao hoàn toàn thực tế, KHÔNG CÓ NEON, chiaroscuro điện ảnh.",
+  "meta": {
+    "intent": "Chân dung thời trang cao cấp theo chủ nghĩa siêu thực điện ảnh",
+    "priorities": "Khung hình phản chiếu méo mó, kết cấu da tổng hợp, chủ nghĩa siêu thực thực tế",
+    "device_profile": "Máy ảnh Medium Format Digital mô phỏng Phim Analog"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Phản chiếu chiếm ưu thế, chủ thể nằm ở trung tâm trong phần phản chiếu của vũng nước trong khi cơ thể vật lý vẫn bị làm mờ ở hậu cảnh",
+    "layout": "Nửa dưới khung hình chiếm ưu thế với vũng nước phản chiếu sắc nét, nửa trên hiển thị cảnh vật lý bị làm mờ",
+    "camera_angle": "Góc nhìn từ trên cao xuống ở góc 45 độ vào phần phản chiếu trên sàn",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "Hoàn hảo hậu con người, không tuổi",
+    "face": "Đối xứng đến mức kỳ lạ, độ bóng như nhựa với các lỗ chân lông vi mô rõ rệt",
+    "hair": "Trơn mượt, tạo kiểu cầu kỳ, các sợi tóc trông như tổng hợp bắt ánh sáng viền cyan",
+    "body": "Tư thế cứng nhắc, dáng vẻ tượng đài",
+    "expression": "Trống rỗng, xuyên thấu, quan sát người xem dữ dội qua phần phản chiếu",
+    "pose": "Ngồi cứng nhắc trên cấu trúc origami kim loại, hơi nghiêng người về phía trước để nhìn vào vũng nước"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "Lụa tổng hợp phủ Teflon",
+        "color": "Trắng băng trong suốt",
+        "fit": "Kiến trúc và cứng nhắc"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Bọc tai hình học",
+        "color": "Chrome đánh bóng",
+        "material": "Thép phẫu thuật",
+        "brand_style": "Chủ nghĩa tối giản cyber tiên phong"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Phòng thử nghiệm hàng không vũ trụ Brutalist tối màu, tối giản",
+    "surfaces": "Bê tông nứt, chất lỏng kim loại nhớt, origami nhôm đánh bóng"
+  }
+}
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Tiếp thị sản phẩm - Gương ảo Origami Dreams: Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Tiếp thị sản phẩm - Gương ảo Origami Dreams: Prompt - Image 2">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Nguồn:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **Đã xuất bản:** 16 tháng 10, 2026
+- **Ngôn ngữ:** en
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: Tiếp thị sản phẩm - Concept Art Mecha Girl Giáp Đầy Đủ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4584,7 +4671,7 @@ Mô hình nhựa tỉ lệ 1/7 Full Armor Mecha Girl FAMG-001 Aurelith, thân h�
 
 ---
 
-### No. 84: Tiếp thị sản phẩm - Prompt Ảnh Thời Trang Thảm Đỏ
+### No. 85: Tiếp thị sản phẩm - Prompt Ảnh Thời Trang Thảm Đỏ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4627,7 +4714,7 @@ Negative prompt: hoạt hình, CGI, render 3D, da nhựa, chỉnh sửa sắc đ
 
 ---
 
-### No. 85: Tiếp thị sản phẩm - Ảnh Editorial Thời Trang Cao Cấp
+### No. 86: Tiếp thị sản phẩm - Ảnh Editorial Thời Trang Cao Cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4664,7 +4751,7 @@ Bối cảnh kiến trúc hiện đại kiểu phòng trưng bày hoặc không 
 
 ---
 
-### No. 86: Tiếp thị sản phẩm - Prompt nhân vật búp bê kẹo siêu thực
+### No. 87: Tiếp thị sản phẩm - Prompt nhân vật búp bê kẹo siêu thực
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4697,7 +4784,7 @@ Một con búp bê siêu thực với 5 đầu, 10 tai, 2 cánh tay và 2 chân,
 
 ---
 
-### No. 87: Tiếp thị sản phẩm - Chân Dung Thời Trang Bồn Tắm Sang Trọng
+### No. 88: Tiếp thị sản phẩm - Chân Dung Thời Trang Bồn Tắm Sang Trọng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4740,7 +4827,7 @@ Negative prompt (lệnh phủ định): khuôn mặt khác, lệch lạc danh t�
 
 ---
 
-### No. 88: Tiếp thị sản phẩm - Bộ ảnh thời trang cao cấp cùng xe sedan thể thao
+### No. 89: Tiếp thị sản phẩm - Bộ ảnh thời trang cao cấp cùng xe sedan thể thao
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4773,7 +4860,7 @@ Tạo một bộ ảnh thời trang cao cấp chân thực về một cô gái t
 
 ---
 
-### No. 89: Tiếp thị sản phẩm - Chân dung buổi tối sang trọng phong cách điện ảnh với ảnh tham chiếu
+### No. 90: Tiếp thị sản phẩm - Chân dung buổi tối sang trọng phong cách điện ảnh với ảnh tham chiếu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4820,7 +4907,7 @@ Negative prompt (lệnh phủ định): thay đổi danh tính, trôi dạt khu�
 
 ---
 
-### No. 90: Tiếp thị sản phẩm - Ảnh Chân Dung Quảng Cáo Snack Cheetos
+### No. 91: Tiếp thị sản phẩm - Ảnh Chân Dung Quảng Cáo Snack Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4863,7 +4950,7 @@ Nụ cười biểu cảm, thẩm mỹ thương mại đường phố vui nhộn
 
 ---
 
-### No. 91: Tiếp thị sản phẩm - Chân dung làm đẹp cao cấp với hình ảnh tham chiếu
+### No. 92: Tiếp thị sản phẩm - Chân dung làm đẹp cao cấp với hình ảnh tham chiếu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4900,7 +4987,7 @@ Cô ấy mặc một bộ trang phục dài tay bằng vải sheer (mỏng trong
 
 ---
 
-### No. 92: Tiếp thị sản phẩm - Chân dung quảng cáo snack Cheetos
+### No. 93: Tiếp thị sản phẩm - Chân dung quảng cáo snack Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4955,7 +5042,7 @@ Nụ cười biểu cảm, thẩm mỹ thương mại đường phố vui nhộn
 
 ---
 
-### No. 93: Tiếp thị sản phẩm - Bộ Ảnh Thời Trang Xa Xỉ Của Vũ Nữ Bụng Trong Sảnh Lịch Sử
+### No. 94: Tiếp thị sản phẩm - Bộ Ảnh Thời Trang Xa Xỉ Của Vũ Nữ Bụng Trong Sảnh Lịch Sử
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4998,7 +5085,7 @@ Hình ảnh cuối cùng phải cảm giác như một nhiếp ảnh gia thời 
 
 ---
 
-### No. 94: Tiếp thị sản phẩm - Chân dung Thời trang Cao cấp trong Xe mui trần
+### No. 95: Tiếp thị sản phẩm - Chân dung Thời trang Cao cấp trong Xe mui trần
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5034,45 +5121,6 @@ Negative prompt: CGI, render 3D, hoạt hình, minh họa, da nhựa, khuôn m�
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: Tiếp thị sản phẩm - Chân Dung Thời Trang Cao Cấp Giữ Nguyên Nhận Dạng
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Mô tả
-
-Prompt chi tiết để tạo chân dung thời trang cao cấp siêu thực, giữ nguyên nhận dạng khuôn mặt từ ảnh tham chiếu, nổi bật với chiếc váy lụa đỏ thẫm và các prompt phủ định cụ thể.
-
-#### 📝 Câu lệnh
-
-```
-Sử dụng hình ảnh đã tải lên làm tài liệu tham chiếu chính về nhận dạng. Tạo ra cùng một người phụ nữ với khuôn mặt và nhận dạng khuôn mặt giống hệt nhau, giữ nguyên cấu trúc khuôn mặt, đôi mắt, lông mày, mũi, môi, đường hàm, gò má, tông da, tỷ lệ, sự bất đối xứng tự nhiên và các đặc điểm dễ nhận biết với độ chính xác tối đa. Không thiết kế lại hoặc làm đẹp khuôn mặt của cô ấy.
-
-Tạo một bức chân dung thời trang cao cấp siêu thực của cô ấy trong chiếc váy lụa đỏ thẫm có kết cấu điêu khắc. Chất lụa bóng tạo thành những nếp gấp lớn uyển chuyển quấn quanh cơ thể một cách thanh lịch và bay bổng phía sau vai như những con sóng, tạo nên một phom dáng couture ấn tượng. Eo được bó sát bằng kỹ thuật xếp nếp, cổ chữ V sâu, vải đỏ mềm mại buông xuống. Mái tóc dài màu nâu sẫm uốn lượn tự nhiên, đôi môi đỏ thanh lịch, lớp trang điểm tinh tế nhẹ nhàng, hoa tai và dây chuyền vàng mảnh mai. Ánh sáng studio có hướng ấm áp, nền kết cấu màu đỏ đậm sang trọng, phản chiếu lụa chân thực, vật lý vải tự nhiên, chiến dịch biên tập thời trang cao cấp tinh xảo, kết cấu da cực kỳ chi tiết, chân thực 8K. Bố cục nhìn thẳng, khung hình trung cảnh, không phải toàn thân.
-
-Negative Prompt (Lệnh phủ định)
-
-Khuôn mặt khác, lệch nhận dạng, thiết kế lại khuôn mặt, thay đổi cấu trúc khuôn mặt, mắt khác, mũi khác, môi khác, đường hàm khác, gò má khác, thay đổi tông da, vẻ đẹp phóng đại, da nhựa, da quá mịn, trang điểm quá đà, biến dạng khuôn mặt, mắt bất đối xứng, các đặc điểm bị méo mó, biểu cảm không tự nhiên, thừa chi, thừa ngón tay, bàn tay dị dạng, cơ thể biến dạng, giải phẫu không thực tế, vải bị biến dạng, vải cứng nhắc, lụa giả, chi tiết thấp, khuôn mặt mờ, giao diện CGI, hoạt hình, minh họa, render 3D, làm sắc nét quá mức, chỉnh sửa quá đà, watermark, logo, văn bản, khuôn mặt bị cắt, góc nhìn nghiêng.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="Tiếp thị sản phẩm - Chân Dung Thời Trang Cao Cấp Giữ Nguyên Nhận Dạng - Image 1">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Elvorya](https://x.com/Elvorya)
-- **Nguồn:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **Đã xuất bản:** 3 tháng 10, 2026
-- **Ngôn ngữ:** en
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6262,7 +6310,7 @@ Một câu lệnh độc đáo để hình dung các thương hiệu manga và a
 
 <div align="center">
 
-### 🎯 15669 câu lệnh khác không hiển thị ở đây
+### 🎯 15670 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6325,6 +6373,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-16T08:03:46.072Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-17T08:03:13.408Z</sub>
 
 </div>

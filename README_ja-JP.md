@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15789** |
+| 📝 プロンプト総数 | **15790** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年10月16日金曜日 8:03:28 UTC** |
+| 🔄 最終更新 | **2026年10月17日土曜日 8:02:56 UTC** |
 
 </div>
 
@@ -4576,7 +4576,94 @@ Kodak フィルムエミュレーションを使用した、家族の夕食シ�
 
 ---
 
-### No. 83: プロダクトマーケティング - フルアーマー メカガール コンセプトアート
+### No. 83: プロダクトマーケティング - Origami Dreams Cyber Mirror プロンプト
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 説明
+
+Nano Banana Pro 向けの複雑な JSON フォーマットのプロンプト。金属の水たまりに映るマッケンジー・ダヴィスのシュールな編集写真。
+
+#### 📝 プロンプト
+
+```
+{
+  "vibe_title_en": "Broken Cyber Mirrors に映る Origami Dreams",
+  "master_prompt": "Hasselblad H6D-100c、80mm f/1.4 レンズで撮影された超リアルなシュール編集写真。カメラは暗い床にある割れた粘性のある金属の水たまりのみを捉えている。このひび割れた表面には、ブラッシュドアルミニウムで作られた巨大な物理的にリグ付けされた origami airplane の上に座る The Protagonist が鮮明に反射している。高密度のクライオジェニックスタジオフォグが構造物の下に雲海を模倣している。背景にある実際の被写体は浅い被写界深度により強くぼかされている。反射した Protagonist はサイバーエーテル的な合成美を呈する：不可能なほど対称的な特徴、貫くような非人間的な視線、そしてクローズアップすると本物のマイクロポアが見える 'plasticized' な肌。暗くミニマルなブルータリズムの部屋は、鋭いシアンと白い蛍光のリムライトによって照らされ、フォグと金属飛行機の縁を捉えている。Kodak Portra 800 で撮影、強いフィルムグレイン、完全に実用的な高予算効果、NO NEON、シネマティックなキアロスクーロ。",
+  "meta": {
+    "intent": "シネマティックシュールハイファッションポートレート",
+    "priorities": "歪んだ反射フレーミング、合成肌テクスチャ、実用的シュールレアリズム",
+    "device_profile": "アナログフィルムを模倣した中判デジタル"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "反射主体、水たまりの反射内に被写体を中央配置し、物理的な身体は背景でぼかす",
+    "layout": "フレーム下半分は鮮明な反射水たまりが支配し、上半分はぼやけた物理シーンを見せる",
+    "camera_angle": "床の反射を見るために 45 度の高角度俯瞰",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "年齢不詳、ポストヒューマンの完璧さ",
+    "face": "不気味なほど対称的、明確なマイクロポアを持つプラスチック化された光沢",
+    "hair": "滑らかで強くスタイリングされた、シアンリムライトを捉える合成のようなストランド",
+    "body": "彫像のような、硬直した姿勢",
+    "expression": "無表情、貫くような、反射を通じて視聴者を強く観察している",
+    "pose": "金属製 origami 構造の上に硬直して座り、水たまりを覗き込むためにわずかに前傾"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "テフロンコーティング合成シルク",
+        "color": "半透明な氷のような白",
+        "fit": "建築的で硬直"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "幾何学的イヤーカフ",
+        "color": "ポリッシュクローム",
+        "material": "サージカルスチール",
+        "brand_style": "アヴァンギャルドサイバーミニマリズム"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "暗くミニマルなブルータリズム航空宇宙テストチャンバー",
+    "surfaces": "割れたコンクリート、粘性のある金属流体、ブラッシュドアルミニウム origa"
+  }
+}
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="プロダクトマーケティング - Origami Dreams Cyber Mirror プロンプト - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="プロダクトマーケティング - Origami Dreams Cyber Mirror プロンプト - Image 2">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **ソース:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **公開日:** 2026年10月16日
+- **言語:** en
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: プロダクトマーケティング - フルアーマー メカガール コンセプトアート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4621,7 +4708,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 スケールプラスチックモデ
 
 ---
 
-### No. 84: プロダクトマーケティング - レッドカーペットファッション写真プロンプト
+### No. 85: プロダクトマーケティング - レッドカーペットファッション写真プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4664,7 +4751,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 スケールプラスチックモデ
 
 ---
 
-### No. 85: プロダクトマーケティング - 高級ファッションエディトリアル写真
+### No. 86: プロダクトマーケティング - 高級ファッションエディトリアル写真
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4701,7 +4788,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 スケールプラスチックモデ
 
 ---
 
-### No. 86: プロダクトマーケティング - シュールなキャンディドールキャラクタープロンプト
+### No. 87: プロダクトマーケティング - シュールなキャンディドールキャラクタープロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4734,7 +4821,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 スケールプラスチックモデ
 
 ---
 
-### No. 87: プロダクトマーケティング - 高級バスタブのファッションポートレート
+### No. 88: プロダクトマーケティング - 高級バスタブのファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4777,7 +4864,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 スケールプラスチックモデ
 
 ---
 
-### No. 88: プロダクトマーケティング - スポーツセダンとのラグジュアリー・ファッションエディトリアル
+### No. 89: プロダクトマーケティング - スポーツセダンとのラグジュアリー・ファッションエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4810,7 +4897,7 @@ Nano Banana Pro向けに最適化された、エレガントな女性とスポ�
 
 ---
 
-### No. 89: プロダクトマーケティング - 参考画像を用いたシネマティックな高級感あふれる夜のポートレート
+### No. 90: プロダクトマーケティング - 参考画像を用いたシネマティックな高級感あふれる夜のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4857,7 +4944,7 @@ Nano Banana Pro向けに最適化された、エレガントな女性とスポ�
 
 ---
 
-### No. 90: プロダクトマーケティング - チータス スナック広告 ポートレート
+### No. 91: プロダクトマーケティング - チータス スナック広告 ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4900,7 +4987,7 @@ Nano Banana Pro向けに最適化された、エレガントな女性とスポ�
 
 ---
 
-### No. 91: プロダクトマーケティング - ハイエンド ビューティー ポートレート（リファレンス付き）
+### No. 92: プロダクトマーケティング - ハイエンド ビューティー ポートレート（リファレンス付き）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4937,7 +5024,7 @@ Nano Banana Pro向けに最適化された、エレガントな女性とスポ�
 
 ---
 
-### No. 92: プロダクトマーケティング - Cheetos スナック広告ポートレート
+### No. 93: プロダクトマーケティング - Cheetos スナック広告ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4992,7 +5079,7 @@ Cheetos スナック広告のポートレート用プロンプト。フィッシ
 
 ---
 
-### No. 93: プロダクトマーケティング - 歴史的なホールでの高級ベリーダンサーのエディトリアル
+### No. 94: プロダクトマーケティング - 歴史的なホールでの高級ベリーダンサーのエディトリアル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5035,7 +5122,7 @@ Cheetos スナック広告のポートレート用プロンプト。フィッシ
 
 ---
 
-### No. 94: プロダクトマーケティング - コンバーチブルカーでのラグジュアリーファッションポートレート
+### No. 95: プロダクトマーケティング - コンバーチブルカーでのラグジュアリーファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5071,45 +5158,6 @@ Cheetos スナック広告のポートレート用プロンプト。フィッシ
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: プロダクトマーケティング - 高級ファッション・ポートレート：顔の同一性を保持
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 説明
-
-参照画像から顔の同一性を保ちながら、超写実的な高級ファッション・ポートレートを生成するための詳細なプロンプト。深紅のシルクガウンと特定のネガティブプロンプトを含みます。
-
-#### 📝 プロンプト
-
-```
-アップロードした画像をマスターのアイデンティティ参照として使用してください。同じ女性を作成し、顔と顔のアイデンティティを正確に維持します。顔の構造、目、眉、鼻、唇、顎のライン、頬骨、肌の色、プロポーション、自然な非対称性、認識可能な特徴を最大限の精度で保持してください。彼女の顔を再設計したり美化したりしないでください。
-
-彼女が彫刻的な深紅のシルクガウンを着用している、超写実的な高級ファッション・ポートレートを制作します。光沢のあるシルクは巨大で流れるようなドレープを形成し、優雅に身体を包み込み、波のように肩の後方で劇的に立ち上がり、印象的なオートクチュールのシルエットを生み出します。フィットしたギャザーウエスト、深いVネックライン、下方へ流れ落ちる赤い生地。長く緩やかなダークブラウンのウェーブヘア、エレガントな赤いリップ、控えめで洗練されたメイク、繊細なゴールドのイヤリングとネックレス。暖色系の方向性のあるスタジオライティング、リッチで深い赤色のテクスチャ背景、リアルなシルクの反射、自然な生地の物理挙動、洗練された高級エディトリアルキャンペーン、非常に詳細な肌質感、フォトリアルな8K。正面を向いた構図、ミディアムショット（膝上程度）、全身カットではありません。
-
-ネガティブプロンプト
-
-異なる顔、アイデンティティの漂移、顔の再設計、変更された顔の構造、異なる目、異なる鼻、異なる唇、異なる顎のライン、異なる頬骨、変化した肌の色、誇張された美しさ、プラスチックのような肌、過度に平滑化された肌、過剰なメイク、顔の歪み、非対称な目、歪んだ特徴、不自然な表情、余分な四肢、余分な指、変形した手、変形した身体、非現実的な解剖学、歪んだ生地、硬い生地、偽物のシルク、低解像度、ぼやけた顔、CGI風の外観、カートゥーン、イラストレーション、3Dレンダリング、過度なシャープニング、過度なレタッチ、ウォーターマーク、ロゴ、テキスト、切り取られた顔、横顔。
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="プロダクトマーケティング - 高級ファッション・ポートレート：顔の同一性を保持 - Image 1">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Elvorya](https://x.com/Elvorya)
-- **ソース:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **公開日:** 2026年10月3日
-- **言語:** en
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6299,7 +6347,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 <div align="center">
 
-### 🎯 15669 さらに多くのプロンプトがあります
+### 🎯 15670 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6362,6 +6410,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-10-16T08:03:28.767Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-10-17T08:02:56.647Z</sub>
 
 </div>

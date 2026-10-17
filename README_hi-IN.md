@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15789** |
+| 📝 कुल प्रॉम्पट्स | **15790** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 16 अक्टूबर 2026 को 8:03:51 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शनिवार, 17 अक्टूबर 2026 को 8:03:18 am UTC बजे** |
 
 </div>
 
@@ -4542,7 +4542,94 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 83: प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
+### No. 83: प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मेटेड प्रॉम्प्ट, जिसमें मेटालिक पuddle में प्रतिबिंबित Mackenzie Davis का एक अलौकिक संपादकीय फोटोग्राफ शामिल है।
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "vibe_title_en": "Broken Cyber Mirrors में प्रतिबिंबित Origami Dreams",
+  "master_prompt": "Hasselblad H6D-100c कैमरे से शूट किया गया एक हाइपर-रियलिस्टिक अलौकिक संपादकीय फोटोग्राफ, 80mm f/1.4 लेंस के साथ। कैमरा अंधेरे फर्श पर टूटे हुए, चिपचिपे मेटालिक puddle पर विशेष रूप से फोकस करता है। इस दरार वाले सतह के भीतर तीव्रता से प्रतिबिंबित The Protagonist को देखा जा सकता है, जो brushed aluminum से बने एक विशाल, भौतिक रूप से तैयार किए गए origami हवाई जहाज़ के ऊपर बैठा है। घना, cryogenic स्टूडियो fog संरचना के नीचे बादलों के समुद्र की नकल करता है। पृष्ठभूमि में वास्तविक विषय shallow depth of field के कारण भारी धुंधला है। प्रतिबिंबित Protagonist एक cyber-ethereal synthetic beauty प्रदर्शित करता है: असंभव रूप से सममित विशेषताएं, एक चुभने वाली गैर-मानवीय दृष्टि, और 'plasticized' त्वचा जो निकट से देखने पर भी प्रामाणिक micro-pores को प्रकट करती है। अंधेरे, न्यूनतमवादी brutalist कक्ष को तेज cyan और sharp white fluorescent rim lighting द्वारा रोशन किया जाता है, जो fog और metal plane के किनारों को पकड़ता है। Kodak Portra 800 पर शूट किया गया, भारी film grain, पूरी तरह से व्यावहारिक high-budget effects, NO NEON, cinematic chiaroscuro।",
+  "meta": {
+    "intent": "Cinematic surrealism high-fashion portrait",
+    "priorities": "Distorted reflection framing, synthetic skin texture, practical surrealism",
+    "device_profile": "Medium Format Digital mimicking Analog Film"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Reflection-dominant, subject centered within the puddle's reflection while physical body remains blurred in the background",
+    "layout": "Lower half of frame dominates with sharp reflective puddle, upper half shows blurred physical scene",
+    "camera_angle": "High angle looking down at a 45-degree angle into the floor reflection",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "Ageless, post-human perfection",
+    "face": "Uncannily symmetrical, plasticized sheen with distinct micro-pores",
+    "hair": "Sleek, heavily styled, synthetic-looking strands catching cyan rim light",
+    "body": "Statuesque, rigid posture",
+    "expression": "Blank, piercing, intensely observing the viewer through the reflection",
+    "pose": "Seated rigidly atop the metallic origami structure, leaning slightly forward to peer into the puddle"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "Teflon-coated synthetic silk",
+        "color": "Translucent icy white",
+        "fit": "Architectural and rigid"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Geometric ear cuffs",
+        "color": "Polished chrome",
+        "material": "Surgical steel",
+        "brand_style": "Avant-garde cyber minimalism"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Dark, minimalist brutalist aerospace testing chamber",
+    "surfaces": "Cracked concrete, viscous metallic fluid, brushed aluminum origa"
+  }
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट - Image 2">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **प्रकाशित:** 16 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4587,7 +4674,7 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 84: प्रोडक्ट मार्केटिंग - रेड कार्पेट फैशन फोटो प्रॉम्प्ट
+### No. 85: प्रोडक्ट मार्केटिंग - रेड कार्पेट फैशन फोटो प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4630,7 +4717,7 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 85: प्रोडक्ट मार्केटिंग - लक्ज़री फैशन एडिटोरियल फोटो
+### No. 86: प्रोडक्ट मार्केटिंग - लक्ज़री फैशन एडिटोरियल फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4667,7 +4754,7 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 86: प्रोडक्ट मार्केटिंग - सुरियल कैंडी डॉल कैरेक्टर प्रॉम्प्ट
+### No. 87: प्रोडक्ट मार्केटिंग - सुरियल कैंडी डॉल कैरेक्टर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4700,7 +4787,7 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 87: प्रोडक्ट मार्केटिंग - लक्जरी बाथटब फैशन पोर्ट्रेट
+### No. 88: प्रोडक्ट मार्केटिंग - लक्जरी बाथटब फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4743,7 +4830,7 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 88: प्रोडक्ट मार्केटिंग - स्पोर्ट्स सेडान के साथ लक्जरी फैशन एडिटोरियल
+### No. 89: प्रोडक्ट मार्केटिंग - स्पोर्ट्स सेडान के साथ लक्जरी फैशन एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4776,7 +4863,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 89: प्रोडक्ट मार्केटिंग - संदर्भ छवि के साथ सिनेमाई लक्जरी शाम का पोर्ट्रेट
+### No. 90: प्रोडक्ट मार्केटिंग - संदर्भ छवि के साथ सिनेमाई लक्जरी शाम का पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4823,7 +4910,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - Cheetos स्नैक विज्ञापन पोर्ट्रेट
+### No. 91: प्रोडक्ट मार्केटिंग - Cheetos स्नैक विज्ञापन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4866,7 +4953,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 91: प्रोडक्ट मार्केटिंग - रिफरेंस के साथ हाई-एंड ब्यूटी पोर्ट्रेट
+### No. 92: प्रोडक्ट मार्केटिंग - रिफरेंस के साथ हाई-एंड ब्यूटी पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4903,7 +4990,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 92: प्रोडक्ट मार्केटिंग - Cheetos स्नैक विज्ञापन पोर्ट्रेट
+### No. 93: प्रोडक्ट मार्केटिंग - Cheetos स्नैक विज्ञापन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4958,7 +5045,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 93: प्रोडक्ट मार्केटिंग - ऐतिहासिक हॉल में लक्जरी बेली डांसर एडिटोरियल
+### No. 94: प्रोडक्ट मार्केटिंग - ऐतिहासिक हॉल में लक्जरी बेली डांसर एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5001,7 +5088,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 94: प्रोडक्ट मार्केटिंग - कन्वर्टिबल कार में लक्ज़री फैशन पोर्ट्रेट
+### No. 95: प्रोडक्ट मार्केटिंग - कन्वर्टिबल कार में लक्ज़री फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5037,45 +5124,6 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: प्रोडक्ट मार्केटिंग - लक्जरी फैशन पोर्ट्रेट पहचान
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक संदर्भ छवि से चेहरे की पहचान को बनाए रखते हुए अल्ट्रा-फोटोरियलिस्टिक लक्जरी फैशन पोर्ट्रेट बनाने के लिए विस्तृत प्रॉम्प्ट, जिसमें क्रिमसन सिल्क गाउन और विशिष्ट नेगेटिव प्रॉम्प्ट शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-अपलोड की गई छवि को मास्टर पहचान संदर्भ के रूप में उपयोग करें। उसी महिला को समान चेहरे और चेहरे की पहचान के साथ बनाएं, उसके चेहरे की संरचना, आंखें, भौंहें, नाक, होंठ, जबड़े की रेखा, गाल की हड्डियाँ, त्वचा का रंग, अनुपात, प्राकृतिक असममितता और पहचानने योग्य विशेषताओं को अधिकतम सटीकता के साथ सुरक्षित रखें। उसके चेहरे को पुनः डिज़ाइन या सुंदर न बनाएं।
-
-उसके एक स्कुल्प्चुरल क्रिमसन-रेड सिल्क गाउन पहने हुए एक अल्ट्रा-फोटोरियलिस्टिक लक्जरी फैशन पोर्ट्रेट बनाएं। चमकदार सिल्क बड़े बहते हुए फोल्ड्स बनाता है जो उसके शरीर के चारों ओर सुंदरता से लिपट जाते हैं और उसके कंधों के पीछे लहरों की तरह नाटकीय रूप से ऊपर उठते हैं, एक आकर्षक कूतूर सिलुएट बनाते हैं। फिट गैदर्ड कमर, गहरा V नेकलाइन, नीचे की ओर बहता हुआ लाल कपड़ा। लंबे ढीले डार्क-ब्राउन लहरदार बाल, सुंदर लाल होंठ, सूक्ष्म परिष्कृत मेकअप, नाजुक सोने की झुमके और हार। गर्म दिशात्मक स्टूडियो लाइटिंग, समृद्ध गहरे लाल टेक्सचर्ड बैकग्राउंड, यथार्थवादी सिल्क रिफ्लेक्शन, प्राकृतिक कपड़े की भौतिकी, परिष्कृत लक्जरी एडिटोरियल कैंपेन, अत्यधिक विस्तृत त्वचा टेक्सचर, फोटोरियलिस्टिक 8K। सामने की ओर अभिविन्यास, मध्यम लंबाई का फ्रेमिंग, सिर से पैर तक नहीं।
-
-नेगेटिव प्रॉम्प्ट
-
-अलग चेहरा, पहचान विचलन, चेहरे का पुनः डिज़ाइन, बदली हुई चेहरे की संरचना, अलग आंखें, अलग नाक, अलग होंठ, अलग जबड़े की रेखा, अलग गाल की हड्डियाँ, बदला हुआ त्वचा का रंग, अतिशयोक्तिपूर्ण सुंदरता, प्लास्टिक त्वचा, अत्यधिक चिकनी त्वचा, अत्यधिक मेकअप, चेहरे का विकृति, असममित आंखें, विकृत विशेषताएं, अप्राकृतिक अभिव्यक्ति, अतिरिक्त अंग, अतिरिक्त उंगलियाँ, विकृत हाथ, विकृत शरीर, यथार्थवादी शारीरिक रचना, विकृत कपड़ा, कठोर कपड़ा, नकली सिल्क, कम विवरण, धुंधला चेहरा, CGI लुक, कार्टून, इलस्ट्रेशन, 3D रेंडर, अत्यधिक शार्पनिंग, अत्यधिक रीटचिंग, वॉटरमार्क, लोगो, टेक्स्ट, कटा हुआ चेहरा, साइड प्रोफाइल।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - लक्जरी फैशन पोर्ट्रेट पहचान - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Elvorya](https://x.com/Elvorya)
-- **स्रोत:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **प्रकाशित:** 3 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6265,7 +6313,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 <div align="center">
 
-### 🎯 15669 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15670 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6328,6 +6376,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-16T08:03:51.239Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-17T08:03:18.442Z</sub>
 
 </div>

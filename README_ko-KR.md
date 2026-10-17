@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15789** |
+| 📝 총 프롬프트 수 | **15790** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 10월 16일 금요일 AM 8시 3분 33초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 10월 17일 토요일 AM 8시 3분 2초 UTC** |
 
 </div>
 
@@ -4541,7 +4541,94 @@ Kodak 필름 에뮬레이션을 적용한 가족 저녁 식사 장면의 3x3 포
 
 ---
 
-### No. 83: 제품 마케팅 - 풀 아머 메카 걸 컨셉 아트
+### No. 83: 제품 마케팅 - Origami Dreams 사이버 미러 프롬프트
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 설명
+
+Nano Banana Pro를 위한 복잡한 JSON 형식 프롬프트로, 금속 웅덩이에 비친 매켄지 데이비스(Mackenzie Davis)의 초현실적 에디토리얼 사진을 묘사합니다.
+
+#### 📝 프롬프트
+
+```
+{
+  "vibe_title_en": "Broken Cyber Mirrors에 비친 Origami Dreams",
+  "master_prompt": "Hasselblad H6D-100c, 80mm f/1.4 렌즈로 촬영한 초현실주의 하이퍼 리얼리스틱 에디토리얼 사진. 카메라는 어두운 바닥의 깨지고 점성이 있는 금속 웅덩이에만 초점을 맞춥니다. 이 갈라진 표면에 선명하게 반영된 것은 브러시드 알루미늄으로 만들어진 거대한 물리적 오리가미 비행기 위에 앉아 있는 주인공(The Protagonist)입니다. 밀도 높은 극저온 스튜디오 안개가 구조물 아래 구름 바다를 모방합니다. 배경의 실제 피사체는 얕은 심도로 인해 크게 흐려져 있습니다. 반영된 주인공은 사이버 에테레아(Cyber-Ethereal) 합성 미를 보여줍니다: 불가능할 정도로 대칭적인 얼굴 특징, 날카롭고 인간이 아닌 시선, 그리고 가까이서 보면 진짜 미세 모공까지 드러나는 '플라스틱화' 된 피부. 어둡고 미니멀한 브루탈리스트(Brutalist) 공간은 차가운 시안(cyan)과 날카로운 백색 형광 림 라이트로 조명되어 안개와 금속 비행기의 가장자리를 강조합니다. Kodak Portra 800 필름으로 촬영했으며, 무거운 필름 그레인, 완전한 실물 기반 고예산 특수 효과 사용, NO NEON(네온 금지), 시네마틱 키아로스쿠로(chiaroscuro) 스타일.",
+  "meta": {
+    "intent": "시네마틱 초현실주의 하이 패션 포트레이트",
+    "priorities": "왜곡된 반사 프레임 구성, 합성 피부 질감, 실물 기반 초현실주의",
+    "device_profile": "아날로그 필름을 모방하는 중형 디지털 카메라"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "반영 중심 구도, 웅덩이 반사 속에 피사체를 중앙 배치하고 실제 신체는 배경에서 흐릿하게 처리",
+    "layout": "프레임 하단 절반은 선명한 반사 웅덩이가 지배하며, 상단 절반은 흐릿한 실제 장면을 보여줌",
+    "camera_angle": "바닥 반사를 향해 45도 위에서 내려다보는 하이 앵글",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "나이 불명, 포스트 휴먼(Post-human) 완성체",
+    "face": "불쾌할 정도로 대칭적이며, 뚜렷한 미세 모공이 있는 플라스틱 광택",
+    "hair": "매끄럽고 강하게 스타일링된, 시안 림 라이트를 받는 합성 느낌의 머리카락",
+    "body": "조각상 같은, 경직된 자세",
+    "expression": "무표정, 날카로우며, 반사를 통해 시청자를 강렬하게 응시함",
+    "pose": "금속 오리가미 구조물 위에 단단히 앉아, 웅덩이를 들여다보기 위해 약간 앞으로 기울임"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "테플론 코팅 합성 실크",
+        "color": "반투명한 얼음 같은 흰색",
+        "fit": "건축적이고 경직된 핏"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Geometric ear cuffs",
+        "color": "폴리시드 크롬(Polished Chrome)",
+        "material": "수술용 강철(Surgical Steel)",
+        "brand_style": "아방가르드 사이버 미니멀리즘"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "어둡고 미니멀한 브루탈리스트 우주항공 테스트 챔버",
+    "surfaces": "갈라진 콘크리트, 점성 있는 금속 유체, 브러시드 알루미늄 오리가미"
+  }
+}
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="제품 마케팅 - Origami Dreams 사이버 미러 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="제품 마케팅 - Origami Dreams 사이버 미러 프롬프트 - Image 2">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **출처:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **게시일:** 2026년 10월 16일
+- **언어:** en
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: 제품 마케팅 - 풀 아머 메카 걸 컨셉 아트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4586,7 +4673,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 스케일 프라모델, 슬림한 �
 
 ---
 
-### No. 84: 제품 마케팅 - 레드 카펫 패션 사진 프롬프트
+### No. 85: 제품 마케팅 - 레드 카펫 패션 사진 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4629,7 +4716,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 스케일 프라모델, 슬림한 �
 
 ---
 
-### No. 85: 제품 마케팅 - 럭셔리 패션 에디토리얼 사진
+### No. 86: 제품 마케팅 - 럭셔리 패션 에디토리얼 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4666,7 +4753,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 스케일 프라모델, 슬림한 �
 
 ---
 
-### No. 86: 제품 마케팅 - 초현실적인 캔디 인형 캐릭터 프롬프트
+### No. 87: 제품 마케팅 - 초현실적인 캔디 인형 캐릭터 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4699,7 +4786,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 스케일 프라모델, 슬림한 �
 
 ---
 
-### No. 87: 제품 마케팅 - 럭셔리 욕조 패션 포트레이트
+### No. 88: 제품 마케팅 - 럭셔리 욕조 패션 포트레이트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4742,7 +4829,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith 1/7 스케일 프라모델, 슬림한 �
 
 ---
 
-### No. 88: 제품 마케팅 - 럭셔리 패션 에디토리얼: 스포츠 세단과 함께
+### No. 89: 제품 마케팅 - 럭셔리 패션 에디토리얼: 스포츠 세단과 함께
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4775,7 +4862,7 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 
 ---
 
-### No. 89: 제품 마케팅 - 참조 이미지를 활용한 시네마틱 럭셔리 이브닝 초상화
+### No. 90: 제품 마케팅 - 참조 이미지를 활용한 시네마틱 럭셔리 이브닝 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4822,7 +4909,7 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 
 ---
 
-### No. 90: 제품 마케팅 - Cheetos 스낵 광고 인물 사진
+### No. 91: 제품 마케팅 - Cheetos 스낵 광고 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4865,7 +4952,7 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 
 ---
 
-### No. 91: 제품 마케팅 - 참고 이미지 기반 하이엔드 뷰티 초상화
+### No. 92: 제품 마케팅 - 참고 이미지 기반 하이엔드 뷰티 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4902,7 +4989,7 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 
 ---
 
-### No. 92: 제품 마케팅 - Cheetos 스낵 광고 초상화
+### No. 93: 제품 마케팅 - Cheetos 스낵 광고 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4957,7 +5044,7 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 
 ---
 
-### No. 93: 제품 마케팅 - 역사적인 홀에서의 럭셔리 벨리댄서 에디토리얼
+### No. 94: 제품 마케팅 - 역사적인 홀에서의 럭셔리 벨리댄서 에디토리얼
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5000,7 +5087,7 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 
 ---
 
-### No. 94: 제품 마케팅 - 컨버터블 차량 속 럭셔리 패션 인물 사진
+### No. 95: 제품 마케팅 - 컨버터블 차량 속 럭셔리 패션 인물 사진
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5036,45 +5123,6 @@ Nano Banana Pro에 최적화된, 우아한 여성과 스포츠 카를 포함한 
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: 제품 마케팅 - 럭셔리 패션 초상화 아이덴티티
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 설명
-
-참조 이미지에서 얼굴 아이덴티티를 보존하며 크림슨 실크 가운과 특정 네거티브 프롬프트를 포함한 초실사 럭셔리 패션 초상화를 생성하기 위한 상세 프롬프트입니다.
-
-#### 📝 프롬프트
-
-```
-업로드한 이미지를 마스터 아이덴티티 참조로 사용하세요. 동일한 여성을 정확히 같은 얼굴과 facial identity 로 재현하되, 그녀의 facial structure, 눈, 눈썹, 코, 입술, 턱선, 광대뼈, 피부 톤, 비율, 자연스러운 비대칭성 및 인식 가능한 특징들을 최대 정확도로 보존하세요. 그녀의 얼굴을 재설계하거나 미화하지 마세요.
-
-그녀가 조각적인 크림슨 레드 실크 가운을 입고 있는 ultra-photorealistic luxury fashion portrait 을 제작하세요. 윤기 있는 실크는 거대한 흐르는 주름을 형성하여 우아하게 몸을 감싸고 어깨 뒤로 파도처럼 극적으로 솟구쳐 인상적인 couture silhouette 을 만듭니다. 피팅된 gathered waist, 깊은 V neckline, 아래로 흘러내리는 red fabric. 길고 느슨한 dark-brown wavy hair, 우아한 red lips, 절제된 정교한 makeup, 섬세한 gold earrings 와 necklace. 따뜻한 directional studio lighting, 풍부하고 깊은 red textured background, 사실적인 silk reflections, 자연스러운 fabric physics, 세련된 luxury editorial campaign, highly detailed skin texture, photorealistic 8K. Front-facing composition, medium-length framing, head-to-toe 아님.
-
-Negative Prompt
-
-다른 얼굴, identity drift, facial redesign, 변경된 facial structure, 다른 눈, 다른 코, 다른 입술, 다른 턱선, 다른 광대뼈, 변경된 skin tone, 과장된 beauty, plastic skin, 과도하게 매끄러운 skin, excessive makeup, face distortion, 비대칭 눈, 왜곡된 features, 부자연스러운 expression, extra limbs, extra fingers, malformed hands, deformed body, unrealistic anatomy, distorted fabric, stiff fabric, fake silk, low detail, blurry face, CGI look, cartoon, illustration, 3D render, oversharpening, excessive retouching, watermark, logo, text, cropped face, side profile.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="제품 마케팅 - 럭셔리 패션 초상화 아이덴티티 - Image 1">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Elvorya](https://x.com/Elvorya)
-- **출처:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **게시일:** 2026년 10월 3일
-- **언어:** en
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6264,7 +6312,7 @@ Nano Banana Pro를 위해 생성된 복잡한 JSON 형식의 프롬프트로, �
 
 <div align="center">
 
-### 🎯 15669 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15670 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6327,6 +6375,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-16T08:03:33.842Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-17T08:03:02.169Z</sub>
 
 </div>

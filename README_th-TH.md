@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15789** |
+| 📝 คำสั่งทั้งหมด | **15790** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันศุกร์ที่ 16 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 40 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันเสาร์ที่ 17 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 07 วินาที UTC** |
 
 </div>
 
@@ -4543,7 +4543,94 @@ Prompt กำหนดสไตล์ภาพประกอบหนังส�
 
 ---
 
-### No. 83: การตลาดผลิตภัณฑ์ - คอนเซปต์อาร์ตสาวเมคาชุดเกราะเต็มรูปแบบ
+### No. 83: การตลาดผลิตภัณฑ์ - Origami Dreams Cyber Mirror Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 คำอธิบาย
+
+พรอมต์รูปแบบ JSON ที่ซับซ้อนสำหรับ Nano Banana Pro นำเสนอภาพถ่ายสไตล์บรรณาธิการเหนือจริงของ Mackenzie Davis สะท้อนในแอ่งน้ำโลหะ
+
+#### 📝 คำสั่ง
+
+```
+{
+  "vibe_title_en": "ความฝันแบบโอริกามิที่สะท้อนในกระจกไซเบอร์แตกหัก",
+  "master_prompt": "ภาพถ่ายสไตล์บรรณาธิการเหนือจริงสมจริงยิ่งยวด ถ่ายด้วยกล้อง Hasselblad H6D-100c เลนส์ 80mm f/1.4 กล้องโฟกัสเฉพาะบนแอ่งโลหะหนืดแตกร้าวบนพื้นมืด ภายในพื้นผิวที่ร้าวนี้สะท้อนภาพ The Protagonist อย่างคมชัด โดยนั่งอยู่บนเครื่องบินกระดาษโอริกามิขนาดมหึมาที่ประกอบขึ้นอย่างสมบูรณ์จากอะลูมิเนียมขัดเงา หมอกสตูดิโอหนาแน่นและเย็นจัดเลียนแบบทะเลเมฆใต้โครงสร้าง ตัวละครจริงในฉากหลังถูกเบลออย่างมากเนื่องจากความลึกของสนามที่ตื้น The Protagonist ที่ปรากฏในภาพสะท้อนมีความงามสังเคราะห์แบบไซเบอร์-อีเธเรียล: ใบหน้าสมมาตรจนเป็นไปไม่ได้ สายตาเฉียบแหลมที่ไม่ใช่มนุษย์ และผิวหนังที่ดูเหมือน 'พลาสติก' ซึ่งยังคงเผยให้เห็นรูขุมขนขนาดเล็กตามธรรมชาติเมื่อพิจารณาอย่างใกล้ชิด ห้องโถงสไตล์บรูทัลลิสต์มืดและเรียบง่ายส่องสว่างด้วยแสงขอบฟลูออเรสเซนต์สีฟ้าสดและสีขาวคมชัด จับขอบหมอกและเครื่องบินโลหะ ถ่ายด้วยฟิล์ม Kodak Portra 800 มีเม็ดฟิล์มหนาแน่น ใช้เอฟเฟกต์ระดับสูงที่ทำได้จริงทั้งหมด ไม่มีแสงนีออน แสงเงาแบบภาพยนตร์ (cinematic chiaroscuro)",
+  "meta": {
+    "intent": "ภาพพอร์ตเทรตแฟชั่นชั้นสูงแนวเหนือจริงแบบภาพยนตร์",
+    "priorities": "การจัดเฟรมผ่านภาพสะท้อนที่บิดเบี้ยว, เนื้อสัมผัสผิวหนังสังเคราะห์, ความเหนือจริงที่ใช้เทคนิคการถ่ายทำจริง",
+    "device_profile": "กล้องดิจิทัล Medium Format จำลองลักษณะของฟิล์ม Analog"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "เน้นภาพสะท้อนเป็นหลัก ตัวละครอยู่ตรงกลางภายในภาพสะท้อนของแอ่งน้ำ ขณะที่ร่างกายจริงเบลออยู่ในฉากหลัง",
+    "layout": "ครึ่งล่างของเฟรมโดดเด่นด้วยแอ่งน้ำสะท้อนที่คมชัด ครึ่งบนแสดงฉากจริงที่เบลอ",
+    "camera_angle": "มุมสูงมองลงไปที่ภาพสะท้อนบนพื้นในมุม 45 องศา",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "ไร้กาลเวลา สมบูรณ์แบบแบบโพสต์ฮิวแมน",
+    "face": "สมมาตรจนน่าประหลาด ผิวมันวาวเหมือนพลาสติกแต่มีรูขุมขนชัดเจน",
+    "hair": "เรียบลื่น จัดทรงหนัก ดูเหมือนเส้นใยสังเคราะห์ สะท้อนแสงขอบสีฟ้าสด",
+    "body": "ทรวดทรงเหมือนรูปปั้น ท่าทางแข็งเกร็ง",
+    "expression": "ใบหน้าว่างเปล่า แต่สายตาเฉียบแหลม จ้องมองผู้ชมอย่างเข้มข้นผ่านภาพสะท้อน",
+    "pose": "นั่งตัวแข็งเกร็งบนโครงสร้างโอริกามิโลหะ โน้มตัวไปข้างหน้าเล็กน้อยเพื่อมองลงไปในแอ่งน้ำ"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "ผ้าไหมสังเคราะห์เคลือบเทฟลอน",
+        "color": "สีขาวใสเหมือนน้ำแข็ง",
+        "fit": "ทรงสถาปัตยกรรม แข็งเกร็ง"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Geometric ear cuffs",
+        "color": "โครเมียมขัดเงา",
+        "material": "เหล็กกล้าทางการแพทย์",
+        "brand_style": "ไซเบอร์มินิมอลิสต์แบบอวานการ์ด"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "ห้องทดสอบการบินอวกาศสไตล์บรูทัลลิสต์ มืดและเรียบง่าย",
+    "surfaces": "คอนกรีตแตกร้าว ของเหลวโลหะหนืด อะลูมิเนียมขัดเงาสำหรับงานโอริกามิ"
+  }
+}
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Origami Dreams Cyber Mirror Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - Origami Dreams Cyber Mirror Prompt - Image 2">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **เผยแพร่เมื่อ:** 16 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: การตลาดผลิตภัณฑ์ - คอนเซปต์อาร์ตสาวเมคาชุดเกราะเต็มรูปแบบ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4588,7 +4675,7 @@ Full Armor Mecha Girl FAMG-001 Aurelith โมเดลพลาสติกข�
 
 ---
 
-### No. 84: การตลาดผลิตภัณฑ์ - พรอมต์ภาพถ่ายแฟชั่นพรมแดง
+### No. 85: การตลาดผลิตภัณฑ์ - พรอมต์ภาพถ่ายแฟชั่นพรมแดง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4631,7 +4718,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 85: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นระดับลักชัวรี่แบบเอ็ดิทอเรียล
+### No. 86: การตลาดผลิตภัณฑ์ - ภาพถ่ายแฟชั่นระดับลักชัวรี่แบบเอ็ดิทอเรียล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4668,7 +4755,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 86: การตลาดผลิตภัณฑ์ - พรอมต์ตัวละครตุ๊กตาแคนดี้เหนือจริง
+### No. 87: การตลาดผลิตภัณฑ์ - พรอมต์ตัวละครตุ๊กตาแคนดี้เหนือจริง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4701,7 +4788,7 @@ Negative prompt: การ์ตูน, CGI, เรนเดอร์ 3 มิ�
 
 ---
 
-### No. 87: การตลาดผลิตภัณฑ์ - ภาพแฟชั่นพอร์ตเทรตสุดหรูในอ่างอาบน้ำ
+### No. 88: การตลาดผลิตภัณฑ์ - ภาพแฟชั่นพอร์ตเทรตสุดหรูในอ่างอาบน้ำ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4744,7 +4831,7 @@ Negative prompt: ใบหน้าเปลี่ยน, เอกลักษ�
 
 ---
 
-### No. 88: การตลาดผลิตภัณฑ์ - แฟชั่น Editorial ระดับลักชัวรี่พร้อมรถสปอร์ตซีดาน
+### No. 89: การตลาดผลิตภัณฑ์ - แฟชั่น Editorial ระดับลักชัวรี่พร้อมรถสปอร์ตซีดาน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4777,7 +4864,7 @@ Negative prompt: ใบหน้าเปลี่ยน, เอกลักษ�
 
 ---
 
-### No. 89: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตยามค่ำสุดหรูสไตล์ภาพยนตร์พร้อมอ้างอิงจากภาพต้นฉบับ
+### No. 90: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตยามค่ำสุดหรูสไตล์ภาพยนตร์พร้อมอ้างอิงจากภาพต้นฉบับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4824,7 +4911,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 90: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตโฆษณาขนม Cheetos
+### No. 91: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตโฆษณาขนม Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4871,7 +4958,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 91: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตความงามระดับไฮเอนด์พร้อมอ้างอิง
+### No. 92: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตความงามระดับไฮเอนด์พร้อมอ้างอิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4908,7 +4995,7 @@ Negative prompt: identity change, face drift, different person, altered facial f
 
 ---
 
-### No. 92: การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos
+### No. 93: การตลาดผลิตภัณฑ์ - ภาพบุคคลโฆษณาขนม Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4967,7 +5054,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 93: การตลาดผลิตภัณฑ์ - ภาพบรรณาธิการแฟชั่นสุดหรูของนักเต้นระบำหน้าท้องในโถงประวัติศาสตร์
+### No. 94: การตลาดผลิตภัณฑ์ - ภาพบรรณาธิการแฟชั่นสุดหรูของนักเต้นระบำหน้าท้องในโถงประวัติศาสตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5010,7 +5097,7 @@ Prompt สำหรับภาพถ่ายสตูดิโอของค�
 
 ---
 
-### No. 94: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแฟชั่นหรูในรถเปิดประทุน
+### No. 95: การตลาดผลิตภัณฑ์ - ภาพพอร์ตเทรตแฟชั่นหรูในรถเปิดประทุน
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5046,45 +5133,6 @@ Negative prompt: CGI, 3D render, การ์ตูน, ภาพวาดปร
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: การตลาดผลิตภัณฑ์ - เอกลักษณ์ภาพพอร์ตเทรตแฟชั่นหรู
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมต์รายละเอียดสำหรับสร้างภาพพอร์ตเทรตแฟชั่นหรูสมจริงระดับอัลตรา ที่คงเอกลักษณ์ใบหน้าจากภาพอ้างอิง โดดเด่นด้วยชุดเดรสผ้าไหมสีแดงเบอร์กันดี และพรอมต์เชิงลบเฉพาะทาง
-
-#### 📝 คำสั่ง
-
-```
-ใช้ภาพที่อัปโหลดเป็นแหล่งอ้างอิงหลักสำหรับเอกลักษณ์ใบหน้า สร้างผู้หญิงคนเดิมที่มีใบหน้าและเอกลักษณ์ทางใบหน้าเหมือนกันทุกประการ โดยคงโครงสร้างใบหน้า ดวงตา คิ้ว จมูก ริมฝีปาก กราม โหนกแก้ม สีผิว สัดส่วน ความไม่สมมาตรตามธรรมชาติ และจุดเด่นที่จดจำได้ด้วยความแม่นยำสูงสุด ห้ามออกแบบหรือปรับแต่งใบหน้าของเธอให้ดูสวยงามเกินจริง
-
-สร้างภาพพอร์ตเทรตแฟชั่นหรูสมจริงระดับอัลตรา (Ultra-photorealistic) ของเธอในชุดเดรสผ้าไหมสีแดงเบอร์กันดีแบบประติมากรรม ผ้าไหมเงางามจับตัวเป็นรอยพับขนาดใหญ่ที่โอบล้อมร่างกายอย่างสง่างามและยกตัวขึ้นด้านหลังไหล่ราวกับคลื่น สร้างซิลูเอ็ตต์กูตูร์ที่โดดเด่น เอวเข้ารูปด้วยการจับจีบ คอปกลึกทรง V ตัวผ้าสีแดงไหลลื่นลงด้านล่าง ผมยาวสีน้ำตาลเข้มเป็นลอนหลวมๆ ริมฝีปากสีแดงสง่างาม การแต่งหน้าแบบบางเบาและประณีต ต่างหูและสร้อยคอทองคำละเอียดอ่อน แสงสตูดิโอแบบทิศทางให้ความอบอุ่น พื้นหลังสีแดงเข้มมีเท็กซ์เจอร์-rich การสะท้อนแสงของผ้าไหมที่เป็นจริง ฟิสิกส์ของเนื้อผ้าตามธรรมชาติ แคมเปญ Editorial หรูหรา sophisticated เนื้อหาผิวสมจริง รายละเอียดสูง Photorealistic 8K องค์ประกอบหันหน้าตรง กรอบภาพความยาวปานกลาง ไม่ใช่ภาพเต็มตัว从头到脚
-
-Negative Prompt
-
-Different face, identity drift, facial redesign, altered facial structure, different eyes, different nose, different lips, different jawline, different cheekbones, changed skin tone, exaggerated beauty, plastic skin, over-smoothed skin, excessive makeup, face distortion, asymmetrical eyes, warped features, unnatural expression, extra limbs, extra fingers, malformed hands, deformed body, unrealistic anatomy, distorted fabric, stiff fabric, fake silk, low detail, blurry face, CGI look, cartoon, illustration, 3D render, oversharpening, excessive retouching, watermark, logo, text, cropped face, side profile.
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="การตลาดผลิตภัณฑ์ - เอกลักษณ์ภาพพอร์ตเทรตแฟชั่นหรู - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Elvorya](https://x.com/Elvorya)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **เผยแพร่เมื่อ:** 3 ตุลาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6274,7 +6322,7 @@ Input A คือหัวข้อใดก็ได้ (วัตถุ, ส�
 
 <div align="center">
 
-### 🎯 15669 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15670 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6337,6 +6385,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-16T08:03:40.751Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-17T08:03:07.723Z</sub>
 
 </div>

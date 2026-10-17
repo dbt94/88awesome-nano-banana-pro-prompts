@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15789** |
+| 📝 Toplam İstem | **15790** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **16 Ekim 2026 Cuma 08:04:36 UTC** |
+| 🔄 Son Güncelleme | **17 Ekim 2026 Cumartesi 08:04:06 UTC** |
 
 </div>
 
@@ -4534,7 +4534,94 @@ Yoğun duygusal atmosfere sahip, gizemli ve fırtınalı bir deniz feneri sahnes
 
 ---
 
-### No. 83: Ürün Pazarlaması - Tam Zırh Mecha Kız Konsept Sanat
+### No. 83: Ürün Pazarlaması - Origami Dreams Cyber Ayna Prompt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Açıklama
+
+Mackenzie Davis'in metalik bir su birikintisinde yansıdığı, Nano Banana Pro için tasarlanmış, sürrealist editoryal fotoğraf içeren karmaşık JSON formatlı prompt.
+
+#### 📝 İstem
+
+```
+{
+  "vibe_title_en": "Kırık Siber Aynalarda Yansıyan Origami Rüyaları",
+  "master_prompt": "Hasselblad H6D-100c ve 80mm f/1.4 lens ile çekilmiş, hiper-realistik sürrealist editoryal fotoğraf. Kamera, karanlık zemindeki çatlak, viskoz metalik su birikintisine odaklanıyor. Bu kırık yüzeyde keskin bir şekilde yansıyan The Protagonist (Başrol), fırçalanmış alüminyumdan yapılmış devasa, fiziksel olarak kurulu bir origami uçağın üzerinde oturuyor. Yoğun, kriyojenik stüdyo sisi, yapının altındaki bulut denizini taklit ediyor. Arka plandaki gerçek özne, sığ alan derinliği nedeniyle yoğun şekilde bulanıklaştırılmıştır. Yansımadaki Başrol karakteri, siber-etereal sentetik bir güzellik sergiler: imkansız derecede simetrik özellikler, delici insani olmayan bakışlar ve yakın incelemede otantik mikro gözenekleri hala belli olan 'plastikleştirilmiş' cilt. Karanlık, minimalist brutalist oda, sert camgöbeği mavisi ve keskin beyaz floresan kenar ışığıyla aydınlatılmış; bu ışıklar sisin ve metal uçağın kenarlarını yakalıyor. Kodak Portra 800 ile çekilmiş, yoğun film grenli, tamamen pratik yüksek bütçeli efektler, NEON YOK, sinematik chiaroscuro.",
+  "meta": {
+    "intent": "Sinematik sürrealizm yüksek moda portresi",
+    "priorities": "Bozulmuş yansıma çerçevelemesi, sentetik cilt dokusu, pratik sürrealizm",
+    "device_profile": "Analog Film'i taklit eden Orta Format Dijital"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Yansıma baskın, özne su birikintisinin yansımasında ortalanırken, fiziksel beden arka planda bulanık kalıyor",
+    "layout": "Çerçevenin alt yarısı keskin yansıtıcı su birikintisiyle hakimiyet kurarken, üst yarısı bulanık fiziksel sahneyi gösteriyor",
+    "camera_angle": "Zemin yansımasına doğru 45 derecelik açıyla yukarıdan aşağıya bakan yüksek açı",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "Yaşsız, post-insan mükemmelliği",
+    "face": "Doğaüstü simetrik, belirgin mikro gözenekli plastikleştirilmiş parlaklık",
+    "hair": "Pürüzsüz, yoğun şekillendirilmiş, camgöbeği mavisi kenar ışığını yakalayan sentetik görünümlü tutamlar",
+    "body": "Heykelsi, katı duruş",
+    "expression": "Boş, delici, izleyiciyi yansıma aracılığıyla yoğun şekilde gözlemleyen",
+    "pose": "Metalik origami yapısının üzerinde katı bir şekilde oturuyor, su birikintisine bakmak için hafifçe öne eğiliyor"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "Teflon kaplı sentetik ipek",
+        "color": "Yarı saydam buz beyazı",
+        "fit": "Mimari ve katı"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Geometrik kulak manşetleri",
+        "color": "Parlak krom",
+        "material": "Cerrahi çelik",
+        "brand_style": "Avangart siber minimalizm"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Karanlık, minimalist brutalist havacılık test odası",
+    "surfaces": "Çatlak beton, viskoz metalik sıvı, fırçalanmış alüminyum origa"
+  }
+}
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Ürün Pazarlaması - Origami Dreams Cyber Ayna Prompt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Ürün Pazarlaması - Origami Dreams Cyber Ayna Prompt - Image 2">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Kaynak:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **Yayınlandı:** 16 Ekim 2026
+- **Diller:** en
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: Ürün Pazarlaması - Tam Zırh Mecha Kız Konsept Sanat
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4579,7 +4666,7 @@ Tam Zırh Mecha Kız FAMG-001 Aurelith 1/7 ölçekli plastik model, ince gövde 
 
 ---
 
-### No. 84: Ürün Pazarlaması - Kırmızı Halı Moda Fotoğrafı Promptu
+### No. 85: Ürün Pazarlaması - Kırmızı Halı Moda Fotoğrafı Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4622,7 +4709,7 @@ Negatif prompt: Karikatür, CGI, 3D render, plastik cilt, aşırı güzellik rö
 
 ---
 
-### No. 85: Ürün Pazarlaması - Lüks Moda Editoryal Fotoğraf
+### No. 86: Ürün Pazarlaması - Lüks Moda Editoryal Fotoğraf
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4659,7 +4746,7 @@ Modern lüks showroom/iç mimari ortam, koyu nötr tonlar, yumuşak dağınık s
 
 ---
 
-### No. 86: Ürün Pazarlaması - Sürreal Şeker Bebek Karakter Promptu
+### No. 87: Ürün Pazarlaması - Sürreal Şeker Bebek Karakter Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4692,7 +4779,7 @@ Yarı saydam şeker örgülerinden yapılmış, beş farklı baş (Asyalı kadı
 
 ---
 
-### No. 87: Ürün Pazarlaması - Lüks Küvet Moda Portresi
+### No. 88: Ürün Pazarlaması - Lüks Küvet Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4735,7 +4822,7 @@ Negatif istem: farklı yüz, kimlik kayması, değiştirilmiş yüz özellikleri
 
 ---
 
-### No. 88: Ürün Pazarlaması - Spor Sedan ile Lüks Moda Editoryali
+### No. 89: Ürün Pazarlaması - Spor Sedan ile Lüks Moda Editoryali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4768,7 +4855,7 @@ Zarif genç bir kadının, sofistike Avrupa tarzı bir şehir sokağında park e
 
 ---
 
-### No. 89: Ürün Pazarlaması - Referans Görüntü ile Sinematik Lüks Akşam Portresi
+### No. 90: Ürün Pazarlaması - Referans Görüntü ile Sinematik Lüks Akşam Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4815,7 +4902,7 @@ Negatif istem: Kimlik değişikliği, yüz kayması, farklı kişi, değiştiril
 
 ---
 
-### No. 90: Ürün Pazarlaması - Cheetos Atıştırmalık Reklam Portresi
+### No. 91: Ürün Pazarlaması - Cheetos Atıştırmalık Reklam Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4858,7 +4945,7 @@ Yumuşak sinematik aydınlatma, sulu parlaklıklar, hafif doygunluk artışı ve
 
 ---
 
-### No. 91: Ürün Pazarlaması - Referanslı Lüks Güzellik Portresi
+### No. 92: Ürün Pazarlaması - Referanslı Lüks Güzellik Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4895,7 +4982,7 @@ Sıcak altın-turuncu sinematik ışıklandırma, saç etrafında güçlü yumu�
 
 ---
 
-### No. 92: Ürün Pazarlaması - Cheetos Atıştırmalık Reklam Portresi
+### No. 93: Ürün Pazarlaması - Cheetos Atıştırmalık Reklam Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4950,7 +5037,7 @@ Yumuşak sinematik aydınlatma, sulu parlaklıklar, hafif doygunluk artışı ve
 
 ---
 
-### No. 93: Ürün Pazarlaması - Tarihi Salonda Lüks Oryantal Dansçı Editoryali
+### No. 94: Ürün Pazarlaması - Tarihi Salonda Lüks Oryantal Dansçı Editoryali
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4993,7 +5080,7 @@ Son görüntü, yerleşik bir moda fotoğrafçısının gerçek tarihi bir mekan
 
 ---
 
-### No. 94: Ürün Pazarlaması - Açılır Tavanlı Lüks Arabada Moda Portresi
+### No. 95: Ürün Pazarlaması - Açılır Tavanlı Lüks Arabada Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5029,45 +5116,6 @@ Negatif istem: CGI, 3D render, çizgi film, illüstrasyon, plastik cilt, bozuk y
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: Ürün Pazarlaması - Lüks Moda Portre Kimliği
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Açıklama
-
-Referans görüntüden yüz kimliğini koruyan, kadife kırmızısı ipek bir elbise ve spesifik negatif istemleri içeren ultra-gerçekçi lüks moda portresi için detaylı istem.
-
-#### 📝 İstem
-
-```
-Yüklenen görüntüyü ana kimlik referansı olarak kullanın. Aynı yüz ve yüz kimliğine sahip aynı kadını oluşturun; yüz yapısını, gözlerini, kaşlarını, burnunu, dudaklarını, çene hattını, elmacık kemiklerini, cilt tonunu, oranlarını, doğal asimetrisini ve tanınabilir özelliklerini maksimum doğrulukla koruyun. Yüzünü yeniden tasarlamayın veya güzelleştirmeyin.
-
-Üzerinde heykelsi, kadife kırmızısı ipek bir elbise bulunan ultra-gerçekçi bir lüks moda portresi oluşturun. Parlak ipek, vücudunun etrafında zarifçe sarılan ve omuzlarının arkasında dalgalar gibi dramatik bir şekilde yükselen devasa, akışkan kıvrımlar oluşturarak çarpıcı bir couture siluet yaratır. Oturan büzgü bel, derin V yaka, aşağıya doğru dökülen akan kırmızı kumaş. Uzun, gevşek koyu kahverengi dalgalı saçlar, zarif kırmızı dudaklar, ince ve rafine makyaj, narin altın küpeler ve kolye. Sıcak yönlendirilmiş stüdyo ışığı, zengin derin kırmızı dokulu arka plan, gerçekçi ipek yansımaları, doğal kumaş fiziği, sofistike lüks editoryal kampanya, son derece detaylı cilt dokusu, fotogerçekçi 8K. Öne bakan kompozisyon, orta uzunlukta çerçeveleme, baştan ayağa değil.
-
-Negatif İstem
-
-Farklı yüz, kimlik sapması, yüz yeniden tasarımı, değiştirilmiş yüz yapısı, farklı gözler, farklı burun, farklı dudaklar, farklı çene hattı, farklı elmacık kemikleri, değişmiş cilt tonu, abartılı güzellik, plastik cilt, aşırı pürüzsüzleştirilmiş cilt, aşırı makyaj, yüz bozulması, asimetrik gözler, eğrilmiş özellikler, doğa dışı ifade, ekstra uzuvlar, ekstra parmaklar, şekli bozuk eller, deforme vücut, gerçekçi olmayan anatomi, bozuk kumaş, sert kumaş, sahte ipek, düşük detay, bulanık yüz, CGI görünümü, karikatür, illüstrasyon, 3D render, aşırı keskinleştirme, aşırı rötuş, filigran, logo, metin, kesilmiş yüz, yan profil.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="Ürün Pazarlaması - Lüks Moda Portre Kimliği - Image 1">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Elvorya](https://x.com/Elvorya)
-- **Kaynak:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **Yayınlandı:** 3 Ekim 2026
-- **Diller:** en
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6257,7 +6305,7 @@ Manga ve anime serilerini fiziksel kil ve reçine diorama model kitleri olarak g
 
 <div align="center">
 
-### 🎯 15669 burada gösterilmeyen daha fazla istem
+### 🎯 15670 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6320,6 +6368,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-16T08:04:36.512Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-17T08:04:06.606Z</sub>
 
 </div>

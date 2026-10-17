@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **15789** |
+| 📝 Total de prompts | **15790** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **sexta-feira, 16 de outubro de 2026 às 08:04:25 UTC** |
+| 🔄 Última atualização | **sábado, 17 de outubro de 2026 às 08:03:54 UTC** |
 
 </div>
 
@@ -4539,7 +4539,94 @@ Um prompt cinematográfico detalhado para uma cena misteriosa de um farol castig
 
 ---
 
-### No. 83: Marketing de Produto - Arte Conceitual de Mecha Girl com Armadura Completa
+### No. 83: Marketing de Produto - Prompt de Espelho Cibernético: Sonhos de Origami
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 Descrição
+
+Um prompt complexo em formato JSON para o Nano Banana Pro, apresentando uma fotografia editorial surrealista de Mackenzie Davis refletida em uma poça metálica.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Sonhos de Origami Refletidos em Espelhos Cibernéticos Quebrados",
+  "master_prompt": "Uma fotografia editorial hiper-realista e surrealista, capturada com Hasselblad H6D-100c, lente 80mm f/1.4. A câmera foca exclusivamente em uma poça metálica fraturada e viscosa no chão escuro. Refletido nitidamente nesta superfície rachada está O Protagonista, sentado sobre um enorme avião de origami fisicamente construído a partir de alumínio escovado. Uma névoa densa e criogênica de estúdio imita um mar de nuvens abaixo da estrutura. O sujeito real ao fundo é fortemente desfocado pela profundidade de campo rasa. O Protagonista refletido exibe uma beleza sintética cibernética e etérea: características impossivelmente simétricas, um olhar penetrante não-humano e pele 'plastificada' que ainda revela microporos autênticos sob inspeção minuciosa. A câmara brutalista escura e minimalista é iluminada por luzes fluorescentes de contorno (rim light) em ciano intenso e branco afiado, capturando as bordas da névoa e do avião de metal. Capturado em Kodak Portra 800, com grão de filme pesado, efeitos práticos de alto orçamento, SEM NEON, chiaroscuro cinematográfico.",
+  "meta": {
+    "intent": "Retrato de alta moda surrealista cinematográfico",
+    "priorities": "Enquadramento de reflexão distorcida, textura de pele sintética, surrealismo prático",
+    "device_profile": "Digital de Médio Formato imitando Filme Analógico"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "Dominância de reflexão, sujeito centralizado dentro da reflexão da poça enquanto o corpo físico permanece desfocado ao fundo",
+    "layout": "A metade inferior do quadro domina com a poça reflexiva nítida, a metade superior mostra a cena física desfocada",
+    "camera_angle": "Ângulo elevado olhando para baixo em um ângulo de 45 graus na reflexão do chão",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "Perfeição pós-humana, sem idade definida",
+    "face": "Inquietantemente simétrica, brilho plastificado com microporos distintos",
+    "hair": "Elegante, pesadamente estilizado, fios de aparência sintética capturando a luz de contorno ciano",
+    "body": "Estatuesco, postura rígida",
+    "expression": "Em branco, penetrante, observando intensamente o espectador através da reflexão",
+    "pose": "Sentado rigidamente sobre a estrutura de origami metálico, inclinando-se ligeiramente para frente para espiar a poça"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "Seda sintética revestida com Teflon",
+        "color": "Branco translúcido gelado",
+        "fit": "Arquitetural e rígido"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Brincos geométricos tipo ear cuff",
+        "color": "Cromo polido",
+        "material": "Aço cirúrgico",
+        "brand_style": "Minimalismo cibernético avant-garde"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Câmara de teste aeroespacial brutalista escura e minimalista",
+    "surfaces": "Concreto rachado, fluido metálico viscoso, origami de alumínio escovado"
+  }
+}
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="Marketing de Produto - Prompt de Espelho Cibernético: Sonhos de Origami - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="Marketing de Produto - Prompt de Espelho Cibernético: Sonhos de Origami - Image 2">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Fonte:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **Publicado:** 16 de outubro de 2026
+- **Idiomas:** en
+
+**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: Marketing de Produto - Arte Conceitual de Mecha Girl com Armadura Completa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4584,7 +4671,7 @@ Mecha Girl Full Armor FAMG-001 Aurelith modelo plástico em escala 1/7, torso es
 
 ---
 
-### No. 84: Marketing de Produto - Prompt de Fotografia de Moda em Tapete Vermelho
+### No. 85: Marketing de Produto - Prompt de Fotografia de Moda em Tapete Vermelho
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4627,7 +4714,7 @@ Prompt negativo: cartoon, CGI, renderização 3D, pele plástica, retoque excess
 
 ---
 
-### No. 85: Marketing de Produto - Foto Editorial de Moda de Luxo
+### No. 86: Marketing de Produto - Foto Editorial de Moda de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4664,7 +4751,7 @@ Ambiente moderno de showroom de luxo/arquitetura interna, tons neutros escuros, 
 
 ---
 
-### No. 86: Marketing de Produto - Prompt de Personagem Surrealista: Boneca de Doce
+### No. 87: Marketing de Produto - Prompt de Personagem Surrealista: Boneca de Doce
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4697,7 +4784,7 @@ Uma boneca surrealista com 5 cabeças, 10 orelhas, 2 braços e 2 pernas, sentada
 
 ---
 
-### No. 87: Marketing de Produto - Retrato de Moda em Banheira de Luxo
+### No. 88: Marketing de Produto - Retrato de Moda em Banheira de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4740,7 +4827,7 @@ Prompt negativo: rosto diferente, desvio de identidade, traços faciais alterado
 
 ---
 
-### No. 88: Marketing de Produto - Editorial de Moda de Luxo com Sedan Esportivo
+### No. 89: Marketing de Produto - Editorial de Moda de Luxo com Sedan Esportivo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4773,7 +4860,7 @@ Crie um editorial de moda de luxo fotorrealista mostrando uma jovem elegante pos
 
 ---
 
-### No. 89: Marketing de Produto - Retrato Noturno Cinematográfico de Luxo com Imagem de Referência
+### No. 90: Marketing de Produto - Retrato Noturno Cinematográfico de Luxo com Imagem de Referência
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4820,7 +4907,7 @@ Prompt negativo: mudança de identidade, deriva facial, pessoa diferente, traço
 
 ---
 
-### No. 90: Marketing de Produto - Retrato de Anúncio de Lanche Cheetos
+### No. 91: Marketing de Produto - Retrato de Anúncio de Lanche Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4863,7 +4950,7 @@ Sorriso expressivo, estética comercial urbana divertida.
 
 ---
 
-### No. 91: Marketing de Produto - Retrato de Beleza Sofisticado com Referência
+### No. 92: Marketing de Produto - Retrato de Beleza Sofisticado com Referência
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4900,7 +4987,7 @@ Iluminação cinematográfica quente em tons de dourado-laranja, forte luz de co
 
 ---
 
-### No. 92: Marketing de Produto - Retrato Publicitário de Lanche Cheetos
+### No. 93: Marketing de Produto - Retrato Publicitário de Lanche Cheetos
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4955,7 +5042,7 @@ Sorriso expressivo, estética comercial urbana e divertida.
 
 ---
 
-### No. 93: Marketing de Produto - Editorial de Dança do Ventre Luxuosa em Salão Histórico
+### No. 94: Marketing de Produto - Editorial de Dança do Ventre Luxuosa em Salão Histórico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4998,7 +5085,7 @@ A imagem final deve parecer que um fotógrafo de moda estabelecido documentou um
 
 ---
 
-### No. 94: Marketing de Produto - Retrato de Moda Luxuosa em Carro Conversível
+### No. 95: Marketing de Produto - Retrato de Moda Luxuosa em Carro Conversível
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5034,45 +5121,6 @@ Prompt negativo: CGI, renderização 3D, desenho animado, ilustração, pele pl�
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: Marketing de Produto - Identidade de Retrato de Moda de Luxo
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descrição
-
-Prompt detalhado para criar um retrato de moda de luxo ultrafotorrealista que preserva a identidade facial a partir de uma imagem de referência, destacando um vestido de seda carmesim e prompts negativos específicos.
-
-#### 📝 Prompt
-
-```
-Use a imagem enviada como referência principal de identidade. Crie a mesma mulher com exatamente o mesmo rosto e identidade facial, preservando sua estrutura facial, olhos, sobrancelhas, nariz, lábios, mandíbula, maçãs do rosto, tom de pele, proporções, assimetria natural e traços reconhecíveis com máxima precisão. Não redesenhe nem embeleze seu rosto.
-
-Crie um retrato de moda de luxo ultrafotorrealista dela vestindo um vestido escultural de seda vermelha-carmesim. A seda brilhante forma grandes pregas fluidas que envolvem elegantemente seu corpo e se elevam dramaticamente atrás dos ombros como ondas, criando uma silhueta couture marcante. Cintura ajustada com franzidos, decote profundo em V, tecido vermelho fluido caindo em cascata. Cabelos longos, soltos, castanho-escuros e ondulados, lábios vermelhos elegantes, maquiagem sutil e refinada, brincos e colar delicados de ouro. Iluminação de estúdio direcional quente, fundo texturizado vermelho-escuro rico, reflexos realistas da seda, física natural do tecido, campanha editorial sofisticada de luxo, textura de pele altamente detalhada, fotorrealismo 8K. Composição frontal, enquadramento de comprimento médio, não de cabeça aos pés.
-
-Prompt Negativo
-
-Rosto diferente, desvio de identidade, redesenho facial, estrutura facial alterada, olhos diferentes, nariz diferente, lábios diferentes, mandíbula diferente, maçãs do rosto diferentes, tom de pele alterado, beleza exagerada, pele plástica, pele excessivamente suavizada, maquiagem excessiva, distorção facial, olhos assimétricos, traços deformados, expressão antinatural, membros extras, dedos extras, mãos malformadas, corpo deformado, anatomia irreal, tecido distorcido, tecido rígido, seda falsa, baixa qualidade, rosto borrado, aparência CGI, desenho animado, ilustração, renderização 3D, superagudização excessiva, retoque excessivo, marca d'água, logotipo, texto, rosto cortado, perfil lateral.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="Marketing de Produto - Identidade de Retrato de Moda de Luxo - Image 1">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Elvorya](https://x.com/Elvorya)
-- **Fonte:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **Publicado:** 3 de outubro de 2026
-- **Idiomas:** en
-
-**[👉 Experimente agora →](https://youmind.com/pt-BR/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6262,7 +6310,7 @@ Um prompt exclusivo para visualizar franquias de mangá e anime como kits de mod
 
 <div align="center">
 
-### 🎯 15669 mais prompts não mostrados aqui
+### 🎯 15670 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6325,6 +6373,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-16T08:04:25.935Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-17T08:03:54.454Z</sub>
 
 </div>

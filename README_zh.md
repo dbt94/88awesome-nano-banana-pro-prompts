@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15789** |
+| 📝 提示词总数 | **15790** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年10月16日星期五 UTC 08:03:18** |
+| 🔄 最后更新 | **2026年10月17日星期六 UTC 08:02:44** |
 
 </div>
 
@@ -4548,7 +4548,94 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 83: 产品营销 - 全装甲机甲少女概念艺术
+### No. 83: 产品营销 - 折纸梦境赛博镜面提示词
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 描述
+
+一个用于 Nano Banana Pro 的复杂 JSON 格式提示词，描绘了 Mackenzie Davis 在金属水洼中的超现实编辑摄影作品。
+
+#### 📝 提示词
+
+```
+{
+  "vibe_title_en": "破碎赛博镜中映射的折纸梦境",
+  "master_prompt": "一张使用 Hasselblad H6D-100c 相机和 80mm f/1.4 镜头拍摄的超写实超现实编辑摄影作品。镜头完全聚焦于黑暗地面上一个破裂且粘稠的金属水洼。在这个开裂的表面中，清晰地反射出主角（The Protagonist），她坐在一架由拉丝铝制成的巨大、物理结构完整的折纸飞机上。浓密的低温影棚雾气模拟了结构下方的云海。背景中的实际主体因浅景深而严重模糊。反射出的主角展现出一种赛博空灵的合成美感：不可能对称的五官、穿透性的非人类凝视，以及‘塑料化’的皮肤，但在近距离观察下仍显示出真实的微毛孔。黑暗、极简主义的粗野主义房间被强烈的青色和锐利的白色荧光轮廓光照亮，捕捉到雾气和金属飞机的边缘。使用 Kodak Portra 800 胶片拍摄，具有厚重的胶片颗粒感，完全采用高预算的实际特效，无霓虹灯效果，电影级明暗对比风格。",
+  "meta": {
+    "intent": "电影级超现实高级时尚肖像",
+    "priorities": "扭曲的反射构图、合成皮肤纹理、实际超现实主义",
+    "device_profile": "模仿模拟胶片的中画幅数码"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "以反射为主导，主体位于水洼反射的中心，而物理身体在背景中保持模糊",
+    "layout": "画面下半部分由清晰的反射水洼主导，上半部分展示模糊的物理场景",
+    "camera_angle": "高角度俯视，以 45 度角看向地面反射",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "{argument name=\"Gender\" default=\"Female\"}",
+    "identity": "{argument name=\"Identity\" default=\"The Cyber-Ethereal Protagonist\"}",
+    "demographics": "无年龄界限的后人类完美形态",
+    "face": "异常对称，带有明显微毛孔的塑料光泽",
+    "hair": "光滑、精心造型、看似合成的发丝，捕捉青色轮廓光",
+    "body": "雕像般的身材，僵硬的姿态",
+    "expression": "空白、穿透性，通过反射强烈地注视着观众",
+    "pose": "僵硬地坐在金属折纸结构顶部，身体略微前倾以窥视水洼"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "{argument name=\"Garment Item\" default=\"Structured shift dress\"}",
+        "material": "特氟龙涂层合成丝绸",
+        "color": "半透明冰白色",
+        "fit": "建筑感且僵硬"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "几何耳夹",
+        "color": "抛光铬色",
+        "material": "手术钢",
+        "brand_style": "前卫赛博极简主义"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "黑暗、极简主义的粗野主义航空航天测试室",
+    "surfaces": "开裂混凝土、粘稠金属流体、拉丝铝折纸"
+  }
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218452360_7tg65h_HUwXYQ3WcAAV4lP.jpg" width="600" alt="产品营销 - 折纸梦境赛博镜面提示词 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792218453842_gashx7_HUwXYPNXUAAhdgz.jpg" width="600" alt="产品营销 - 折纸梦境赛博镜面提示词 - Image 2">
+</div>
+
+#### 📌 详情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2111088034363900089)
+- **发布时间:** 2026年10月16日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36535)**
+
+---
+
+### No. 84: 产品营销 - 全装甲机甲少女概念艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4593,7 +4680,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 84: 产品营销 - 红毯时尚摄影提示词
+### No. 85: 产品营销 - 红毯时尚摄影提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4636,7 +4723,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 85: 产品营销 - 奢华时尚编辑摄影照片
+### No. 86: 产品营销 - 奢华时尚编辑摄影照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4673,7 +4760,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 86: 产品营销 - 超现实糖果娃娃角色提示词
+### No. 87: 产品营销 - 超现实糖果娃娃角色提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4706,7 +4793,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 87: 产品营销 - 奢华浴缸时尚人像
+### No. 88: 产品营销 - 奢华浴缸时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4749,7 +4836,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 88: 产品营销 - 豪华时尚大片：运动轿车篇
+### No. 89: 产品营销 - 豪华时尚大片：运动轿车篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4782,7 +4869,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 89: 产品营销 - 基于参考图的电影感奢华夜景人像
+### No. 90: 产品营销 - 基于参考图的电影感奢华夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4829,7 +4916,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 90: 产品营销 - Cheetos 零食广告人像
+### No. 91: 产品营销 - Cheetos 零食广告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4872,7 +4959,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 91: 产品营销 - 高端美容人像（带参考图）
+### No. 92: 产品营销 - 高端美容人像（带参考图）
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4909,7 +4996,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 92: 产品营销 - 奇多零食广告人像
+### No. 93: 产品营销 - 奇多零食广告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4964,7 +5051,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 93: 产品营销 - 历史大厅中的奢华肚皮舞者编辑照
+### No. 94: 产品营销 - 历史大厅中的奢华肚皮舞者编辑照
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5007,7 +5094,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 ---
 
-### No. 94: 产品营销 - 敞篷车中的奢华时尚人像
+### No. 95: 产品营销 - 敞篷车中的奢华时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5043,45 +5130,6 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35922)**
-
----
-
-### No. 95: 产品营销 - 奢华时尚人像身份保留
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用于创建超写实奢华时尚人像的详细提示词，该提示词旨在从参考图像中保留面部身份特征，包含深红色丝绸礼服及特定的负面提示词。
-
-#### 📝 提示词
-
-```
-使用上传的图像作为主要身份参考。创建同一位女性，保持完全相同的面部和面部身份，精确保留她的面部结构、眼睛、眉毛、鼻子、嘴唇、下颌线、颧骨、肤色、比例、自然不对称性以及可识别的特征，确保最大程度的准确性。不要重新设计或美化她的面部。
-
-创作一幅超写实的奢华时尚人像，她身穿一件雕塑感的深红色丝绸礼服。光泽的丝绸形成巨大的流动褶皱，优雅地环绕着她的身体，并在肩后如波浪般戏剧性地升起，营造出引人注目的定制时装轮廓。收腰设计带有褶皱细节，深 V 领口，流动的红色面料向下倾泻。长而松散的深棕色波浪发，优雅的红色唇妆，精致淡雅的妆容，搭配精致的金色耳环和项链。温暖的定向影棚灯光，丰富深邃的红色纹理背景，逼真的丝绸反光，自然的织物物理特性，高端奢华的编辑风格广告大片，高度详细的皮肤纹理，8K 照片级真实感。正面构图，中景取景，非全身照。
-
-负面提示词
-
-不同的面孔，身份漂移，面部重新设计，改变的面部结构，不同的眼睛，不同的鼻子，不同的嘴唇，不同的下颌线，不同的颧骨，改变的肤色，夸张的美感，塑料皮肤，过度平滑的皮肤，过度的妆容，面部扭曲，不对称的眼睛，变形的特征，不自然的表情，多余的肢体，多余的手指，畸形的手，变形的身体，不真实的解剖结构，扭曲的织物，僵硬的织物，假丝绸，低细节，模糊的脸，CGI 外观，卡通，插画，3D 渲染，过度锐化，过度修图，水印，标志，文字，裁剪的脸，侧脸。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182790056_9gl44y_HTtdvqCa0AAtuzb.jpg" width="600" alt="产品营销 - 奢华时尚人像身份保留 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Elvorya](https://x.com/Elvorya)
-- **来源:** [Twitter Post](https://x.com/Elvorya/status/2106380334623600930)
-- **发布时间:** 2026年10月3日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35923)**
 
 ---
 
@@ -6271,7 +6319,7 @@ Mini Cooper 内部细节渲染得极其逼真（仪表盘、方向盘、座椅�
 
 <div align="center">
 
-### 🎯 15669 更多提示词未在此显示
+### 🎯 15670 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6334,6 +6382,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-16T08:03:18.027Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-17T08:02:44.932Z</sub>
 
 </div>
