@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | Métrica | Cantidad |
 |--------|-------|
-| 📝 Total de prompts | **15793** |
+| 📝 Total de prompts | **15795** |
 | ⭐ Destacado | **9** |
-| 🔄 Última actualización | **lunes, 19 de octubre de 2026, 8:08:37 a.m. UTC** |
+| 🔄 Última actualización | **martes, 20 de octubre de 2026, 8:03:55 a.m. UTC** |
 
 </div>
 
@@ -1550,7 +1550,52 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Publicación en redes sociales - Editorial de moda urbana nocturna de alta costura
+### No. 21: Publicación en redes sociales - Prompt para Póster de Ilustración Dibujada a Mano a partir de Foto
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descripción
+
+Un prompt que describe un diseño de póster donde la mitad superior es una foto realista y la mitad inferior es una ilustración dibujada a mano correspondiente, generado por Nano Banana 2.1.
+
+#### 📝 Prompt
+
+```
+La mitad superior es una foto realista que capta la textura auténtica de la piel, expresiones naturales y una profundidad de campo cinematográfica bajo una luz natural cálida; la mitad inferior transforma esa misma escena en una ilustración digital dibujada a mano, conservando la pose, el peinado, la ropa, los colores y los detalles visuales clave del personaje. La ilustración se ubica dentro de un marco rectangular limpio sobre un fondo de papel color marfil cálido con textura sutil, y presenta un estilo de ilustración contemporáneo y suave: pinceladas delicadas, formas orgánicas simplificadas, colores pastel y contornos tenues. Debajo de la imagen hay un título minimalista centrado con tipografía de trazo fino, toda en mayúculas y con amplio interletrado, seguida de una pequeña línea de subtítulo y una línea corta y delgada en tono pastel debajo. Requisitos generales: formato vertical con relación de aspecto 3:4, alta resolución, tipografía sobria, evitando composiciones recargadas, exceso de texto, rasgos faciales inconsistentes y colores estridentes.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958112_uben1t_HU9EWwcaoAAYw35.jpg" width="600" alt="Publicación en redes sociales - Prompt para Póster de Ilustración Dibujada a Mano a partir de Foto - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958148_pfbzh5_HU9EWwoa8AAHdFs.jpg" width="600" alt="Publicación en redes sociales - Prompt para Póster de Ilustración Dibujada a Mano a partir de Foto - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958230_9diugi_HU9EWwYasAAw8az.jpg" width="600" alt="Publicación en redes sociales - Prompt para Póster de Ilustración Dibujada a Mano a partir de Foto - Image 3">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [versatile](https://x.com/SyrianVeterans)
+- **Fuente:** [Twitter Post](https://x.com/SyrianVeterans/status/2111981919886062004)
+- **Publicado:** 19 de octubre de 2026
+- **Idiomas:** zh
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=36686)**
+
+---
+
+### No. 22: Publicación en redes sociales - Editorial de moda urbana nocturna de alta costura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1647,7 @@ Estilo editorial hiperfotorrealista. Chiaroscuro de alto contraste con sombras p
 
 ---
 
-### No. 22: Publicación en redes sociales - Salón de Escalera Barroca Miniatura Caprichosa
+### No. 23: Publicación en redes sociales - Salón de Escalera Barroca Miniatura Caprichosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1635,7 +1680,7 @@ Representación de un mundo miniatura caprichoso de un monumental salón de gran
 
 ---
 
-### No. 23: Publicación en redes sociales - Artista de Viajes Cinematográfico Dibujando un Monumento
+### No. 24: Publicación en redes sociales - Artista de Viajes Cinematográfico Dibujando un Monumento
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1690,7 +1735,7 @@ Evita monumentos distorsionados, arquitectura ficticia, elementos fantásticos e
 
 ---
 
-### No. 24: Publicación en redes sociales - Retrato Editorial Surrealista Marítimo
+### No. 25: Publicación en redes sociales - Retrato Editorial Surrealista Marítimo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1840,7 +1885,7 @@ Un prompt JSON detallado para generar una fotografía editorial surrealista hipe
 
 ---
 
-### No. 25: Publicación en redes sociales - Mujer del Este de Asia en Cuello de Tortuga Gris frente a Pared de Hormigón
+### No. 26: Publicación en redes sociales - Mujer del Este de Asia en Cuello de Tortuga Gris frente a Pared de Hormigón
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1883,7 +1928,7 @@ Iluminación: sol intenso del mediodía desde la parte superior izquierda, sombr
 
 ---
 
-### No. 26: Publicación en redes sociales - Estación de Observación de Fauna en la Selva Tropical: Mundo Miniatura
+### No. 27: Publicación en redes sociales - Estación de Observación de Fauna en la Selva Tropical: Mundo Miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1916,7 +1961,7 @@ Representación whimsical de un mundo miniatura de una estación de observación
 
 ---
 
-### No. 27: Publicación en redes sociales - Comparación de retratos de viaje en islas griegas
+### No. 28: Publicación en redes sociales - Comparación de retratos de viaje en islas griegas
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1966,77 +2011,6 @@ Fotografiado con una perspectiva profesional editorial de fotografía de viajes 
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=36158)**
-
----
-
-### No. 28: Publicación en redes sociales - Transferencia de Estilo Cinematográfico para Retrato Masculino
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Descripción
-
-Prompt para reproducir el estilo fotográfico cinematográfico exacto de una imagen de referencia, creando un retrato masculino premium con retroiluminación dorada cálida, atmósfera oscura y melancólica, y textura de piel realista.
-
-#### 📝 Prompt
-
-```
-Analiza la referencia cargada y reproduce su estilo fotográfico cinematográfico exacto.
-
-Crea un retrato masculino cinematográfico premium con el mismo lenguaje visual que la referencia.
-
-Preserva:
-
-Retroiluminación dorada cálida alrededor del cabello
-
-Fondo oscuro y melancólico
-
-Humo/neblina atmosférica suave
-
-Iluminación de contorno fuerte
-
-Iluminación cálida en la piel
-
-Sombras cinematográficas profundas
-
-Textura natural de la piel
-
-Peinado grueso y texturizado con mechones individuales visibles
-
-Ropa oscura de moda
-
-Gafas de sol con reflejos realistas
-
-Encuadre de retrato en primer plano idéntico
-
-Mood editorial sofisticado idéntico
-
-Profundidad de campo reducida idéntica
-
-Gradación de color marrón/dorado cálido idéntica
-
-La iluminación debe parecer físicamente realista, con luz dorada que separa al sujeto del fondo oscuro y humeante.
-
-Aspecto de lente de retrato de 85 mm, profundidad de campo reducida, estética f/1.4, poros de piel realistas, textura facial natural, mechones de cabello realistas, HDR cinematográfico, fotografía profesional de moda, 8K Ultra HD.
-
-Mantén el rostro natural y proporcional. No plastifiques la piel. Sin rasgos faciales exagerados, sin ojos artificiales, sin gafas distorsionadas, sin marca de agua.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791613888838_2p8hbq_HUKjQMNaIAAERkD.jpg" width="600" alt="Publicación en redes sociales - Transferencia de Estilo Cinematográfico para Retrato Masculino - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **Fuente:** [Twitter Post](https://x.com/JamilAI55/status/2108427131244179466)
-- **Publicado:** 9 de octubre de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=36153)**
 
 ---
 
@@ -2702,7 +2676,77 @@ un {argument name="bird species" default="dodo"}. Su cuerpo es regordete y redon
 
 ---
 
-### No. 44: Miniatura de YouTube - Escena de película de ciencia ficción con imágenes de referencia
+### No. 44: Miniatura de YouTube - Prompt Noir de Heroína de Acción de los 90
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Descripción
+
+Un prompt de texto estructurado para generar un retrato estilo noir-acción de los años 90 de una mujer rubia atlética apuntando con una pistola en un entorno industrial.
+
+#### 📝 Prompt
+
+```
+Tema:
+Cine negro de acción de los años 90
+
+Sujeto:
+Una mujer adulta atlética de poco más de treinta años, con una estética clásica de heroína de acción, ubicada en un entorno industrial de alto riesgo.
+
+Persona · Expresión:
+Cabello rubio platinado peinado en ondas voluminosas y salvajes. Sus rasgos incluyen pómulos marcados, ojos azules penetrantes con una mirada concentrada y maquillaje ahumado. Su expresión refleja una intensa preparación táctica. En la parte superior del brazo se aprecia un tatuaje nítido de alambre de púas en tinta negra.
+
+Vestimenta · Pose:
+Un corpiño estructurado de cuero negro pulido, con costuras visibles y una textura realista. Adopta una postura profesional de apuntado a dos manos, sosteniendo una pistola plateada grande de utilería cinematográfica. En la muñeca se ve un brazal de guantelete cromado con pinchos. La pose es un perfil dinámico, con los codos extendidos y un agarre firme.
+
+Fondo · Iluminación:
+Un estudio industrial oscuro y atmosférico, con paredes de concreto y un ambiente brumoso. La escena está iluminada lateralmente por una luz principal blanca y fría, complementada con una luz de contorno azul verdoso (teal) en el cabello. Las sombras profundas y los reflejos especulares sobre la utilería metálica y la ropa de cuero generan un entorno de alto contraste.
+
+Composición · Cámara:
+Plano medio desde un ángulo contrapicado para lograr una perspectiva heroica. Capturado con una simulación de lente anamórfica, con poca profundidad de campo y bokeh ovalado. El encuadre es panorámico cinematográfico en formato 16:9.
+
+Textura · Estilo:
+Estilo fotográfico de película de 35 mm, con grano fino y un acabado hiperrealista. La textura de la piel es sumamente detallada, con poros visibles y un ligero brillo cinematográfico. La estética general emula un escaneo de película de los años 90, con un contraste marcado y una paleta de colores fríos.
+```
+
+#### 🖼️ Imágenes generadas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958090_jvppes_HU-e7l5WwAAJhWB.jpg" width="600" alt="Miniatura de YouTube - Prompt Noir de Heroína de Acción de los 90 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958240_7bbciu_HU-e7lvWAAAE-Rj.jpg" width="600" alt="Miniatura de YouTube - Prompt Noir de Heroína de Acción de los 90 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477956694_nmpp4j_HU-e7mCWkAAEt36.jpg" width="600" alt="Miniatura de YouTube - Prompt Noir de Heroína de Acción de los 90 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477957747_6rilf4_HU-e7mHW8AAvYH2.jpg" width="600" alt="Miniatura de YouTube - Prompt Noir de Heroína de Acción de los 90 - Image 4">
+</div>
+
+#### 📌 Detalles
+
+- **Autor:** [Dominus Pellissier](https://x.com/iamdomprompt)
+- **Fuente:** [Twitter Post](https://x.com/iamdomprompt/status/2112081503635067351)
+- **Publicado:** 19 de octubre de 2026
+- **Idiomas:** en
+
+**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=36685)**
+
+---
+
+### No. 45: Miniatura de YouTube - Escena de película de ciencia ficción con imágenes de referencia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2735,7 +2779,7 @@ Fotograma de una película de ciencia ficción de Hollywood. Plano sobre el homb
 
 ---
 
-### No. 45: Miniatura de YouTube - Comparativa de Realismo Histórico: Expedición Antártica
+### No. 46: Miniatura de YouTube - Comparativa de Realismo Histórico: Expedición Antártica
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2774,7 +2818,7 @@ Fotografía en blanco y negro de archivo original de una expedición antártica 
 
 ---
 
-### No. 46: Miniatura de YouTube - Arte fantástico de asesino encapuchado en el tejado del templo
+### No. 47: Miniatura de YouTube - Arte fantástico de asesino encapuchado en el tejado del templo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2810,7 +2854,7 @@ Composición épica, perspectiva contrapicada, silueta dramática, luz lunar vol
 
 ---
 
-### No. 47: Miniatura de YouTube - Prompt de diseño de miniaturas de YouTube con superposición de texto
+### No. 48: Miniatura de YouTube - Prompt de diseño de miniaturas de YouTube con superposición de texto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2846,7 +2890,7 @@ El título de la miniatura es ["{argument name="caption_text" default="Ya no nec
 
 ---
 
-### No. 48: Miniatura de YouTube - Locomotora de vapor en puente colapsando durante tormenta
+### No. 49: Miniatura de YouTube - Locomotora de vapor en puente colapsando durante tormenta
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2886,7 +2930,7 @@ El elemento visual clave: tren gigantesco + puente en colapso + tormenta oceáni
 
 ---
 
-### No. 49: Miniatura de YouTube - Astronauta cinematográfico en nave espacial dañada
+### No. 50: Miniatura de YouTube - Astronauta cinematográfico en nave espacial dañada
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2935,7 +2979,7 @@ Un prompt estructurado para generar una escena conmovedora de un astronauta soli
 
 ---
 
-### No. 50: Miniatura de YouTube - Retrato de doble exposición de motocicleta al atardecer
+### No. 51: Miniatura de YouTube - Retrato de doble exposición de motocicleta al atardecer
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2969,7 +3013,7 @@ Una imagen 3D fotorrealista de un joven con estilo posando junto a una moderna m
 
 ---
 
-### No. 51: Miniatura de YouTube - Transformación de retratos en alta definición
+### No. 52: Miniatura de YouTube - Transformación de retratos en alta definición
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3003,7 +3047,7 @@ Convierte esta imagen en: Un retrato en primer plano ultra realista de un {argum
 
 ---
 
-### No. 52: Miniatura de YouTube - Cinemática de anime de fantasía oscura premium
+### No. 53: Miniatura de YouTube - Cinemática de anime de fantasía oscura premium
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3037,7 +3081,7 @@ Crea una impresionante ilustración cinemática de anime de ultra alta calidad a
 
 ---
 
-### No. 53: Miniatura de YouTube - Pantalla de transmisión de béisbol de Koshien
+### No. 54: Miniatura de YouTube - Pantalla de transmisión de béisbol de Koshien
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3071,7 +3115,7 @@ Una captura de pantalla de la transmisión de la final de béisbol de preparator
 
 ---
 
-### No. 54: Miniatura de YouTube - Cuadrícula de pósteres de películas con tipografía emergente
+### No. 55: Miniatura de YouTube - Cuadrícula de pósteres de películas con tipografía emergente
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3105,7 +3149,7 @@ Cuadrícula 2x2, 16:9, haz esto para 4 películas famosas: TYPOGRAPHIC_EMERGENCE
 
 ---
 
-### No. 55: Miniatura de YouTube - Diorama de libro pop-up en miniatura
+### No. 56: Miniatura de YouTube - Diorama de libro pop-up en miniatura
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3139,7 +3183,7 @@ Cuadrícula 2x2, 16:9, haz esto para 4 {argument name="subject" default="ciudade
 
 ---
 
-### No. 56: Miniatura de YouTube - Batalla contra el jefe: Máquina de café de ciencia ficción
+### No. 57: Miniatura de YouTube - Batalla contra el jefe: Máquina de café de ciencia ficción
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3173,7 +3217,7 @@ Un prompt humorístico estilo meme que reimagina la máquina de café de la ofic
 
 ---
 
-### No. 57: Miniatura de YouTube - Mujer gigante surrealista en Venecia
+### No. 58: Miniatura de YouTube - Mujer gigante surrealista en Venecia
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3207,7 +3251,7 @@ Una {argument name="subject" default="mujer gigante"} surrealista sentada con gr
 
 ---
 
-### No. 58: Miniatura de YouTube - Arte principal para documental deportivo cinematográfico
+### No. 59: Miniatura de YouTube - Arte principal para documental deportivo cinematográfico
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3241,7 +3285,7 @@ do this for {argument name="event" default="Copa Mundial Argentina 2026"}, void 
 
 ---
 
-### No. 59: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
+### No. 60: Miniatura de YouTube - Fotografía majestuosa de nubes con forma de elefante
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3285,7 +3329,7 @@ Ambiente: majestuoso, tranquilo, surrealista pero creíble, realismo de document
 
 ---
 
-### No. 60: Miniatura de YouTube - Transformación de estación de tren al estilo anime
+### No. 61: Miniatura de YouTube - Transformación de estación de tren al estilo anime
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3319,7 +3363,7 @@ Por favor, créalo en estilo anime. {argument name="descripción de la escena" d
 
 ---
 
-### No. 61: Miniatura de YouTube - El caos del Mini Cooper de Mr. Bean
+### No. 62: Miniatura de YouTube - El caos del Mini Cooper de Mr. Bean
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3373,7 +3417,7 @@ Vibrante, caótico, vertiginoso, cinematográfico y humorístico
 
 ---
 
-### No. 62: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
+### No. 63: Miniatura de YouTube - Collage de retrato cinematográfico en azotea bajo la luz de la luna
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3410,40 +3454,6 @@ Utiliza la imagen de referencia facial cargada como la referencia de identidad e
 - **Idiomas:** en
 
 **[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=20149)**
-
----
-
-### No. 63: Miniatura de YouTube - Retrato de glamour urbano con cuchillo de pastel
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Descripción
-
-Un retrato cinematográfico en ángulo picado de una mujer con ropa estilo Balenciaga sentada en una alfombra con un pastel, lamiendo una hoja para lograr un ambiente de glamour urbano relajado.
-
-#### 📝 Prompt
-
-```
-No cambies los rasgos faciales. Un retrato cinematográfico en primer plano de una mujer joven. La foto está tomada desde un ángulo ligeramente picado. Ella está sentada en el suelo, el cual está cubierto con una alfombra gris. Está mirando hacia la cámara; una pierna está doblada, la otra está recta y extendida. Entre sus piernas, hay un plato de vidrio plano con un pastel parcialmente comido. Una mano está junto al pastel y está manchada con él; con la otra mano, sostiene un cuchillo y lame el pastel de la hoja. Su mirada está ligeramente desviada hacia un lado. La foto está tomada con flash. Se añadió grano de película. El ambiente general de la toma es relajado, con un toque de glamour urbano. Ella viste {argument name="clothing style" default="ropa estilo Balenciaga"}. Una fotografía realista y detallada.
-```
-
-#### 🖼️ Imágenes generadas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778743482684_foflzr_HIM-T2abYAAtTX0.jpg" width="600" alt="Miniatura de YouTube - Retrato de glamour urbano con cuchillo de pastel - Image 1">
-</div>
-
-#### 📌 Detalles
-
-- **Autor:** [Dr. Samia](https://x.com/oye_samia)
-- **Fuente:** [Twitter Post](https://x.com/oye_samia/status/2054554374270226871)
-- **Publicado:** 13 de mayo de 2026
-- **Idiomas:** en
-
-**[👉 Pruébalo ahora →](https://youmind.com/es-419/nano-banana-pro-prompts?id=19977)**
 
 ---
 
@@ -6319,7 +6329,7 @@ Una ilustración digital estilo anime de una joven vibrante con un look audaz in
 
 <div align="center">
 
-### 🎯 15673 prompts más no mostrados aquí
+### 🎯 15675 prompts más no mostrados aquí
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6382,6 +6392,6 @@ Licenciado bajo [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar un prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrella a este repositorio](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-19T08:08:37.245Z</sub>
+<sub>🤖 Este README se genera automáticamente. Última actualización: 2026-10-20T08:03:55.705Z</sub>
 
 </div>

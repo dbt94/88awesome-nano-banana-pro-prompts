@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15793** |
+| 📝 कुल प्रॉम्पट्स | **15795** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **सोमवार, 19 अक्टूबर 2026 को 8:08:24 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **मंगलवार, 20 अक्टूबर 2026 को 8:03:44 am UTC बजे** |
 
 </div>
 
@@ -1550,7 +1550,52 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - उच्च-फैशन शहरी रात्रि संपादकीय
+### No. 21: सोशल मीडिया पोस्ट - फोटो से हस्तनिर्मित इलस्ट्रेशन पोस्टर प्रॉम्प्ट
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 विवरण
+
+Nano Banana 2.1 द्वारा तैयार किया गया एक पोस्टर लेआउट प्रॉम्प्ट, जिसमें ऊपर का आधा हिस्सा यथार्थवादी फोटो और नीचे का आधा हिस्सा उससे मेल खाता हुआ हस्तनिर्मित इलस्ट्रेशन है।
+
+#### 📝 प्रॉम्पट
+
+```
+ऊपरी हिस्सा एक यथार्थवादी फोटो है, जो गर्म प्राकृतिक रोशनी में असली त्वचा की बनावट, स्वाभाविक हाव-भाव और सिनेमाई डेप्थ ऑफ़ फ़ील्ड को कैप्चर करती है; निचला हिस्सा उसी दृश्य को एक हैंड-ड्रॉन डिजिटल इलस्ट्रेशन में बदल देता है, जिसमें किरदार का पोज़, हेयरस्टाइल, कपड़े, रंग और मुख्य विज़ुअल डीटेल्स बरकरार रहते हैं। इस इलस्ट्रेशन को हल्की टेक्सचर वाले गर्म आइवरी पेपर बैकग्राउंड पर एक साफ़ आयताकार फ्रेम के अंदर रखा गया है, जिसमें सॉफ्ट कंटेम्परेरी इलस्ट्रेशन स्टाइल दिखाई देता है: नाज़ुक ब्रशस्ट्रोक्स, सरल ऑर्गेनिक शेप्स, पेस्टल रंग और मुलायम आउटलाइन्स। इमेज के नीचे बीचोंबीच एक मिनिमलिस्ट टाइटल है, जो पतले वेट, चौड़ी स्पेसिंग वाले ऑल-कैप्स टाइपोग्राफी में है, उसके बाद सबटाइटल की एक छोटी लाइन और सबसे नीचे पेस्टल रंग की एक पतली छोटी सी रेखा है। समग्र ज़रूरतें: वर्टिकल 3:4 एस्पेक्ट रेशियो, हाई रेज़ोल्यूशन, संयमित टाइपोग्राफी, साथ ही भीड़भाड़ वाले विज़ुअल्स, ज़रूरत से ज़्यादा टेक्स्ट, चेहरे की बनावट में असमानता और भड़कीले रंगों से बचना।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958112_uben1t_HU9EWwcaoAAYw35.jpg" width="600" alt="सोशल मीडिया पोस्ट - फोटो से हस्तनिर्मित इलस्ट्रेशन पोस्टर प्रॉम्प्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958148_pfbzh5_HU9EWwoa8AAHdFs.jpg" width="600" alt="सोशल मीडिया पोस्ट - फोटो से हस्तनिर्मित इलस्ट्रेशन पोस्टर प्रॉम्प्ट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958230_9diugi_HU9EWwYasAAw8az.jpg" width="600" alt="सोशल मीडिया पोस्ट - फोटो से हस्तनिर्मित इलस्ट्रेशन पोस्टर प्रॉम्प्ट - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [versatile](https://x.com/SyrianVeterans)
+- **स्रोत:** [Twitter Post](https://x.com/SyrianVeterans/status/2111981919886062004)
+- **प्रकाशित:** 19 अक्टूबर 2026
+- **भाषाएं:** zh
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36686)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - उच्च-फैशन शहरी रात्रि संपादकीय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1647,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - कल्पनाशील लघु बारोकपंक सीढ़ी हॉल
+### No. 23: सोशल मीडिया पोस्ट - कल्पनाशील लघु बारोकपंक सीढ़ी हॉल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1635,7 +1680,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - सिनेमैटिक ट्रैवल आर्टिस्ट लैंडमार्क का स्केच बनाते हुए
+### No. 24: सोशल मीडिया पोस्ट - सिनेमैटिक ट्रैवल आर्टिस्ट लैंडमार्क का स्केच बनाते हुए
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1690,7 +1735,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट
+### No. 25: सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1840,7 +1885,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - कंक्रीट दीवार के सामने ग्रे टर्टलनेक पहने पूर्वी एशियाई महिला
+### No. 26: सोशल मीडिया पोस्ट - कंक्रीट दीवार के सामने ग्रे टर्टलनेक पहने पूर्वी एशियाई महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1883,7 +1928,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
+### No. 27: सोशल मीडिया पोस्ट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1916,7 +1961,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - यूनानी द्वीप यात्रा पोर्ट्रेट तुलना
+### No. 28: सोशल मीडिया पोस्ट - यूनानी द्वीप यात्रा पोर्ट्रेट तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1965,77 +2010,6 @@ https://t.co/QxbYpfFVj6
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36158)**
-
----
-
-### No. 28: सोशल मीडिया पोस्ट - सिनेमाई पुरुष पोर्ट्रेट स्टाइल ट्रांसफर
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक प्रॉम्प्ट जो संदर्भ छवि की सटीक सिनेमाई फोटोग्राफी शैली को दोहराता है, गर्म सुनहरी बैकलाइटिंग, गहरे और रहस्यमय माहौल, और यथार्थवादी त्वचा बनावट के साथ एक प्रीमियम पुरुष पोर्ट्रेट बनाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-अपलोड किए गए संदर्भ का विश्लेषण करें और उसकी सटीक सिनेमाई फोटोग्राफी शैली को दोहराएं।
-
-संदर्भ के समान दृश्य भाषा के साथ एक प्रीमियम सिनेमाई पुरुष पोर्ट्रेट बनाएं।
-
-इन बातों को बनाए रखें:
-
-बालों के चारों ओर गर्म सुनहरी बैकलाइट
-
-गहरा और रहस्यमय पृष्ठभूमि
-
-नरम वातावरणीय धुआं/कोहरा
-
-मजबूत रिम लाइटिंग
-
-गर्म त्वचा प्रकाश
-
-गहरी सिनेमाई छायाएँ
-
-प्राकृतिक त्वचा बनावट
-
-व्यक्तिगत बालों के लंबे अंशों के साथ मोटी टेक्सचर्ड हेयरस्टाइल
-
-गहरे रंग का फैशन कपड़ा
-
-यथार्थवादी प्रतिबिंबों वाले धूप के चश्मे
-
-समान क्लोज-अप पोर्ट्रेट फ्रेमिंग
-
-समान परिष्कृत एडिटोरियल मूड
-
-समान उथली डेप्थ ऑफ फील्ड
-
-समान गर्म भूरा/सुनहरा रंग ग्रेडिंग
-
-प्रकाश व्यवस्था भौतिक रूप से यथार्थवादी दिखनी चाहिए, जिसमें सुनहरी रोशनी विषय को गहरे धुएं वाली पृष्ठभूमि से अलग करती है।
-
-85mm पोर्ट्रेट लेंस लुक, उथली डेप्थ ऑफ फील्ड, f/1.4 सौंदर्यशास्त्र, यथार्थवादी त्वचा के रोमछिद्र, प्राकृतिक चेहरे की बनावट, यथार्थवादी बालों के लंबे अंश, सिनेमाई HDR, पेशेवर फैशन फोटोग्राफी, 8K Ultra HD।
-
-चेहरे को प्राकृतिक और अनुपात में रखें। त्वचा को प्लास्टिक जैसा न बनाएं। कोई अतिरंजित चेहरे की विशेषताएं नहीं, कोई कृत्रिम आंखें नहीं, कोई विकृत चश्मे नहीं, कोई वॉटरमार्क नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791613888838_2p8hbq_HUKjQMNaIAAERkD.jpg" width="600" alt="सोशल मीडिया पोस्ट - सिनेमाई पुरुष पोर्ट्रेट स्टाइल ट्रांसफर - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **स्रोत:** [Twitter Post](https://x.com/JamilAI55/status/2108427131244179466)
-- **प्रकाशित:** 9 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36153)**
 
 ---
 
@@ -2701,7 +2675,77 @@ Nano Banana 2 के लिए अनुकूलित, प्राकृत�
 
 ---
 
-### No. 44: YouTube थंबनेल - Sci-Fi Movie Still with Reference Images
+### No. 44: YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+1990 के दशक की नोयर-एक्शन शैली में एक एथलेटिक गोरी महिला को औद्योगिक सेटिंग में पिस्तौल निशाना लगाते हुए दिखाने वाले पोर्ट्रेट जनरेट करने के लिए एक संरचित टेक्स्ट प्रॉम्प्ट।
+
+#### 📝 प्रॉम्पट
+
+```
+थीम:
+1990s Noir-Action Cinema
+
+विषय:
+तीस के दशक की शुरुआत में एक एथलेटिक वयस्क महिला, जिसमें क्लासिक एक्शन-हीरोइन वाली खूबी है और जिसे किसी गंभीर औद्योगिक (इंडस्ट्रियल) माहौल में रखा गया है।
+
+व्यक्ति · हावभाव:
+प्लैटिनम ब्लॉन्ड बालों को घुमावदार और बेतरतीब लहरों में स्टाइल किया गया है। चेहरे पर ऊंची चीकबोन्स, तीखी नीली आंखें जिनमें एक केंद्रित नजर है, और स्मोकी आई मेकअप शामिल है। हावभाव पूरी तरह से सतर्क और रणनीतिक तैयारी वाला है। ऊपरी बांह पर काली स्याही का बना एक तेज नुकीला बारब्ड-वायर टैटू साफ दिखाई दे रहा है।
+
+कपड़े · पोज़:
+चमकदार काले चमड़े से बना एक स्ट्रक्चर्ड बॉडिस, जिसकी सिलाई और असली टेक्सचर स्पष्ट रूप से दिख रही है। वह प्रोफेशनल दो-हाथों वाली निशाना लगाने की मुद्रा में है, और एक बड़ी चांदी रंग की फिल्म-प्रॉप पिस्तौल पकड़े हुए है। कलाई पर क्रोम का नुकीला गांटलेट कफ दिखाई दे रहा है। पोज़ एक डायनामिक साइड व्यू है, जिसमें कोहनियां सीधी हैं और पकड़ मजबूत है।
+
+पृष्ठभूमि · रोशनी:
+कंक्रीट की दीवारों और धुंधले माहौल वाला एक अंधेरा, रहस्यमयी औद्योगिक स्टूडियो। इस दृश्य में एक तरफ से ठंडी सफेद की लाइट पड़ रही है, जिसके साथ बालों पर हल्की टील (teal) रिम लाइट इसे और भी निखार रही है। मेटल प्रॉप और चमड़े के कपड़ों पर गहरी छायाएं और चमकदार हाइलाइट्स एक हाई-कंट्रास्ट माहौल बनाती हैं।
+
+कम्पोज़िशन · कैमरा:
+एक हीरोइक नज़रिया बनाने के लिए नीचे के कोण (low angle) से लिया गया मीडियम शॉट। इसे एनामॉर्फिक लेंस सिमुलेशन के साथ कैप्चर किया गया है, जिसमें शैलो डेप्थ ऑफ फील्ड और ओवल बोकेह है। फ्रेमिंग 16:9 सिनेमैटिक लैंडस्केप में है।
+
+टेक्सचर · स्टाइल:
+35mm फिल्म फोटोग्राफी स्टाइल, जिसमें बारीक ग्रेन और हाइपर-रियलिस्टिक फिनिश है। त्वचा का टेक्सचर बेहद विस्तृत है, जिसमें रोमछिद्र साफ दिखते हैं और एक हल्की सिनेमैटिक चमक है। कुल मिलाकर यह लुक 1990s की फिल्म स्कैन जैसा है, जिसमें दमदार कंट्रास्ट और ठंडे रंगों की पैलेट है।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958090_jvppes_HU-e7l5WwAAJhWB.jpg" width="600" alt="YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958240_7bbciu_HU-e7lvWAAAE-Rj.jpg" width="600" alt="YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477956694_nmpp4j_HU-e7mCWkAAEt36.jpg" width="600" alt="YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477957747_6rilf4_HU-e7mHW8AAvYH2.jpg" width="600" alt="YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Dominus Pellissier](https://x.com/iamdomprompt)
+- **स्रोत:** [Twitter Post](https://x.com/iamdomprompt/status/2112081503635067351)
+- **प्रकाशित:** 19 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36685)**
+
+---
+
+### No. 45: YouTube थंबनेल - Sci-Fi Movie Still with Reference Images
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2734,7 +2778,7 @@ Still from a Hollywood sci-fi movie. Over-the-shoulder shot of the man in image 
 
 ---
 
-### No. 45: YouTube थंबनेल - अंटार्कटिक अभियान ऐतिहासिक यथार्थवाद तुलना
+### No. 46: YouTube थंबनेल - अंटार्कटिक अभियान ऐतिहासिक यथार्थवाद तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2773,7 +2817,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 46: YouTube थंबनेल - मंदिर की छत पर हुडेड असैसिन: फैंटेसी आर्ट
+### No. 47: YouTube थंबनेल - मंदिर की छत पर हुडेड असैसिन: फैंटेसी आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2809,7 +2853,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 47: YouTube थंबनेल - टेक्स्ट ओवरले के साथ YouTube थंबनेल डिज़ाइन प्रॉम्प्ट
+### No. 48: YouTube थंबनेल - टेक्स्ट ओवरले के साथ YouTube थंबनेल डिज़ाइन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2845,7 +2889,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 48: YouTube थंबनेल - स्टीम लोकोमोटिव और ढहता हुआ पुल
+### No. 49: YouTube थंबनेल - स्टीम लोकोमोटिव और ढहता हुआ पुल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2885,7 +2929,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 49: YouTube थंबनेल - क्षतिग्रस्त अंतरिक्ष यान पर सिनेमाई अंतरिक्ष यात्री
+### No. 50: YouTube थंबनेल - क्षतिग्रस्त अंतरिक्ष यान पर सिनेमाई अंतरिक्ष यात्री
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2934,7 +2978,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 50: YouTube थंबनेल - डबल एक्सपोज़र मोटरसाइकिल सनसेट पोर्ट्रेट
+### No. 51: YouTube थंबनेल - डबल एक्सपोज़र मोटरसाइकिल सनसेट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2968,7 +3012,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 51: YouTube थंबनेल - हाई डेफिनिशन पोर्ट्रेट ट्रांसफॉर्मेशन
+### No. 52: YouTube थंबनेल - हाई डेफिनिशन पोर्ट्रेट ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3002,7 +3046,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 52: YouTube थंबनेल - प्रीमियम डार्क फैंटेसी एनीमे सिनेमैटिक
+### No. 53: YouTube थंबनेल - प्रीमियम डार्क फैंटेसी एनीमे सिनेमैटिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3036,7 +3080,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 53: YouTube थंबनेल - कोशिएन बेसबॉल ब्रॉडकास्ट स्क्रीन
+### No. 54: YouTube थंबनेल - कोशिएन बेसबॉल ब्रॉडकास्ट स्क्रीन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3070,7 +3114,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 54: YouTube थंबनेल - टाइपोग्राफिक इमर्जेंस मूवी पोस्टर ग्रिड
+### No. 55: YouTube थंबनेल - टाइपोग्राफिक इमर्जेंस मूवी पोस्टर ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3104,7 +3148,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 55: YouTube थंबनेल - मिनिएचर पॉप-अप बुक डायोरामा
+### No. 56: YouTube थंबनेल - मिनिएचर पॉप-अप बुक डायोरामा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3138,7 +3182,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 56: YouTube थंबनेल - साइ-फाई कॉफी मशीन बॉस बैटल
+### No. 57: YouTube थंबनेल - साइ-फाई कॉफी मशीन बॉस बैटल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3172,7 +3216,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 57: YouTube थंबनेल - वेनिस में अति-यथार्थवादी विशाल महिला
+### No. 58: YouTube थंबनेल - वेनिस में अति-यथार्थवादी विशाल महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3206,7 +3250,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 58: YouTube थंबनेल - सिनेमैटिक स्पोर्ट्स डॉक्यूमेंट्री की आर्ट
+### No. 59: YouTube थंबनेल - सिनेमैटिक स्पोर्ट्स डॉक्यूमेंट्री की आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3240,7 +3284,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 59: YouTube थंबनेल - भव्य हाथी के आकार के बादलों की फोटोग्राफी
+### No. 60: YouTube थंबनेल - भव्य हाथी के आकार के बादलों की फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3284,7 +3328,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 60: YouTube थंबनेल - एनीमे रेलवे स्टेशन ट्रांसफॉर्मेशन
+### No. 61: YouTube थंबनेल - एनीमे रेलवे स्टेशन ट्रांसफॉर्मेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3318,7 +3362,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 61: YouTube थंबनेल - मिस्टर बीन की मिनी कूपर का हंगामा
+### No. 62: YouTube थंबनेल - मिस्टर बीन की मिनी कूपर का हंगामा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3372,7 +3416,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 62: YouTube थंबनेल - सिनेमैटिक मूनलाइट रूफटॉप पोर्ट्रेट कोलाज
+### No. 63: YouTube थंबनेल - सिनेमैटिक मूनलाइट रूफटॉप पोर्ट्रेट कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3409,40 +3453,6 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=20149)**
-
----
-
-### No. 63: YouTube थंबनेल - स्ट्रीट ग्लैमर केक नाइफ पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-Balenciaga-स्टाइल के कपड़ों में एक महिला का सिनेमाई हाई-एंगल पोर्ट्रेट, जो कालीन पर केक के साथ बैठी है और रिलैक्स्ड स्ट्रीट ग्लैमर वाइब के लिए ब्लेड चाट रही है।
-
-#### 📝 प्रॉम्पट
-
-```
-चेहरे के फीचर्स न बदलें। एक युवा महिला का सिनेमाई क्लोज-अप पोर्ट्रेट। फोटो थोड़े हाई एंगल से ली गई है। वह फर्श पर बैठी है, जिस पर ग्रे रंग का कालीन बिछा है। वह कैमरे की ओर देख रही है; एक पैर मुड़ा हुआ है, दूसरा सीधा फैला हुआ है। उसके पैरों के बीच, एक सपाट कांच की प्लेट है जिस पर आधा खाया हुआ केक रखा है। एक हाथ केक के पास है और उस पर केक लगा हुआ है; दूसरे हाथ से वह चाकू पकड़े हुए है और ब्लेड से केक चाट रही है। उसकी नज़रें थोड़ी साइड की ओर मुड़ी हुई हैं। फोटो फ्लैश के साथ ली गई है। फिल्म ग्रेन जोड़ा गया है। फ्रेम का ओवरऑल वाइब रिलैक्स्ड है, जिसमें स्ट्रीट ग्लैमर का अहसास है। उसने {argument name="clothing style" default="Balenciaga-स्टाइल के कपड़े"} पहने हुए हैं। एक यथार्थवादी, विस्तृत तस्वीर।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778743482684_foflzr_HIM-T2abYAAtTX0.jpg" width="600" alt="YouTube थंबनेल - स्ट्रीट ग्लैमर केक नाइफ पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Dr. Samia](https://x.com/oye_samia)
-- **स्रोत:** [Twitter Post](https://x.com/oye_samia/status/2054554374270226871)
-- **प्रकाशित:** 13 मई 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=19977)**
 
 ---
 
@@ -6316,7 +6326,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 <div align="center">
 
-### 🎯 15673 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15675 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6379,6 +6389,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-19T08:08:24.276Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-20T08:03:44.580Z</sub>
 
 </div>

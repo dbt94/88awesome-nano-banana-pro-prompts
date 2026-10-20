@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15793** |
+| 📝 คำสั่งทั้งหมด | **15795** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 19 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 08 นาที 12 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 20 ตุลาคม พ.ศ. 2569 เวลา 8 นาฬิกา 03 นาที 33 วินาที UTC** |
 
 </div>
 
@@ -1550,7 +1550,52 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: โพสต์บนโซเชียลมีเดีย - Editorial ภาพกลางคืนสไตล์เมืองสุดหรู
+### No. 21: โพสต์บนโซเชียลมีเดีย - พรอมต์สร้างโปสเตอร์ภาพวาดมือจากภาพถ่าย
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์สำหรับออกแบบเลย์เอาต์โปสเตอร์ที่ครึ่งบนเป็นภาพถ่ายสมจริงและครึ่งล่างเป็นภาพวาดมือที่เข้ากัน สร้างโดย Nano Banana 2.1
+
+#### 📝 คำสั่ง
+
+```
+ครึ่งบนเป็นภาพถ่ายสมจริงที่เก็บรายละเอียดพื้นผิวผิวหนังได้อย่างเป็นธรรมชาติ สีหน้าดูเป็นธรรมชาติ และมีระยะชัดลึกแบบภาพยนตร์ภายใต้แสงธรรมชาติโทนอุ่น ส่วนครึ่งล่างจะเปลี่ยนฉากเดียวกันให้กลายเป็นภาพวาดดิจิทัลลายเส้นด้วยมือ โดยยังคงท่าโพส ทรงผม เสื้อผ้า สีสัน และรายละเอียดสำคัญทางสายตาของตัวละครไว้ครบถ้วน ภาพวาดดังกล่าวถูกจัดวางอยู่ในกรอบสี่เหลี่ยมผืนผ้าที่สะอาดตา บนพื้นหลังกระดาษสีงาช้างโทนอุ่นที่มีเท็กซ์เจอร์บางเบา มาพร้อมสไตล์ภาพประกอบร่วมสมัยที่นุ่มนวล ได้แก่ ลายพู่กันอันละเอียดอ่อน รูปทรงออร์แกนิกที่ถูกทำให้ง่ายขึ้น โทนสีพาสเทล และเส้นขอบที่ละมุนตา ด้านล่างของภาพคือชื่อเรื่องที่จัดกึ่งกลางด้วยฟอนต์น้ำหนักเบา ตัวพิมพ์ใหญ่ทั้งหมดที่มีการเว้นช่องไฟกว้าง ตามด้วยบรรทัดคำบรรยายรองขนาดเล็ก และเส้นสั้นสีพาสเทลบาง ๆ หนึ่งเส้นด้านล่าง ข้อกำหนดโดยรวม: อัตราส่วนภาพแนวตั้ง 3:4 ความละเอียดสูง ใช้ตัวอักษรอย่างพอเหมาะพอดี หลีกเลี่ยงภาพที่ดูรกตา ข้อความที่มากเกินไป ลักษณะใบหน้าที่ไม่สอดคล้องกัน และสีสันที่ฉูดฉาดบาดตา
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958112_uben1t_HU9EWwcaoAAYw35.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สร้างโปสเตอร์ภาพวาดมือจากภาพถ่าย - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958148_pfbzh5_HU9EWwoa8AAHdFs.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สร้างโปสเตอร์ภาพวาดมือจากภาพถ่าย - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958230_9diugi_HU9EWwYasAAw8az.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - พรอมต์สร้างโปสเตอร์ภาพวาดมือจากภาพถ่าย - Image 3">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [versatile](https://x.com/SyrianVeterans)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/SyrianVeterans/status/2111981919886062004)
+- **เผยแพร่เมื่อ:** 19 ตุลาคม 2569
+- **ภาษา:** zh
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36686)**
+
+---
+
+### No. 22: โพสต์บนโซเชียลมีเดีย - Editorial ภาพกลางคืนสไตล์เมืองสุดหรู
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1602,7 +1647,7 @@ High-fashion urban night luxe editorial.
 
 ---
 
-### No. 22: โพสต์บนโซเชียลมีเดีย - โถงบันไดสไตล์ Baroque ขนาดจิ๋วแบบแฟนตาซี
+### No. 23: โพสต์บนโซเชียลมีเดีย - โถงบันไดสไตล์ Baroque ขนาดจิ๋วแบบแฟนตาซี
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1635,7 +1680,7 @@ High-fashion urban night luxe editorial.
 
 ---
 
-### No. 23: โพสต์บนโซเชียลมีเดีย - ศิลปินวาดภาพสถานที่ท่องเที่ยวแบบภาพยนตร์
+### No. 24: โพสต์บนโซเชียลมีเดีย - ศิลปินวาดภาพสถานที่ท่องเที่ยวแบบภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1690,7 +1735,7 @@ High-fashion urban night luxe editorial.
 
 ---
 
-### No. 24: โพสต์บนโซเชียลมีเดีย - ภาพบุคคลสไตล์บรรณาธิการเหนือจริงในธีมทางทะเล
+### No. 25: โพสต์บนโซเชียลมีเดีย - ภาพบุคคลสไตล์บรรณาธิการเหนือจริงในธีมทางทะเล
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1840,7 +1885,7 @@ High-fashion urban night luxe editorial.
 
 ---
 
-### No. 25: โพสต์บนโซเชียลมีเดีย - หญิงเอเชียตะวันออกสวมเสื้อคอเต่าสีเทาหน้าผนังคอนกรีต
+### No. 26: โพสต์บนโซเชียลมีเดีย - หญิงเอเชียตะวันออกสวมเสื้อคอเต่าสีเทาหน้าผนังคอนกรีต
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1883,7 +1928,7 @@ High-fashion urban night luxe editorial.
 
 ---
 
-### No. 26: โพสต์บนโซเชียลมีเดีย - สถานีสังเกตสัตว์ป่าลุ่มน้ำป่าฝน โลกขนาดจิ๋ว
+### No. 27: โพสต์บนโซเชียลมีเดีย - สถานีสังเกตสัตว์ป่าลุ่มน้ำป่าฝน โลกขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1916,7 +1961,7 @@ High-fashion urban night luxe editorial.
 
 ---
 
-### No. 27: โพสต์บนโซเชียลมีเดีย - เปรียบเทียบภาพพอร์ตเทรตท่องเที่ยวเกาะกรีก
+### No. 28: โพสต์บนโซเชียลมีเดีย - เปรียบเทียบภาพพอร์ตเทรตท่องเที่ยวเกาะกรีก
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1966,77 +2011,6 @@ High-fashion urban night luxe editorial.
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36158)**
-
----
-
-### No. 28: โพสต์บนโซเชียลมีเดีย - การถ่ายโอนสไตล์ภาพพอร์ตเทรตชายแบบภาพยนตร์
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 คำอธิบาย
-
-พรอมป์สำหรับจำลองสไตล์การถ่ายภาพแบบภาพยนตร์จากภาพอ้างอิงอย่างแม่นยำ สร้างภาพพอร์ตเทรตผู้ชายระดับพรีเมียมพร้อมแสงย้อนสีทองอบอุ่น บรรยากาศมืดหม่น และเนื้อผิวสมจริง
-
-#### 📝 คำสั่ง
-
-```
-วิเคราะห์ภาพอ้างอิงที่อัปโหลดและจำลองสไตล์การถ่ายภาพแบบภาพยนตร์ให้ตรงกันทุกประการ
-
-สร้างภาพพอร์ตเทรตผู้ชายแบบภาพยนตร์ระดับพรีเมียมที่มีภาษาภาพเดียวกันกับภาพอ้างอิง
-
-รักษาองค์ประกอบดังนี้:
-
-แสงย้อนสีทองอบอุ่นรอบเส้นผม
-
-พื้นหลังมืดหม่น
-
-ควันหรือละอองบรรยากาศนุ่มนวล
-
-แสงขอบ (Rim lighting) ที่ชัดเจน
-
-แสงส่องผิวโทนอุ่น
-
-เงาแบบภาพยนตร์ลึก
-
-เนื้อผิวธรรมชาติ
-
-ทรงผมหนาและมีเท็กซ์เจอร์ เห็นเส้นผมเป็นเส้นๆ
-
-เสื้อผ้าแฟชั่นสีเข้ม
-
-แว่นกันแดดพร้อมสะท้อนแสงสมจริง
-
-กรอบภาพพอร์ตเทรตระยะใกล้แบบเดียวกัน
-
-อารมณ์แบบบรรณาธิการ sophisticated แบบเดียวกัน
-
-ความชัดลึกของภาพ (Depth of field) แบบตื้นเท่ากัน
-
-การปรับสีโทนน้ำตาล/ทองอุ่นแบบเดียวกัน
-
-การจัดแสงต้องดูสมจริงทางกายภาพ โดยแสงสีทองช่วยแยกตัวแบบออกจากพื้นหลังควันสีเข้ม
-
-มุมมองเลนส์พอร์ตเทรต 85mm, ความชัดลึกตื้น, สุนทรียภาพ f/1.4, รูขุมขนสมจริง, เนื้อผิวหน้าธรรมชาติ, เส้นผมสมจริง, HDR แบบภาพยนตร์, ถ่ายภาพแฟชั่นมืออาชีพ, 8K Ultra HD
-
-คงใบหน้าให้ดูเป็นธรรมชาติและสัดส่วนถูกต้อง อย่าทำให้ผิวดูเหมือนพลาสติก ห้ามมีลักษณะใบหน้าที่เกินจริง ตาเทียม แว่นตาบิดเบี้ยว หรือลายน้ำ
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791613888838_2p8hbq_HUKjQMNaIAAERkD.jpg" width="600" alt="โพสต์บนโซเชียลมีเดีย - การถ่ายโอนสไตล์ภาพพอร์ตเทรตชายแบบภาพยนตร์ - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Muhammad Jamil](https://x.com/JamilAI55)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/JamilAI55/status/2108427131244179466)
-- **เผยแพร่เมื่อ:** 9 ตุลาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36153)**
 
 ---
 
@@ -2702,7 +2676,77 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 44: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากภาพยนตร์ Sci-Fi พร้อมรูปภาพอ้างอิง
+### No. 44: ภาพขนาดย่อของ YouTube - พรอมต์สไตล์นัวร์แอ็กชันนางเอกยุค 90
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 คำอธิบาย
+
+พรอมต์ข้อความที่มีโครงสร้างสำหรับสร้างภาพสไตล์นัวร์แอ็กชันยุค 90 ของหญิงสาวผมบลอนด์หุ่นนักกีฬา กำลังเล็งปืนพกในฉากอุตสาหกรรม
+
+#### 📝 คำสั่ง
+
+```
+ธีม:
+ภาพยนตร์แอ็กชันนัวร์ยุค 1990s
+
+หัวข้อ:
+หญิงวัยผู้ใหญ่รูปร่างสมส่วนในวัยต้นสามสิบ มาพร้อมลุคนางเอกแอ็กชันคลาสสิก ยืนอยู่ในฉากโรงงานอุตสาหกรรมที่เต็มไปด้วยความตึงเครียด
+
+บุคคล · สีหน้าและอารมณ์:
+ผมบลอนด์แพลตินัมดัดเป็นลอนหนาฟูดูโฉบเฉี่ยว ใบหน้ามีโหนกแก้มสูง ดวงตาสีฟ้าคมกริบจ้องมองอย่างมุ่งมั่น แต่งตาด้วยสโมกี้อาย สีหน้าแสดงออกถึงความพร้อมรบขั้นสูงสุด มีรอยสักลายลวดหนามหมึกสีดำคมชัดปรากฏอยู่บริเวณต้นแขน
+
+เสื้อผ้า · ท่าทาง:
+สวมเสื้อเกาะอกรัดรูปทำจากหนังสีดำขัดเงา เห็นรอยเย็บและเท็กซ์เจอร์ของหนังได้อย่างสมจริง เธอยืนในท่าเล็งปืนสองมือแบบมืออาชีพ ถือปืนพร็อพเงินขนาดใหญ่สำหรับถ่ายทำภาพยนตร์ ที่ข้อมือสวมปลอกแขนเหล็กกล้าประดับหมุดโครเมียม ท่าทางเป็นภาพด้านข้างที่ดูทรงพลัง แขนเหยียดตึงและจับปืนอย่างมั่นคง
+
+พื้นหลัง · แสง:
+สตูดิโอโรงงานอุตสาหกรรมมืดทึมชวนอึดอัด กำแพงคอนกรีตและบรรยากาศมัวหมอง ฉากถูกจัดแสงด้านข้างด้วยคีย์ไลท์สีขาวโทนเย็น เสริมด้วยริมไลท์สีทีลที่เส้นผม เงาที่เข้มลึกและไฮไลต์สะท้อนแสงบนพร็อพโลหะและชุดหนังช่วยสร้างสภาพแวดล้อมที่มีคอนทราสต์สูง
+
+องค์ประกอบภาพ · กล้อง:
+ภาพขนาดกลาง (Medium shot) ถ่ายมุมเสยเพื่อขับเน้นความยิ่งใหญ่แบบฮีโร่ จำลองการถ่ายด้วยเลนส์ Anamorphic ให้ระยะชัดตื้นและโบเก้รูปวงรี จัดองค์ประกอบภาพแบบแนวนอนสไตล์ภาพยนตร์สัดส่วน 16:9
+
+พื้นผิว · สไตล์:
+สไตล์ภาพถ่ายฟิล์ม 35mm เกรนละเอียดและให้ภาพที่สมจริงจนแทบแยกไม่ออก เท็กซ์เจอร์ผิวหนังเก็บรายละเอียดได้สูงมาก เห็นรูขุมขนชัดเจนพร้อมความฉ่ำวาวแบบภาพยนตร์ ลุครวมทั้งหมดจำลองมาจากการสแกนฟิล์มยุค 1990s คอนทราสต์จัดจ้านและใช้โทนสีเย็น
+```
+
+#### 🖼️ รูปภาพที่สร้าง
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958090_jvppes_HU-e7l5WwAAJhWB.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - พรอมต์สไตล์นัวร์แอ็กชันนางเอกยุค 90 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477958240_7bbciu_HU-e7lvWAAAE-Rj.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - พรอมต์สไตล์นัวร์แอ็กชันนางเอกยุค 90 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477956694_nmpp4j_HU-e7mCWkAAEt36.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - พรอมต์สไตล์นัวร์แอ็กชันนางเอกยุค 90 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792477957747_6rilf4_HU-e7mHW8AAvYH2.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - พรอมต์สไตล์นัวร์แอ็กชันนางเอกยุค 90 - Image 4">
+</div>
+
+#### 📌 รายละเอียด
+
+- **ผู้เขียน:** [Dominus Pellissier](https://x.com/iamdomprompt)
+- **แหล่งที่มา:** [Twitter Post](https://x.com/iamdomprompt/status/2112081503635067351)
+- **เผยแพร่เมื่อ:** 19 ตุลาคม 2569
+- **ภาษา:** en
+
+**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=36685)**
+
+---
+
+### No. 45: ภาพขนาดย่อของ YouTube - ภาพนิ่งจากภาพยนตร์ Sci-Fi พร้อมรูปภาพอ้างอิง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2735,7 +2779,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 45: ภาพขนาดย่อของ YouTube - เปรียบเทียบความสมจริงเชิงประวัติศาสตร์ของภารกิจสำรวจแอนตาร์กติกา
+### No. 46: ภาพขนาดย่อของ YouTube - เปรียบเทียบความสมจริงเชิงประวัติศาสตร์ของภารกิจสำรวจแอนตาร์กติกา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2774,7 +2818,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 46: ภาพขนาดย่อของ YouTube - ศิลปะแฟนตาซีนักฆ่าสวมฮู้ดบนหลังคาวิหาร
+### No. 47: ภาพขนาดย่อของ YouTube - ศิลปะแฟนตาซีนักฆ่าสวมฮู้ดบนหลังคาวิหาร
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2810,7 +2854,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 47: ภาพขนาดย่อของ YouTube - พรอมต์ออกแบบภาพปก YouTube พร้อมข้อความซ้อนทับ
+### No. 48: ภาพขนาดย่อของ YouTube - พรอมต์ออกแบบภาพปก YouTube พร้อมข้อความซ้อนทับ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2846,7 +2890,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 48: ภาพขนาดย่อของ YouTube - รถจักรไอน้ำบนสะพานถล่มท่ามกลางพายุ
+### No. 49: ภาพขนาดย่อของ YouTube - รถจักรไอน้ำบนสะพานถล่มท่ามกลางพายุ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2886,7 +2930,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 49: ภาพขนาดย่อของ YouTube - นักบินอวกาศในภาพยนตร์บนยานอวกาศที่เสียหาย
+### No. 50: ภาพขนาดย่อของ YouTube - นักบินอวกาศในภาพยนตร์บนยานอวกาศที่เสียหาย
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2935,7 +2979,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 50: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตมอเตอร์ไซค์ท่ามกลางพระอาทิตย์ตกดินในสไตล์ Double Exposure
+### No. 51: ภาพขนาดย่อของ YouTube - ภาพพอร์ตเทรตมอเตอร์ไซค์ท่ามกลางพระอาทิตย์ตกดินในสไตล์ Double Exposure
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2969,7 +3013,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 51: ภาพขนาดย่อของ YouTube - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
+### No. 52: ภาพขนาดย่อของ YouTube - การเปลี่ยนภาพถ่ายบุคคลให้เป็นความละเอียดสูง
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3003,7 +3047,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 52: ภาพขนาดย่อของ YouTube - ภาพยนตร์อนิเมะดาร์กแฟนตาซีระดับพรีเมียม
+### No. 53: ภาพขนาดย่อของ YouTube - ภาพยนตร์อนิเมะดาร์กแฟนตาซีระดับพรีเมียม
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3037,7 +3081,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 53: ภาพขนาดย่อของ YouTube - หน้าจอถ่ายทอดสดการแข่งขันเบสบอลโคชิเอ็น
+### No. 54: ภาพขนาดย่อของ YouTube - หน้าจอถ่ายทอดสดการแข่งขันเบสบอลโคชิเอ็น
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3071,7 +3115,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 54: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
+### No. 55: ภาพขนาดย่อของ YouTube - ตารางโปสเตอร์ภาพยนตร์แบบ Typographic Emergence
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3105,7 +3149,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 55: ภาพขนาดย่อของ YouTube - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
+### No. 56: ภาพขนาดย่อของ YouTube - ไดโอรามาหนังสือป๊อปอัพขนาดจิ๋ว
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3139,7 +3183,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 56: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
+### No. 57: ภาพขนาดย่อของ YouTube - ศึกบอสเครื่องชงกาแฟแนวไซไฟ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3173,7 +3217,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 57: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
+### No. 58: ภาพขนาดย่อของ YouTube - หญิงยักษ์เหนือจริงในเวนิส
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3207,7 +3251,7 @@ a {argument name="bird species" default="นกโดโด"} ร่างกา
 
 ---
 
-### No. 58: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
+### No. 59: ภาพขนาดย่อของ YouTube - ภาพหลักสำหรับสารคดีกีฬาสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3241,7 +3285,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 59: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
+### No. 60: ภาพขนาดย่อของ YouTube - ภาพถ่ายเมฆรูปช้างสุดตระการตา
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3285,7 +3329,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 60: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
+### No. 61: ภาพขนาดย่อของ YouTube - เปลี่ยนสถานีรถไฟให้เป็นสไตล์อนิเมะ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3319,7 +3363,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 61: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
+### No. 62: ภาพขนาดย่อของ YouTube - ความโกลาหลของ Mr. Bean ในรถ Mini Cooper
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3373,7 +3417,7 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 
 ---
 
-### No. 62: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
+### No. 63: ภาพขนาดย่อของ YouTube - ภาพคอลลาจพอร์ตเทรตบนดาดฟ้าใต้แสงจันทร์ในสไตล์ภาพยนตร์
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3410,40 +3454,6 @@ do this for {argument name="event" default="ฟุตบอลโลก 2026 ท
 - **ภาษา:** en
 
 **[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=20149)**
-
----
-
-### No. 63: ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 คำอธิบาย
-
-ภาพพอร์ตเทรตมุมสูงสไตล์ภาพยนตร์ของหญิงสาวในชุดสไตล์ Balenciaga นั่งบนพรมพร้อมเค้ก กำลังเลียใบมีดให้ความรู้สึกแบบสตรีทแกลมที่ดูผ่อนคลาย
-
-#### 📝 คำสั่ง
-
-```
-ห้ามเปลี่ยนลักษณะใบหน้า ภาพพอร์ตเทรตระยะใกล้สไตล์ภาพยนตร์ของหญิงสาวคนหนึ่ง ภาพถ่ายนี้ถ่ายจากมุมสูงเล็กน้อย เธอนั่งอยู่บนพื้นซึ่งปูด้วยพรมสีเทา เธอกำลังหันหน้าเข้าหากล้อง ขาข้างหนึ่งงออยู่ ส่วนอีกข้างเหยียดตรง ระหว่างขาของเธอมีจานแก้วแบนๆ วางอยู่พร้อมเค้กที่ถูกกินไปบางส่วน มือข้างหนึ่งวางอยู่ข้างเค้กและมีคราบเค้กเปื้อนอยู่ ส่วนมืออีกข้างถือมีดและกำลังเลียเค้กออกจากใบมีด สายตาของเธอหันไปทางด้านข้างเล็กน้อย ภาพถ่ายนี้ถ่ายด้วยแฟลช มีการเพิ่มเกรนฟิล์ม บรรยากาศโดยรวมของภาพดูผ่อนคลายและให้ความรู้สึกแบบสตรีทแกลม เธอสวมใส่ {argument name="clothing style" default="ชุดสไตล์ Balenciaga"} เป็นภาพถ่ายที่สมจริงและมีรายละเอียด
-```
-
-#### 🖼️ รูปภาพที่สร้าง
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1778743482684_foflzr_HIM-T2abYAAtTX0.jpg" width="600" alt="ภาพขนาดย่อของ YouTube - ภาพถ่ายพอร์ตเทรตแนวสตรีทแกลมกับมีดเค้ก - Image 1">
-</div>
-
-#### 📌 รายละเอียด
-
-- **ผู้เขียน:** [Dr. Samia](https://x.com/oye_samia)
-- **แหล่งที่มา:** [Twitter Post](https://x.com/oye_samia/status/2054554374270226871)
-- **เผยแพร่เมื่อ:** 13 พฤษภาคม 2569
-- **ภาษา:** en
-
-**[👉 ลองเลย →](https://youmind.com/th-TH/nano-banana-pro-prompts?id=19977)**
 
 ---
 
@@ -6325,7 +6335,7 @@ Input A คือหัวข้อใดก็ได้ (วัตถุ, ส�
 
 <div align="center">
 
-### 🎯 15673 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15675 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6388,6 +6398,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-19T08:08:12.876Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-10-20T08:03:33.449Z</sub>
 
 </div>
