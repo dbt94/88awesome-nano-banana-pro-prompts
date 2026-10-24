@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15802** |
+| 📝 कुल प्रॉम्पट्स | **15806** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **शुक्रवार, 23 अक्टूबर 2026 को 8:03:47 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **शनिवार, 24 अक्टूबर 2026 को 8:03:30 am UTC बजे** |
 
 </div>
 
@@ -654,7 +654,170 @@ AI समाचार सामग्री को हाथ से बने, �
 
 > 📝 प्रकाशन तिथि के अनुसार क्रमबद्ध (नवीनतम पहले)
 
-### No. 1: प्रोफ़ाइल / अवतार - पिक्सर स्टाइल जुड़वां पोर्ट्रेट
+### No. 1: प्रोफ़ाइल / अवतार - क्यूट स्टार नाइट लाइट पोर्ट्रेट तुलना
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+GPT2.5 Flare, Nano Pro, Grok और SeeDream की तुलना - एक चमकते हुए स्टार शेप नाइट लाइट पकड़े हुए महिला का फोटोरियलिस्टिक पोर्ट्रेट बनाने के लिए प्रॉम्प्ट का उपयोग करते हुए।
+
+#### 📝 प्रॉम्पट
+
+```
+एक युवा पूर्वी एशियाई महिला का बेहद करीब से लिया गया फोटोरियलिस्टिक पोर्ट्रेट। वह अपने दोनों हाथों में सावधानी से पकड़े एक छोटे से चमकते तारे के आकार वाले नाइट लाइट को बड़ी ही कोमल और स्नेह भरी नज़रों से देख रही है, जिसकी गर्म रोशनी उसके चेहरे को जगमगा रही है।
+उसने हल्के क्रीम रंग का फ्लोरल पैजामा टॉप पहना हुआ है। माहौल बेहद निजी और नाज़ुक है।
+चमकते तारे से निकलती नर्म और गर्म रोशनी उसके चेहरे और हाथों पर एक हल्की सी दमक बिखेर रही है, शैलो डेप्थ ऑफ फील्ड, बेहद बारीक स्किन टेक्सचर, सपनों जैसा और भावुक मूड, आँखों और तारे पर शार्प फोकस, शानदार और अंतरंग कंपोज़िशन, 8k फोटोरियलिस्टिक।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502170_5dzm3u_HVUxhdMbIAA9_Av.jpg" width="600" alt="प्रोफ़ाइल / अवतार - क्यूट स्टार नाइट लाइट पोर्ट्रेट तुलना - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502062_bsbp7w_HVUyBgxboAAuN4Z.jpg" width="600" alt="प्रोफ़ाइल / अवतार - क्यूट स्टार नाइट लाइट पोर्ट्रेट तुलना - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823501908_0zrn6a_HVUyGdPa8AAl33A.jpg" width="600" alt="प्रोफ़ाइल / अवतार - क्यूट स्टार नाइट लाइट पोर्ट्रेट तुलना - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502849_k0pq4j_HVUzcXraoAAfjWr.jpg" width="600" alt="प्रोफ़ाइल / अवतार - क्यूट स्टार नाइट लाइट पोर्ट्रेट तुलना - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aiko💕](https://x.com/LoveAiko2003)
+- **स्रोत:** [Twitter Post](https://x.com/LoveAiko2003/status/2113652258772783233)
+- **प्रकाशित:** 23 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36836)**
+
+---
+
+### No. 2: प्रोफ़ाइल / अवतार - Nano Banana Pro लेक पोर्ट्रेट तुलना
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+चार मॉडलों (Grok, SeeDream, Nano Pro x2) की तुलना, जिसमें एक पूर्वी एशियाई महिला के झील में चट्टान पर बैठे यथार्थवादी पोर्ट्रेट के लिए प्रॉम्प्ट का उपयोग किया गया है। सभी मॉडलों के लिए प्रॉम्प्ट उपलब्ध कराया गया है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक युवा पूर्वी एशियाई महिला का फोटोरियलिस्टिक अपर-बॉडी क्लोज़-अप। वह एक शांत झील में रखे एक बड़े पत्थर पर बैठी है, और हल्के विचारमग्न भाव के साथ थोड़ा सा किनारे की ओर देख रही है।
+
+उसने पतली स्पेगेटी स्ट्रैप्स वाली हल्की डस्टी ब्लू स्लिप ड्रेस पहनी हुई है। स्लिम एथलेटिक शरीर और नेचुरल स्किन टेक्सचर।
+
+पानी में हल्की लहरों की परछाइयों, कोमल बादलों वाली प्राकृतिक रोशनी और बैकग्राउंड में धुंधली हरियाली के साथ शांत झील का नज़ारा। बेहद बारीक त्वचा, रियलिस्टिक फैब्रिक, चेहरे और ऊपरी शरीर पर शार्प फोकस, 8k फोटोरियलिस्टिक।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502245_imdqpo_HVUH5vAbEAAMeK3.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Nano Banana Pro लेक पोर्ट्रेट तुलना - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502158_mzpa4p_HVUIDlga8AAcbW-.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Nano Banana Pro लेक पोर्ट्रेट तुलना - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823500635_7at47x_HVUIL3XboAALEyJ.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Nano Banana Pro लेक पोर्ट्रेट तुलना - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823501674_oa3gne_HVUIQTobIAAkGpp.jpg" width="600" alt="प्रोफ़ाइल / अवतार - Nano Banana Pro लेक पोर्ट्रेट तुलना - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aiko💕](https://x.com/LoveAiko2003)
+- **स्रोत:** [Twitter Post](https://x.com/LoveAiko2003/status/2113604713631678955)
+- **प्रकाशित:** 23 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36835)**
+
+---
+
+### No. 3: प्रोफ़ाइल / अवतार - बैंगनी स्वेटर पोर्ट्रेट तुलना
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+YouMind के Nano Pro, SeeDream Lite, ChatGPT और Flux 2 की तुलना: एक फोटोरियलिस्टिक अल्ट्रा क्लोज-अप पोर्ट्रेट जिसमें गुलाबी बालों वाली महिला लैवेंडर स्वेटर पहने हुए है।
+
+#### 📝 प्रॉम्पट
+
+```
+एक युवा पूर्वी एशियाई महिला का फोटोरियलिस्टिक अल्ट्रा क्लोज़-अप पोर्ट्रेट, जिसके हल्के डस्टी पिंक रंग के छोटे बाल ढीली साइड ब्रेड में सजे हुए हैं। वह एक कोमल और गर्मजोशी भरी मुस्कान के साथ कैमरे की ओर देख रही है।
+
+उसने हल्के लैवेंडर रंग का बुना हुआ स्वेटर और छोटे मोती के झुमके पहने हुए हैं। पतला और एथलेटिक शरीर।
+
+गर्म प्राकृतिक रोशनी और साफ़, हल्का ब्लर बैकग्राउंड वाला नरम इनडोर सेटिंग। बेहद विस्तृत स्किन टेक्सचर, यथार्थवादी फैब्रिक, शार्प फोकस, आकर्षक और स्वाभाविक पोर्ट्रेट फोटोग्राफी, 8k फोटोरियलिस्टिक।
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504000_5cnt87_HVTKQEYbUAAzju-.jpg" width="600" alt="प्रोफ़ाइल / अवतार - बैंगनी स्वेटर पोर्ट्रेट तुलना - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504142_xddwdq_HVTKTiJbYAABBqC.jpg" width="600" alt="प्रोफ़ाइल / अवतार - बैंगनी स्वेटर पोर्ट्रेट तुलना - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504022_dniklv_HVTKZXkbQAA8c7e.jpg" width="600" alt="प्रोफ़ाइल / अवतार - बैंगनी स्वेटर पोर्ट्रेट तुलना - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504942_qm7qxx_HVTKfgbawAAvrc0.jpg" width="600" alt="प्रोफ़ाइल / अवतार - बैंगनी स्वेटर पोर्ट्रेट तुलना - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aiko💕](https://x.com/LoveAiko2003)
+- **स्रोत:** [Twitter Post](https://x.com/LoveAiko2003/status/2113536852603134291)
+- **प्रकाशित:** 23 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36838)**
+
+---
+
+### No. 4: प्रोफ़ाइल / अवतार - पिक्सर स्टाइल जुड़वां पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -699,7 +862,7 @@ AI समाचार सामग्री को हाथ से बने, �
 
 ---
 
-### No. 2: प्रोफ़ाइल / अवतार - रेट्रो अस्पताल नर्स कॉस्प्ले प्रॉम्प्ट
+### No. 5: प्रोफ़ाइल / अवतार - रेट्रो अस्पताल नर्स कॉस्प्ले प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -755,7 +918,7 @@ Color Palette: "{argument name="color palette" default="White, cream, muted teal
 
 ---
 
-### No. 3: प्रोफ़ाइल / अवतार - 2000 के दशक की शुरुआत में इंटरनेट कैफे में वेबकैम पर जोड़े
+### No. 6: प्रोफ़ाइल / अवतार - 2000 के दशक की शुरुआत में इंटरनेट कैफे में वेबकैम पर जोड़े
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -799,7 +962,7 @@ Format: "{argument name="format" default="4:3 लैंडस्केप"}"
 
 ---
 
-### No. 4: प्रोफ़ाइल / अवतार - सिनेमैटिक पोर्ट्रेट: लाल ड्रेस में महिला
+### No. 7: प्रोफ़ाइल / अवतार - सिनेमैटिक पोर्ट्रेट: लाल ड्रेस में महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -832,7 +995,7 @@ Format: "{argument name="format" default="4:3 लैंडस्केप"}"
 
 ---
 
-### No. 5: प्रोफ़ाइल / अवतार - ड्रामेटिक लाइटिंग के साथ सिनेमैटिक पोर्ट्रेट
+### No. 8: प्रोफ़ाइल / अवतार - ड्रामेटिक लाइटिंग के साथ सिनेमैटिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -867,7 +1030,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 6: प्रोफ़ाइल / अवतार - देहाती सड़क पर जूता देखती हुई लड़की
+### No. 9: प्रोफ़ाइल / अवतार - देहाती सड़क पर जूता देखती हुई लड़की
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -937,7 +1100,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 7: प्रोफ़ाइल / अवतार - कॉस्प्लेयर इन रूम मॉडल तुलना
+### No. 10: प्रोफ़ाइल / अवतार - कॉस्प्लेयर इन रूम मॉडल तुलना
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -988,7 +1151,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 8: प्रोफ़ाइल / अवतार - Nano Banana Pro के लिए लक्जरी ब्यूटी पोर्ट्रेट प्रॉम्प्ट
+### No. 11: प्रोफ़ाइल / अवतार - Nano Banana Pro के लिए लक्जरी ब्यूटी पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1025,7 +1188,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 9: प्रोफ़ाइल / अवतार - Nano Banana Pro के लिए फैशन एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
+### No. 12: प्रोफ़ाइल / अवतार - Nano Banana Pro के लिए फैशन एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1058,7 +1221,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 10: प्रोफ़ाइल / अवतार - लक्ज़री कॉर्पोरेट फैशन पोर्ट्रेट
+### No. 13: प्रोफ़ाइल / अवतार - लक्ज़री कॉर्पोरेट फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,7 +1264,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 11: प्रोफ़ाइल / अवतार - पोनीटेल पोर्ट्रेट प्रॉम्प्ट
+### No. 14: प्रोफ़ाइल / अवतार - पोनीटेल पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1166,7 +1329,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 12: प्रोफ़ाइल / अवतार - दक्षिण एशियाई महिला का सिनेमैटिक पोर्ट्रेट
+### No. 15: प्रोफ़ाइल / अवतार - दक्षिण एशियाई महिला का सिनेमैटिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +1362,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 13: प्रोफ़ाइल / अवतार - रिट्रो हांगकांग चा चान टेन पोर्ट्रेट प्रॉम्प्ट
+### No. 16: प्रोफ़ाइल / अवतार - रिट्रो हांगकांग चा चान टेन पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1266,7 +1429,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 14: प्रोफ़ाइल / अवतार - स्टूडियो पोर्ट्रेट में पहचान का संरक्षण
+### No. 17: प्रोफ़ाइल / अवतार - स्टूडियो पोर्ट्रेट में पहचान का संरक्षण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1308,7 +1471,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 15: प्रोफ़ाइल / अवतार - ओसाका स्टेशन में एस्केलेटर पर सपने देखती दुल्हन
+### No. 18: प्रोफ़ाइल / अवतार - ओसाका स्टेशन में एस्केलेटर पर सपने देखती दुल्हन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1359,7 +1522,7 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 
 ---
 
-### No. 16: प्रोफ़ाइल / अवतार - पहचान-सुरक्षित सैटिन ड्रेस पोर्ट्रेट
+### No. 19: प्रोफ़ाइल / अवतार - पहचान-सुरक्षित सैटिन ड्रेस पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1395,134 +1558,6 @@ Gemini Nano Banana Pro द्वारा बनाई गई एक पूर�
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36256)**
-
----
-
-### No. 17: प्रोफ़ाइल / अवतार - गोल्डन आवर पोर्ट्रेट: सख्त पहचान संरक्षण के साथ
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक ऐसी फोटोरियलिस्टिक तस्वीर बनाता है जिसमें एक महिला स्पोर्टी कपड़ों में सूर्यास्त की पृष्ठभूमि के सामने खड़ी है, और संदर्भ चेहरे का सख्ती से पालन किया जाता है।
-
-#### 📝 प्रॉम्पट
-
-```
-22 वर्ष की एक सुंदर युवा महिला का फोटोरियलिस्टिक पोर्ट्रेट, जो आराम से एक गहरे ग्रेनाइट किनारे पर बैठी है और कैमरे की ओर सीधे देख रही है, उसके चेहरे पर एक ढीला, सूक्ष्म मुस्कान है। वह एक स्पोर्टी, रंग-ब्लॉक्ड आउटफिट पहने हुए है: छोटी बाजू वाली टी-शर्ट जिसका अगला हिस्सा ठोस सफेद है और बाजू व कंधे चमकीले नारंगी हैं, इसके साथ मेल खाते नारंगी शॉर्ट्स जिनमें सफेद ड्रॉस्ट्रिंग और साइड स्ट्राइप्स हैं। उसका दायां पैर ऊपर उठा हुआ है और दाहिनी बाजू आराम से घुटने पर टिकी हुई है। उसका स्वभाविक, परिष्कृत और स्त्रीलिंग रूप है, स्वस्थ और चमकदार त्वचा के साथ।
-
-सेटिंग एक बाहरी बालकनी या टेरेस है जिसमें ब्लैक मेटल रेलिंग है। पृष्ठभूमि में, गोल्डन आवर का शानदार सूर्यास्त एक चौड़ी नदी या झील को रोशन कर रहा है, आकाश में जीवंत गर्म नारंगी और पीले रंग बिखेर रहा है, और पानी पर सुंदर प्रतिबिंब डाल रहा है, जबकि बाईं ओर हरे-भरे पेड़ दिखाई दे रहे हैं।
-
-85mm लेंस पर शूट किया गया, f/1.8 एपर्चर, सिनेमाई गोल्डन-आवर लाइटिंग, कम डेप्थ ऑफ फील्ड, सुंदर प्राकृतिक बैकग्राउंड बोकेह, अल्ट्रा-रियलिस्टिक त्वचा बनावट, नरम त्वचा चमक, यथार्थवादी चेहरे की विस्तृत जानकारी, प्राकृतिक रंग, प्रोफेशनल फोटोग्राफी, हाई रेजोल्यूशन।
-
-उसके चेहरे और पहचान के लिए अपलोड किए गए संदर्भ छवि (REFERENCE IMAGE) का सख्ती से उपयोग करें। मूल चेहरे को 100% अपरिवर्तित और संदर्भ के समान रखें — वही चेहरे की विशेषताएं, चेहरा संरचना, अनुपात, त्वचा का रंग, आंखों का आकार और रंग, नाक, होंठ, भौंहें, जबड़ा, हेयरस्टाइल, बालों की बनावट, उम्र, और प्राकृतिक भाव। चेहरे को सुंदर न बनाएं, बदलें नहीं, पुनः आकार न दें, और आदर्श न बनाएं। संदर्भ छवि से बिल्कुल वही पहचान और हेयरस्टाइल बनाए रखें। अंतिम छवि ऐसी दिखनी चाहिए जैसे संदर्भ फोटो में मौजूद वही लड़की हो, केवल इसे इस नई सेटिंग और आउटफिट में रखा गया हो।
-
-त्वचा में प्राकृतिक स्वस्थ चमक होनी चाहिए जबकि यथार्थवादी त्वचा बनावट और रोमछिद्र (pores) बने रहें। कोई चेहरा विकृति नहीं, कोई पहचान परिवर्तन नहीं, कोई कृत्रिम ब्यूटी फिल्टर नहीं, कोई अत्यधिक मेकअप नहीं, कोई चेहरे में बदलाव नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182789986_5x7oxl_HTwdO5NaMAApOEZ.jpg" width="600" alt="प्रोफ़ाइल / अवतार - गोल्डन आवर पोर्ट्रेट: सख्त पहचान संरक्षण के साथ - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Kiran Ai](https://x.com/Kiran_AI1)
-- **स्रोत:** [Twitter Post](https://x.com/Kiran_AI1/status/2106590895575630035)
-- **प्रकाशित:** 4 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35920)**
-
----
-
-### No. 18: प्रोफ़ाइल / अवतार - सांझ के समय दक्षिण एशियाई पुरुष का यथार्थवादी पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-पारंपरिक वस्त्रों में एक स्टाइलिश पुरुष का फोटोरियलिस्टिक पोर्ट्रेट बनाता है जो सांझ के समय बाहर बैठा है, मूल चेहरे की पहचान को संरक्षित करते हुए।
-
-#### 📝 प्रॉम्पट
-
-```
-एक उच्च-रिज़ॉल्यूशन, यथार्थवादी पोर्ट्रेट जिसमें एक स्टाइलिश युवा दक्षिण एशियाई पुरुष सांझ/शाम के समय एक पार्क या खुले कैफे में आराम से बाहर बैठा है। उसके बाल छोटे और स्टाइलिश हैं, और चेहरे पर हल्की दाढ़ी है। वह हल्के रेशमी पीले शलवार कमीज, सफेद स्नीकर्स और अपने बाएं कलाई पर चमकदार नीले डायल वाली एक लक्जरी चांदी की घड़ी पहने हुए है।
-वह एक आधुनिक गहरे रंग की बुनी हुई पैटियो कुर्सी पर सुखआसन में बैठा है, एक हाथ एक छोटी गोल बाहरी मेज़ पर टिका हुआ है जिस पर गर्म ब्लैक कॉफी का एक कप (मग पर 'COFFEE' छपा हुआ) रखा है। एक हाथ सोच विचार के साथ ठोड़ी के नीचे रखा है, और वह आत्मविश्वास भरे भाव के साथ सीधे कैमरे की ओर देख रहा है।
-पृष्ठभूमि: एक धुंधला, हरियाली से भरा पार्क दृश्य जहाँ नरम, गर्म स्ट्रीट लाइट्स का बोकेह प्रभाव है। आकाश के ऊपरी दाएं कोने में, एक बड़ा, स्पष्ट पूर्णिमा चंद्रमा चमक रहा है। गर्म, सिनेमाई सांझ की रोशनी, विषय पर तीखा फोकस, फोटोरियलिस्टिक, 8k गुणवत्ता, डेप्थ ऑफ फील्ड। मूल चेहरा और हेयरस्टाइल 100% संदर्भित रखें
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101707998_t31yjg_HTt75roaQAEvPyS.jpg" width="600" alt="प्रोफ़ाइल / अवतार - सांझ के समय दक्षिण एशियाई पुरुष का यथार्थवादी पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Mr.AI](https://x.com/Mr_Ai6)
-- **स्रोत:** [Twitter Post](https://x.com/Mr_Ai6/status/2106413507059351763)
-- **प्रकाशित:** 3 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35921)**
-
----
-
-### No. 19: प्रोफ़ाइल / अवतार - जापानी महिला मॉडल तुलना प्रॉम्प्ट
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-शांत आवासीय सड़क पर एक साफ-सुथरी दिखने वाली जापानी महिला को GPT Image 2/2.5 वेरिएंट्स और Nano Banana Pro के बीच तुलना करने के लिए एक प्रॉम्प्ट।
-
-#### 📝 प्रॉम्पट
-
-```
-{argument name="subject_en" default="एक साफ-सुथरी दिखने वाली जापानी महिला"} {argument name="location_en" default="एक शांत आवासीय सड़क के फुटपाथ पर"}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711443_48ijwx_HTq7cNGaMAAGa8J.jpg" width="600" alt="प्रोफ़ाइल / अवतार - जापानी महिला मॉडल तुलना प्रॉम्प्ट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711472_hseqmw_HTq7d-SbIAAC7-z.jpg" width="600" alt="प्रोफ़ाइल / अवतार - जापानी महिला मॉडल तुलना प्रॉम्प्ट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711413_1207t8_HTq7fdeaoAEEvP7.jpg" width="600" alt="प्रोफ़ाइल / अवतार - जापानी महिला मॉडल तुलना प्रॉम्प्ट - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101712015_pbdsfx_HTq7jWqagAA3V2q.jpg" width="600" alt="प्रोफ़ाइल / अवतार - जापानी महिला मॉडल तुलना प्रॉम्प्ट - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [野田吾郎](https://x.com/goro_noda23327)
-- **स्रोत:** [Twitter Post](https://x.com/goro_noda23327/status/2106202442673373411)
-- **प्रकाशित:** 3 अक्टूबर 2026
-- **भाषाएं:** ja
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35925)**
 
 ---
 
@@ -1576,7 +1611,62 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
+### No. 21: सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+Nano Pro सहित एक मल्टी-मॉडल तुलना, जिसमें रेड वेलवेट लियोटार्ड पहने महिला का स्टाइलिश सिनेमाई पोर्ट्रेट शामिल है।
+
+#### 📝 प्रॉम्पट
+
+```
+बालों को एक खूबसूरत ऊँची जूड़े (हाई बन) में सजाए, एक युवा पूर्वी एशियाई महिला का बेहद स्टाइलिश सिनेमैटिक पोर्ट्रेट। वह एक आकर्षक मुद्रा में खड़ी है, सिर हल्का ऊपर उठा हुआ और चेहरे पर शांत भाव, एक हाथ कमर पर टिका हुआ।
+
+उसने गहरे बरगंडी रंग का वेलवेट फिगर-स्केटिंग लियोटार्ड पहना हुआ है, जिस पर काले लेस की बारीक कढ़ाई है, शीयर मेश वाली लंबी बाजूँ हैं, ऊँचा रफल्ड कॉलर है, और कमर के पास नाजुक रफल डिज़ाइन है। सुडौल एथलेटिक शरीर और बेहद आकर्षक अंदाज़।
+
+साफ़-सुथरा मिनिमल बैकग्राउंड और नर्म लेकिन ड्रामैटिक लाइटिंग, जो समृद्ध वेलवेट टेक्सचर और लेस की बारीकियों को उभारती है। हाई-फैशन एडिटोरियल स्टाइल, परिष्कृत कंपोज़िशन, लग्ज़री फैब्रिक रेंडरिंग, शार्प फोकस, देखने में बेहद खूबसूरत और शानदार माहौल, 8k.
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502150_tlvloh_HVUuzN4bUAAJI64.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502105_kotbqn_HVUu57maQAAOD7F.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502143_ge539f_HVUu-jfaIAEPjKc.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823503083_n18j4m_HVUwD3EbYAAps9j.jpg" width="600" alt="सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [Aiko💕](https://x.com/LoveAiko2003)
+- **स्रोत:** [Twitter Post](https://x.com/LoveAiko2003/status/2113648510512116183)
+- **प्रकाशित:** 23 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36837)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,7 +1701,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - दुआ लिपा का सरेल वॉयूरिस्टिक पोर्ट्रेट
+### No. 23: सोशल मीडिया पोस्ट - दुआ लिपा का सरेल वॉयूरिस्टिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1713,7 +1803,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - फोटो से हस्तनिर्मित इलस्ट्रेशन पोस्टर प्रॉम्प्ट
+### No. 24: सोशल मीडिया पोस्ट - फोटो से हस्तनिर्मित इलस्ट्रेशन पोस्टर प्रॉम्प्ट
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1758,7 +1848,7 @@ Nano Banana 2.1 द्वारा तैयार किया गया एक
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - उच्च-फैशन शहरी रात्रि संपादकीय
+### No. 25: सोशल मीडिया पोस्ट - उच्च-फैशन शहरी रात्रि संपादकीय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1810,7 +1900,7 @@ Nano Banana 2.1 द्वारा तैयार किया गया एक
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - कल्पनाशील लघु बारोकपंक सीढ़ी हॉल
+### No. 26: सोशल मीडिया पोस्ट - कल्पनाशील लघु बारोकपंक सीढ़ी हॉल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1843,7 +1933,7 @@ Nano Banana 2.1 द्वारा तैयार किया गया एक
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - सिनेमैटिक ट्रैवल आर्टिस्ट लैंडमार्क का स्केच बनाते हुए
+### No. 27: सोशल मीडिया पोस्ट - सिनेमैटिक ट्रैवल आर्टिस्ट लैंडमार्क का स्केच बनाते हुए
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1895,156 +1985,6 @@ Nano Banana 2.1 द्वारा तैयार किया गया एक
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36394)**
-
----
-
-### No. 27: सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक विस्तृत JSON प्रॉम्प्ट जो एक महिला को एक समुद्रीय तिजोरी में तैरते हुए पानी के वस्त्रों और मछलियों के साथ अत्यंत यथार्थवादी असाधारण संपादकीय फोटोग्राफ उत्पन्न करने के लिए उपयोग करता है, जिसमें विशिष्ट कैमरा सेटिंग्स और लाइटिंग निर्देश शामिल हैं।
-
-#### 📝 प्रॉम्पट
-
-```
-{
-  "vibe_title_en": "Abyssal Archive",
-  "master_prompt": "The Protagonist का एक अत्यंत यथार्थवादी, फुल-बॉडी शॉट जो एक घने और अव्यवस्थित Maritime Antiquities Vault में खड़ी है। विषय एक मोटी, मौसम से बिगड़ी हुई लॉगबुक को आराम से पढ़ रही है, अपने चारों ओर हो रहे असाधारण भौतिकी से पूरी तरह असंबंधित। उच्च बजट के व्यावहारिक प्रभावों की एक उपलब्धि में, नायिका का निचला वस्त्र पूरी तरह से तैरती हुई, गतिशील रूप से छिटकती नमकीन जल से बना है, जिसे समय में स्थिर कर दिया गया है। इस मोटे, पारदर्शी तरल मैट्रिक्स के भीतर, कई भारी, अत्यधिक विस्तृत चांदी की मेकरेल मछलियाँ तैर रही हैं और पैरों के चारों ओर लिपटी हुई हैं, उनकी गीली शल्क स्पेकुलर हाइलाइट्स को पकड़ रही हैं। व्यस्त वातावरण एक अव्यवस्थित, संग्रहकर्ता जैसा अभिलेखागार है: पानी से क्षतिग्रस्त नेविगेशनल चार्ट के ढेर, जमा किए गए मार्बल बस्ट, उलझे हुए मछली पकड़ने के जाल, निलंबित एनाटॉमिकल व्हेल हड्डियाँ, और ग्लास प्रिज़्म अग्रभूमि और पृष्ठभूमि को अव्यवस्थित करते हैं, तीव्र डेप्थ ऑफ फील्ड ऑक्लूजन बनाते हैं। वॉल्यूमेट्रिक प्रकाश संघनन से ढके स्काईलाइट के माध्यम से रिसता है, घूमते हुए धूल के कणों और लटकती हुई समुद्री कुहासे को रोशन करता है। Hasselblad H6D-100c पर 80mm f/1.9 लेंस के साथ कैप्चर किया गया। सिनेमाई उच्च-कंट्रास्ट कियारोस्कोरो लाइटिंग, जल के बूंदों के भौतिक भार, विषय की त्वचा के रोमछिद्रों, और ऊपरी बोडिस के बुने हुए टेक्सचर को महत्व देते हुए। Kodak Portra 400 फिल्म स्टॉक, जैविक फिल्म ग्रेन, असाधारणता और प्रतिष्ठित संपादकीय फोटोग्राफी का कुशल मिश्रण। कोई नियॉन नहीं।",
-  "meta": {
-    "intent": "Surreal Editorial Photography",
-    "priorities": "Photorealistic impossible physics, extreme environmental clutter, high-end medium format textures",
-    "device_profile": "Hasselblad H6D-100c"
-  },
-  "frame": {
-    "aspect": "9:16",
-    "composition": "Full-body environmental portrait",
-    "layout": "Subject slightly off-center, framed by foreground debris and background archival stacks",
-    "camera_angle": "Eye level, straight on to subject's torso",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist",
-    "demographics": "Ageless, ethereal presence",
-    "face": "Clean, natural features, hyper-detailed pores",
-    "hair": "Wet, clinging to the neck and shoulders, dark",
-    "body": "Statuesque, seamlessly transitioning into the surreal water element",
-    "expression": "Calm, deeply absorbed in reading, detached from the chaos",
-    "pose": "Standing gracefully, holding a heavy book open with both hands, slightly looking down"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Upper bodice",
-        "material": "Wet silk clinging to the skin",
-        "color": "Translucent aquatic blue",
-        "fit": "Form-fitting"
-      },
-      {
-        "item": "Flowing lower garment",
-        "material": "Levitating liquid saltwater and living mackerel",
-        "color": "Transparent cyan and silver",
-        "fit": "Dynamic, kinetic, wrapping around the legs"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Antique heavy logbook",
-        "color": "Faded black and gold",
-        "material": "Leather and thick parchment",
-        "brand_style": "Weathered maritime archival"
-      },
-      {
-        "item": "High-heeled stilettos",
-        "color": "Glossy black",
-        "material": "Patent leather",
-        "brand_style": "Classic, elegant contrast to the organic water"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Maritime Antiquities Vault and Restoration Workshop",
-    "surfaces": "Wet concrete, tarnished brass, damp marble, decaying paper",
-    "depth": "Extremely deep and cluttered, with foreground occlusion from hanging nets and background stacks of artifacts",
-    "atmosphere": "Heavy, humid, smelling of salt and old paper, thick with volumetric mist and dust motes",
-    "lens_interaction": "Shallow depth of field, foreground elements completely out of focus, specular highlights blooming off the water droplets"
-  },
-  "lighting": {
-    "key": "Overhead diffuse skylight mixed with a harsh, directional cinematic spotlight from the upper left",
-    "fill": "Cool, bouncing ambient light from the surrounding water elements",
-    "rim": "Crisp silver rim light separating the splashing water and fish from the dark, cluttered background",
-    "shadows": "Deep, rich, high-contrast chiaroscuro, engulfing the corners of the cluttered room",
-    "color_temperature": "Cool oceanic tones mixed with warm, aged parchment hues",
-    "sensor_flare": "Subtle organic halation around the specular highlights of the splashing water"
-  },
-  "camera": {
-    "lens_type": "Medium Format Prime",
-    "focal_length": "80mm",
-    "aperture": "f/1.9",
-    "focus": "Tack sharp on the subject's face, the book, and the closest fish",
-    "sensor_format": "Medium Format 100MP",
-    "perspective_distortion": "Zero distortion, purely natural and highly compressed"
-  },
-  "post_processing": {
-    "color": "Kodak Portra 400 color science, rich shadows, luminescent highlights",
-    "tonality": "Cinematic contrast, retaining details in the wet highlights",
-    "texture": "Prominent analog film grain, hyper-realistic micro-contrast on skin and fish scales",
-    "digital_sharpening": "None, optical sharpness only",
-    "chromatic_aberration": "Very faint fringe on the extreme edges of the water droplets"
-  },
-  "negative_specifications": [
-    "neon",
-    "cyberpunk",
-    "minimalist",
-    "empty room",
-    "clean studio",
-    "digital illustration",
-    "cartoonish",
-    "flat lighting",
-    "plastic skin",
-    "CGI look",
-    "floating text",
-    "dull textures"
-  ]
-}
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550712_7fd4c5_HUb-SosXMAE7_N3.jpg" width="600" alt="सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550848_c8cj1p_HUb-SlRWoAAH9c8.jpg" width="600" alt="सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550216_fp7125_HUb-SsEXsAAA4tj.jpg" width="600" alt="सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873551203_b2w3ia_HUb-SlNWwAAHY2X.jpg" width="600" alt="सोशल मीडिया पोस्ट - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 4">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2109653076499902934)
-- **प्रकाशित:** 12 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36357)**
 
 ---
 
@@ -4700,7 +4640,157 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 83: प्रोडक्ट मार्केटिंग - कंक्रीट दीवार के सामने ग्रे टर्टलनेक पहने पूर्वी एशियाई महिला
+### No. 83: प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+एक विस्तृत JSON प्रॉम्प्ट जो एक महिला को एक समुद्रीय तिजोरी में तैरते हुए पानी के वस्त्रों और मछलियों के साथ अत्यंत यथार्थवादी असाधारण संपादकीय फोटोग्राफ उत्पन्न करने के लिए उपयोग करता है, जिसमें विशिष्ट कैमरा सेटिंग्स और लाइटिंग निर्देश शामिल हैं।
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "vibe_title_en": "Abyssal Archive",
+  "master_prompt": "The Protagonist का एक अत्यंत यथार्थवादी, फुल-बॉडी शॉट जो एक घने और अव्यवस्थित Maritime Antiquities Vault में खड़ी है। विषय एक मोटी, मौसम से बिगड़ी हुई लॉगबुक को आराम से पढ़ रही है, अपने चारों ओर हो रहे असाधारण भौतिकी से पूरी तरह असंबंधित। उच्च बजट के व्यावहारिक प्रभावों की एक उपलब्धि में, नायिका का निचला वस्त्र पूरी तरह से तैरती हुई, गतिशील रूप से छिटकती नमकीन जल से बना है, जिसे समय में स्थिर कर दिया गया है। इस मोटे, पारदर्शी तरल मैट्रिक्स के भीतर, कई भारी, अत्यधिक विस्तृत चांदी की मेकरेल मछलियाँ तैर रही हैं और पैरों के चारों ओर लिपटी हुई हैं, उनकी गीली शल्क स्पेकुलर हाइलाइट्स को पकड़ रही हैं। व्यस्त वातावरण एक अव्यवस्थित, संग्रहकर्ता जैसा अभिलेखागार है: पानी से क्षतिग्रस्त नेविगेशनल चार्ट के ढेर, जमा किए गए मार्बल बस्ट, उलझे हुए मछली पकड़ने के जाल, निलंबित एनाटॉमिकल व्हेल हड्डियाँ, और ग्लास प्रिज़्म अग्रभूमि और पृष्ठभूमि को अव्यवस्थित करते हैं, तीव्र डेप्थ ऑफ फील्ड ऑक्लूजन बनाते हैं। वॉल्यूमेट्रिक प्रकाश संघनन से ढके स्काईलाइट के माध्यम से रिसता है, घूमते हुए धूल के कणों और लटकती हुई समुद्री कुहासे को रोशन करता है। Hasselblad H6D-100c पर 80mm f/1.9 लेंस के साथ कैप्चर किया गया। सिनेमाई उच्च-कंट्रास्ट कियारोस्कोरो लाइटिंग, जल के बूंदों के भौतिक भार, विषय की त्वचा के रोमछिद्रों, और ऊपरी बोडिस के बुने हुए टेक्सचर को महत्व देते हुए। Kodak Portra 400 फिल्म स्टॉक, जैविक फिल्म ग्रेन, असाधारणता और प्रतिष्ठित संपादकीय फोटोग्राफी का कुशल मिश्रण। कोई नियॉन नहीं।",
+  "meta": {
+    "intent": "Surreal Editorial Photography",
+    "priorities": "Photorealistic impossible physics, extreme environmental clutter, high-end medium format textures",
+    "device_profile": "Hasselblad H6D-100c"
+  },
+  "frame": {
+    "aspect": "9:16",
+    "composition": "Full-body environmental portrait",
+    "layout": "Subject slightly off-center, framed by foreground debris and background archival stacks",
+    "camera_angle": "Eye level, straight on to subject's torso",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Protagonist",
+    "demographics": "Ageless, ethereal presence",
+    "face": "Clean, natural features, hyper-detailed pores",
+    "hair": "Wet, clinging to the neck and shoulders, dark",
+    "body": "Statuesque, seamlessly transitioning into the surreal water element",
+    "expression": "Calm, deeply absorbed in reading, detached from the chaos",
+    "pose": "Standing gracefully, holding a heavy book open with both hands, slightly looking down"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Upper bodice",
+        "material": "Wet silk clinging to the skin",
+        "color": "Translucent aquatic blue",
+        "fit": "Form-fitting"
+      },
+      {
+        "item": "Flowing lower garment",
+        "material": "Levitating liquid saltwater and living mackerel",
+        "color": "Transparent cyan and silver",
+        "fit": "Dynamic, kinetic, wrapping around the legs"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Antique heavy logbook",
+        "color": "Faded black and gold",
+        "material": "Leather and thick parchment",
+        "brand_style": "Weathered maritime archival"
+      },
+      {
+        "item": "High-heeled stilettos",
+        "color": "Glossy black",
+        "material": "Patent leather",
+        "brand_style": "Classic, elegant contrast to the organic water"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Maritime Antiquities Vault and Restoration Workshop",
+    "surfaces": "Wet concrete, tarnished brass, damp marble, decaying paper",
+    "depth": "Extremely deep and cluttered, with foreground occlusion from hanging nets and background stacks of artifacts",
+    "atmosphere": "Heavy, humid, smelling of salt and old paper, thick with volumetric mist and dust motes",
+    "lens_interaction": "Shallow depth of field, foreground elements completely out of focus, specular highlights blooming off the water droplets"
+  },
+  "lighting": {
+    "key": "Overhead diffuse skylight mixed with a harsh, directional cinematic spotlight from the upper left",
+    "fill": "Cool, bouncing ambient light from the surrounding water elements",
+    "rim": "Crisp silver rim light separating the splashing water and fish from the dark, cluttered background",
+    "shadows": "Deep, rich, high-contrast chiaroscuro, engulfing the corners of the cluttered room",
+    "color_temperature": "Cool oceanic tones mixed with warm, aged parchment hues",
+    "sensor_flare": "Subtle organic halation around the specular highlights of the splashing water"
+  },
+  "camera": {
+    "lens_type": "Medium Format Prime",
+    "focal_length": "80mm",
+    "aperture": "f/1.9",
+    "focus": "Tack sharp on the subject's face, the book, and the closest fish",
+    "sensor_format": "Medium Format 100MP",
+    "perspective_distortion": "Zero distortion, purely natural and highly compressed"
+  },
+  "post_processing": {
+    "color": "Kodak Portra 400 color science, rich shadows, luminescent highlights",
+    "tonality": "Cinematic contrast, retaining details in the wet highlights",
+    "texture": "Prominent analog film grain, hyper-realistic micro-contrast on skin and fish scales",
+    "digital_sharpening": "None, optical sharpness only",
+    "chromatic_aberration": "Very faint fringe on the extreme edges of the water droplets"
+  },
+  "negative_specifications": [
+    "neon",
+    "cyberpunk",
+    "minimalist",
+    "empty room",
+    "clean studio",
+    "digital illustration",
+    "cartoonish",
+    "flat lighting",
+    "plastic skin",
+    "CGI look",
+    "floating text",
+    "dull textures"
+  ]
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550712_7fd4c5_HUb-SosXMAE7_N3.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550848_c8cj1p_HUb-SlRWoAAH9c8.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550216_fp7125_HUb-SsEXsAAA4tj.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873551203_b2w3ia_HUb-SlNWwAAHY2X.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2109653076499902934)
+- **प्रकाशित:** 12 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36357)**
+
+---
+
+### No. 84: प्रोडक्ट मार्केटिंग - कंक्रीट दीवार के सामने ग्रे टर्टलनेक पहने पूर्वी एशियाई महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4743,7 +4833,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 84: प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
+### No. 85: प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4788,7 +4878,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 85: प्रोडक्ट मार्केटिंग - रेड कार्पेट फैशन फोटो प्रॉम्प्ट
+### No. 86: प्रोडक्ट मार्केटिंग - रेड कार्पेट फैशन फोटो प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4831,7 +4921,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 86: प्रोडक्ट मार्केटिंग - लक्ज़री फैशन एडिटोरियल फोटो
+### No. 87: प्रोडक्ट मार्केटिंग - लक्ज़री फैशन एडिटोरियल फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4868,7 +4958,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 87: प्रोडक्ट मार्केटिंग - सुरियल कैंडी डॉल कैरेक्टर प्रॉम्प्ट
+### No. 88: प्रोडक्ट मार्केटिंग - सुरियल कैंडी डॉल कैरेक्टर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4901,7 +4991,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 88: प्रोडक्ट मार्केटिंग - लक्जरी बाथटब फैशन पोर्ट्रेट
+### No. 89: प्रोडक्ट मार्केटिंग - लक्जरी बाथटब फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4944,7 +5034,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 89: प्रोडक्ट मार्केटिंग - स्पोर्ट्स सेडान के साथ लक्जरी फैशन एडिटोरियल
+### No. 90: प्रोडक्ट मार्केटिंग - स्पोर्ट्स सेडान के साथ लक्जरी फैशन एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4977,7 +5067,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 90: प्रोडक्ट मार्केटिंग - संदर्भ छवि के साथ सिनेमाई लक्जरी शाम का पोर्ट्रेट
+### No. 91: प्रोडक्ट मार्केटिंग - संदर्भ छवि के साथ सिनेमाई लक्जरी शाम का पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5024,7 +5114,7 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 
 ---
 
-### No. 91: प्रोडक्ट मार्केटिंग - Cheetos स्नैक विज्ञापन पोर्ट्रेट
+### No. 92: प्रोडक्ट मार्केटिंग - Cheetos स्नैक विज्ञापन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5064,43 +5154,6 @@ Nano Banana Pro के लिए अनुकूलित एक फोटो-�
 - **भाषाएं:** en
 
 **[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35975)**
-
----
-
-### No. 92: प्रोडक्ट मार्केटिंग - रिफरेंस के साथ हाई-एंड ब्यूटी पोर्ट्रेट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-अपलोड की गई छवि से पहचान को बनाए रखते हुए फोटोरीयलिस्टिक ब्यूटी पोर्ट्रेट बनाने के लिए एक प्रॉम्प्ट, जिसमें बरगंडी आउटफिट और सिनेमैटिक लाइटिंग शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-अपलोड की गई छवि को प्राथमिक दृश्य संदर्भ के रूप में उपयोग करें। उसी महिला का एक हाई-एंड फोटोरीयलिस्टिक ब्यूटी पोर्ट्रेट बनाएं, उसके चेहरे की विशेषताओं, चेहरे की आकृति, त्वचा का रंग, आंखों, नाक, होंठों और समग्र पहचान को बनाए रखते हुए। उसके गहरे भूरे बाल हैं जो एक बिखरे हुए लेकिन एलिगेंट अपडो स्टाइल में हैं, जिसमें ढीली लहरदार झुर्रियाँ उसके चेहरे को घेरती हैं। सॉफ्ट नेचुरल मेकअप, गर्म भूरा आईशैडो, सूक्ष्म आईलाइनर, लंबी पलकें, चमकदार गहरे लाल होंठ और यथार्थवादी चमकती त्वचा।
-
-वह एक एलिगेंट गहरे बरगंडी शियर लॉन्ग-स्लीव आउटफिट पहने हुए है जिसका हाई नेकलाइन है। उसका हाथ उसके गर्दन के पास सुंदरता से टिका हुआ है, जिसमें नाजुक सोने की अंगूठियाँ और विस्तृत बरगंडी-और-सोने की नेल आर्ट दिखाई दे रही है। पोज कैमरे की ओर थोड़ा मुड़ा हुआ है और अभिव्यक्ति नरम और आत्मविश्वास से भरी है।
-
-गर्म सुनहरे-नारंगी सिनेमैटिक लाइटिंग, बालों के चारों ओर मजबूत सॉफ्ट रिम लाइट, आरामदायक डार्क बेज बैकग्राउंड, शैलो डेप्थ ऑफ फील्ड, यथार्थवादी त्वचा टेक्सचर, बारीक बाल विवरण, प्रोफेशनल ब्यूटी फोटोग्राफी, 85mm पोर्ट्रेट लेंस, सॉफ्ट बोकेह, सिनेमैटिक कलर ग्रेडिंग, अल्ट्रा-डिटेल्ड, फोटोरीयलिस्टिक, 8K। कोई टेक्स्ट, वॉटरमार्क या लोगो नहीं।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182791324_wm9xmc_HTyj2JyaAAAgxIT.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - रिफरेंस के साथ हाई-एंड ब्यूटी पोर्ट्रेट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Aynah](https://x.com/AynahhX)
-- **स्रोत:** [Twitter Post](https://x.com/AynahhX/status/2106738894670835727)
-- **प्रकाशित:** 4 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=35973)**
 
 ---
 
@@ -6391,7 +6444,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 <div align="center">
 
-### 🎯 15682 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15686 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6454,6 +6507,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-23T08:03:47.298Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-24T08:03:30.617Z</sub>
 
 </div>

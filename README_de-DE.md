@@ -143,9 +143,9 @@ Bei Verwendung in Raycast können Sie die Argumente dynamisch ersetzen, um schne
 
 | Metrik | Anzahl |
 |--------|-------|
-| 📝 Gesamtanzahl Prompts | **15802** |
+| 📝 Gesamtanzahl Prompts | **15806** |
 | ⭐ Ausgewählt | **9** |
-| 🔄 Zuletzt aktualisiert | **Freitag, 23. Oktober 2026 um 08:04:04 UTC** |
+| 🔄 Zuletzt aktualisiert | **Samstag, 24. Oktober 2026 um 08:03:47 UTC** |
 
 </div>
 
@@ -654,7 +654,170 @@ Das Seitenverhältnis ist 3:4 vertikales Poster. Fügen Sie eine vertikale japan
 
 > 📝 Sortiert nach Veröffentlichungsdatum (neueste zuerst)
 
-### No. 1: Profil / Avatar - Pixar-Stil Doppelgänger-Porträt
+### No. 1: Profil / Avatar - Süße Stern-Nachtlicht-Porträtvergleich
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein Vergleich von GPT2.5 Flare, Nano Pro, Grok und SeeDream anhand eines Prompts für ein fotorealistisches Porträt einer Frau, die ein leuchtendes sternförmiges Nachtlicht hält.
+
+#### 📝 Prompt
+
+```
+Extrem nahes, fotorealistisches Porträt einer jungen ostasiatischen Frau. Sie blickt mit sanftem, zärtlichem Ausdruck auf ein kleines, leuchtendes Nachlicht in Sternform herab, das sie behutsam in beiden Händen hält; das warme Licht erhellt ihr Gesicht.
+Sie trägt ein weiches, cremefarbenes Pyjamaoberteil mit Blumenmuster. Intime und feinfühlige Atmosphäre.
+Weiches, warmes Licht des leuchtenden Sterns, das einen sanften Schimmer auf ihr Gesicht und ihre Hände wirft, geringe Schärfentiefe, äußerst detaillierte Hautstruktur, verträumte und emotionale Stimmung, scharfer Fokus auf den Augen und dem Stern, atemberaubende und intime Bildkomposition, 8k fotorealistisch.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502170_5dzm3u_HVUxhdMbIAA9_Av.jpg" width="600" alt="Profil / Avatar - Süße Stern-Nachtlicht-Porträtvergleich - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502062_bsbp7w_HVUyBgxboAAuN4Z.jpg" width="600" alt="Profil / Avatar - Süße Stern-Nachtlicht-Porträtvergleich - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823501908_0zrn6a_HVUyGdPa8AAl33A.jpg" width="600" alt="Profil / Avatar - Süße Stern-Nachtlicht-Porträtvergleich - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502849_k0pq4j_HVUzcXraoAAfjWr.jpg" width="600" alt="Profil / Avatar - Süße Stern-Nachtlicht-Porträtvergleich - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aiko💕](https://x.com/LoveAiko2003)
+- **Quelle:** [Twitter Post](https://x.com/LoveAiko2003/status/2113652258772783233)
+- **Veröffentlicht:** 23. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36836)**
+
+---
+
+### No. 2: Profil / Avatar - Nano Banana Pro: Vergleich der Lake-Porträts
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein Vergleich von vier Modellen (Grok, SeeDream, Nano Pro x2) anhand eines Prompts für ein fotorealistisches Porträt einer ostasiatischen Frau, die auf einem Felsen in einem See sitzt. Der Prompt wird für alle Modelle bereitgestellt.
+
+#### 📝 Prompt
+
+```
+Fotorealistische Nahaufnahme des Oberkörpers einer jungen ostasiatischen Frau. Sie sitzt auf einem großen Felsen in einem ruhigen See und blickt mit einem sanften, nachdenklichen Ausdruck leicht zur Seite.
+
+Sie trägt ein hellstaubblaues Trägerkleid mit dünnen Spaghettiträgern. Schlanker, athletischer Körper mit natürlicher Hautstruktur.
+
+Ruhige Seekulisse mit sanften Wasserreflexionen, weichem, natürlichem Licht bei bedecktem Himmel und unscharfem Grün im Hintergrund. Hochdetaillierte Haut, realistische Stofftextur, scharfer Fokus auf Gesicht und Oberkörper, 8k fotorealistisch.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502245_imdqpo_HVUH5vAbEAAMeK3.jpg" width="600" alt="Profil / Avatar - Nano Banana Pro: Vergleich der Lake-Porträts - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502158_mzpa4p_HVUIDlga8AAcbW-.jpg" width="600" alt="Profil / Avatar - Nano Banana Pro: Vergleich der Lake-Porträts - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823500635_7at47x_HVUIL3XboAALEyJ.jpg" width="600" alt="Profil / Avatar - Nano Banana Pro: Vergleich der Lake-Porträts - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823501674_oa3gne_HVUIQTobIAAkGpp.jpg" width="600" alt="Profil / Avatar - Nano Banana Pro: Vergleich der Lake-Porträts - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aiko💕](https://x.com/LoveAiko2003)
+- **Quelle:** [Twitter Post](https://x.com/LoveAiko2003/status/2113604713631678955)
+- **Veröffentlicht:** 23. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36835)**
+
+---
+
+### No. 3: Profil / Avatar - Porträtvergleich: Lila Pullover
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein Vergleich von Nano Pro, SeeDream Lite, ChatGPT und Flux 2 anhand eines Prompts für ein fotorealistisches Ultra-Nahaufnahme-Porträt einer Frau mit pinken Haaren, die einen lavendelfarbenen Pullover trägt.
+
+#### 📝 Prompt
+
+```
+Fotorealistisches Ultra-Nahaufnahme-Porträt einer jungen ostasiatischen Frau mit weichem, staubig-rosafarbenem Kurzhaarschnitt, der zu einem lockeren Seitengeflecht gestylt ist. Sie blickt mit einem sanften, warmen Lächeln direkt in die Kamera.
+
+Sie trägt einen helllavendelfarbenen Strickpullover und kleine Perlenohrringe. Schlanker, athletischer Körperbau.
+
+Weiches Indoor-Setting mit warmem natürlichem Licht und einem sauberen, leicht unscharfen Hintergrund. Äußerst detaillierte Hautstruktur, realistische Stofftextur, scharfer Fokus, elegante und natürliche Porträtfotografie, 8k fotorealistisch.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504000_5cnt87_HVTKQEYbUAAzju-.jpg" width="600" alt="Profil / Avatar - Porträtvergleich: Lila Pullover - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504142_xddwdq_HVTKTiJbYAABBqC.jpg" width="600" alt="Profil / Avatar - Porträtvergleich: Lila Pullover - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504022_dniklv_HVTKZXkbQAA8c7e.jpg" width="600" alt="Profil / Avatar - Porträtvergleich: Lila Pullover - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504942_qm7qxx_HVTKfgbawAAvrc0.jpg" width="600" alt="Profil / Avatar - Porträtvergleich: Lila Pullover - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aiko💕](https://x.com/LoveAiko2003)
+- **Quelle:** [Twitter Post](https://x.com/LoveAiko2003/status/2113536852603134291)
+- **Veröffentlicht:** 23. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36838)**
+
+---
+
+### No. 4: Profil / Avatar - Pixar-Stil Doppelgänger-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -699,7 +862,7 @@ Seitenverhältnis: 4:5 (Hochformat)
 
 ---
 
-### No. 2: Profil / Avatar - Retro Krankenhaus Schwester Cosplay Prompt
+### No. 5: Profil / Avatar - Retro Krankenhaus Schwester Cosplay Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -755,7 +918,7 @@ Color Palette: "{argument name="color palette" default="Weiß, Creme, gedecktes 
 
 ---
 
-### No. 3: Profil / Avatar - Webcam-Paar im Internetcafé der frühen 2000er
+### No. 6: Profil / Avatar - Webcam-Paar im Internetcafé der frühen 2000er
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -799,7 +962,7 @@ Format: "{argument name="format" default="4:3 Querformat"}"
 
 ---
 
-### No. 4: Profil / Avatar - Kinematografisches Porträt einer Frau im scharlachroten Kleid
+### No. 7: Profil / Avatar - Kinematografisches Porträt einer Frau im scharlachroten Kleid
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -832,7 +995,7 @@ Filmisches Porträt einer jungen Frau mit langem, seidig glänzendem dunkelbraun
 
 ---
 
-### No. 5: Profil / Avatar - Kinematografisches Porträt mit dramatischer Beleuchtung
+### No. 8: Profil / Avatar - Kinematografisches Porträt mit dramatischer Beleuchtung
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -867,7 +1030,7 @@ Die Szene spielt in einer dunklen Umgebung mit dramatischer, mehrfarbiger Beleuc
 
 ---
 
-### No. 6: Profil / Avatar - Mädchen betrachtet Schuh auf Landstraße
+### No. 9: Profil / Avatar - Mädchen betrachtet Schuh auf Landstraße
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -937,7 +1100,7 @@ Fotorealistisch. RAW-Foto. Glatte, strahlende Haut. Erstelle ein vertikales Port
 
 ---
 
-### No. 7: Profil / Avatar - Cosplayer im Zimmermodell-Vergleich
+### No. 10: Profil / Avatar - Cosplayer im Zimmermodell-Vergleich
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -988,7 +1151,7 @@ Eine 23-jährige Japanerin. Cosplayerin. Kurze schwarze Haare. Trägt Sunshine I
 
 ---
 
-### No. 8: Profil / Avatar - Luxus-Schönheitsporträt-Prompt für Nano Banana Pro
+### No. 11: Profil / Avatar - Luxus-Schönheitsporträt-Prompt für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1025,7 +1188,7 @@ Negativ-Prompt: Cartoon, Illustration, Plastik-Haut, übermäßige Retusche, ver
 
 ---
 
-### No. 9: Profil / Avatar - Mode-Editorial-Porträt-Prompt für Nano Banana Pro
+### No. 12: Profil / Avatar - Mode-Editorial-Porträt-Prompt für Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1058,7 +1221,7 @@ Erstelle ein ultrarealistisches, hochwertiges Modeporträt einer schönen jungen
 
 ---
 
-### No. 10: Profil / Avatar - Luxuriöses Corporate-Fashion-Porträt
+### No. 13: Profil / Avatar - Luxuriöses Corporate-Fashion-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,7 +1264,7 @@ Negativ-Prompt: Anderes Gesicht, Identitätsdrift, veränderte Gesichtsmerkmale,
 
 ---
 
-### No. 11: Profil / Avatar - Pferdeschwanz-Porträt-Prompt
+### No. 14: Profil / Avatar - Pferdeschwanz-Porträt-Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1166,7 +1329,7 @@ Fotorealistisch. RAW-Foto. Glatte, strahlende Haut. Erstellen Sie ein vertikales
 
 ---
 
-### No. 12: Profil / Avatar - Südasianische Frau – Kinematografisches Porträt
+### No. 15: Profil / Avatar - Südasianische Frau – Kinematografisches Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +1362,7 @@ Ultra-realistisches kinematografisches Porträt einer schönen jungen südasiani
 
 ---
 
-### No. 13: Profil / Avatar - Retro Hongkong Cha-Chaan-Teng Portrait-Prompt
+### No. 16: Profil / Avatar - Retro Hongkong Cha-Chaan-Teng Portrait-Prompt
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1266,7 +1429,7 @@ Negative Constraints: No oil painting, No anime, No 3D render, No cartoon, no de
 
 ---
 
-### No. 14: Profil / Avatar - Studio-Porträt mit Identitätserhalt
+### No. 17: Profil / Avatar - Studio-Porträt mit Identitätserhalt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1308,7 +1471,7 @@ Nimm die Umgebung/das Set vollständig vom zweiten angehängten Foto.
 
 ---
 
-### No. 15: Profil / Avatar - Braut auf Rolltreppe im Bahnhof Osaka
+### No. 18: Profil / Avatar - Braut auf Rolltreppe im Bahnhof Osaka
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1359,7 +1522,7 @@ JR-Bahnhof Osaka, Japan, geheime Szene, weißes Hochzeitskleid, stehend auf eine
 
 ---
 
-### No. 16: Profil / Avatar - Identitätswahrendes Satinkleid-Porträt
+### No. 19: Profil / Avatar - Identitätswahrendes Satinkleid-Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1395,134 +1558,6 @@ Negativ-Prompt: Anderes Gesicht, Identitätsänderung, veränderte Gesichtsmerkm
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36256)**
-
----
-
-### No. 17: Profil / Avatar - Golden-Hour-Porträt mit strikter Identitätserhaltung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Erzeugt ein fotorealistisches Porträt einer Frau in sportlicher Kleidung vor einem Sonnenuntergang, wobei die strikte Einhaltung eines Referenzgesichts gewährleistet wird.
-
-#### 📝 Prompt
-
-```
-Ein fotorealistisches Porträt einer schönen jungen 22-jährigen Frau, die lässig auf einer dunklen Granitbrüstung sitzt und direkt in die Kamera blickt, mit einem entspannten, subtilen Lächeln. Sie trägt ein sportliches Outfit mit Farbblockdesign: ein kurzärmeliges T-Shirt mit weißer Vorderseite und leuchtend orangefarbenen Ärmeln und Schultern, kombiniert mit passenden orangefarbenen Shorts mit weißen Kordelzügen und weißen Seitenstreifen. Ihr rechtes Bein ist angezogen, während ihr rechter Arm bequem auf dem Knie ruht. Sie hat eine natürliche, elegante feminine Erscheinung mit gesunder, strahlender Haut.
-
-Die Szene spielt sich auf einem Außenbalkon oder einer Terrasse mit schwarzem Metallgeländer ab. Im Hintergrund taucht ein atemberaubender Sonnenuntergang zur Golden Hour einen breiten Fluss oder See in warmes Licht, wobei lebendige orange und gelbe Farbtöne den Himmel erhellen und sich wunderschön im Wasser spiegeln; üppige grüne Bäume sind links sichtbar.
-
-Aufgenommen mit einem 85-mm-Objektiv, Blende f/1.8, kinematografischer Beleuchtung zur Golden Hour, geringer Schärfentiefe, schönem natürlichem Hintergrund-Bokeh, ultra-realistischer Hauttextur, weichem Hautglanz, realistischen Gesichtsdetails, natürlichen Farben, professioneller Fotografie, hoher Auflösung.
-
-VERWENDEN SIE STRENG DAS HOCHGELADENE REFERENZBILD FÜR IHR GESICHT UND IHRE IDENTITÄT. Halten Sie das Originalgesicht zu 100 % unverändert und identisch mit der Referenz – gleiche Gesichtsmerkmale, Gesichtsstruktur, Proportionen, Hautton, Augenform und -farbe, Nase, Lippen, Augenbrauen, Kieferlinie, Frisur, Haarstruktur, Alter und natürlicher Ausdruck. Verschönern, verändern, umformen oder idealisieren Sie das Gesicht nicht. Bewahren Sie exakt dieselbe Identität und Frisur wie im Referenzbild. Das endgültige Bild muss so aussehen, als wäre es dasselbe Mädchen vom Referenzfoto, nur in dieser neuen Umgebung und diesem Outfit platziert.
-
-Die Haut sollte einen natürlichen, gesunden Glanz haben, während die realistische Hauttextur und Poren erhalten bleiben. Keine Gesichtsverzerrung, keine Identitätsänderung, kein künstlicher Schönheitsfilter, kein übermäßiges Make-up, keine Gesichtsmodifikation.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182789986_5x7oxl_HTwdO5NaMAApOEZ.jpg" width="600" alt="Profil / Avatar - Golden-Hour-Porträt mit strikter Identitätserhaltung - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Kiran Ai](https://x.com/Kiran_AI1)
-- **Quelle:** [Twitter Post](https://x.com/Kiran_AI1/status/2106590895575630035)
-- **Veröffentlicht:** 4. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35920)**
-
----
-
-### No. 18: Profil / Avatar - Realistisches Porträt eines südasianischen Mannes in der Dämmerung
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Erzeugt ein fotorealistisches Porträt eines stilvollen Mannes in traditioneller Kleidung, der im Freien bei Dämmerung sitzt und dessen ursprüngliche Gesichtszüge beibehält.
-
-#### 📝 Prompt
-
-```
-Ein hochauflösendes, realistisches Porträt eines stilvollen jungen südasianischen Mannes, der sich bequem im Freien in einem Park oder einem Café unter freiem Himmel während der Dämmerung bzw. am Abend befindet. Er hat kurze, gestylte Haare und einen dezenten Bartwuchs. Er trägt einen hellen Seiden-Shalwar-Kameez in Gelb, weiße Sneaker und eine Luxus-Armbanduhr aus Silber mit einem leuchtend blauen Zifferblatt am linken Handgelenk.
-Er sitzt im Schneidersitz auf einem modernen dunklen Geflechtstuhl für Terrassen und stützt einen Arm auf einen kleinen runden Außentisch mit einer Tasse heißem schwarzem Kaffee (mit dem Aufdruck 'COFFEE' auf der Tasse). Eine Hand liegt nachdenklich unter seinem Kinn, und er blickt direkt in die Kamera mit einem selbstbewussten Ausdruck.
-Hintergrund: Ein verschwommener, üppig grüner Park mit weichen, warmen Bokeh-Lichtern von Straßenlaternen. In der oberen rechten Ecke des Himmels scheint ein großer, klarer Vollmond. Warme, kinematografische Beleuchtung bei Dämmerung, scharfer Fokus auf das Motiv, fotorealistisch, 8K-Qualität, Tiefenschärfe. Originalgesicht und Frisur zu 100 % als Referenz beibehalten.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101707998_t31yjg_HTt75roaQAEvPyS.jpg" width="600" alt="Profil / Avatar - Realistisches Porträt eines südasianischen Mannes in der Dämmerung - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Mr.AI](https://x.com/Mr_Ai6)
-- **Quelle:** [Twitter Post](https://x.com/Mr_Ai6/status/2106413507059351763)
-- **Veröffentlicht:** 3. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35921)**
-
----
-
-### No. 19: Profil / Avatar - Prompt-Vergleich: Japanisches Frauenmodell
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Generierung einer gepflegt aussehenden japanischen Frau auf einer ruhigen Wohnstraße, im Vergleich zwischen GPT Image 2/2.5 Varianten und Nano Banana Pro.
-
-#### 📝 Prompt
-
-```
-{argument name="subject_en" default="Eine gepflegt aussehende japanische Frau"} {argument name="location_en" default="Auf dem Gehweg einer ruhigen Wohnstraße"}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711443_48ijwx_HTq7cNGaMAAGa8J.jpg" width="600" alt="Profil / Avatar - Prompt-Vergleich: Japanisches Frauenmodell - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711472_hseqmw_HTq7d-SbIAAC7-z.jpg" width="600" alt="Profil / Avatar - Prompt-Vergleich: Japanisches Frauenmodell - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711413_1207t8_HTq7fdeaoAEEvP7.jpg" width="600" alt="Profil / Avatar - Prompt-Vergleich: Japanisches Frauenmodell - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101712015_pbdsfx_HTq7jWqagAA3V2q.jpg" width="600" alt="Profil / Avatar - Prompt-Vergleich: Japanisches Frauenmodell - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [野田吾郎](https://x.com/goro_noda23327)
-- **Quelle:** [Twitter Post](https://x.com/goro_noda23327/status/2106202442673373411)
-- **Veröffentlicht:** 3. Oktober 2026
-- **Sprachen:** ja
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35925)**
 
 ---
 
@@ -1576,7 +1611,62 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: Social-Media-Beitrag - Nano Banana Pro Silber Metallic Kleid Porträt
+### No. 21: Social-Media-Beitrag - Porträtvergleich: Roter Samt-Leotard
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein Vergleich mehrerer Modelle, einschließlich Nano Pro, mit einem stilvollen kinematografischen Porträt einer Frau in einem roten Samt-Leotard.
+
+#### 📝 Prompt
+
+```
+Äußerst stilvolles, filmisches Porträt einer jungen ostasiatischen Frau mit elegant zu einem hohen Dutt frisiertem Haar. Sie steht in einer anmutigen Pose, den Kopf leicht nach oben geneigt und mit einem gelassenen Gesichtsausdruck, eine Hand ruht auf der Hüfte.
+
+Sie trägt einen tief burgunderroten Samt-Trikotanzug für Eiskunstlauf mit filigraner schwarzer Spitzenstickerei, transparenten Mesh-Langarm-Ärmeln, einem hohen Rüschenkragen und zarten Rüschenverzierungen entlang der Hüften. Schlanker, athletischer Körper mit eleganter Haltung.
+
+Saubere, minimalistische Kulisse mit weichem, dramatischem Licht, das die edle Samttextur und die Spitzendetails perfekt zur Geltung bringt. High-Fashion-Editorial-Stil, raffinierte Komposition, luxuriöse Stoffwiedergabe, gestochen scharfer Fokus, visuell atemberaubende und elegante Atmosphäre, 8k.
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502150_tlvloh_HVUuzN4bUAAJI64.jpg" width="600" alt="Social-Media-Beitrag - Porträtvergleich: Roter Samt-Leotard - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502105_kotbqn_HVUu57maQAAOD7F.jpg" width="600" alt="Social-Media-Beitrag - Porträtvergleich: Roter Samt-Leotard - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502143_ge539f_HVUu-jfaIAEPjKc.jpg" width="600" alt="Social-Media-Beitrag - Porträtvergleich: Roter Samt-Leotard - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823503083_n18j4m_HVUwD3EbYAAps9j.jpg" width="600" alt="Social-Media-Beitrag - Porträtvergleich: Roter Samt-Leotard - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [Aiko💕](https://x.com/LoveAiko2003)
+- **Quelle:** [Twitter Post](https://x.com/LoveAiko2003/status/2113648510512116183)
+- **Veröffentlicht:** 23. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36837)**
+
+---
+
+### No. 22: Social-Media-Beitrag - Nano Banana Pro Silber Metallic Kleid Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1611,7 +1701,7 @@ Negativer Prompt: kein CGI-Look, keine Plastik-Haut, anderes Gesicht, Identität
 
 ---
 
-### No. 22: Social-Media-Beitrag - Surreales voyeuristisches Porträt von Dua Lipa
+### No. 23: Social-Media-Beitrag - Surreales voyeuristisches Porträt von Dua Lipa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1713,7 +1803,7 @@ Ein detaillierter, JSON-strukturierter Prompt zur Generierung eines surrealen, k
 
 ---
 
-### No. 23: Social-Media-Beitrag - Prompt für Poster: Vom Foto zur handgezeichneten Illustration
+### No. 24: Social-Media-Beitrag - Prompt für Poster: Vom Foto zur handgezeichneten Illustration
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1758,7 +1848,7 @@ Die obere Hälfte ist ein realistisches Foto, das unter warmem natürlichem Lich
 
 ---
 
-### No. 24: Social-Media-Beitrag - High-Fashion-Stadtnacht-Editorial
+### No. 25: Social-Media-Beitrag - High-Fashion-Stadtnacht-Editorial
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1810,7 +1900,7 @@ Hyperfotorealistischer Editorial-Stil. Hoher Kontrast durch Chiaroscuro mit tief
 
 ---
 
-### No. 25: Social-Media-Beitrag - Skurrile Miniatur-Barock-Treppenhalle
+### No. 26: Social-Media-Beitrag - Skurrile Miniatur-Barock-Treppenhalle
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1843,7 +1933,7 @@ Darstellung einer skurrilen Miniaturwelt mit einer monumentalen großen Treppenh
 
 ---
 
-### No. 26: Social-Media-Beitrag - Kino-Reisekünstler skizziert Wahrzeichen
+### No. 27: Social-Media-Beitrag - Kino-Reisekünstler skizziert Wahrzeichen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1895,156 +1985,6 @@ Vermeiden Sie verzerrte Wahrzeichen, fiktive Architektur, übertriebene Fantasy-
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36394)**
-
----
-
-### No. 27: Social-Media-Beitrag - Surreales maritimes Editorial-Porträt
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein detaillierter JSON-Prompt zur Generierung eines hyperrealistischen surrealen Editorial-Fotos einer Frau in einem maritimen Gewölbe mit schwebenden Wassergewändern und Fischen, unter Verwendung spezifischer Kameraeinstellungen und Beleuchtungsanweisungen.
-
-#### 📝 Prompt
-
-```
-{
-  "vibe_title_en": "Abyssal Archive",
-  "master_prompt": "Ein hyperrealistisches Ganzkörperfoto der Protagonistin, die in einem dicht gefüllten maritimen Antiquitäten-Gewölbe steht. Die Person liest beiläufig ein dickes, verwittertes Logbuch, völlig losgelöst von den surrealen physikalischen Phänomenen um sie herum. Als Leistung aufwendiger praktischer Spezialeffekte besteht das Unterteil der Kleidung der Protagonistin vollständig aus schwebendem, kinetisch spritzendem Salzwasser, das in der Zeit eingefroren ist. In dieser dicken, transparenten Flüssigkeitsmatrix schwimmen mehrere schwere, hyperdetaillierte Silbermakrelen und umschlingen die Beine, wobei ihre nassen Schuppen spekularische Highlights einfangen. Die belebte Umgebung ist ein chaotisches, horterartiges Archiv: Stapel wassergeschädigter Seekarten, gehäufte Marmorbüsten, verworrene Fischernetze, aufgehängte anatomische Walbones und Glasprismen füllen den Vorder- und Hintergrund und erzeugen eine intensive Tiefenschärfe-Oklusion. Volumetrisches Licht dringt durch beschlagene Oberlichter und erhellt wirbelnde Staubpartikel und hängenden Seenebel. Aufgenommen mit einer Hasselblad H6D-100c und einem 80mm f/1.9 Objektiv. Kino-High-Contrast-Chiaroscuro-Beleuchtung, die das physische Gewicht der Wassertropfen, die Poren auf der Haut des Motivs und die texturierte Webstruktur des oberen Oberteils betont. Kodak Portra 400 Filmstock, organisches Filmkorn, meisterhafte Mischung aus Surrealismus und Elite-Editorial-Fotografie. Kein Neon.",
-  "meta": {
-    "intent": "Surreale Editorial-Fotografie",
-    "priorities": "Fotorealistische unmögliche Physik, extreme Umwelt-Unordnung, High-End-Mittelformat-Texturen",
-    "device_profile": "Hasselblad H6D-100c"
-  },
-  "frame": {
-    "aspect": "9:16",
-    "composition": "Ganzkörper-Umweltporträt",
-    "layout": "Motiv leicht versetzt, gerahmt von Trümmern im Vordergrund und Archivstapeln im Hintergrund",
-    "camera_angle": "Augenhöhe, geradeaus auf den Torso des Motivs",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Weiblich",
-    "identity": "Die Protagonistin",
-    "demographics": "Zeitlose, ätherische Präsenz",
-    "face": "Klare, natürliche Züge, hyperdetaillierte Poren",
-    "hair": "Nass, am Hals und an den Schultern haftend, dunkel",
-    "body": "Statuenhaft, nahtlos übergehend in das surreale Wasserelement",
-    "expression": "Ruhig, tief ins Lesen vertieft, distanziert vom Chaos",
-    "pose": "Anmutig stehend, hält ein schweres Buch mit beiden Händen offen, blickt leicht nach unten"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Oberes Oberteil",
-        "material": "Nasse Seide, die an der Haut haftet",
-        "color": "Transluzides aquatisches Blau",
-        "fit": "Figurbetont"
-      },
-      {
-        "item": "Fließendes Unterteil",
-        "material": "Schwebende flüssige Salzlauge und lebende Makrelen",
-        "color": "Transparentes Cyan und Silber",
-        "fit": "Dynamisch, kinetisch, umschlingend die Beine"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Antikes schweres Logbuch",
-        "color": "Verblichenes Schwarz und Gold",
-        "material": "Leder und dickes Pergament",
-        "brand_style": "Verwittertes maritimes Archiv"
-      },
-      {
-        "item": "High-Heeled Stilettos",
-        "color": "Glänzendes Schwarz",
-        "material": "Lackleder",
-        "brand_style": "Klassischer, eleganter Kontrast zum organischen Wasser"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Maritimes Antiquitäten-Gewölbe und Restaurierungswerkstatt",
-    "surfaces": "Nasser Beton, angelaufenes Messing, feuchter Marmor, zerfallendes Papier",
-    "depth": "Extrem tief und unordentlich, mit Okklusion im Vordergrund durch hängende Netze und Hintergrundstapel von Artefakten",
-    "atmosphere": "Schwer, feucht, riechend nach Salz und altem Papier, dick mit volumetrischem Nebel und Staubpartikeln",
-    "lens_interaction": "Geringe Schärfentiefe, Vordergrundelemente komplett unscharf, spekularische Highlights blühen von den Wassertropfen ab"
-  },
-  "lighting": {
-    "key": "Diffuses Oberlicht gemischt mit einem harten, gerichteten kinematografischen Spotlicht von oben links",
-    "fill": "Kühles, reflektierendes Umgebungslicht von den umgebenden Wasserelementen",
-    "rim": "Klarer silberner Randlicht, das das spritzende Wasser und die Fische vom dunklen, unordentlichen Hintergrund trennt",
-    "shadows": "Tiefe, satte, kontrastreiche Chiaroscuro-Schatten, die die Ecken des unordentlichen Raums verschlucken",
-    "color_temperature": "Kühle ozeanische Töne gemischt mit warmen, gealterten Pergamentfarben",
-    "sensor_flare": "Subtile organische Halation um die spekularischen Highlights des spritzenden Wassers"
-  },
-  "camera": {
-    "lens_type": "Mittelformat-Prime",
-    "focal_length": "80mm",
-    "aperture": "f/1.9",
-    "focus": "Knackscharf auf dem Gesicht des Motivs, dem Buch und dem nächsten Fisch",
-    "sensor_format": "Mittelformat 100MP",
-    "perspective_distortion": "Keine Verzerrung, rein natürlich und stark komprimiert"
-  },
-  "post_processing": {
-    "color": "Kodak Portra 400 Farbwissenschaft, satte Schatten, lumineszierende Highlights",
-    "tonality": "Kinematografischer Kontrast, Details in den nassen Highlights bewahrt",
-    "texture": "Prominentes analoges Filmkorn, hyperrealistischer Mikrokontrast auf Haut und Fischschuppen",
-    "digital_sharpening": "Keine, nur optische Schärfe",
-    "chromatic_aberration": "Sehr schwacher Saum an den extremen Rändern der Wassertropfen"
-  },
-  "negative_specifications": [
-    "neon",
-    "cyberpunk",
-    "minimalistisch",
-    "leerer Raum",
-    "sauberes Studio",
-    "digitale Illustration",
-    "cartoonhaft",
-    "flache Beleuchtung",
-    "plastikartige Haut",
-    "CGI-Look",
-    "schwebender Text",
-    "langweilige Texturen"
-  ]
-}
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550712_7fd4c5_HUb-SosXMAE7_N3.jpg" width="600" alt="Social-Media-Beitrag - Surreales maritimes Editorial-Porträt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550848_c8cj1p_HUb-SlRWoAAH9c8.jpg" width="600" alt="Social-Media-Beitrag - Surreales maritimes Editorial-Porträt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550216_fp7125_HUb-SsEXsAAA4tj.jpg" width="600" alt="Social-Media-Beitrag - Surreales maritimes Editorial-Porträt - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873551203_b2w3ia_HUb-SlNWwAAHY2X.jpg" width="600" alt="Social-Media-Beitrag - Surreales maritimes Editorial-Porträt - Image 4">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **Quelle:** [Twitter Post](https://x.com/timedoctor_nft/status/2109653076499902934)
-- **Veröffentlicht:** 12. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36357)**
 
 ---
 
@@ -4696,7 +4636,157 @@ Ein komplexer JSON-formatierter Prompt für Nano Banana Pro, der ein surreales E
 
 ---
 
-### No. 83: Produktmarketing - Ostasiatische Frau in grauem Rollkragenpullover vor Betonwand
+### No. 83: Produktmarketing - Surreales maritimes Editorial-Porträt
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 Beschreibung
+
+Ein detaillierter JSON-Prompt zur Generierung eines hyperrealistischen surrealen Editorial-Fotos einer Frau in einem maritimen Gewölbe mit schwebenden Wassergewändern und Fischen, unter Verwendung spezifischer Kameraeinstellungen und Beleuchtungsanweisungen.
+
+#### 📝 Prompt
+
+```
+{
+  "vibe_title_en": "Abyssal Archive",
+  "master_prompt": "Ein hyperrealistisches Ganzkörperfoto der Protagonistin, die in einem dicht gefüllten maritimen Antiquitäten-Gewölbe steht. Die Person liest beiläufig ein dickes, verwittertes Logbuch, völlig losgelöst von den surrealen physikalischen Phänomenen um sie herum. Als Leistung aufwendiger praktischer Spezialeffekte besteht das Unterteil der Kleidung der Protagonistin vollständig aus schwebendem, kinetisch spritzendem Salzwasser, das in der Zeit eingefroren ist. In dieser dicken, transparenten Flüssigkeitsmatrix schwimmen mehrere schwere, hyperdetaillierte Silbermakrelen und umschlingen die Beine, wobei ihre nassen Schuppen spekularische Highlights einfangen. Die belebte Umgebung ist ein chaotisches, horterartiges Archiv: Stapel wassergeschädigter Seekarten, gehäufte Marmorbüsten, verworrene Fischernetze, aufgehängte anatomische Walbones und Glasprismen füllen den Vorder- und Hintergrund und erzeugen eine intensive Tiefenschärfe-Oklusion. Volumetrisches Licht dringt durch beschlagene Oberlichter und erhellt wirbelnde Staubpartikel und hängenden Seenebel. Aufgenommen mit einer Hasselblad H6D-100c und einem 80mm f/1.9 Objektiv. Kino-High-Contrast-Chiaroscuro-Beleuchtung, die das physische Gewicht der Wassertropfen, die Poren auf der Haut des Motivs und die texturierte Webstruktur des oberen Oberteils betont. Kodak Portra 400 Filmstock, organisches Filmkorn, meisterhafte Mischung aus Surrealismus und Elite-Editorial-Fotografie. Kein Neon.",
+  "meta": {
+    "intent": "Surreale Editorial-Fotografie",
+    "priorities": "Fotorealistische unmögliche Physik, extreme Umwelt-Unordnung, High-End-Mittelformat-Texturen",
+    "device_profile": "Hasselblad H6D-100c"
+  },
+  "frame": {
+    "aspect": "9:16",
+    "composition": "Ganzkörper-Umweltporträt",
+    "layout": "Motiv leicht versetzt, gerahmt von Trümmern im Vordergrund und Archivstapeln im Hintergrund",
+    "camera_angle": "Augenhöhe, geradeaus auf den Torso des Motivs",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Weiblich",
+    "identity": "Die Protagonistin",
+    "demographics": "Zeitlose, ätherische Präsenz",
+    "face": "Klare, natürliche Züge, hyperdetaillierte Poren",
+    "hair": "Nass, am Hals und an den Schultern haftend, dunkel",
+    "body": "Statuenhaft, nahtlos übergehend in das surreale Wasserelement",
+    "expression": "Ruhig, tief ins Lesen vertieft, distanziert vom Chaos",
+    "pose": "Anmutig stehend, hält ein schweres Buch mit beiden Händen offen, blickt leicht nach unten"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Oberes Oberteil",
+        "material": "Nasse Seide, die an der Haut haftet",
+        "color": "Transluzides aquatisches Blau",
+        "fit": "Figurbetont"
+      },
+      {
+        "item": "Fließendes Unterteil",
+        "material": "Schwebende flüssige Salzlauge und lebende Makrelen",
+        "color": "Transparentes Cyan und Silber",
+        "fit": "Dynamisch, kinetisch, umschlingend die Beine"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Antikes schweres Logbuch",
+        "color": "Verblichenes Schwarz und Gold",
+        "material": "Leder und dickes Pergament",
+        "brand_style": "Verwittertes maritimes Archiv"
+      },
+      {
+        "item": "High-Heeled Stilettos",
+        "color": "Glänzendes Schwarz",
+        "material": "Lackleder",
+        "brand_style": "Klassischer, eleganter Kontrast zum organischen Wasser"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Maritimes Antiquitäten-Gewölbe und Restaurierungswerkstatt",
+    "surfaces": "Nasser Beton, angelaufenes Messing, feuchter Marmor, zerfallendes Papier",
+    "depth": "Extrem tief und unordentlich, mit Okklusion im Vordergrund durch hängende Netze und Hintergrundstapel von Artefakten",
+    "atmosphere": "Schwer, feucht, riechend nach Salz und altem Papier, dick mit volumetrischem Nebel und Staubpartikeln",
+    "lens_interaction": "Geringe Schärfentiefe, Vordergrundelemente komplett unscharf, spekularische Highlights blühen von den Wassertropfen ab"
+  },
+  "lighting": {
+    "key": "Diffuses Oberlicht gemischt mit einem harten, gerichteten kinematografischen Spotlicht von oben links",
+    "fill": "Kühles, reflektierendes Umgebungslicht von den umgebenden Wasserelementen",
+    "rim": "Klarer silberner Randlicht, das das spritzende Wasser und die Fische vom dunklen, unordentlichen Hintergrund trennt",
+    "shadows": "Tiefe, satte, kontrastreiche Chiaroscuro-Schatten, die die Ecken des unordentlichen Raums verschlucken",
+    "color_temperature": "Kühle ozeanische Töne gemischt mit warmen, gealterten Pergamentfarben",
+    "sensor_flare": "Subtile organische Halation um die spekularischen Highlights des spritzenden Wassers"
+  },
+  "camera": {
+    "lens_type": "Mittelformat-Prime",
+    "focal_length": "80mm",
+    "aperture": "f/1.9",
+    "focus": "Knackscharf auf dem Gesicht des Motivs, dem Buch und dem nächsten Fisch",
+    "sensor_format": "Mittelformat 100MP",
+    "perspective_distortion": "Keine Verzerrung, rein natürlich und stark komprimiert"
+  },
+  "post_processing": {
+    "color": "Kodak Portra 400 Farbwissenschaft, satte Schatten, lumineszierende Highlights",
+    "tonality": "Kinematografischer Kontrast, Details in den nassen Highlights bewahrt",
+    "texture": "Prominentes analoges Filmkorn, hyperrealistischer Mikrokontrast auf Haut und Fischschuppen",
+    "digital_sharpening": "Keine, nur optische Schärfe",
+    "chromatic_aberration": "Sehr schwacher Saum an den extremen Rändern der Wassertropfen"
+  },
+  "negative_specifications": [
+    "neon",
+    "cyberpunk",
+    "minimalistisch",
+    "leerer Raum",
+    "sauberes Studio",
+    "digitale Illustration",
+    "cartoonhaft",
+    "flache Beleuchtung",
+    "plastikartige Haut",
+    "CGI-Look",
+    "schwebender Text",
+    "langweilige Texturen"
+  ]
+}
+```
+
+#### 🖼️ Generierte Bilder
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550712_7fd4c5_HUb-SosXMAE7_N3.jpg" width="600" alt="Produktmarketing - Surreales maritimes Editorial-Porträt - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550848_c8cj1p_HUb-SlRWoAAH9c8.jpg" width="600" alt="Produktmarketing - Surreales maritimes Editorial-Porträt - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550216_fp7125_HUb-SsEXsAAA4tj.jpg" width="600" alt="Produktmarketing - Surreales maritimes Editorial-Porträt - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873551203_b2w3ia_HUb-SlNWwAAHY2X.jpg" width="600" alt="Produktmarketing - Surreales maritimes Editorial-Porträt - Image 4">
+</div>
+
+#### 📌 Details
+
+- **Autor:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **Quelle:** [Twitter Post](https://x.com/timedoctor_nft/status/2109653076499902934)
+- **Veröffentlicht:** 12. Oktober 2026
+- **Sprachen:** en
+
+**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=36357)**
+
+---
+
+### No. 84: Produktmarketing - Ostasiatische Frau in grauem Rollkragenpullover vor Betonwand
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4739,7 +4829,7 @@ Beleuchtung: Harte Mittagssonne von oben links, scharfer Schatten unter dem Kinn
 
 ---
 
-### No. 84: Produktmarketing - Konzeptkunst: Vollgerüstetes Mecha-Mädchen
+### No. 85: Produktmarketing - Konzeptkunst: Vollgerüstetes Mecha-Mädchen
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4784,7 +4874,7 @@ Vollgerüstetes Mecha-Mädchen FAMG-001 Aurelith, Plastikmodell im Maßstab 1/7,
 
 ---
 
-### No. 85: Produktmarketing - Red Carpet Fashion Photo Prompt
+### No. 86: Produktmarketing - Red Carpet Fashion Photo Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4827,7 +4917,7 @@ Negativer Prompt: Cartoon, CGI, 3D-Render, Plastik-Haut, übermäßige Beauty-Re
 
 ---
 
-### No. 86: Produktmarketing - Luxuriöses Mode-Editorial-Foto
+### No. 87: Produktmarketing - Luxuriöses Mode-Editorial-Foto
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4864,7 +4954,7 @@ Modernes Luxus-Autohaus/Innenarchitektur-Szenario, dunkle neutrale Töne, weiche
 
 ---
 
-### No. 87: Produktmarketing - Surrealer Candy-Doll-Charakter-Prompt
+### No. 88: Produktmarketing - Surrealer Candy-Doll-Charakter-Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4897,7 +4987,7 @@ Eine surreale Puppe mit 5 Köpfen, 10 Ohren, 2 Armen und 2 Beinen, die auf einem
 
 ---
 
-### No. 88: Produktmarketing - Luxuriöses Badewannen-Modeporträt
+### No. 89: Produktmarketing - Luxuriöses Badewannen-Modeporträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4940,7 +5030,7 @@ Negativ-Prompt: anderes Gesicht, Identitätsdrift, veränderte Gesichtsmerkmale,
 
 ---
 
-### No. 89: Produktmarketing - Luxuriöses Mode-Editorial mit Sportlimousine
+### No. 90: Produktmarketing - Luxuriöses Mode-Editorial mit Sportlimousine
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4973,7 +5063,7 @@ Erstelle ein fotorealistisches luxuriöses Mode-Editorial einer eleganten jungen
 
 ---
 
-### No. 90: Produktmarketing - Kinoästhetisches Luxus-Abendporträt mit Referenzbild
+### No. 91: Produktmarketing - Kinoästhetisches Luxus-Abendporträt mit Referenzbild
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5020,7 +5110,7 @@ Negativer Prompt: Identitätswechsel, Gesichtsabweichung, andere Person, veränd
 
 ---
 
-### No. 91: Produktmarketing - Cheetos Snack-Werbung Porträt
+### No. 92: Produktmarketing - Cheetos Snack-Werbung Porträt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5060,43 +5150,6 @@ Ausdrucksvolles Lächeln, ästhetischer Stil einer lustigen Straßenwerbung.
 - **Sprachen:** en
 
 **[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35975)**
-
----
-
-### No. 92: Produktmarketing - Hochwertiges Beauty-Porträt mit Referenz
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 Beschreibung
-
-Ein Prompt zur Erstellung eines fotorealistischen Beauty-Porträts, das die Identität aus einem hochgeladenen Bild bewahrt und ein burgunderrotes Outfit sowie kinematografische Beleuchtung hervorhebt.
-
-#### 📝 Prompt
-
-```
-Verwenden Sie das hochgeladene Bild als primäre visuelle Referenz. Erstellen Sie ein hochwertiges, fotorealistisches Beauty-Porträt derselben Frau und bewahren Sie ihre Gesichtszüge, Gesichtsform, Hautfarbe, Augen, Nase, Lippen und ihre gesamte Identität. Sie hat dunkelbraunes Haar, das zu einem eleganten, lässigen Dutt gestylt ist, wobei lockere wellige Strähnen ihr Gesicht umrahmen. Softes natürliches Make-up, warmer brauner Lidschatten, dezenter Eyeliner, lange Wimpern, glänzende tiefrote Lippen und realistisch strahlende Haut.
-
-Sie trägt ein elegantes, durchscheinendes langärmeliges Outfit in tiefem Burgunderrot mit hohem Kragen. Ihre Hand ruht anmutig in der Nähe ihres Halses und zeigt zarte goldene Ringe sowie detaillierte Nagelkunst in Burgunderrot und Gold. Die Pose ist leicht zur Kamera gedreht mit einem weichen, selbstbewussten Ausdruck.
-
-Warmes golden-oranges kinematografisches Licht, starkes weiches Rim-Light um das Haar herum, gemütlicher dunkelbeiger Hintergrund, geringe Schärfentiefe, realistische Hauttextur, feine Haardetails, professionelle Beauty-Fotografie, 85-mm-Porträtobjektiv, weiches Bokeh, kinematografisches Color Grading, ultra-detailliert, fotorealistisch, 8K. Kein Text, Wasserzeichen oder Logo.
-```
-
-#### 🖼️ Generierte Bilder
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182791324_wm9xmc_HTyj2JyaAAAgxIT.jpg" width="600" alt="Produktmarketing - Hochwertiges Beauty-Porträt mit Referenz - Image 1">
-</div>
-
-#### 📌 Details
-
-- **Autor:** [Aynah](https://x.com/AynahhX)
-- **Quelle:** [Twitter Post](https://x.com/AynahhX/status/2106738894670835727)
-- **Veröffentlicht:** 4. Oktober 2026
-- **Sprachen:** en
-
-**[👉 Jetzt ausprobieren →](https://youmind.com/de-DE/nano-banana-pro-prompts?id=35973)**
 
 ---
 
@@ -6387,7 +6440,7 @@ Eine digitale Illustration im Anime-Stil einer lebhaften jungen Frau mit einem k
 
 <div align="center">
 
-### 🎯 15682 weitere Prompts hier nicht angezeigt
+### 🎯 15686 weitere Prompts hier nicht angezeigt
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6450,6 +6503,6 @@ Lizenziert unter [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Prompt einreichen](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dieses Repository mit Stern markieren](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-23T08:04:04.708Z</sub>
+<sub>🤖 Dieses README wird automatisch generiert. Zuletzt aktualisiert: 2026-10-24T08:03:47.631Z</sub>
 
 </div>

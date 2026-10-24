@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15802** |
+| 📝 提示词总数 | **15806** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年10月23日星期五 UTC 08:03:13** |
+| 🔄 最后更新 | **2026年10月24日星期六 UTC 08:02:55** |
 
 </div>
 
@@ -654,7 +654,170 @@ Grok 的搜索结果
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 个人资料 / 头像 - 皮克斯风格双人肖像
+### No. 1: 个人资料 / 头像 - 可爱星形夜灯人像对比
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+对比 GPT2.5 Flare、Nano Pro、Grok 和 SeeDream，使用提示词生成一位手持发光星形夜灯的女性逼真肖像。
+
+#### 📝 提示词
+
+```
+超近景照片级写实肖像，一位年轻的东亚女性。她低头凝视，神情温柔细腻，双手小心翼翼地捧着一盏发光的小星星夜灯，温暖的光线照亮了她的脸庞。
+她身穿一件柔软的奶油色碎花睡衣上衣。氛围私密而精致。
+发光的星星散发出柔和的暖光，在她的脸庞和双手上投下温润的光晕，浅景深，皮肤纹理高度细腻，梦幻且充满情感的氛围，焦点精准落在眼睛与星星上，构图惊艳且富有亲密感，8K 照片级写实。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502170_5dzm3u_HVUxhdMbIAA9_Av.jpg" width="600" alt="个人资料 / 头像 - 可爱星形夜灯人像对比 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502062_bsbp7w_HVUyBgxboAAuN4Z.jpg" width="600" alt="个人资料 / 头像 - 可爱星形夜灯人像对比 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823501908_0zrn6a_HVUyGdPa8AAl33A.jpg" width="600" alt="个人资料 / 头像 - 可爱星形夜灯人像对比 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502849_k0pq4j_HVUzcXraoAAfjWr.jpg" width="600" alt="个人资料 / 头像 - 可爱星形夜灯人像对比 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
+- **来源:** [Twitter Post](https://x.com/LoveAiko2003/status/2113652258772783233)
+- **发布时间:** 2026年10月23日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36836)**
+
+---
+
+### No. 2: 个人资料 / 头像 - Nano Banana Pro 湖泊人像对比
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+使用同一提示词对四个模型（Grok、SeeDream、Nano Pro x2）进行对比，生成一位坐在湖中岩石上的东亚女性写实人像。所有模型均使用相同的提示词。
+
+#### 📝 提示词
+
+```
+一位年轻东亚女性的照片级写实上半身特写。她坐在平静湖面上的一块大岩石上，目光微微侧向一旁，神情柔和而若有所思。
+
+她身穿一条浅灰蓝色细吊带裙（spaghetti straps），身材纤细健美，皮肤纹理自然真实。
+
+宁静的湖畔场景，水面泛着柔和的倒影，阴天下的自然光线轻柔漫射，背景中的绿植虚化朦胧。皮肤细节极其丰富，面料质感逼真，面部与上半身对焦清晰锐利，8K 照片级写实画质。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502245_imdqpo_HVUH5vAbEAAMeK3.jpg" width="600" alt="个人资料 / 头像 - Nano Banana Pro 湖泊人像对比 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502158_mzpa4p_HVUIDlga8AAcbW-.jpg" width="600" alt="个人资料 / 头像 - Nano Banana Pro 湖泊人像对比 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823500635_7at47x_HVUIL3XboAALEyJ.jpg" width="600" alt="个人资料 / 头像 - Nano Banana Pro 湖泊人像对比 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823501674_oa3gne_HVUIQTobIAAkGpp.jpg" width="600" alt="个人资料 / 头像 - Nano Banana Pro 湖泊人像对比 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
+- **来源:** [Twitter Post](https://x.com/LoveAiko2003/status/2113604713631678955)
+- **发布时间:** 2026年10月23日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36835)**
+
+---
+
+### No. 3: 个人资料 / 头像 - 紫色毛衣人像对比
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+使用“粉色头发、身穿淡紫色毛衣的女性超写实特写肖像”这一提示词，对 Nano Pro、SeeDream Lite、ChatGPT 和 Flux 2 进行对比。
+
+#### 📝 提示词
+
+```
+超写实超近距离特写肖像，一位年轻的东亚女性，柔和的灰粉色短发梳成松散的侧边麻花辫。她正注视着镜头，面带温柔而温暖的微笑。
+
+她身穿浅薰衣草色针织毛衣，佩戴小巧的珍珠耳环。身材纤细健美。
+
+柔和的室内场景，温暖的自然光线，背景干净且略带虚化。皮肤纹理高度细腻，面料质感逼真，对焦锐利，优雅自然的人像摄影风格，8K 超写实画质。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504000_5cnt87_HVTKQEYbUAAzju-.jpg" width="600" alt="个人资料 / 头像 - 紫色毛衣人像对比 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504142_xddwdq_HVTKTiJbYAABBqC.jpg" width="600" alt="个人资料 / 头像 - 紫色毛衣人像对比 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504022_dniklv_HVTKZXkbQAA8c7e.jpg" width="600" alt="个人资料 / 头像 - 紫色毛衣人像对比 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823504942_qm7qxx_HVTKfgbawAAvrc0.jpg" width="600" alt="个人资料 / 头像 - 紫色毛衣人像对比 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
+- **来源:** [Twitter Post](https://x.com/LoveAiko2003/status/2113536852603134291)
+- **发布时间:** 2026年10月23日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36838)**
+
+---
+
+### No. 4: 个人资料 / 头像 - 皮克斯风格双人肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -699,7 +862,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 2: 个人资料 / 头像 - 复古医院护士 Cosplay 提示词
+### No. 5: 个人资料 / 头像 - 复古医院护士 Cosplay 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -755,7 +918,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 3: 个人资料 / 头像 - 2000 年代初网吧情侣网络摄像头照片
+### No. 6: 个人资料 / 头像 - 2000 年代初网吧情侣网络摄像头照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -799,7 +962,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 4: 个人资料 / 头像 - 身穿深红礼服女性的电影感肖像
+### No. 7: 个人资料 / 头像 - 身穿深红礼服女性的电影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -832,7 +995,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 5: 个人资料 / 头像 - 戏剧性光影的电影感人像
+### No. 8: 个人资料 / 头像 - 戏剧性光影的电影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -867,7 +1030,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 6: 个人资料 / 头像 - 乡间小路上低头看鞋的女孩
+### No. 9: 个人资料 / 头像 - 乡间小路上低头看鞋的女孩
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -937,7 +1100,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 7: 个人资料 / 头像 - 房间内 Cosplayer 模型对比
+### No. 10: 个人资料 / 头像 - 房间内 Cosplayer 模型对比
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -988,7 +1151,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 8: 个人资料 / 头像 - Nano Banana Pro 奢华美容肖像提示词
+### No. 11: 个人资料 / 头像 - Nano Banana Pro 奢华美容肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1025,7 +1188,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 9: 个人资料 / 头像 - Nano Banana Pro 的时尚编辑肖像提示词
+### No. 12: 个人资料 / 头像 - Nano Banana Pro 的时尚编辑肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1058,7 +1221,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 10: 个人资料 / 头像 - 奢华企业时尚人像
+### No. 13: 个人资料 / 头像 - 奢华企业时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1101,7 +1264,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 11: 个人资料 / 头像 - 马尾辫肖像提示词
+### No. 14: 个人资料 / 头像 - 马尾辫肖像提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1166,7 +1329,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 12: 个人资料 / 头像 - 南亚女性电影感肖像
+### No. 15: 个人资料 / 头像 - 南亚女性电影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1199,7 +1362,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 13: 个人资料 / 头像 - 复古港式茶餐厅人像提示词
+### No. 16: 个人资料 / 头像 - 复古港式茶餐厅人像提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1266,7 +1429,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 14: 个人资料 / 头像 - 影棚人像身份特征保留
+### No. 17: 个人资料 / 头像 - 影棚人像身份特征保留
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1308,7 +1471,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 15: 个人资料 / 头像 - 大阪车站扶梯上的梦幻新娘
+### No. 18: 个人资料 / 头像 - 大阪车站扶梯上的梦幻新娘
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1359,7 +1522,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 16: 个人资料 / 头像 - 保留面部特征的缎面连衣裙人像
+### No. 19: 个人资料 / 头像 - 保留面部特征的缎面连衣裙人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1395,136 +1558,6 @@ Format："{argument name="format" default="4:3 横屏"}"
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36256)**
-
----
-
-### No. 17: 个人资料 / 头像 - 严格保留身份特征的黄金时刻人像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-创建一位身穿运动装、以日落为背景的女性逼真肖像，并严格执行对参考面部特征的还原。
-
-#### 📝 提示词
-
-```
-一张逼真的年轻女性肖像，她约 22 岁，随意地坐在深色花岗岩台面上，直视镜头，带着轻松而含蓄的微笑。她身穿一套色彩拼接的运动装：一件短袖 T 恤，正面为纯白色，袖子和肩部为亮橙色，搭配同色系橙色短裤，短裤配有白色抽绳和侧边白色条纹。她的右腿抬起，右臂舒适地搭在膝盖上。她拥有自然优雅的女性气质，皮肤健康且富有光泽。
-
-场景位于户外阳台或露台，配有黑色金属栏杆。背景中，迷人的黄金时刻日落照亮了宽阔的河流或湖泊，天空呈现出充满活力的暖橙色和黄色色调，并在水面上形成美丽的倒影，左侧可见郁郁葱葱的绿树。
-
-使用 85mm 镜头拍摄，光圈 f/1.8，电影感黄金时刻布光，浅景深，优美的自然背景虚化，超写实皮肤纹理，柔和的皮肤光泽，真实的面部细节，自然色彩，专业摄影，高分辨率。
-
-严格使用上传的参考图像来生成她的面部和身份特征。保持原始面部 100% 不变并与参考完全一致——相同的面部特征、面部结构、比例、肤色、眼形和颜色、鼻子、嘴唇、眉毛、下颌线、发型、发质、年龄和自然表情。不要美化、改变、重塑或理想化面部。保留参考图像中完全相同的身份和发型。最终图像必须看起来像是参考照片中的同一个女孩，只是置于这个新场景和服装中。
-
-皮肤应具有自然健康的光泽，同时保持真实的皮肤纹理和毛孔。无面部扭曲，无身份改变，无人工美颜滤镜，无过度化妆，无面部修改。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182789986_5x7oxl_HTwdO5NaMAApOEZ.jpg" width="600" alt="个人资料 / 头像 - 严格保留身份特征的黄金时刻人像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Kiran Ai](https://x.com/Kiran_AI1)
-- **来源:** [Twitter Post](https://x.com/Kiran_AI1/status/2106590895575630035)
-- **发布时间:** 2026年10月4日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35920)**
-
----
-
-### No. 18: 个人资料 / 头像 - 黄昏时南亚男子的写实肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-生成一张写实风格的肖像，展示一位身着传统服饰的时尚男子在黄昏时分坐在户外，同时保留原始面部特征。
-
-#### 📝 提示词
-
-```
-一张高分辨率、写实风格的肖像，描绘了一位时尚的年轻南亚男子在黄昏/傍晚时分舒适地坐在公园或露天咖啡馆里。他留着精心打理的短发和淡淡的胡茬。身穿浅黄色丝绸沙尔瓦卡米兹（shalwar kameez），脚踩白色运动鞋，左手腕佩戴着一款奢华银色手表，表盘为亮蓝色。
-
-他盘腿坐在一把现代深色编织庭院椅上，一只手臂搭在一个小圆形户外桌上，桌上放着一杯热黑咖啡（马克杯上印有 'COFFEE' 字样）。一只手若有所思地托着下巴，目光自信地直视镜头。
-
-背景：模糊的郁郁葱葱的绿色公园景色，伴有柔和温暖的散景街灯。天空右上角有一轮巨大而清晰的满月正在发光。温暖且具有电影感的黄昏光线，主体对焦清晰，照片级真实感，8k 画质，景深效果。100% 保留原始面部和发型参考
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101707998_t31yjg_HTt75roaQAEvPyS.jpg" width="600" alt="个人资料 / 头像 - 黄昏时南亚男子的写实肖像 - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Mr.AI](https://x.com/Mr_Ai6)
-- **来源:** [Twitter Post](https://x.com/Mr_Ai6/status/2106413507059351763)
-- **发布时间:** 2026年10月3日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35921)**
-
----
-
-### No. 19: 个人资料 / 头像 - 日本女性模特对比提示词
-
-![Language-JA](https://img.shields.io/badge/Language-JA-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 描述
-
-用于生成安静住宅街道上外观整洁的日本女性的提示词，对比了 GPT Image 2/2.5 变体和 Nano Banana Pro。
-
-#### 📝 提示词
-
-```
-{argument name="subject_en" default="一位外观整洁的日本女性"} {argument name="location_en" default="在一条安静的住宅街道的人行道上"}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711443_48ijwx_HTq7cNGaMAAGa8J.jpg" width="600" alt="个人资料 / 头像 - 日本女性模特对比提示词 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711472_hseqmw_HTq7d-SbIAAC7-z.jpg" width="600" alt="个人资料 / 头像 - 日本女性模特对比提示词 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101711413_1207t8_HTq7fdeaoAEEvP7.jpg" width="600" alt="个人资料 / 头像 - 日本女性模特对比提示词 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791101712015_pbdsfx_HTq7jWqagAA3V2q.jpg" width="600" alt="个人资料 / 头像 - 日本女性模特对比提示词 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [野田吾郎](https://x.com/goro_noda23327)
-- **来源:** [Twitter Post](https://x.com/goro_noda23327/status/2106202442673373411)
-- **发布时间:** 2026年10月3日
-- **多语言:** ja
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35925)**
 
 ---
 
@@ -1578,7 +1611,62 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: 社交媒体帖子 - Nano Banana Pro 银色金属质感礼服人像
+### No. 21: 社交媒体帖子 - 红色天鹅绒紧身连衣裤人像对比
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+多模型对比，包含 Nano Pro，展示一位身着红色天鹅绒紧身连衣裤的女性时尚电影感肖像。
+
+#### 📝 提示词
+
+```
+极具时尚感的电影级人像，一位年轻的东亚女性，秀发挽成优雅的高发髻。她身姿曼妙，微微仰头，神情恬静，一手轻搭腰间。
+
+她身穿深酒红色丝绒花样滑冰连体服，点缀着精致的黑色蕾丝刺绣，搭配透视网纱长袖与高耸的荷叶边立领，腰胯处饰有细腻的褶边细节。身形纤细健美，体态优雅动人。
+
+背景干净极简，柔和而富有戏剧性的光影勾勒出丝绒的丰盈质感与蕾丝的精美细节。高级时装大片风格，构图考究，面料质感奢华逼真，焦点锐利，氛围惊艳且优雅，8k。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502150_tlvloh_HVUuzN4bUAAJI64.jpg" width="600" alt="社交媒体帖子 - 红色天鹅绒紧身连衣裤人像对比 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502105_kotbqn_HVUu57maQAAOD7F.jpg" width="600" alt="社交媒体帖子 - 红色天鹅绒紧身连衣裤人像对比 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823502143_ge539f_HVUu-jfaIAEPjKc.jpg" width="600" alt="社交媒体帖子 - 红色天鹅绒紧身连衣裤人像对比 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1792823503083_n18j4m_HVUwD3EbYAAps9j.jpg" width="600" alt="社交媒体帖子 - 红色天鹅绒紧身连衣裤人像对比 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [Aiko💕](https://x.com/LoveAiko2003)
+- **来源:** [Twitter Post](https://x.com/LoveAiko2003/status/2113648510512116183)
+- **发布时间:** 2026年10月23日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36837)**
+
+---
+
+### No. 22: 社交媒体帖子 - Nano Banana Pro 银色金属质感礼服人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1613,7 +1701,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 22: 社交媒体帖子 - Dua Lipa 的超现实窥视视角肖像
+### No. 23: 社交媒体帖子 - Dua Lipa 的超现实窥视视角肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1715,7 +1803,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 23: 社交媒体帖子 - 照片转手绘插画海报提示词
+### No. 24: 社交媒体帖子 - 照片转手绘插画海报提示词
 
 ![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
 
@@ -1760,7 +1848,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 24: 社交媒体帖子 - 高端时尚都市夜景大片
+### No. 25: 社交媒体帖子 - 高端时尚都市夜景大片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1812,7 +1900,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 25: 社交媒体帖子 - 异想天开的微缩巴洛克楼梯大厅
+### No. 26: 社交媒体帖子 - 异想天开的微缩巴洛克楼梯大厅
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1845,7 +1933,7 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 26: 社交媒体帖子 - 电影感旅行艺术家地标写生
+### No. 27: 社交媒体帖子 - 电影感旅行艺术家地标写生
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1897,156 +1985,6 @@ https://t.co/QxbYpfFVj6
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36394)**
-
----
-
-### No. 27: 社交媒体帖子 - 超现实海事编辑肖像
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用于生成超写实 surreal editorial 照片的详细 JSON prompt，描绘了一位身处海事档案库中的女性，其服装由悬浮的水构成，周围有鱼群环绕，并包含特定的相机设置和灯光指令。
-
-#### 📝 提示词
-
-```
-{
-  "vibe_title_en": "Abyssal Archive",
-  "master_prompt": "一张超写实的全身照，主角站在一个堆满杂物的海事古物档案库中。她正随意地阅读一本厚重且风化的航海日志，完全无视周围发生的超现实物理现象。通过高预算的实景特效，主角的下装完全由悬浮、动态飞溅的海水构成，时间仿佛在此凝固。在这层透明液体矩阵中，几条细节丰富、沉重的银色鲭鱼正在游动并缠绕在她的腿部，湿润的鱼鳞反射出高光。繁忙的环境是一个混乱的、类似囤积者的档案室：成堆的水损航海图、堆积的大理石半身像、纠缠的渔网、悬挂的解剖鲸骨以及玻璃棱镜占据了前景和背景，营造出强烈的景深遮挡效果。体积光透过布满冷凝水的天窗洒入，照亮了旋转的尘埃颗粒和悬挂的海雾。使用 Hasselblad H6D-100c 搭配 80mm f/1.9 镜头拍摄。电影级高对比度明暗对照法（chiaroscuro）布光，强调水滴的物理重量、主角皮肤上的毛孔以及上身紧身胸衣的纹理编织。Kodak Portra 400 胶片质感，有机胶片颗粒感，完美融合超现实主义与精英编辑摄影风格。无霓虹灯。",
-  "meta": {
-    "intent": "Surreal Editorial Photography",
-    "priorities": "Photorealistic impossible physics, extreme environmental clutter, high-end medium format textures",
-    "device_profile": "Hasselblad H6D-100c"
-  },
-  "frame": {
-    "aspect": "9:16",
-    "composition": "Full-body environmental portrait",
-    "layout": "Subject slightly off-center, framed by foreground debris and background archival stacks",
-    "camera_angle": "Eye level, straight on to subject's torso",
-    "tilt_roll_degrees": "0"
-  },
-  "subject": {
-    "gender": "Female",
-    "identity": "The Protagonist",
-    "demographics": "Ageless, ethereal presence",
-    "face": "Clean, natural features, hyper-detailed pores",
-    "hair": "Wet, clinging to the neck and shoulders, dark",
-    "body": "Statuesque, seamlessly transitioning into the surreal water element",
-    "expression": "Calm, deeply absorbed in reading, detached from the chaos",
-    "pose": "Standing gracefully, holding a heavy book open with both hands, slightly looking down"
-  },
-  "wardrobe_accessories": {
-    "garments": [
-      {
-        "item": "Upper bodice",
-        "material": "Wet silk clinging to the skin",
-        "color": "Translucent aquatic blue",
-        "fit": "Form-fitting"
-      },
-      {
-        "item": "Flowing lower garment",
-        "material": "Levitating liquid saltwater and living mackerel",
-        "color": "Transparent cyan and silver",
-        "fit": "Dynamic, kinetic, wrapping around the legs"
-      }
-    ],
-    "accessories": [
-      {
-        "item": "Antique heavy logbook",
-        "color": "Faded black and gold",
-        "material": "Leather and thick parchment",
-        "brand_style": "Weathered maritime archival"
-      },
-      {
-        "item": "High-heeled stilettos",
-        "color": "Glossy black",
-        "material": "Patent leather",
-        "brand_style": "Classic, elegant contrast to the organic water"
-      }
-    ]
-  },
-  "environment": {
-    "setting": "Maritime Antiquities Vault and Restoration Workshop",
-    "surfaces": "Wet concrete, tarnished brass, damp marble, decaying paper",
-    "depth": "Extremely deep and cluttered, with foreground occlusion from hanging nets and background stacks of artifacts",
-    "atmosphere": "Heavy, humid, smelling of salt and old paper, thick with volumetric mist and dust motes",
-    "lens_interaction": "Shallow depth of field, foreground elements completely out of focus, specular highlights blooming off the water droplets"
-  },
-  "lighting": {
-    "key": "Overhead diffuse skylight mixed with a harsh, directional cinematic spotlight from the upper left",
-    "fill": "Cool, bouncing ambient light from the surrounding water elements",
-    "rim": "Crisp silver rim light separating the splashing water and fish from the dark, cluttered background",
-    "shadows": "Deep, rich, high-contrast chiaroscuro, engulfing the corners of the cluttered room",
-    "color_temperature": "Cool oceanic tones mixed with warm, aged parchment hues",
-    "sensor_flare": "Subtle organic halation around the specular highlights of the splashing water"
-  },
-  "camera": {
-    "lens_type": "Medium Format Prime",
-    "focal_length": "80mm",
-    "aperture": "f/1.9",
-    "focus": "Tack sharp on the subject's face, the book, and the closest fish",
-    "sensor_format": "Medium Format 100MP",
-    "perspective_distortion": "Zero distortion, purely natural and highly compressed"
-  },
-  "post_processing": {
-    "color": "Kodak Portra 400 color science, rich shadows, luminescent highlights",
-    "tonality": "Cinematic contrast, retaining details in the wet highlights",
-    "texture": "Prominent analog film grain, hyper-realistic micro-contrast on skin and fish scales",
-    "digital_sharpening": "None, optical sharpness only",
-    "chromatic_aberration": "Very faint fringe on the extreme edges of the water droplets"
-  },
-  "negative_specifications": [
-    "neon",
-    "cyberpunk",
-    "minimalist",
-    "empty room",
-    "clean studio",
-    "digital illustration",
-    "cartoonish",
-    "flat lighting",
-    "plastic skin",
-    "CGI look",
-    "floating text",
-    "dull textures"
-  ]
-}
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550712_7fd4c5_HUb-SosXMAE7_N3.jpg" width="600" alt="社交媒体帖子 - 超现实海事编辑肖像 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550848_c8cj1p_HUb-SlRWoAAH9c8.jpg" width="600" alt="社交媒体帖子 - 超现实海事编辑肖像 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873550216_fp7125_HUb-SsEXsAAA4tj.jpg" width="600" alt="社交媒体帖子 - 超现实海事编辑肖像 - Image 3">
-</div>
-
-##### Image 4
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873551203_b2w3ia_HUb-SlNWwAAHY2X.jpg" width="600" alt="社交媒体帖子 - 超现实海事编辑肖像 - Image 4">
-</div>
-
-#### 📌 详情
-
-- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
-- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2109653076499902934)
-- **发布时间:** 2026年10月12日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36357)**
 
 ---
 
@@ -4705,7 +4643,157 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 83: 产品营销 - 灰色高领毛衣东亚女性混凝土墙背景
+### No. 83: 产品营销 - 超现实海事编辑肖像
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 描述
+
+用于生成超写实 surreal editorial 照片的详细 JSON prompt，描绘了一位身处海事档案库中的女性，其服装由悬浮的水构成，周围有鱼群环绕，并包含特定的相机设置和灯光指令。
+
+#### 📝 提示词
+
+```
+{
+  "vibe_title_en": "Abyssal Archive",
+  "master_prompt": "一张超写实的全身照，主角站在一个堆满杂物的海事古物档案库中。她正随意地阅读一本厚重且风化的航海日志，完全无视周围发生的超现实物理现象。通过高预算的实景特效，主角的下装完全由悬浮、动态飞溅的海水构成，时间仿佛在此凝固。在这层透明液体矩阵中，几条细节丰富、沉重的银色鲭鱼正在游动并缠绕在她的腿部，湿润的鱼鳞反射出高光。繁忙的环境是一个混乱的、类似囤积者的档案室：成堆的水损航海图、堆积的大理石半身像、纠缠的渔网、悬挂的解剖鲸骨以及玻璃棱镜占据了前景和背景，营造出强烈的景深遮挡效果。体积光透过布满冷凝水的天窗洒入，照亮了旋转的尘埃颗粒和悬挂的海雾。使用 Hasselblad H6D-100c 搭配 80mm f/1.9 镜头拍摄。电影级高对比度明暗对照法（chiaroscuro）布光，强调水滴的物理重量、主角皮肤上的毛孔以及上身紧身胸衣的纹理编织。Kodak Portra 400 胶片质感，有机胶片颗粒感，完美融合超现实主义与精英编辑摄影风格。无霓虹灯。",
+  "meta": {
+    "intent": "Surreal Editorial Photography",
+    "priorities": "Photorealistic impossible physics, extreme environmental clutter, high-end medium format textures",
+    "device_profile": "Hasselblad H6D-100c"
+  },
+  "frame": {
+    "aspect": "9:16",
+    "composition": "Full-body environmental portrait",
+    "layout": "Subject slightly off-center, framed by foreground debris and background archival stacks",
+    "camera_angle": "Eye level, straight on to subject's torso",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "Female",
+    "identity": "The Protagonist",
+    "demographics": "Ageless, ethereal presence",
+    "face": "Clean, natural features, hyper-detailed pores",
+    "hair": "Wet, clinging to the neck and shoulders, dark",
+    "body": "Statuesque, seamlessly transitioning into the surreal water element",
+    "expression": "Calm, deeply absorbed in reading, detached from the chaos",
+    "pose": "Standing gracefully, holding a heavy book open with both hands, slightly looking down"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "Upper bodice",
+        "material": "Wet silk clinging to the skin",
+        "color": "Translucent aquatic blue",
+        "fit": "Form-fitting"
+      },
+      {
+        "item": "Flowing lower garment",
+        "material": "Levitating liquid saltwater and living mackerel",
+        "color": "Transparent cyan and silver",
+        "fit": "Dynamic, kinetic, wrapping around the legs"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "Antique heavy logbook",
+        "color": "Faded black and gold",
+        "material": "Leather and thick parchment",
+        "brand_style": "Weathered maritime archival"
+      },
+      {
+        "item": "High-heeled stilettos",
+        "color": "Glossy black",
+        "material": "Patent leather",
+        "brand_style": "Classic, elegant contrast to the organic water"
+      }
+    ]
+  },
+  "environment": {
+    "setting": "Maritime Antiquities Vault and Restoration Workshop",
+    "surfaces": "Wet concrete, tarnished brass, damp marble, decaying paper",
+    "depth": "Extremely deep and cluttered, with foreground occlusion from hanging nets and background stacks of artifacts",
+    "atmosphere": "Heavy, humid, smelling of salt and old paper, thick with volumetric mist and dust motes",
+    "lens_interaction": "Shallow depth of field, foreground elements completely out of focus, specular highlights blooming off the water droplets"
+  },
+  "lighting": {
+    "key": "Overhead diffuse skylight mixed with a harsh, directional cinematic spotlight from the upper left",
+    "fill": "Cool, bouncing ambient light from the surrounding water elements",
+    "rim": "Crisp silver rim light separating the splashing water and fish from the dark, cluttered background",
+    "shadows": "Deep, rich, high-contrast chiaroscuro, engulfing the corners of the cluttered room",
+    "color_temperature": "Cool oceanic tones mixed with warm, aged parchment hues",
+    "sensor_flare": "Subtle organic halation around the specular highlights of the splashing water"
+  },
+  "camera": {
+    "lens_type": "Medium Format Prime",
+    "focal_length": "80mm",
+    "aperture": "f/1.9",
+    "focus": "Tack sharp on the subject's face, the book, and the closest fish",
+    "sensor_format": "Medium Format 100MP",
+    "perspective_distortion": "Zero distortion, purely natural and highly compressed"
+  },
+  "post_processing": {
+    "color": "Kodak Portra 400 color science, rich shadows, luminescent highlights",
+    "tonality": "Cinematic contrast, retaining details in the wet highlights",
+    "texture": "Prominent analog film grain, hyper-realistic micro-contrast on skin and fish scales",
+    "digital_sharpening": "None, optical sharpness only",
+    "chromatic_aberration": "Very faint fringe on the extreme edges of the water droplets"
+  },
+  "negative_specifications": [
+    "neon",
+    "cyberpunk",
+    "minimalist",
+    "empty room",
+    "clean studio",
+    "digital illustration",
+    "cartoonish",
+    "flat lighting",
+    "plastic skin",
+    "CGI look",
+    "floating text",
+    "dull textures"
+  ]
+}
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550712_7fd4c5_HUb-SosXMAE7_N3.jpg" width="600" alt="产品营销 - 超现实海事编辑肖像 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550848_c8cj1p_HUb-SlRWoAAH9c8.jpg" width="600" alt="产品营销 - 超现实海事编辑肖像 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873550216_fp7125_HUb-SsEXsAAA4tj.jpg" width="600" alt="产品营销 - 超现实海事编辑肖像 - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791873551203_b2w3ia_HUb-SlNWwAAHY2X.jpg" width="600" alt="产品营销 - 超现实海事编辑肖像 - Image 4">
+</div>
+
+#### 📌 详情
+
+- **作者:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **来源:** [Twitter Post](https://x.com/timedoctor_nft/status/2109653076499902934)
+- **发布时间:** 2026年10月12日
+- **多语言:** en
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36357)**
+
+---
+
+### No. 84: 产品营销 - 灰色高领毛衣东亚女性混凝土墙背景
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4748,7 +4836,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 84: 产品营销 - 全装甲机甲少女概念艺术
+### No. 85: 产品营销 - 全装甲机甲少女概念艺术
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4793,7 +4881,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 85: 产品营销 - 红毯时尚摄影提示词
+### No. 86: 产品营销 - 红毯时尚摄影提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4836,7 +4924,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 86: 产品营销 - 奢华时尚编辑摄影照片
+### No. 87: 产品营销 - 奢华时尚编辑摄影照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4873,7 +4961,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 87: 产品营销 - 超现实糖果娃娃角色提示词
+### No. 88: 产品营销 - 超现实糖果娃娃角色提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4906,7 +4994,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 88: 产品营销 - 奢华浴缸时尚人像
+### No. 89: 产品营销 - 奢华浴缸时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4949,7 +5037,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 89: 产品营销 - 豪华时尚大片：运动轿车篇
+### No. 90: 产品营销 - 豪华时尚大片：运动轿车篇
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4982,7 +5070,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 90: 产品营销 - 基于参考图的电影感奢华夜景人像
+### No. 91: 产品营销 - 基于参考图的电影感奢华夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5029,7 +5117,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 ---
 
-### No. 91: 产品营销 - Cheetos 零食广告人像
+### No. 92: 产品营销 - Cheetos 零食广告人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5069,43 +5157,6 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35975)**
-
----
-
-### No. 92: 产品营销 - 高端美容人像（带参考图）
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 描述
-
-用于创建逼真美容人像的提示词，保留上传图像中的身份特征，搭配酒红色服装和电影级灯光效果。
-
-#### 📝 提示词
-
-```
-使用上传的图像作为主要视觉参考。创建同一位女性的高端逼真美容人像，保留她的面部特征、脸型、肤色、眼睛、鼻子、嘴唇以及整体身份。她留着深棕色头发，梳成凌乱而优雅的发髻，几缕松散的波浪发丝垂在脸旁。妆容柔和自然，暖棕色眼影，精致眼线，长睫毛，光泽感深红唇色，以及真实发光的肌肤。
-
-她身穿一件优雅的深酒红色透视长袖上衣，领口较高。她的手优雅地放在颈部附近，展示着精致的金戒指和细节丰富的酒红色与金色美甲。姿势略微转向镜头，表情柔和而自信。
-
-温暖的橙金色电影级灯光，头发周围有强烈的柔和轮廓光，舒适的深米色背景，浅景深，逼真的皮肤纹理，精细的发丝细节，专业美容摄影，85mm 人像镜头，柔和散景，电影级色彩分级，超细节，逼真，8K。无文字、水印或标志。
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791182791324_wm9xmc_HTyj2JyaAAAgxIT.jpg" width="600" alt="产品营销 - 高端美容人像（带参考图） - Image 1">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Aynah](https://x.com/AynahhX)
-- **来源:** [Twitter Post](https://x.com/AynahhX/status/2106738894670835727)
-- **发布时间:** 2026年10月4日
-- **多语言:** en
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=35973)**
 
 ---
 
@@ -6396,7 +6447,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 <div align="center">
 
-### 🎯 15682 更多提示词未在此显示
+### 🎯 15686 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6459,6 +6510,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-23T08:03:13.530Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-24T08:02:55.992Z</sub>
 
 </div>
