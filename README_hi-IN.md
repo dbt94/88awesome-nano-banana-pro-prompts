@@ -143,9 +143,9 @@ Raycast में उपयोग करते समय, आप त्वरि
 
 | मीट्रिक | गिनती |
 |--------|-------|
-| 📝 कुल प्रॉम्पट्स | **15817** |
+| 📝 कुल प्रॉम्पट्स | **15819** |
 | ⭐ विशेष | **9** |
-| 🔄 अंतिम अपडेट | **बुधवार, 28 अक्टूबर 2026 को 8:06:26 am UTC बजे** |
+| 🔄 अंतिम अपडेट | **गुरुवार, 29 अक्टूबर 2026 को 8:03:20 am UTC बजे** |
 
 </div>
 
@@ -1668,7 +1668,108 @@ https://t.co/QxbYpfFVj6
 
 ---
 
-### No. 21: सोशल मीडिया पोस्ट - अग्नि-उद्गारक प्रदर्शन फोटो
+### No. 21: सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
+
+#### 📖 विवरण
+
+एक जटिल JSON-संरचित प्रॉम्प्ट जो हाई-फैशन शैली में धातु तत्वों, तैरते व्हेल और अराजक रेगिस्तान पृष्ठभूमि के साथ एक सममित, सरेअलिस्टिक एडिटोरियल पोर्ट्रेट उत्पन्न करने के लिए है।
+
+#### 📝 प्रॉम्पट
+
+```
+{
+  "vibe_title_en": "{argument name="vibe title" default="एक अवास्तविक रेगिस्तानी तूफ़ान के बीच एक अनपेक्षित हँसी"}",
+  "master_prompt": "नायक (The Protagonist) का सीने से ऊपर तक का, पूरी तरह सममित (symmetrical) मीडियम शॉट। चेहरा ऊपरी तिहाई हिस्से में बिल्कुल केंद्र में है। व्यक्ति पूरी तरह अप्रत्याशित रूप से पकड़ा गया है, आश्चर्य से सचमुच हँस रहा है, जिसमें उसके चेहरे की विशेषताओं और उड़ते हुए बालों पर हल्का, स्वाभाविक मिड-मोशन ब्लर (mid-motion blur) है। उसने ब्लश A-line परिधान के ऊपर एक स्ट्रक्चर्ड सिल्वर मेटैलिक रिबकेज बोडिस पहना हुआ है। दृश्य गोधूलि बेला (twilight) में एक बेहद व्यस्त, घना और अवास्तविक (surreal) रेगिस्तानी नखलिस्तान (oasis) है। पृष्ठभूमि में टूटे हुए शीशे के पिरामिडों का घुटन भरा जंगल और जंगली तरीके से खिलती गुलाबी गुलाब की झाड़ियाँ हैं, जो सूखी फटी हुई ज़मीन को हिंसक रूप से चीर रही हैं। गुलाबी और नीले रंग का गोधूलि आकाश पूरी तरह से विशाल, भौतिक रूप से भारी क्रोम व्हेल से भरा हुआ है, जो हवा में तैर रही हैं और उनके साथ धातु के झूलते हुए बर्डकेज भी हैं। हर असंभव तत्व एक हाई-बजट प्रैक्टिकल इफ़ेक्ट जैसा दिखता है, जिसमें भौतिक भार और यथार्थवादी प्रतिबिंब (reflections) हैं। लाइटिंग: पूर्ण क्षैतिज सममिति (horizontal symmetry)। दो बड़े सॉफ्ट-बॉक्स दोनों तरफ से विषय को रोशन करते हैं, जिससे त्वचा का रंग पूरी तरह समान और बिना छाया वाला दिखता है, जो पीछे मौजूद घने क्रोम समुद्री जीवों और शीशों से टकराकर लौटने वाली अराजक, अत्यधिक स्पेक्युलर एम्बिएंट लाइट के विपरीत है। Hasselblad H6D-100c कैमरे पर 80mm लेंस और Kodak Portra 400 फिल्म स्टॉक के साथ शूट किया गया। मोशन ब्लर के नीचे हाइपर-रियलिस्टिक स्किन पोर्स, धातु की सतहों पर गहन टेक्टाइल डिटेल, सिनेमाई डेप्थ ऑफ़ फ़ील्ड। कोई नियॉन नहीं। कोई डिजिटल इलस्ट्रेशन आर्टिफ़ैक्ट्स नहीं।",
+  "meta": {
+    "intent": "अवास्तविक एडिटोरियल पोर्ट्रेट",
+    "priorities": "पूर्ण सममिति, फोटोग्राफिक सर्रियलिज़्म, मोशन ब्लर कंट्रास्ट",
+    "device_profile": "मीडियम फॉर्मेट एनालॉग-डिजिटल हाइब्रिड"
+  },
+  "frame": {
+    "aspect": "4:5",
+    "composition": "केंद्रित पावर-मिड, सममित सीने से ऊपर तक का शॉट",
+    "layout": "फ्रेम के ऊपरी तिहाई हिस्से में चेहरा बिल्कुल केंद्र में",
+    "camera_angle": "आँखों के स्तर पर, पूरी तरह सीधा",
+    "tilt_roll_degrees": "0"
+  },
+  "subject": {
+    "gender": "महिला",
+    "identity": "नायक (The Protagonist)",
+    "demographics": "उम्र से परे, सार्वभौमिक आर्किटाइप",
+    "face": "सचमुच हँसता हुआ, आश्चर्य से सिकुड़ी हुई आँखें",
+    "hair": "हवा से थोड़े उड़े हुए, किनारों पर मोशन ब्लर के साथ",
+    "body": "सीने से ऊपर तक, कैमरे के सामने सममित रूप से स्थित",
+    "expression": "पूरी तरह अप्रत्याशित रूप से पकड़ा गया, शुद्ध खुशी",
+    "pose": "प्रतिक्रिया के बीच में, एक स्थिर फ्रेम को तोड़ती गतिशील सूक्ष्म-गति"
+  },
+  "wardrobe_accessories": {
+    "garments": [
+      {
+        "item": "रिबकेज-स्टाइल स्ट्रक्चरल बोडिस",
+        "material": "पॉलिश्ड क्रोम मेटल",
+        "color": "सिल्वर",
+        "fit": "कठोर, आर्किटेक्चरल"
+      },
+      {
+        "item": "A-line अंडरड्रेस",
+        "material": "भारी मैट कॉटन",
+        "color": "ब्लश पिंक",
+        "fit": "टेलर्ड"
+      }
+    ],
+    "accessories": [
+      {
+        "item": "मिनिमलिस्ट ज्यामितीय ईयररिंग्स",
+        "color": "सिल्वर",
+        "material": "सर्जिकल स्टील",
+        "brand_style": "एवंत-गार्दे (Avant-garde)"
+      }
+    ]
+  }
+}
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255077553_osktbg_HVtui9SXoAAaGl5.jpg" width="600" alt="सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255077453_iqyscn_HVtui81XMAAvaw7.jpg" width="600" alt="सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255077750_9cg3rv_HVtui6dXoAASKVh.jpg" width="600" alt="सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट - Image 3">
+</div>
+
+##### Image 4
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255078752_yxu8vc_HVtui9YXwAAF4tI.jpg" width="600" alt="सोशल मीडिया पोस्ट - क्रोम व्हेल और गुलाबों के साथ सरेअलिस्टिक एडिटोरियल पोर्ट्रेट - Image 4">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [timedoctor.eth](https://x.com/timedoctor_nft)
+- **स्रोत:** [Twitter Post](https://x.com/timedoctor_nft/status/2115406003189497933)
+- **प्रकाशित:** 28 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37044)**
+
+---
+
+### No. 22: सोशल मीडिया पोस्ट - अग्नि-उद्गारक प्रदर्शन फोटो
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1717,7 +1818,7 @@ Grok Imagine की तुलना Nano Banana Pro/2.1 से। दिया �
 
 ---
 
-### No. 22: सोशल मीडिया पोस्ट - हेलेनिस्टिक मेडुसा एडिटोरियल प्रॉम्प्ट
+### No. 23: सोशल मीडिया पोस्ट - हेलेनिस्टिक मेडुसा एडिटोरियल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1769,7 +1870,7 @@ Grok Imagine की तुलना Nano Banana Pro/2.1 से। दिया �
 
 ---
 
-### No. 23: सोशल मीडिया पोस्ट - एमा वॉटसन का अवान्त-गार्ड पोर्ट्रेट
+### No. 24: सोशल मीडिया पोस्ट - एमा वॉटसन का अवान्त-गार्ड पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1870,7 +1971,7 @@ Grok Imagine की तुलना Nano Banana Pro/2.1 से। दिया �
 
 ---
 
-### No. 24: सोशल मीडिया पोस्ट - क्लीन-गर्ल एडिटोरियल फैशन पोर्ट्रेट
+### No. 25: सोशल मीडिया पोस्ट - क्लीन-गर्ल एडिटोरियल फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1923,7 +2024,7 @@ Soho पेंटहाउस में एक महिला के हाई-
 
 ---
 
-### No. 25: सोशल मीडिया पोस्ट - सांझ के समय पहाड़ी पर सिनेमैटिक पोर्ट्रेट
+### No. 26: सोशल मीडिया पोस्ट - सांझ के समय पहाड़ी पर सिनेमैटिक पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1956,7 +2057,7 @@ Soho पेंटहाउस में एक महिला के हाई-
 
 ---
 
-### No. 26: सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
+### No. 27: सोशल मीडिया पोस्ट - मार्बल अपैथी एडिटोरियल पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2052,7 +2153,7 @@ Soho पेंटहाउस में एक महिला के हाई-
 
 ---
 
-### No. 27: सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना
+### No. 28: सोशल मीडिया पोस्ट - रेड वेलवेट लियोटार्ड पोर्ट्रेट तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2107,7 +2208,7 @@ Nano Pro सहित एक मल्टी-मॉडल तुलना, ज�
 
 ---
 
-### No. 28: इन्फोग्राफिक / शैक्षिक विज़ुअल - वस्तु से भवन रूपांतरण प्रॉम्प्ट
+### No. 29: इन्फोग्राफिक / शैक्षिक विज़ुअल - वस्तु से भवन रूपांतरण प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2165,7 +2266,7 @@ Nano Banana Pro के लिए एक तार्किक वर्कफ़
 
 ---
 
-### No. 29: इन्फोग्राफिक / शैक्षिक विज़ुअल - Product Reference Sheet Workflow
+### No. 30: इन्फोग्राफिक / शैक्षिक विज़ुअल - Product Reference Sheet Workflow
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2203,7 +2304,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 30: इन्फोग्राफिक / शैक्षिक विज़ुअल - हस्तलिखित मेमो रेसिपी इलस्ट्रेशन
+### No. 31: इन्फोग्राफिक / शैक्षिक विज़ुअल - हस्तलिखित मेमो रेसिपी इलस्ट्रेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2265,7 +2366,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 31: इन्फोग्राफिक / शैक्षिक विज़ुअल - हैंडराइटिंग स्टाइल 3-स्टेप प्रोसेस Slides
+### No. 32: इन्फोग्राफिक / शैक्षिक विज़ुअल - हैंडराइटिंग स्टाइल 3-स्टेप प्रोसेस Slides
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2331,7 +2432,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 32: इन्फोग्राफिक / शैक्षिक विज़ुअल - विंटेज ब्रिटिश व्यंग्य चित्र
+### No. 33: इन्फोग्राफिक / शैक्षिक विज़ुअल - विंटेज ब्रिटिश व्यंग्य चित्र
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2364,7 +2465,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 33: इन्फोग्राफिक / शैक्षिक विज़ुअल - कॉर्पोरेट राजस्व रिपोर्ट इन्फोग्राफिक
+### No. 34: इन्फोग्राफिक / शैक्षिक विज़ुअल - कॉर्पोरेट राजस्व रिपोर्ट इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2398,7 +2499,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 34: इन्फोग्राफिक / शैक्षिक विज़ुअल - विंटेज ट्रैवल जर्नल एडिटोरियल कोलाज
+### No. 35: इन्फोग्राफिक / शैक्षिक विज़ुअल - विंटेज ट्रैवल जर्नल एडिटोरियल कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2431,7 +2532,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 35: इन्फोग्राफिक / शैक्षिक विज़ुअल - संपादकीय कुकिंग स्टोरीबोर्ड लेआउट
+### No. 36: इन्फोग्राफिक / शैक्षिक विज़ुअल - संपादकीय कुकिंग स्टोरीबोर्ड लेआउट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2469,7 +2570,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 36: इन्फोग्राफिक / शैक्षिक विज़ुअल - विंटेज ट्रैवल जर्नल कोलाज
+### No. 37: इन्फोग्राफिक / शैक्षिक विज़ुअल - विंटेज ट्रैवल जर्नल कोलाज
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2521,7 +2622,7 @@ A detailed prompt and workflow for creating professional advertising reference s
 
 ---
 
-### No. 37: इन्फोग्राफिक / शैक्षिक विज़ुअल - क्षेत्रीय सांस्कृतिक एटलस पोस्टर
+### No. 38: इन्फोग्राफिक / शैक्षिक विज़ुअल - क्षेत्रीय सांस्कृतिक एटलस पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2601,7 +2702,7 @@ GRAPHIC_SYSTEM := फटे हुए कागज, मुद्रित ग्
 
 ---
 
-### No. 38: इन्फोग्राफिक / शैक्षिक विज़ुअल - मनमोहक कलरिंग पेज इलस्ट्रेशन
+### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - मनमोहक कलरिंग पेज इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2635,7 +2736,7 @@ GRAPHIC_SYSTEM := फटे हुए कागज, मुद्रित ग्
 
 ---
 
-### No. 39: इन्फोग्राफिक / शैक्षिक विज़ुअल - प्रोफेशनल बीफ टैको प्रोडक्ट फोटोग्राफी
+### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - प्रोफेशनल बीफ टैको प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2668,7 +2769,7 @@ GRAPHIC_SYSTEM := फटे हुए कागज, मुद्रित ग्
 
 ---
 
-### No. 40: इन्फोग्राफिक / शैक्षिक विज़ुअल - मिल्कशेक प्रोडक्ट इन्फोग्राफिक
+### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - मिल्कशेक प्रोडक्ट इन्फोग्राफिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2701,7 +2802,7 @@ GRAPHIC_SYSTEM := फटे हुए कागज, मुद्रित ग्
 
 ---
 
-### No. 41: इन्फोग्राफिक / शैक्षिक विज़ुअल - यूरोपीय हैम्स्टर की वन्यजीव फोटोग्राफी
+### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - यूरोपीय हैम्स्टर की वन्यजीव फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2735,7 +2836,7 @@ GRAPHIC_SYSTEM := फटे हुए कागज, मुद्रित ग्
 
 ---
 
-### No. 42: इन्फोग्राफिक / शैक्षिक विज़ुअल - यथार्थवादी डोडो पक्षी चित्रण
+### No. 43: इन्फोग्राफिक / शैक्षिक विज़ुअल - यथार्थवादी डोडो पक्षी चित्रण
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2769,7 +2870,7 @@ Nano Banana 2 के लिए अनुकूलित, प्राकृत�
 
 ---
 
-### No. 43: YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट
+### No. 44: YouTube थंबनेल - 90s एक्शन हीरोइन नोयर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2839,7 +2940,7 @@ Nano Banana 2 के लिए अनुकूलित, प्राकृत�
 
 ---
 
-### No. 44: YouTube थंबनेल - Sci-Fi Movie Still with Reference Images
+### No. 45: YouTube थंबनेल - Sci-Fi Movie Still with Reference Images
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2872,7 +2973,7 @@ Still from a Hollywood sci-fi movie. Over-the-shoulder shot of the man in image 
 
 ---
 
-### No. 45: YouTube थंबनेल - अंटार्कटिक अभियान ऐतिहासिक यथार्थवाद तुलना
+### No. 46: YouTube थंबनेल - अंटार्कटिक अभियान ऐतिहासिक यथार्थवाद तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2911,7 +3012,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 46: YouTube थंबनेल - मंदिर की छत पर हुडेड असैसिन: फैंटेसी आर्ट
+### No. 47: YouTube थंबनेल - मंदिर की छत पर हुडेड असैसिन: फैंटेसी आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -2947,7 +3048,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 47: YouTube थंबनेल - टेक्स्ट ओवरले के साथ YouTube थंबनेल डिज़ाइन प्रॉम्प्ट
+### No. 48: YouTube थंबनेल - टेक्स्ट ओवरले के साथ YouTube थंबनेल डिज़ाइन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -2983,7 +3084,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 48: YouTube थंबनेल - स्टीम लोकोमोटिव और ढहता हुआ पुल
+### No. 49: YouTube थंबनेल - स्टीम लोकोमोटिव और ढहता हुआ पुल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3023,7 +3124,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 49: YouTube थंबनेल - क्षतिग्रस्त अंतरिक्ष यान पर सिनेमाई अंतरिक्ष यात्री
+### No. 50: YouTube थंबनेल - क्षतिग्रस्त अंतरिक्ष यान पर सिनेमाई अंतरिक्ष यात्री
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3072,7 +3173,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 50: YouTube थंबनेल - डबल एक्सपोज़र मोटरसाइकिल सनसेट पोर्ट्रेट
+### No. 51: YouTube थंबनेल - डबल एक्सपोज़र मोटरसाइकिल सनसेट पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3106,7 +3207,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 51: YouTube थंबनेल - हाई डेफिनिशन पोर्ट्रेट ट्रांसफॉर्मेशन
+### No. 52: YouTube थंबनेल - हाई डेफिनिशन पोर्ट्रेट ट्रांसफॉर्मेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3140,7 +3241,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 52: YouTube थंबनेल - प्रीमियम डार्क फैंटेसी एनीमे सिनेमैटिक
+### No. 53: YouTube थंबनेल - प्रीमियम डार्क फैंटेसी एनीमे सिनेमैटिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3174,7 +3275,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 53: YouTube थंबनेल - कोशिएन बेसबॉल ब्रॉडकास्ट स्क्रीन
+### No. 54: YouTube थंबनेल - कोशिएन बेसबॉल ब्रॉडकास्ट स्क्रीन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3208,7 +3309,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 54: YouTube थंबनेल - टाइपोग्राफिक इमर्जेंस मूवी पोस्टर ग्रिड
+### No. 55: YouTube थंबनेल - टाइपोग्राफिक इमर्जेंस मूवी पोस्टर ग्रिड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3242,7 +3343,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 55: YouTube थंबनेल - मिनिएचर पॉप-अप बुक डायोरामा
+### No. 56: YouTube थंबनेल - मिनिएचर पॉप-अप बुक डायोरामा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3276,7 +3377,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 56: YouTube थंबनेल - साइ-फाई कॉफी मशीन बॉस बैटल
+### No. 57: YouTube थंबनेल - साइ-फाई कॉफी मशीन बॉस बैटल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3310,7 +3411,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 57: YouTube थंबनेल - वेनिस में अति-यथार्थवादी विशाल महिला
+### No. 58: YouTube थंबनेल - वेनिस में अति-यथार्थवादी विशाल महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3344,7 +3445,7 @@ Nano Banana Pro और Flux 2 Pro के बीच एक ऐतिहासि�
 
 ---
 
-### No. 58: YouTube थंबनेल - सिनेमैटिक स्पोर्ट्स डॉक्यूमेंट्री की आर्ट
+### No. 59: YouTube थंबनेल - सिनेमैटिक स्पोर्ट्स डॉक्यूमेंट्री की आर्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3378,7 +3479,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 59: YouTube थंबनेल - भव्य हाथी के आकार के बादलों की फोटोग्राफी
+### No. 60: YouTube थंबनेल - भव्य हाथी के आकार के बादलों की फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3422,7 +3523,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 60: YouTube थंबनेल - एनीमे रेलवे स्टेशन ट्रांसफॉर्मेशन
+### No. 61: YouTube थंबनेल - एनीमे रेलवे स्टेशन ट्रांसफॉर्मेशन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3456,7 +3557,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 61: YouTube थंबनेल - मिस्टर बीन की मिनी कूपर का हंगामा
+### No. 62: YouTube थंबनेल - मिस्टर बीन की मिनी कूपर का हंगामा
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3510,7 +3611,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 62: कॉमिक / स्टोरीबोर्ड - धारा किनारे सपनों का दृश्य: ऑडियो और इमेज कैरोसेल के साथ
+### No. 63: कॉमिक / स्टोरीबोर्ड - धारा किनारे सपनों का दृश्य: ऑडियो और इमेज कैरोसेल के साथ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3545,7 +3646,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 63: कॉमिक / स्टोरीबोर्ड - Nano Banana Pro के लिए मैजिक गर्ल एनीमे की विज़ुअल प्रॉम्प्ट
+### No. 64: कॉमिक / स्टोरीबोर्ड - Nano Banana Pro के लिए मैजिक गर्ल एनीमे की विज़ुअल प्रॉम्प्ट
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -3596,7 +3697,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 64: कॉमिक / स्टोरीबोर्ड - आधुनिक कॉमिक बुक इलस्ट्रेशन स्टाइल प्रॉम्प्ट
+### No. 65: कॉमिक / स्टोरीबोर्ड - आधुनिक कॉमिक बुक इलस्ट्रेशन स्टाइल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3647,7 +3748,7 @@ do this for {argument name="event" default="Argentina World Cup 2026"}, void mai
 
 ---
 
-### No. 65: कॉमिक / स्टोरीबोर्ड - साइबरपंक डिटेक्टिव मूवी स्टिल
+### No. 66: कॉमिक / स्टोरीबोर्ड - साइबरपंक डिटेक्टिव मूवी स्टिल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3760,7 +3861,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 66: कॉमिक / स्टोरीबोर्ड - मोनोक्रोम इंक बॉलपॉइंट पेन ज़ीन पोस्टर
+### No. 67: कॉमिक / स्टोरीबोर्ड - मोनोक्रोम इंक बॉलपॉइंट पेन ज़ीन पोस्टर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3800,7 +3901,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 67: कॉमिक / स्टोरीबोर्ड - वृद्ध हैरी पॉटर का शीतकालीन दृश्य
+### No. 68: कॉमिक / स्टोरीबोर्ड - वृद्ध हैरी पॉटर का शीतकालीन दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3853,7 +3954,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 68: कॉमिक / स्टोरीबोर्ड - कार्टून मॉन्स्टर रैट रॉड ड्रैग रेस
+### No. 69: कॉमिक / स्टोरीबोर्ड - कार्टून मॉन्स्टर रैट रॉड ड्रैग रेस
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -3887,7 +3988,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 69: कॉमिक / स्टोरीबोर्ड - जटिल काव्यात्मक ड्रैगन फैंटेसी टेक्स्ट
+### No. 70: कॉमिक / स्टोरीबोर्ड - जटिल काव्यात्मक ड्रैगन फैंटेसी टेक्स्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -3988,7 +4089,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 70: कॉमिक / स्टोरीबोर्ड - स्टाइलिश मार्शल आर्ट्स एनीमे गर्ल
+### No. 71: कॉमिक / स्टोरीबोर्ड - स्टाइलिश मार्शल आर्ट्स एनीमे गर्ल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4021,7 +4122,7 @@ Nano Banana Pro के लिए JSON फॉर्मेट में तैय�
 
 ---
 
-### No. 71: कॉमिक / स्टोरीबोर्ड - मेपल सिरप कमर्शियल स्टोरीबोर्ड
+### No. 72: कॉमिक / स्टोरीबोर्ड - मेपल सिरप कमर्शियल स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4099,7 +4200,7 @@ STYLE:
 
 ---
 
-### No. 72: कॉमिक / स्टोरीबोर्ड - क्लेमेशन गिरगिट का जंगल
+### No. 73: कॉमिक / स्टोरीबोर्ड - क्लेमेशन गिरगिट का जंगल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4133,7 +4234,7 @@ STYLE:
 
 ---
 
-### No. 73: कॉमिक / स्टोरीबोर्ड - स्ट्रॉबेरी चीज़केक आइसक्रीम स्टोरीबोर्ड
+### No. 74: कॉमिक / स्टोरीबोर्ड - स्ट्रॉबेरी चीज़केक आइसक्रीम स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4213,7 +4314,7 @@ STYLE:
 
 ---
 
-### No. 74: कॉमिक / स्टोरीबोर्ड - Greek Yogurt कमर्शियल स्टोरीबोर्ड
+### No. 75: कॉमिक / स्टोरीबोर्ड - Greek Yogurt कमर्शियल स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4247,7 +4348,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 75: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक 2D एनीमे इलस्ट्रेशन
+### No. 76: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक 2D एनीमे इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4293,7 +4394,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 76: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक रेनी नाइट कार पोर्ट्रेट
+### No. 77: कॉमिक / स्टोरीबोर्ड - सिनेमैटिक रेनी नाइट कार पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4326,7 +4427,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 77: कॉमिक / स्टोरीबोर्ड - प्रीमियम योगर्ट कमर्शियल स्टोरीबोर्ड
+### No. 78: कॉमिक / स्टोरीबोर्ड - प्रीमियम योगर्ट कमर्शियल स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4404,7 +4505,7 @@ TITLE: प्रीमियम Greek Yogurt उत्पाद कमर्श�
 
 ---
 
-### No. 78: कॉमिक / स्टोरीबोर्ड - पारिवारिक रात्रिभोज सिनेमैटिक कॉन्टैक्ट शीट
+### No. 79: कॉमिक / स्टोरीबोर्ड - पारिवारिक रात्रिभोज सिनेमैटिक कॉन्टैक्ट शीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4510,7 +4611,7 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 79: कॉमिक / स्टोरीबोर्ड - द लाइटहाउस कीपर स्टोरीबोर्ड
+### No. 80: कॉमिक / स्टोरीबोर्ड - द लाइटहाउस कीपर स्टोरीबोर्ड
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4580,7 +4681,52 @@ Kodak फिल्म इम्यूलेशन के साथ पारि�
 
 ---
 
-### No. 80: प्रोडक्ट मार्केटिंग - एथलीज़र फैशन पोस्टर तुलना
+### No. 81: प्रोडक्ट मार्केटिंग - स्टीमपंक एयरशिप सिनेमाई प्रॉम्प्ट
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 विवरण
+
+धूल के समय बादलों के ऊपर स्टीमपंक एयरशिप उत्पन्न करने के लिए एक विस्तृत प्रॉम्प्ट, जिसका उपयोग GPT-image-2.5, nano banana2 और Grok-imagine2 के आउटपुट की तुलना करने के लिए किया जाता है।
+
+#### 📝 प्रॉम्पट
+
+```
+सिनेमैटिक रियलिस्टिक फोटोग्राफी, शाम के धुंधलके में बादलों के समंदर के ऊपर एक स्टीमपंक एयरशिप: इसका मुख्य विषय एक विशाल तांबे का एयरशिप है, जिसमें पुराने कांसे और गहरे भूरे रंग को जोड़कर बने अंडाकार कैनवास गैसबैग लगे हैं, जिनकी सतह पर सिलाई और मरम्मत के निशान साफ दिखते हैं। हल (hull) रिवाटेड पीतल और गहरी लकड़ी से बना है, और पिछले हिस्से में चार ब्लेड वाला प्रोपेलर तेजी से घूम रहा है। किनारों पर लगी चिमनियों से सफेद भाप निकल रही है, केबिन की खिड़कियों से गर्म पीली रोशनी झलक रही है, और रस्सियाँ व केबल तनी हुई लटक रहे हैं। वातावरणीय कण: कम ऊंचाई पर घूमती धुंध, बारीक धूल और सुनहरी रोशनी में तैरते भाप के कण। लाइटिंग: डूबते सूरज की लो-एंगल बैकलाइटिंग, लगभग 3200K कलर टेम्परेचर, गैसबैग्स की रूपरेखा उभारती सुनहरी रिम लाइट, हल का एक हिस्सा तेज रोशनी में नहाया हुआ जबकि दूसरा नीले-बैंगनी सायों में डूबा हुआ। बैकग्राउंड लेयर्स: फोरग्राउंड में लहराता बादलों का समंदर और दूर एक छोटे एयरशिप की सिल्हूट; मिडग्राउंड में मुख्य एयरशिप; बैकग्राउंड में सूर्यास्त का आसमान और दूर पहाड़ों पर छाई बादलों की रेखाएं। कैमरा: नीचे से ऊपर की ओर लो-एंगल शॉट, 35mm लेंस, f/8, वर्टिकल कंपोजिशन, विषय बीच से थोड़ा ऊपर की तरफ, डीप डेप्थ ऑफ फील्ड, फिल्म ग्रेन। कलर ग्रेडिंग: Eastmancolor फिल्म सिमुलेशन, गर्म सुनहरे और ठंडे नीले रंगों का कॉन्ट्रास्ट, हल्का विग्नेट। कंपोजिशन: रूल ऑफ थर्ड्स, एयरशिप फ्रेम के ऊपरी दो-तिहाई हिस्से में, नीचे सफेद बादलों के लिए जगह छोड़ी गई। मूड: भव्य और रोमांटिक पुरानी औद्योगिक फैंटेसी। स्टाइल: रियलिस्टिक फोटोग्राफी, इलस्ट्रेशन नहीं। क्वालिटी टैग्स: ultra detailed, photorealistic, high dynamic range, sharp focus. नेगेटिव कंस्ट्रेंट्स: No oil painting, No anime, No 3D render look, No deformed structure, No text, No watermark, No people
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255077554_q5ioix_HVrPQIHbQAAQC8v.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - स्टीमपंक एयरशिप सिनेमाई प्रॉम्प्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255077449_daqoif_HVrPSU2acAA6fzb.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - स्टीमपंक एयरशिप सिनेमाई प्रॉम्प्ट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793255077628_jwq25d_HVrPUcTaQAAG-JH.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - स्टीमपंक एयरशिप सिनेमाई प्रॉम्प्ट - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **स्रोत:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115230937244168296)
+- **प्रकाशित:** 27 अक्टूबर 2026
+- **भाषाएं:** zh
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=37043)**
+
+---
+
+### No. 82: प्रोडक्ट मार्केटिंग - एथलीज़र फैशन पोस्टर तुलना
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4628,7 +4774,7 @@ GPT Image 2.5 और Nano Banana 2.1 द्वारा बनाए गए म�
 
 ---
 
-### No. 81: प्रोडक्ट मार्केटिंग - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
+### No. 83: प्रोडक्ट मार्केटिंग - Nano Banana Pro सिल्वर मेटालिक गाउन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4663,7 +4809,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 82: प्रोडक्ट मार्केटिंग - आर्ट-डेको इवनिंग गाउन प्रॉम्प्ट
+### No. 84: प्रोडक्ट मार्केटिंग - आर्ट-डेको इवनिंग गाउन प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4715,7 +4861,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 83: प्रोडक्ट मार्केटिंग - उच्च-फैशन शहरी रात्रि संपादकीय
+### No. 85: प्रोडक्ट मार्केटिंग - उच्च-फैशन शहरी रात्रि संपादकीय
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -4767,7 +4913,7 @@ Negative prompt: कोई CGI लुक नहीं, प्लास्टि�
 
 ---
 
-### No. 84: प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट
+### No. 86: प्रोडक्ट मार्केटिंग - Origami Dreams साइबर मिरर प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -4854,7 +5000,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 85: प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट
+### No. 87: प्रोडक्ट मार्केटिंग - असाधारण समुद्रीय संपादकीय पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5004,7 +5150,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 86: प्रोडक्ट मार्केटिंग - कंक्रीट दीवार के सामने ग्रे टर्टलनेक पहने पूर्वी एशियाई महिला
+### No. 88: प्रोडक्ट मार्केटिंग - कंक्रीट दीवार के सामने ग्रे टर्टलनेक पहने पूर्वी एशियाई महिला
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5047,94 +5193,6 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 87: प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक प्रॉम्प्ट जो पूर्ण कवच वाली मेचा गर्ल की उच्च गुणवत्ता वाली कॉन्सेप्ट आर्ट इमेज जनरेट करने के लिए है, जिसे 1/7 स्केल प्लास्टिक मॉडल फिगर की शैली में डिज़ाइन किया गया है। इस कैरेक्टर में एक पतला धड़ और हाई-हील्स वाला पैरों का डिज़ाइन शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-फुल आर्मर मेचा गर्ल FAMG-001 Aurelith 1/7 स्केल प्लास्टिक मॉडल, पतले धड़ वाले हाई-हील्स शेप्ड लेग्स, अत्यधिक विस्तृत कॉन्सेप्ट आर्ट, यथार्थवादी सामग्री और लाइटिंग, सफेद पृष्ठभूमि, उत्पाद फोटोग्राफी शैली
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791613889332_1vpg3p_HUFpcqyawAAkhcK.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791613889399_foc6em_HUFpcmgaAAAOqql.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट - Image 3">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [てんねん](https://x.com/munou_ac)
-- **स्रोत:** [Twitter Post](https://x.com/munou_ac/status/2108437805068058702)
-- **प्रकाशित:** 9 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36215)**
-
----
-
-### No. 88: प्रोडक्ट मार्केटिंग - रेड कार्पेट फैशन फोटो प्रॉम्प्ट
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-
-#### 📖 विवरण
-
-एक विस्तृत प्रॉम्प्ट जो एक महिला को बर्फ जैसी चांदी-नीली गाउन में पहने हुए अल्ट्रा-रियलिस्टिक रेड-कार्पेट फैशन फोटोग्राफ बनाने के लिए है, जिसमें संदर्भ छवि से चेहरीय पहचान को सुरक्षित रखा गया है।
-
-#### 📝 प्रॉम्पट
-
-```
-अपलोड की गई छवि को प्राथमिक दृश्य संदर्भ के रूप में उपयोग करें। उसी महिला का एक अल्ट्रा-रियलिस्टिक, हाई-एंड रेड-कार्पेट फैशन फोटोग्राफ बनाएं, जिसमें उसके सटीक चेहरीय पहचान, चेहरीय संरचना, आंखें, भौंहें, नाक, होंठ, जबड़े की रेखा, त्वचा का टोन, हेयरस्टाइल और प्राकृतिक अनुपातों को अधिकतम सटीकता के साथ सुरक्षित रखा जाए। कोई पहचान विचलन या चेहरीय परिवर्तन नहीं होना चाहिए।
-
-उसे एक उत्कृष्ट बर्फ जैसी चांदी-नीली कूतूर इवनिंग गाउन में पहनाएं जो पारदर्शी कपड़े से बना हो और सैकड़ों अलग-अलग दिखाई देने वाले क्रिस्टल और राइनस्टोन सजावट से घना सजाया गया हो। गाउन में फिटिंग लंबी बाजू वाला इल्यूजन बोडिस, सुंदर ऊंचा नेकलाइन, मूर्तिकला कमर और चिकना फ्लोर-लेंथ सिल्हूट हो। उसके पीछे सीढ़ियों पर स्वाभाविक रूप से नीचे गिरती हुई एक नाटकीय बहती हुई हल्की नीली पारदर्शी ट्रेन जोड़ें। क्रिस्टल से जड़े चांदी के ओपन-टो हील्स, नाजुक हीरा ईयररिंग्स और परिष्कृत हीरा हार।
-
-उसे एक प्रतिष्ठित फैशन गाला की भव्य क्रीम रंग की सीढ़ी पर कैमरे की ओर देखते हुए आत्मविश्वास और सुंदर भाव के साथ गरिमामय ढंग से खड़ा करें। उसके पीछे, फोटोग्राफरों और मेहमानों का एक ग्लैमरस भीड़ फोटो ले रही है, जिसमें पेशेवर कैमरे और फ्लैश दिखाई दे रहे हैं। सीढ़ियाँ और आसपास की रेलिंग चमकदार क्रिस्टल जैसी सजावट से ढकी हुई हैं।
-
-रचना: पूर्ण शारीरिक पोर्ट्रेट, सिर से पैर तक दृश्यमान, केंद्रित विषय, सुंदर प्राकृतिक खड़े होने की मुद्रा, पूरी तरह से दृश्यमान ट्रेन, यथार्थवादी शारीरिक अनुपात।
-
-फोटोग्राफी: लक्जरी फैशन एडिटोरियल फोटोग्राफी, सिनेमाई डेप्थ ऑफ फील्ड, यथार्थवादी फ्लैश फोटोग्राफी, नरम एम्बिएंट लाइटिंग, क्रिस्टल से सूक्ष्म प्रतिबिंब, प्राकृतिक त्वचा के रोमछिद्र और टेक्सचर, अत्यधिक विस्तृत कपड़ा, भौतिक रूप से सटीक राइनस्टोन, यथार्थवादी हाथ और उंगलियाँ, प्रीमियम Vogue-शैली सौंदर्यशास्त्र, फोटोरियलिस्टिक, 8K विवरण।
-
-नेगेटिव प्रॉम्प्ट: कार्टून, CGI, 3D रेंडर, प्लास्टिक त्वचा, अत्यधिक ब्यूटी रिटouching, बदला हुआ चेहरा, अलग व्यक्ति, पहचान विचलन, विकृत एनाटॉमी, अतिरिक्त उंगलियाँ, विकृत हाथ, धुंधला चेहरा, असामान्य रूप से बड़े गहने, अप्रत्याशित क्रिस्टल, कृत्रिम दिखने वाला कपड़ा, दोहरे लोग, पाठ, लोगो, वॉटरमार्क।
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791527772647_l88fun_HUHVL3TasAAj2pu.jpg" width="600" alt="प्रोडक्ट मार्केटिंग - रेड कार्पेट फैशन फोटो प्रॉम्प्ट - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Elvorya](https://x.com/Elvorya)
-- **स्रोत:** [Twitter Post](https://x.com/Elvorya/status/2108200508951556431)
-- **प्रकाशित:** 8 अक्टूबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36156)**
-
----
-
 ### No. 89: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro एडिट ट्यूटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
@@ -5168,7 +5226,52 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 90: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro स्टूडियो पोर्ट्रेट प्रॉम्प्ट
+### No. 90: ई-कॉमर्स मुख्य इमेज - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट
+
+![Language-EN](https://img.shields.io/badge/Language-EN-blue)
+
+#### 📖 विवरण
+
+एक प्रॉम्प्ट जो पूर्ण कवच वाली मेचा गर्ल की उच्च गुणवत्ता वाली कॉन्सेप्ट आर्ट इमेज जनरेट करने के लिए है, जिसे 1/7 स्केल प्लास्टिक मॉडल फिगर की शैली में डिज़ाइन किया गया है। इस कैरेक्टर में एक पतला धड़ और हाई-हील्स वाला पैरों का डिज़ाइन शामिल है।
+
+#### 📝 प्रॉम्पट
+
+```
+फुल आर्मर मेचा गर्ल FAMG-001 Aurelith 1/7 स्केल प्लास्टिक मॉडल, पतले धड़ वाले हाई-हील्स शेप्ड लेग्स, अत्यधिक विस्तृत कॉन्सेप्ट आर्ट, यथार्थवादी सामग्री और लाइटिंग, सफेद पृष्ठभूमि, उत्पाद फोटोग्राफी शैली
+```
+
+#### 🖼️ उत्पन्न चित्र
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613889303_1304it_HUFpcmkbgAADDby.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613889332_1vpg3p_HUFpcqyawAAkhcK.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1791613889399_foc6em_HUFpcmgaAAAOqql.jpg" width="600" alt="ई-कॉमर्स मुख्य इमेज - फुल आर्मर मेचा गर्ल कॉन्सेप्ट आर्ट - Image 3">
+</div>
+
+#### 📌 विवरण
+
+- **लेखक:** [てんねん](https://x.com/munou_ac)
+- **स्रोत:** [Twitter Post](https://x.com/munou_ac/status/2108437805068058702)
+- **प्रकाशित:** 9 अक्टूबर 2026
+- **भाषाएं:** en
+
+**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=36215)**
+
+---
+
+### No. 91: ई-कॉमर्स मुख्य इमेज - Nano Banana Pro स्टूडियो पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5214,7 +5317,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 91: ई-कॉमर्स मुख्य इमेज - संपादकीय पुरुष फैशन शूट
+### No. 92: ई-कॉमर्स मुख्य इमेज - संपादकीय पुरुष फैशन शूट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5266,7 +5369,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 92: ई-कॉमर्स मुख्य इमेज - लक्जरी प्रोडक्ट स्टिल लाइफ कैंपेन
+### No. 93: ई-कॉमर्स मुख्य इमेज - लक्जरी प्रोडक्ट स्टिल लाइफ कैंपेन
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5314,7 +5417,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 93: ई-कॉमर्स मुख्य इमेज - टाइट रेड कैप फैशन क्लोज-अप
+### No. 94: ई-कॉमर्स मुख्य इमेज - टाइट रेड कैप फैशन क्लोज-अप
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5348,7 +5451,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 94: ई-कॉमर्स मुख्य इमेज - मिनिमलिस्ट आर्किटेक्चरल फैशन पोर्ट्रेट
+### No. 95: ई-कॉमर्स मुख्य इमेज - मिनिमलिस्ट आर्किटेक्चरल फैशन पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5394,7 +5497,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 95: ई-कॉमर्स मुख्य इमेज - रस्ट सिल्क ड्रेस पिकनिक एडिटोरियल
+### No. 96: ई-कॉमर्स मुख्य इमेज - रस्ट सिल्क ड्रेस पिकनिक एडिटोरियल
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5428,7 +5531,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 96: ई-कॉमर्स मुख्य इमेज - मैक्रो गिटार फ्रेट ड्रेसिंग
+### No. 97: ई-कॉमर्स मुख्य इमेज - मैक्रो गिटार फ्रेट ड्रेसिंग
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5462,7 +5565,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 97: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन फोटोग्राफी
+### No. 98: ई-कॉमर्स मुख्य इमेज - प्रीमियम बेवरेज विज्ञापन फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5502,7 +5605,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 98: ई-कॉमर्स मुख्य इमेज - एलिगेंट ब्लैक ऑर्गेन्ज़ा रिबन
+### No. 99: ई-कॉमर्स मुख्य इमेज - एलिगेंट ब्लैक ऑर्गेन्ज़ा रिबन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5542,7 +5645,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 99: ई-कॉमर्स मुख्य इमेज - लक्ज़री चॉकलेट विज्ञापन स्टिल लाइफ
+### No. 100: ई-कॉमर्स मुख्य इमेज - लक्ज़री चॉकलेट विज्ञापन स्टिल लाइफ
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5594,7 +5697,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 100: ई-कॉमर्स मुख्य इमेज - अतिवास्तविक ब्यूटी प्रोडक्ट हेयर रोलर
+### No. 101: ई-कॉमर्स मुख्य इमेज - अतिवास्तविक ब्यूटी प्रोडक्ट हेयर रोलर
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5628,7 +5731,7 @@ Nano Banana Pro के लिए एक जटिल JSON-फ़ॉर्मे�
 
 ---
 
-### No. 101: ई-कॉमर्स मुख्य इमेज - Raspberry Shell प्रोडक्ट फोटोग्राफी
+### No. 102: ई-कॉमर्स मुख्य इमेज - Raspberry Shell प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5680,7 +5783,7 @@ Studio product photo of {argument name="product" default="product from uploaded 
 
 ---
 
-### No. 102: ई-कॉमर्स मुख्य इमेज - मकड़ी के जाले के साथ सिनेमैटिक प्रोडक्ट विज्ञापन
+### No. 103: ई-कॉमर्स मुख्य इमेज - मकड़ी के जाले के साथ सिनेमैटिक प्रोडक्ट विज्ञापन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5720,7 +5823,7 @@ Studio product photo of {argument name="product" default="product from uploaded 
 
 ---
 
-### No. 103: ई-कॉमर्स मुख्य इमेज - बर्फ के टुकड़े में उत्पाद, मिनिमलिस्टिक
+### No. 104: ई-कॉमर्स मुख्य इमेज - बर्फ के टुकड़े में उत्पाद, मिनिमलिस्टिक
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5754,7 +5857,7 @@ Grok Imagine 2.0 और Nano Banana 2 की तुलना करने के
 
 ---
 
-### No. 104: ई-कॉमर्स मुख्य इमेज - लक्ज़री वॉटर बॉटल प्रोडक्ट फोटोग्राफी
+### No. 105: ई-कॉमर्स मुख्य इमेज - लक्ज़री वॉटर बॉटल प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5794,7 +5897,7 @@ Grok Imagine 2.0 और Nano Banana 2 की तुलना करने के
 
 ---
 
-### No. 105: ई-कॉमर्स मुख्य इमेज - समर स्किनकेयर प्रोडक्ट फोटोग्राफी
+### No. 106: ई-कॉमर्स मुख्य इमेज - समर स्किनकेयर प्रोडक्ट फोटोग्राफी
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -5846,7 +5949,7 @@ Grok Imagine 2.0 और Nano Banana 2 की तुलना करने के
 
 ---
 
-### No. 106: गेम एसेट - Rogue One शैली का फिल्म स्टिल प्रॉम्प्ट
+### No. 107: गेम एसेट - Rogue One शैली का फिल्म स्टिल प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5879,7 +5982,7 @@ Rogue One/Andor फिल्म का फोटोरियलिस्टि�
 
 ---
 
-### No. 107: गेम एसेट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
+### No. 108: गेम एसेट - वर्षावन वन्यजीव अवलोकन केंद्र लघु संसार
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5912,7 +6015,7 @@ Rogue One/Andor फिल्म का फोटोरियलिस्टि�
 
 ---
 
-### No. 108: गेम एसेट - प्यारा फेल्ट मेंढक दृश्य
+### No. 109: गेम एसेट - प्यारा फेल्ट मेंढक दृश्य
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -5945,7 +6048,7 @@ Nano Banana Pro का उपयोग करके एक विचित्र
 
 ---
 
-### No. 109: गेम एसेट - यांत्रिक उदासी मैक्रो पोर्ट्रेट प्रॉम्प्ट
+### No. 110: गेम एसेट - यांत्रिक उदासी मैक्रो पोर्ट्रेट प्रॉम्प्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6087,7 +6190,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 110: गेम एसेट - चिबी आरपीजी (RPG) गेम कैंपेन की विजुअल
+### No. 111: गेम एसेट - चिबी आरपीजी (RPG) गेम कैंपेन की विजुअल
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6138,7 +6241,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 111: गेम एसेट - अभिव्यंजक पेंटरली यथार्थवादी हाइब्रिड पोर्ट्रेट
+### No. 112: गेम एसेट - अभिव्यंजक पेंटरली यथार्थवादी हाइब्रिड पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6197,7 +6300,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 112: गेम एसेट - Artifact Diorama SQL जनरेशन
+### No. 113: गेम एसेट - Artifact Diorama SQL जनरेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6249,7 +6352,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 113: गेम एसेट - वुडपंक काइनेटिक स्कल्पचर ऑटोमेटन
+### No. 114: गेम एसेट - वुडपंक काइनेटिक स्कल्पचर ऑटोमेटन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -6307,7 +6410,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 114: गेम एसेट - मंगा डेस्कटॉप डायोरामा मॉडल किट
+### No. 115: गेम एसेट - मंगा डेस्कटॉप डायोरामा मॉडल किट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6341,7 +6444,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 115: गेम एसेट - ईथरल वूमन फ्लोरल हेयर पोर्ट्रेट
+### No. 116: गेम एसेट - ईथरल वूमन फ्लोरल हेयर पोर्ट्रेट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6375,7 +6478,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 116: गेम एसेट - एनीमे पंक वुमन इलस्ट्रेशन
+### No. 117: गेम एसेट - एनीमे पंक वुमन इलस्ट्रेशन
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6409,7 +6512,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 117: गेम एसेट - पोस्ट-एपोकैलिप्टिक गर्ल वेल्डिंग गॉगल्स
+### No. 118: गेम एसेट - पोस्ट-एपोकैलिप्टिक गर्ल वेल्डिंग गॉगल्स
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6443,7 +6546,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 118: गेम एसेट - मनमौजी मानवरूपी मिलनसार कीट
+### No. 119: गेम एसेट - मनमौजी मानवरूपी मिलनसार कीट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6477,7 +6580,7 @@ Nano Banana Pro के लिए एक जटिल JSON-प्रारूप�
 
 ---
 
-### No. 119: गेम एसेट - सिनेमैटिक एनिमेटेड AI आर्काइविस्ट
+### No. 120: गेम एसेट - सिनेमैटिक एनिमेटेड AI आर्काइविस्ट
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -6511,47 +6614,13 @@ BOTU Universe नामक एक ओरिजिनल एनिमेटेड
 
 ---
 
-### No. 120: गेम एसेट - होलोग्राफिक कैनवास ग्लास स्टूडियो
-
-![Language-EN](https://img.shields.io/badge/Language-EN-blue)
-![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
-
-#### 📖 विवरण
-
-सिनेमैटिक ग्लास स्टूडियो दृश्य के लिए एक मिनिमलिस्ट प्रॉम्प्ट, जिसमें मिश्रित टंगस्टन और सियान लाइटिंग के साथ एक होलोग्राफिक कैनवास शामिल है।
-
-#### 📝 प्रॉम्पट
-
-```
-{argument name="setting" default="ग्लास स्टूडियो"}, {argument name="canvas" default="होलोग्राफिक कैनवास"}, {argument name="lighting" default="मिश्रित टंगस्टन और सियान लाइट"}.
-```
-
-#### 🖼️ उत्पन्न चित्र
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1788418033881_eocfo7_HROwLtrbwAAm8dQ.jpg" width="600" alt="गेम एसेट - होलोग्राफिक कैनवास ग्लास स्टूडियो - Image 1">
-</div>
-
-#### 📌 विवरण
-
-- **लेखक:** [Buble AI](https://x.com/itsBubleAI)
-- **स्रोत:** [Twitter Post](https://x.com/itsBubleAI/status/2095211970131615927)
-- **प्रकाशित:** 2 सितंबर 2026
-- **भाषाएं:** en
-
-**[👉 अभी आज़माएं →](https://youmind.com/hi-IN/nano-banana-pro-prompts?id=33270)**
-
----
-
 ---
 
 ## 📚 अधिक प्रॉम्पट्स उपलब्ध
 
 <div align="center">
 
-### 🎯 15697 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
+### 🎯 15699 और प्रॉम्पट्स यहां नहीं दिखाए गए हैं
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6614,6 +6683,6 @@ The gallery features:
 **[📝 एक प्रॉम्पट जमा करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ इस रिपॉजिटरी को स्टार करें](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-28T08:06:26.589Z</sub>
+<sub>🤖 यह README स्वचालित रूप से जेनरेट किया गया है। अंतिम अपडेट: 2026-10-29T08:03:20.596Z</sub>
 
 </div>
