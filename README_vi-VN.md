@@ -143,9 +143,9 @@ Khi sử dụng trong Raycast, bạn có thể thay thế động các đối s�
 
 | Chỉ số | Số lượng |
 |--------|-------|
-| 📝 Tổng số câu lệnh | **15819** |
+| 📝 Tổng số câu lệnh | **15820** |
 | ⭐ Nổi bật | **9** |
-| 🔄 Cập nhật lần cuối | **lúc 08:03:14 UTC Thứ Năm, 29 tháng 10, 2026** |
+| 🔄 Cập nhật lần cuối | **lúc 08:03:14 UTC Thứ Sáu, 30 tháng 10, 2026** |
 
 </div>
 
@@ -654,7 +654,52 @@ Tỷ lệ khung hình là 3:4 cho poster dọc. Bao gồm chữ thư pháp Nhậ
 
 > 📝 Sắp xếp theo ngày xuất bản (mới nhất trước)
 
-### No. 1: Hồ sơ / Ảnh đại diện - Prompt Nano Banana cho ảnh chụp đường phố chân thực với chú chó
+### No. 1: Hồ sơ / Ảnh đại diện - Prompt chân dung thư viện siêu thực cho GPT Image 2.5 và Nano Banana
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Mô tả
+
+Prompt chi tiết để tạo hình ảnh siêu thực về một phụ nữ châu Á đang đọc sách bên cửa sổ thư viện, nhấn mạnh vào ánh sáng tự nhiên, kết cấu da và thẩm mỹ chụp ảnh candid bằng iPhone.
+
+#### 📝 Câu lệnh
+
+```
+Phong cách ảnh chụp bằng iPhone chân thực, chân dung một phụ nữ châu Á đang đọc sách bên cửa sổ thư viện, ảnh cầm tay dưới ánh sáng tự nhiên, nhiễu hạt nhẹ, kết cấu da thật. Chủ thể: Phụ nữ châu Á khoảng 26 tuổi, tóc đen dài buộc đuôi ngựa thấp, trang điểm nhẹ, da giữ nguyên lỗ chân lông và kết cấu tự nhiên, không làm mịn quá mức, không bị bóng nhựa. Biểu cảm: Cúi đầu tập trung đọc sách, mỉm cười nhẹ. Trang phục: Áo cardigan len màu trắng ngà, áo lót ngắn tay màu xám nhạt, quần ống đứng tối màu, giày bệt màu đen. Tư thế: Ngồi tại bàn gỗ cạnh cửa sổ thư viện, một tay lật trang sách, một tay tựa cằm, thân người hơi xoay về phía camera. Đạo cụ: Một cuốn sách đang mở trên bàn, ly cà phê giấy, kính gọng mảnh. Bối cảnh: Tiền cảnh là góc kệ sách được làm mờ cùng hiệu ứng bokeh cây xanh ngoài cửa sổ, trung cảnh là nhân vật và bàn gỗ, hậu cảnh là các dãy kệ sách trong thư viện cùng ánh nắng xuyên qua khung cửa sổ sát trần. Ánh sáng: Nguồn sáng chính là ánh sáng tự nhiên từ cửa sổ, chiếu từ bên trái chủ thể, nhiệt độ màu khoảng 5000K, đèn ấm trong nhà đóng vai trò nguồn sáng phụ. Camera: Camera chính iPhone 15 Pro tiêu cự 24mm, f/1.78, chụp cầm tay, bố cục dọc, cỡ ảnh trung bình từ nửa thân trên đến trên đầu gối, độ sâu trường ảnh mỏng, hậu cảnh xóa phông. Chỉnh màu: Cân bằng trắng tự nhiên, tông ấm nhẹ, nhiễu hạt kiểu phim, giữ chi tiết ở vùng tối. Cảm xúc: Tập trung tĩnh lặng, không khí đậm chất văn chương. Phong cách: Ảnh chụp chân thực, không phải tranh minh họa hay ảnh dựng 3D. Thẻ chất lượng: chi tiết cao, chân thực như ảnh chụp, kết cấu da tự nhiên, nhiếp ảnh bắt khoảnh khắc tự nhiên. Giới hạn loại trừ: Không tranh sơn dầu, Không anime, Không render 3D, Không biến dạng bàn tay, Không da bóng nhựa, Không làm mịn quá mức, Không watermark chữ.
+```
+
+#### 🖼️ Hình ảnh được tạo
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt chân dung thư viện siêu thực cho GPT Image 2.5 và Nano Banana - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt chân dung thư viện siêu thực cho GPT Image 2.5 và Nano Banana - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt chân dung thư viện siêu thực cho GPT Image 2.5 và Nano Banana - Image 3">
+</div>
+
+#### 📌 Chi tiết
+
+- **Tác giả:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Nguồn:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **Đã xuất bản:** 29 tháng 10, 2026
+- **Ngôn ngữ:** zh
+
+**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: Hồ sơ / Ảnh đại diện - Prompt Nano Banana cho ảnh chụp đường phố chân thực với chú chó
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ Tỷ lệ khung hình: Dọc 9:16 / 1080x1920px (không dùng khổ ngang)
 
 ---
 
-### No. 2: Hồ sơ / Ảnh đại diện - Ảnh Chân Dung Thực Tế Nữ Sinh Với Ảnh Tham Chiếu
+### No. 3: Hồ sơ / Ảnh đại diện - Ảnh Chân Dung Thực Tế Nữ Sinh Với Ảnh Tham Chiếu
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Tỷ lệ: Dọc 9:16 / 1080x1920px
 
 ---
 
-### No. 3: Hồ sơ / Ảnh đại diện - Chân dung đêm thanh lịch trong chiếc váy satin hồng
+### No. 4: Hồ sơ / Ảnh đại diện - Chân dung đêm thanh lịch trong chiếc váy satin hồng
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Bối cảnh ngoài trời về đêm gần đài phun nước được chiếu 
 
 ---
 
-### No. 4: Hồ sơ / Ảnh đại diện - So sánh ảnh chân dung Đèn ngủ hình ngôi sao dễ thương
+### No. 5: Hồ sơ / Ảnh đại diện - So sánh ảnh chân dung Đèn ngủ hình ngôi sao dễ thương
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ Cô mặc chiếc áo ngủ hoa văn màu kem mềm mại. Bầu không khí th�
 
 ---
 
-### No. 5: Hồ sơ / Ảnh đại diện - So sánh chân dung hồ nước của Nano Banana Pro
+### No. 6: Hồ sơ / Ảnh đại diện - So sánh chân dung hồ nước của Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ Bối cảnh hồ nước yên bình với những gợn phản chiếu nhẹ nh
 
 ---
 
-### No. 6: Hồ sơ / Ảnh đại diện - So sánh ảnh chân dung áo len tím
+### No. 7: Hồ sơ / Ảnh đại diện - So sánh ảnh chân dung áo len tím
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ Bối cảnh trong nhà nhẹ nhàng với ánh sáng tự nhiên ấm áp, ph�
 
 ---
 
-### No. 7: Hồ sơ / Ảnh đại diện - Chân dung đôi phong cách Pixar
+### No. 8: Hồ sơ / Ảnh đại diện - Chân dung đôi phong cách Pixar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ Tỷ lệ khung hình: 4:5 (Khổ dọc)
 
 ---
 
-### No. 8: Hồ sơ / Ảnh đại diện - Prompt Cosplay Y Tá Bệnh Viện Retro
+### No. 9: Hồ sơ / Ảnh đại diện - Prompt Cosplay Y Tá Bệnh Viện Retro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1107,7 +1152,7 @@ Color Palette: "{argument name="color palette" default="Trắng, kem, xanh ngọ
 
 ---
 
-### No. 9: Hồ sơ / Ảnh đại diện - Cặp đôi tại quán net đầu những năm 2000 qua webcam
+### No. 10: Hồ sơ / Ảnh đại diện - Cặp đôi tại quán net đầu những năm 2000 qua webcam
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1151,7 +1196,7 @@ Format: "{argument name="format" default="khổ ngang 4:3"}"
 
 ---
 
-### No. 10: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh của người phụ nữ trong chiếc váy đỏ thẫm
+### No. 11: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh của người phụ nữ trong chiếc váy đỏ thẫm
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1229,7 @@ Chân dung điện ảnh của một cô gái trẻ với mái tóc dài màu n�
 
 ---
 
-### No. 11: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh với ánh sáng kịch tính
+### No. 12: Hồ sơ / Ảnh đại diện - Chân dung điện ảnh với ánh sáng kịch tính
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1219,7 +1264,7 @@ Bối cảnh được đặt trong một không gian tối với ánh sáng đa 
 
 ---
 
-### No. 12: Hồ sơ / Ảnh đại diện - Cô gái nhìn giày trên con đường quê
+### No. 13: Hồ sơ / Ảnh đại diện - Cô gái nhìn giày trên con đường quê
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1289,7 +1334,7 @@ Phong cách siêu thực (Photorealistic). Ảnh RAW. Làn da mịn màng, tỏa
 
 ---
 
-### No. 13: Hồ sơ / Ảnh đại diện - So sánh mô hình Cosplayer trong phòng
+### No. 14: Hồ sơ / Ảnh đại diện - So sánh mô hình Cosplayer trong phòng
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1385,7 @@ Một phụ nữ Nhật Bản 23 tuổi. Cosplayer. Tóc đen ngắn. Mặc tran
 
 ---
 
-### No. 14: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Làm Đẹp Sang Trọng cho Nano Banana Pro
+### No. 15: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Làm Đẹp Sang Trọng cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1377,7 +1422,7 @@ Negative prompt: Hoạt hình, minh họa, da nhựa, chỉnh sửa quá mức, 
 
 ---
 
-### No. 15: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Thời Trang Biên Tập Cho Nano Banana Pro
+### No. 16: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Thời Trang Biên Tập Cho Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1410,7 +1455,7 @@ Tạo một bức chân dung thời trang siêu thực, chất lượng cao củ
 
 ---
 
-### No. 16: Hồ sơ / Ảnh đại diện - Chân dung Thời trang Doanh nghiệp Cao cấp
+### No. 17: Hồ sơ / Ảnh đại diện - Chân dung Thời trang Doanh nghiệp Cao cấp
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1498,7 @@ Negative prompt (Prompt phủ định): Khuôn mặt khác, trôi dạt danh tí
 
 ---
 
-### No. 17: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Buộc Tóc Đuôi Ngựa
+### No. 18: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Buộc Tóc Đuôi Ngựa
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1518,7 +1563,7 @@ Phong cách siêu thực (Photorealistic). Ảnh RAW. Làn da mịn màng, tỏa
 
 ---
 
-### No. 18: Hồ sơ / Ảnh đại diện - Chân Dung Điện Ảnh Phụ Nữ Nam Á
+### No. 19: Hồ sơ / Ảnh đại diện - Chân Dung Điện Ảnh Phụ Nữ Nam Á
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1548,73 +1593,6 @@ Chân dung điện ảnh siêu thực của một phụ nữ Nam Á trẻ đẹp
 - **Ngôn ngữ:** en
 
 **[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: Hồ sơ / Ảnh đại diện - Prompt Chân Dung Phong Cách Retro Cha Chaan Teng Hong Kong
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Mô tả
-
-Một prompt chi tiết để tạo ra hình ảnh chân thực của một phụ nữ trong quán trà kiểu Hong Kong cổ điển, tái hiện thẩm mỹ phim điện ảnh thập niên 90 với ánh sáng cụ thể, cài đặt máy ảnh và các ràng buộc phủ định.
-
-#### 📝 Câu lệnh
-
-```
-Chân dung phong cách retro Cha Chaan Teng Hong Kong, thẩm mỹ cảnh quay từ phim Hong Kong thập niên 90, cảm giác tài liệu tự nhiên.
-
-Chủ thể: Nữ giới Đông Á 25 tuổi, khuôn mặt trái xoan, lông mày mảnh, đôi mắt đen; da trắng sáng với lỗ chân lông nhỏ và kết cấu tự nhiên, không làm mịn giả; trang điểm nhẹ, môi đỏ. Tóc đen dài buông trên vai, hơi uốn cong ở phần đuôi, vài lọn tóc rơi tự nhiên quanh khuôn mặt.
-
-Biểu cảm: Ánh nhìn hướng ra ngoài khung hình về phía bên trái, thái độ lười biếng và thư giãn, một nụ cười nhẹ ở khóe miệng, như đang bị bắt gặp khi mơ màng vào buổi chiều.
-
-Trang phục: Áo sơ mi ngắn tay cotton màu kem, mở một cúc cổ; quần ống rộng vải nhung đèn corduroy cạp cao màu nâu sẫm; thắt lưng mỏng màu đen; khuyên tai ngọc trai. Bộ trang phục sạch sẽ và gọn gàng, nét cổ điển ẩn trong từng chi tiết.
-
-Tư thế/Hành động: Ngồi trong booth cạnh cửa sổ của quán Cha Chaan Teng, cơ thể hơi xoay về phía cửa sổ, một khuỷu tay tựa trên bàn, ngón tay cầm nhẹ ly trà sữa nóng bốc khói, tay còn lại chống cằm một cách thoải mái. Tư thế ngồi thư giãn, không cứng nhắc.
-
-Đạo cụ: Trên bàn có bánh mì dứa, há cảo trong xửng hấp tre, cốc trà sữa kim loại, bảng menu, hộp đựng đũa gỗ.
-
-Môi trường: Tiền cảnh là cốc trà sữa và xửng hấp hơi mờ; trung cảnh là chủ thể và bàn ghế booth; hậu cảnh là nội thất quán Cha Chaan Teng — tường gạch mosaic xanh, biển hiệu neon đỏ "Cha Chaan Teng", quạt trần kiểu cũ, bánh tart trứng và bánh ngọt trong tủ kính; thực khách xa mờ ảo.
-
-Ánh sáng: Đèn treo vàng ấm trong nhà làm ánh sáng chính, nhiệt độ màu khoảng 3200K, bao phủ bởi lớp sương mù dầu mỏng; ánh sáng ban ngày lạnh từ bầu trời nhiều mây ngoài cửa sổ làm ánh sáng viền, tương phản giữa tông ấm và lạnh. Phản chiếu highlight mềm trên tủ kính và gạch men.
-
-Máy ảnh: Ống kính prime 50mm, f/2.0, chụp nửa người, vị trí máy ảnh thấp hơn tầm mắt một chút, độ sâu trường ảnh nông, chủ thể rõ nét, tiền cảnh/hậu cảnh mờ tự nhiên, khung hình cầm tay hơi nghiêng, hạt phim, mô phỏng phim Kodak Gold, bảng màu Eastmancolor.
-
-Tâm trạng: Hoài niệm, sự lười biếng chậm rãi của buổi chiều, giống như một khung hình đóng băng từ bộ phim Hong Kong cũ.
-
-Thẻ chất lượng: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.
-
-Ràng buộc phủ định: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.
-```
-
-#### 🖼️ Hình ảnh được tạo
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt Chân Dung Phong Cách Retro Cha Chaan Teng Hong Kong - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt Chân Dung Phong Cách Retro Cha Chaan Teng Hong Kong - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="Hồ sơ / Ảnh đại diện - Prompt Chân Dung Phong Cách Retro Cha Chaan Teng Hong Kong - Image 3">
-</div>
-
-#### 📌 Chi tiết
-
-- **Tác giả:** [Candy](https://x.com/CandyTravelight)
-- **Nguồn:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **Đã xuất bản:** 12 tháng 10, 2026
-- **Ngôn ngữ:** zh
-
-**[👉 Thử ngay →](https://youmind.com/vi-VN/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6616,7 +6594,7 @@ Tạo một ảnh tĩnh phim hoạt hình 3D phong cách điện ảnh cho một
 
 <div align="center">
 
-### 🎯 15699 câu lệnh khác không hiển thị ở đây
+### 🎯 15700 câu lệnh khác không hiển thị ở đây
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6679,6 +6657,6 @@ Xem [CONTRIBUTING.md](docs/CONTRIBUTING.md) để biết hướng dẫn chi ti�
 **[📝 Gửi một câu lệnh](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Đánh dấu sao cho kho lưu trữ này](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-29T08:03:14.929Z</sub>
+<sub>🤖 README này được tạo tự động. Cập nhật lần cuối: 2026-10-30T08:03:14.968Z</sub>
 
 </div>

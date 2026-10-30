@@ -143,9 +143,9 @@ Raycast에서 사용하면 인수를 동적으로 교체하여 빠르게 반복�
 
 | 지표 | 수 |
 |--------|-------|
-| 📝 총 프롬프트 수 | **15819** |
+| 📝 총 프롬프트 수 | **15820** |
 | ⭐ 추천 | **9** |
-| 🔄 마지막 업데이트 | **2026년 10월 29일 목요일 AM 8시 3분 4초 UTC** |
+| 🔄 마지막 업데이트 | **2026년 10월 30일 금요일 AM 8시 3분 3초 UTC** |
 
 </div>
 
@@ -654,7 +654,52 @@ Grok 검색 결과
 
 > 📝 게시일 기준 정렬(최신순)
 
-### No. 1: 프로필 / 아바타 - 개와 함께한 리얼한 거리 스냅 사진용 Nano Banana 프롬프트
+### No. 1: 프로필 / 아바타 - GPT Image 2.5 및 Nano Banana용 사실적 도서관 초상화 프롬프트
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 설명
+
+자연광, 피부 질감 및 아이폰 캐주얼 사진 미학을 강조하여 도서관 창가에서 책을 읽는 아시아 여성의 사실적인 이미지를 생성하기 위한 상세 프롬프트입니다.
+
+#### 📝 프롬프트
+
+```
+사실적인 iPhone 사진 스타일, 도서관 창가에서 독서하는 아시아 여성의 초상화, 자연광 핸드헬드 촬영, 약간의 노이즈, 사실적인 피부 질감. 피사체: 26 세 전후의 아시아 여성, 낮은 포니테일로 묶은 검은색 긴 머리, 연한 메이크업, 모공과 자연스러운 피부 결이 그대로 살아 있는 피부, 과도한 보정 없음, 인형 같은 부자연스러운 느낌 없음. 표정: 고개를 숙인 채 독서에 집중하고 있으며, 옅은 미소. 의상: 아이보리 니트 가디건, 라이트 그레이 반팔 이너 티셔츠, 다크 컬러 스트레이트 팬츠, 블랙 플랫 슈즈. 포즈: 도서관 창가의 나무 테이블에 앉아 한 손으로는 책장을 넘기고 다른 한 손은 턱을 괴고 있으며, 몸은 카메라 쪽으로 살짝 틀어져 있음. 소품: 펼쳐진 책 한 권, 종이컵 커피, 얇은 테 안경. 환경: 전경은 흐릿하게 처리된 책장 모서리와 창밖 녹색 나뭇잎의 보케, 중경은 인물과 나무 테이블, 배경은 줄지어 늘어선 도서관 서가와 바닥부터 천장까지 이어진 창문 너머로 들어오는 햇빛. 조명: 창문을 통해 들어오는 자연광을 주 광원으로 사용, 피사체의 왼쪽에서 비추며 색온도는 약 5000K, 실내의 따뜻한 조명을 보조광으로 활용. 카메라: iPhone 15 Pro 메인 카메라 24mm, f/1.78, 핸드헬드 촬영, 세로 구도, 상반신부터 무릎 위까지 담는 미디엄 샷, 얕은 피사계 심도, 배경 보케. 색보정: 자연스러운 화이트 밸런스, 약간 따뜻한 톤, 필름 그레인, 암부 디테일 보존. 분위기: 고요한 몰입감, 문학적인 감성. 스타일: 일러스트나 렌더링이 아닌 사실적인 사진. 품질 태그: highly detailed, photorealistic, natural skin texture, candid photography. 네거티브 제약 조건: 유화 스타일 금지, 애니메이션 스타일 금지, 3D 렌더링 금지, 뭉개지거나 변형된 손 금지, 플라스틱 같은 피부 금지, 과도한 피부 보정 금지, 텍스트 워터마크 금지.
+```
+
+#### 🖼️ 생성된 이미지
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="프로필 / 아바타 - GPT Image 2.5 및 Nano Banana용 사실적 도서관 초상화 프롬프트 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="프로필 / 아바타 - GPT Image 2.5 및 Nano Banana용 사실적 도서관 초상화 프롬프트 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="프로필 / 아바타 - GPT Image 2.5 및 Nano Banana용 사실적 도서관 초상화 프롬프트 - Image 3">
+</div>
+
+#### 📌 상세 정보
+
+- **작성자:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **출처:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **게시일:** 2026년 10월 29일
+- **언어:** zh
+
+**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: 프로필 / 아바타 - 개와 함께한 리얼한 거리 스냅 사진용 Nano Banana 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ Grok 검색 결과
 
 ---
 
-### No. 2: 프로필 / 아바타 - 참조 사진으로 만드는 현실적인 학교 초상화
+### No. 3: 프로필 / 아바타 - 참조 사진으로 만드는 현실적인 학교 초상화
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Grok 검색 결과
 
 ---
 
-### No. 3: 프로필 / 아바타 - 핑크 새틴 드레스를 입은 우아한 야간 초상화
+### No. 4: 프로필 / 아바타 - 핑크 새틴 드레스를 입은 우아한 야간 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Grok 검색 결과
 
 ---
 
-### No. 4: 프로필 / 아바타 - 귀여운 별 무드등 초상화 비교
+### No. 5: 프로필 / 아바타 - 귀여운 별 무드등 초상화 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ GPT2.5 Flare, Nano Pro, Grok 및 SeeDream을 사용하여 빛나는 별 모양 �
 
 ---
 
-### No. 5: 프로필 / 아바타 - Nano Banana Pro 호수 인물 사진 비교
+### No. 6: 프로필 / 아바타 - Nano Banana Pro 호수 인물 사진 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ GPT2.5 Flare, Nano Pro, Grok 및 SeeDream을 사용하여 빛나는 별 모양 �
 
 ---
 
-### No. 6: 프로필 / 아바타 - 보라색 스웨터 인물 사진 비교
+### No. 7: 프로필 / 아바타 - 보라색 스웨터 인물 사진 비교
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ GPT2.5 Flare, Nano Pro, Grok 및 SeeDream을 사용하여 빛나는 별 모양 �
 
 ---
 
-### No. 7: 프로필 / 아바타 - 픽사 스타일 쌍둥이 초상화
+### No. 8: 프로필 / 아바타 - 픽사 스타일 쌍둥이 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ GPT2.5 Flare, Nano Pro, Grok 및 SeeDream을 사용하여 빛나는 별 모양 �
 
 ---
 
-### No. 8: 프로필 / 아바타 - 레트로 병원 간호사 코스프레 프롬프트
+### No. 9: 프로필 / 아바타 - 레트로 병원 간호사 코스프레 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1107,7 +1152,7 @@ Color Palette: "{argument name="color palette" default="화이트, 크림, 차�
 
 ---
 
-### No. 9: 프로필 / 아바타 - 2000년대 초반 PC방 웹캠 커플
+### No. 10: 프로필 / 아바타 - 2000년대 초반 PC방 웹캠 커플
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1151,7 +1196,7 @@ Format: "{argument name="format" default="4:3 가로 비율"}"
 
 ---
 
-### No. 10: 프로필 / 아바타 - 진홍색 드레스를 입은 여성의 시네마틱 초상화
+### No. 11: 프로필 / 아바타 - 진홍색 드레스를 입은 여성의 시네마틱 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1229,7 @@ Format: "{argument name="format" default="4:3 가로 비율"}"
 
 ---
 
-### No. 11: 프로필 / 아바타 - 드라마틱한 조명이 돋보이는 시네마틱 초상화
+### No. 12: 프로필 / 아바타 - 드라마틱한 조명이 돋보이는 시네마틱 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1219,7 +1264,7 @@ Gemini Nano Banana Pro로 제작된 시네마틱 조명과 보케 효과를 적�
 
 ---
 
-### No. 12: 프로필 / 아바타 - 시골길에서 신발을 보는 소녀
+### No. 13: 프로필 / 아바타 - 시골길에서 신발을 보는 소녀
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1288,7 +1333,7 @@ Nano Banana Pro (gemini-3-pro-image-2k)를 사용하여 일몰 시골길에서 �
 
 ---
 
-### No. 13: 프로필 / 아바타 - 코스프레 캐릭터 방 모델 비교
+### No. 14: 프로필 / 아바타 - 코스프레 캐릭터 방 모델 비교
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1339,7 +1384,7 @@ Nano Banana Pro (gemini-3-pro-image-2k)를 사용하여 일몰 시골길에서 �
 
 ---
 
-### No. 14: 프로필 / 아바타 - Nano Banana Pro용 럭셔리 뷰티 초상화 프롬프트
+### No. 15: 프로필 / 아바타 - Nano Banana Pro용 럭셔리 뷰티 초상화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1376,7 +1421,7 @@ Nano Banana Pro (gemini-3-pro-image-2k)를 사용하여 일몰 시골길에서 �
 
 ---
 
-### No. 15: 프로필 / 아바타 - Nano Banana Pro용 패션 에디토리얼 초상화 프롬프트
+### No. 16: 프로필 / 아바타 - Nano Banana Pro용 패션 에디토리얼 초상화 프롬프트
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1409,7 +1454,7 @@ Nano Banana Pro (gemini-3-pro-image-2k)를 사용하여 일몰 시골길에서 �
 
 ---
 
-### No. 16: 프로필 / 아바타 - 럭셔리 기업 패션 초상화
+### No. 17: 프로필 / 아바타 - 럭셔리 기업 패션 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1452,7 +1497,7 @@ Nano Banana Pro (gemini-3-pro-image-2k)를 사용하여 일몰 시골길에서 �
 
 ---
 
-### No. 17: 프로필 / 아바타 - 포니테일 초상화 프롬프트
+### No. 18: 프로필 / 아바타 - 포니테일 초상화 프롬프트
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1517,7 +1562,7 @@ Photorealistic. RAW photo. 매끄럽고 빛나는 피부. 스마트폰 화면에
 
 ---
 
-### No. 18: 프로필 / 아바타 - 남아시아 여성 시네마틱 초상화
+### No. 19: 프로필 / 아바타 - 남아시아 여성 시네마틱 초상화
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1547,73 +1592,6 @@ Photorealistic. RAW photo. 매끄럽고 빛나는 피부. 스마트폰 화면에
 - **언어:** en
 
 **[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: 프로필 / 아바타 - 레트로 홍콩 차찬텡 초상화 프롬프트
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 설명
-
-90년대 영화 미학을 살린 레트로 홍콩 다방(차찬텡) 속 여성의 사실적인 이미지를 생성하기 위한 상세 프롬프트로, 특정 조명, 카메라 설정 및 네거티브 제약 조건을 포함합니다.
-
-#### 📝 프롬프트
-
-```
-레트로 홍콩 차찬텡 초상화, 90년대 홍콩 영화 스틸 사진 미학, 자연스러운 다큐멘터리 분위기.
-
-피사체: 25세 동아시아 여성, 계란형 얼굴, 가늘고 정돈된 눈썹, 검은 눈동자; 플라스틱 같은 매끄러움 없이 미세한 모공과 자연스러운 질감이 살아있는 밝은 피부; 가벼운 메이크업, 붉은 기가 도는 입술. 어깨 위로 흘러내리는 긴 흑발, 끝부분이 살짝 컬진 상태이며 몇 가닥의 머리카락이 얼굴을 감싸고 있음.
-
-표정: 시선은 화면 왼쪽 밖으로 향하며, 나른하고 여유로운 태도, 입꼬리에 희미한 미소가 걸려 마치 오후에 멍하니 상상에 잠긴 듯한 모습.
-
-의상: 크림색 순면 반팔 셔츠, 단추 하나를 풀어 깃을 열음; 짙은 갈색 하이웨이스트 코듀로와 와이드 팬츠; 검은색 얇은 벨트; 진주 귀걸이. 깔끔하고 단정한 옷차림 속에 디테일로 드러나는 빈티지 감성.
-
-포즈/동작: 차찬텡 창가 부스에 앉아 몸은 약간 창문 쪽으로 기울이고, 한쪽 팔꿈치는 테이블 위에 기대며 손가락으로는 김이 오르는 실크 스타킹 밀크티를 가볍게 쥐고, 다른 손은 턱을 무심하게 괴고 있음. 딱딱하지 않은 편안한 앉은 자세.
-
-소품: 테이블 위에는 파인애플 번(bun), 죽통에 담긴 새우 만두, 금속 밀크티 컵, 메뉴판, 나무 젓가락 통이 놓여 있음.
-
-환경: 전경은 살짝 흐려진 밀크티 컵과 죽통; 중경은 피사체와 부스 테이블; 배경은 차찬텡 내부 — 녹색 모자이크 타일 벽, 빨간 네온사인 'Cha Chaan Teng', 구식 천장 선풍기, 유리 진열장에 있는 에그타르트와 페이스트리; 멀리 보이는 손님들은 부드럽게 흐려짐.
-
-조명: 실내 따뜻한 노란색 펜던트 조명을 주광(key light)으로 사용, 색온도는 약 3200K, 얇은 기름 연무(mist)로 감싸인 느낌; 창밖 흐린 하늘에서 들어오는 차가운 낮빛은 림 라이트(rim light)로 작용하여 웜톤과 쿨톤의 대비를 형성함. 유리 진열장과 타일에 부드러운 하이라이트 반사광.
-
-카메라: 50mm 단렌즈, f/2.0, 반신 샷, 카메라 위치는 눈높이보다 약간 낮게 배치, 얕은 심도로 피사체는 선명하고 전경/배경은 자연스럽게 보케 처리, 약간 흔들린 핸드헬드 캐주얼 프레이밍, 필름 그레인, Kodak Gold 필름 시뮬레이션, Eastmancolor 팔레트.
-
-분위기: 향수(Nostalgia), 느긋한 오후의 나른함, 마치 오래된 홍콩 영화의 멈춰진 프레임처럼.
-
-품질 태그: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.
-
-네거티브 제약 조건: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.
-```
-
-#### 🖼️ 생성된 이미지
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="프로필 / 아바타 - 레트로 홍콩 차찬텡 초상화 프롬프트 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="프로필 / 아바타 - 레트로 홍콩 차찬텡 초상화 프롬프트 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="프로필 / 아바타 - 레트로 홍콩 차찬텡 초상화 프롬프트 - Image 3">
-</div>
-
-#### 📌 상세 정보
-
-- **작성자:** [Candy](https://x.com/CandyTravelight)
-- **출처:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **게시일:** 2026년 10월 12일
-- **언어:** zh
-
-**[👉 지금 시도하기 →](https://youmind.com/ko-KR/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6618,7 +6596,7 @@ BOTU Universe라는 오리지널 애니메이션 시리즈를 위한 영화 같�
 
 <div align="center">
 
-### 🎯 15699 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
+### 🎯 15700 여기에 표시되지 않은 더 많은 프롬프트가 있습니다
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6681,6 +6659,6 @@ The gallery features:
 **[📝 프롬프트 제출](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 이 저장소에 스타 추가](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-29T08:03:04.386Z</sub>
+<sub>🤖 이 README는 자동으로 생성됩니다. 마지막 업데이트: 2026-10-30T08:03:03.653Z</sub>
 
 </div>

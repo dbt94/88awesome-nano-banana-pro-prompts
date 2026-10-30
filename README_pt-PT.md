@@ -143,9 +143,9 @@ Quando usado no Raycast, você pode substituir dinamicamente os argumentos para 
 
 | Métrica | Contagem |
 |--------|-------|
-| 📝 Total de prompts | **15819** |
+| 📝 Total de prompts | **15820** |
 | ⭐ Destaque | **9** |
-| 🔄 Última atualização | **quinta-feira, 29 de outubro de 2026 às 08:03:58 UTC** |
+| 🔄 Última atualização | **sexta-feira, 30 de outubro de 2026 às 08:03:56 UTC** |
 
 </div>
 
@@ -654,7 +654,52 @@ A proporção da imagem é 3:4 (pôster vertical). Inclua caligrafia japonesa ve
 
 > 📝 Ordenado por data de publicação (mais recente primeiro)
 
-### No. 1: Perfil / Avatar - Prompt Nano Banana para Street Snap Realista com Cachorro
+### No. 1: Perfil / Avatar - Prompt de Retrato Fotorealista em Biblioteca para GPT Image 2.5 e Nano Banana
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Descrição
+
+Um prompt detalhado para gerar uma imagem fotorealista de uma mulher asiática lendo junto à janela de uma biblioteca, com ênfase na iluminação natural, textura da pele e estética de fotografia espontânea do iPhone.
+
+#### 📝 Prompt
+
+```
+Estilo de foto realista tirada com iPhone, retrato de uma mulher asiática lendo junto à janela de uma biblioteca, foto na mão com luz natural, leve ruído, textura de pele realista. Sujeito: mulher asiática de cerca de 26 anos, cabelo longo e preto preso em um rabo de cavalo baixo, maquiagem leve, pele mantendo os poros e a textura natural, sem suavização excessiva, sem aspecto artificial ou plastificado. Expressão: cabeça baixa, concentrada na leitura, sorriso discreto. Roupas: cardigã de tricô em tom cru, blusa de manga curta cinza-claro por baixo, calça reta escura, sapatos pretos sem salto. Pose: sentada a uma mesa de madeira junto à janela da biblioteca, uma mão virando as páginas, a outra apoiada no queixo, corpo levemente virado para a câmera. Objetos: um livro aberto sobre a mesa, um café em copo de papel, óculos de armação fina. Ambiente: no primeiro plano, o canto desfocado de uma estante e o bokeh das árvores verdes do lado de fora da janela; no plano médio, a pessoa e a mesa de madeira; ao fundo, fileiras de estantes da biblioteca e a luz do sol entrando pelas janelas do piso ao teto. Iluminação: luz natural da janela como fonte principal, vinda do lado esquerdo da modelo, temperatura de cor de aproximadamente 5000K, luzes quentes internas como preenchimento. Câmera: câmera principal do iPhone 15 Pro 24mm, f/1.78, foto na mão, composição vertical, plano médio do tronco até acima dos joelhos, profundidade de campo rasa, bokeh no fundo. Tratamento de cor: balanço de branco natural, leve tom quente, granulação de filme, detalhes preservados nas sombras. Clima: concentração serena, atmosfera literária. Estilo: fotografia realista, não ilustração nem renderização. Tags de qualidade: altamente detalhado, fotorrealista, textura de pele natural, fotografia espontânea. Restrições negativas: Sem pintura a óleo, Sem anime, Sem renderização 3D, Sem mãos deformadas, Sem pele de plástico, Sem suavização excessiva, Sem marca d'água de texto.
+```
+
+#### 🖼️ Imagens geradas
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Fotorealista em Biblioteca para GPT Image 2.5 e Nano Banana - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Fotorealista em Biblioteca para GPT Image 2.5 e Nano Banana - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Fotorealista em Biblioteca para GPT Image 2.5 e Nano Banana - Image 3">
+</div>
+
+#### 📌 Detalhes
+
+- **Autor:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Fonte:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **Publicado:** 29 de outubro de 2026
+- **Idiomas:** zh
+
+**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: Perfil / Avatar - Prompt Nano Banana para Street Snap Realista com Cachorro
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ Proporção: Vertical 9:16 / 1080x1920px (não horizontal)
 
 ---
 
-### No. 2: Perfil / Avatar - Retrato Escolar Realista com Foto de Referência
+### No. 3: Perfil / Avatar - Retrato Escolar Realista com Foto de Referência
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Proporção: Vertical 9:16 / 1080x1920px
 
 ---
 
-### No. 3: Perfil / Avatar - Retrato Noturno Elegante em Vestido de Cetim Rosa
+### No. 4: Perfil / Avatar - Retrato Noturno Elegante em Vestido de Cetim Rosa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Cenário externo noturno próximo a uma fonte suavemente iluminada e arquitetura
 
 ---
 
-### No. 4: Perfil / Avatar - Comparação de Retratos com Luminária Noturna Estrela Fofa
+### No. 5: Perfil / Avatar - Comparação de Retratos com Luminária Noturna Estrela Fofa
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ Iluminação quente e suave da estrela brilhante projetando um clarão delicado 
 
 ---
 
-### No. 5: Perfil / Avatar - Comparação de Retratos no Lago com Nano Banana Pro
+### No. 6: Perfil / Avatar - Comparação de Retratos no Lago com Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ Cenário sereno de um lago com reflexos suaves na água, iluminação natural di
 
 ---
 
-### No. 6: Perfil / Avatar - Comparação de Retrato com Suéter Roxo
+### No. 7: Perfil / Avatar - Comparação de Retrato com Suéter Roxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ Ambiente interno suave com iluminação natural quente e um fundo limpo e leveme
 
 ---
 
-### No. 7: Perfil / Avatar - Retrato de Gêmeos no Estilo Pixar
+### No. 8: Perfil / Avatar - Retrato de Gêmeos no Estilo Pixar
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ Proporção: 4:5 (Retrato)
 
 ---
 
-### No. 8: Perfil / Avatar - Prompt de Cosplay de Enfermeira Hospitalar Vintage
+### No. 9: Perfil / Avatar - Prompt de Cosplay de Enfermeira Hospitalar Vintage
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1107,7 +1152,7 @@ Color Palette: "{argument name="color palette" default="Branco, creme, verde-azu
 
 ---
 
-### No. 9: Perfil / Avatar - Casal com Webcam em Lan House dos Anos 2000
+### No. 10: Perfil / Avatar - Casal com Webcam em Lan House dos Anos 2000
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1151,7 +1196,7 @@ Formato: "{argument name="format" default="4:3 paisagem"}"
 
 ---
 
-### No. 10: Perfil / Avatar - Retrato Cinematográfico de Mulher em Vestido Carmesim
+### No. 11: Perfil / Avatar - Retrato Cinematográfico de Mulher em Vestido Carmesim
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1229,7 @@ Retrato cinematográfico de uma jovem mulher com cabelos longos, sedosos e casta
 
 ---
 
-### No. 11: Perfil / Avatar - Retrato cinematográfico com iluminação dramática
+### No. 12: Perfil / Avatar - Retrato cinematográfico com iluminação dramática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1219,7 +1264,7 @@ A cena se passa em um ambiente escuro com iluminação dramática e multicolorid
 
 ---
 
-### No. 12: Perfil / Avatar - Menina Olhando para Sapato em Estrada Rural
+### No. 13: Perfil / Avatar - Menina Olhando para Sapato em Estrada Rural
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1289,7 +1334,7 @@ Fotorrealista. Foto RAW. Pele lisa e luminosa. Crie uma imagem de retrato vertic
 
 ---
 
-### No. 13: Perfil / Avatar - Comparação de Modelos: Cosplayer no Quarto
+### No. 14: Perfil / Avatar - Comparação de Modelos: Cosplayer no Quarto
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1385,7 @@ Mulher japonesa de 23 anos. Cosplayer. Cabelo curto preto. Vestida com cosplay d
 
 ---
 
-### No. 14: Perfil / Avatar - Prompt de Retrato de Beleza Luxuoso para Nano Banana Pro
+### No. 15: Perfil / Avatar - Prompt de Retrato de Beleza Luxuoso para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1377,7 +1422,7 @@ Prompt negativo: Cartoon, ilustração, pele plástica, retoque excessivo, mãos
 
 ---
 
-### No. 15: Perfil / Avatar - Prompt de Retrato Editorial de Moda para Nano Banana Pro
+### No. 16: Perfil / Avatar - Prompt de Retrato Editorial de Moda para Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1410,7 +1455,7 @@ Crie um retrato de moda ultra-realista e de alta qualidade de uma jovem bonita c
 
 ---
 
-### No. 16: Perfil / Avatar - Retrato de Moda Corporativa de Luxo
+### No. 17: Perfil / Avatar - Retrato de Moda Corporativa de Luxo
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1498,7 @@ Prompt negativo: Rosto diferente, deriva de identidade, características faciais
 
 ---
 
-### No. 17: Perfil / Avatar - Prompt de Retrato com Rabo de Cavalo
+### No. 18: Perfil / Avatar - Prompt de Retrato com Rabo de Cavalo
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1518,7 +1563,7 @@ Fotorrealista. Foto RAW. Pele lisa e luminosa. Crie uma imagem de retrato vertic
 
 ---
 
-### No. 18: Perfil / Avatar - Retrato Cinematográfico de Mulher Sul-Asiática
+### No. 19: Perfil / Avatar - Retrato Cinematográfico de Mulher Sul-Asiática
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1548,73 +1593,6 @@ Retrato cinematográfico ultra-realista de uma jovem sul-asiática deslumbrante,
 - **Idiomas:** en
 
 **[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: Perfil / Avatar - Prompt de Retrato Retro Cha Chaan Teng de Hong Kong
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Descrição
-
-Um prompt detalhado para gerar uma imagem fotorrealista de uma mulher em um cha chaan teng (restaurante de chá) retro de Hong Kong, capturando a estética cinematográfica dos anos 90 com configurações específicas de iluminação, câmera e restrições negativas.
-
-#### 📝 Prompt
-
-```
-Retrato retro de cha chaan teng de Hong Kong, estética de cena de filme de Hong Kong dos anos 90, vibe documental espontânea.
-
-Sujeito: Mulher do Leste Asiático de 25 anos, rosto oval, sobrancelhas finas, olhos escuros; pele clara com poros finos e textura natural, sem suavização plástica; maquiagem leve, lábios avermelhados. Cabelo preto longo caindo sobre os ombros, levemente ondulado nas pontas, alguns fios soltos emoldurando o rosto.
-
-Expressão: Olhar desviado para fora da câmera à esquerda, postura preguiçosa e relaxada, um sorriso sutil no canto da boca, como se fosse pega sonhando acordada na tarde.
-
-Roupas: Camisa de manga curta de algodão puro branco-creme, colarinho aberto com um botão; calças largas de veludo cotelê marrom-escuro de cintura alta; cinto fino preto; brincos de pérola. Conjunto limpo e arrumado, com um toque vintage escondido nos detalhes.
-
-Pose/Ação: Sentada em uma cabine ao lado da janela do cha chaan teng, corpo ligeiramente virado para a janela, um cotovelo apoiado na mesa, dedos segurando delicadamente um chá com leite estilo meia de seda fumegante, a outra mão apoiando casualmente o queixo. Postura sentada relaxada, não rígida.
-
-Adereços: Na mesa estão pão de abacaxi, dumplings de camarão em cesto de bambu, copo metálico de chá com leite, quadro de menu, suporte de pauzinhos de madeira.
-
-Ambiente: Primeiro plano é um copo de chá com leite e cesto de vapor ligeiramente desfocados; plano médio é o sujeito e a mesa da cabine; fundo é o interior do cha chaan teng — paredes de mosaico verde, letreiro neon vermelho "Cha Chaan Teng", ventilador de teto antigo, pastéis de nata e doces em vitrine de vidro; clientes distantes são borrões suaves.
-
-Iluminação: Luzes pendentes amarelas quentes internas como luz principal, temperatura de cor aproximadamente 3200K, envoltas em uma fina camada de névoa de fumaça de óleo; luz fria do dia nublado vindo da janela como luz de contorno, contrastando tons quentes e frios. Reflexos de destaques suaves em vitrines de vidro e azulejos.
-
-Câmera: Lente fixa de 50mm, f/2.0, plano médio do corpo, posição da câmera ligeiramente abaixo do nível dos olhos, profundidade de campo rasa, sujeito nítido, primeiro/fundo naturalmente desfocados, enquadramento casual ligeiramente instável, granulação de filme, simulação de filme Kodak Gold, paleta Eastmancolor.
-
-Mood: Nostálgico, preguiça lenta da tarde, como um quadro congelado de um velho filme de Hong Kong.
-
-Tags de qualidade: ultra detalhado, fotorrealista, cinematográfico, alta resolução, textura natural da pele.
-
-Restrições negativas: Sem pintura a óleo, Sem anime, Sem renderização 3D, Sem desenho animado, sem mãos deformadas, sem pele plástica, sem cores super saturadas, sem artefatos de texto, sem marca d'água.
-```
-
-#### 🖼️ Imagens geradas
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Retro Cha Chaan Teng de Hong Kong - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Retro Cha Chaan Teng de Hong Kong - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="Perfil / Avatar - Prompt de Retrato Retro Cha Chaan Teng de Hong Kong - Image 3">
-</div>
-
-#### 📌 Detalhes
-
-- **Autor:** [Candy](https://x.com/CandyTravelight)
-- **Fonte:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **Publicado:** 12 de outubro de 2026
-- **Idiomas:** zh
-
-**[👉 Experimente agora →](https://youmind.com/pt-PT/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6615,7 +6593,7 @@ Crie uma imagem estática de um filme de animação 3D cinematográfico para uma
 
 <div align="center">
 
-### 🎯 15699 mais prompts não mostrados aqui
+### 🎯 15700 mais prompts não mostrados aqui
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6678,6 +6656,6 @@ Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Enviar um prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Dar estrela a este repositório](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-29T08:03:58.487Z</sub>
+<sub>🤖 Este README é gerado automaticamente. Última atualização: 2026-10-30T08:03:56.287Z</sub>
 
 </div>

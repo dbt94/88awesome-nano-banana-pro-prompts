@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15819** |
+| 📝 提示词总数 | **15820** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年10月29日星期四 UTC 08:02:47** |
+| 🔄 最后更新 | **2026年10月30日星期五 UTC 08:02:49** |
 
 </div>
 
@@ -654,7 +654,52 @@ Grok 的搜索结果
 
 > 📝 按发布日期排序（最新优先）
 
-### No. 1: 个人资料 / 头像 - Nano Banana 提示词：真实街头遛狗自拍快照
+### No. 1: 个人资料 / 头像 - GPT Image 2.5 与 Nano Banana 图书馆人像写实提示词
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 描述
+
+用于生成亚洲女性在图书馆窗边阅读的高逼真图像的详细提示词，强调自然光线、皮肤质感及 iPhone 随手拍美学。
+
+#### 📝 提示词
+
+```
+写实 iPhone 照片风格，一位亚洲女性在图书馆窗边阅读的肖像，自然光手持拍摄，轻微噪点，真实皮肤质感。主体：约 26 岁的亚洲女性，黑色长发扎成低马尾，淡妆，皮肤保留毛孔与自然纹理，无过度磨皮，无塑料感。表情：低头专注阅读，嘴角微扬。服装：米白色针织开衫，浅灰色短袖内搭，深色直筒长裤，黑色平底鞋。姿势：坐在图书馆窗边的木桌旁，一手翻书，一手托腮，身体微微转向镜头。道具：桌上有一本摊开的书、一杯纸杯咖啡、一副细框眼镜。环境：前景为虚化的书架一角与窗外绿树的散景光斑，中景为人物与木桌，背景为一排排图书馆书架以及落地窗外的阳光。光线：以窗户自然光为主光源，从主体左侧照射，色温约 5000K，室内暖光作为补光。相机：iPhone 15 Pro 主摄 24mm，f/1.78，手持拍摄，竖构图，上半身至膝盖以上的中景，浅景深，背景虚化。调色：自然白平衡，轻微暖色调，胶片颗粒感，暗部细节保留。氛围：安静专注，文艺气息。风格：写实照片，非插画或渲染图。质量标签：高度细节，照片级真实，自然皮肤质感，抓拍摄影。负面约束：无油画，无动漫，无 3D 渲染，无手部畸形，无塑料感皮肤，无过度磨皮，无文字水印。
+```
+
+#### 🖼️ 生成图片
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="个人资料 / 头像 - GPT Image 2.5 与 Nano Banana 图书馆人像写实提示词 - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="个人资料 / 头像 - GPT Image 2.5 与 Nano Banana 图书馆人像写实提示词 - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="个人资料 / 头像 - GPT Image 2.5 与 Nano Banana 图书馆人像写实提示词 - Image 3">
+</div>
+
+#### 📌 详情
+
+- **作者:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **来源:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **发布时间:** 2026年10月29日
+- **多语言:** zh
+
+**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: 个人资料 / 头像 - Nano Banana 提示词：真实街头遛狗自拍快照
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 2: 个人资料 / 头像 - 基于参考照片的真实校园人像
+### No. 3: 个人资料 / 头像 - 基于参考照片的真实校园人像
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 3: 个人资料 / 头像 - 粉色缎面礼服下的优雅夜景人像
+### No. 4: 个人资料 / 头像 - 粉色缎面礼服下的优雅夜景人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 4: 个人资料 / 头像 - 可爱星形夜灯人像对比
+### No. 5: 个人资料 / 头像 - 可爱星形夜灯人像对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 5: 个人资料 / 头像 - Nano Banana Pro 湖泊人像对比
+### No. 6: 个人资料 / 头像 - Nano Banana Pro 湖泊人像对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 6: 个人资料 / 头像 - 紫色毛衣人像对比
+### No. 7: 个人资料 / 头像 - 紫色毛衣人像对比
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 7: 个人资料 / 头像 - 皮克斯风格双人肖像
+### No. 8: 个人资料 / 头像 - 皮克斯风格双人肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 8: 个人资料 / 头像 - 复古医院护士 Cosplay 提示词
+### No. 9: 个人资料 / 头像 - 复古医院护士 Cosplay 提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1107,7 +1152,7 @@ Grok 的搜索结果
 
 ---
 
-### No. 9: 个人资料 / 头像 - 2000 年代初网吧情侣网络摄像头照片
+### No. 10: 个人资料 / 头像 - 2000 年代初网吧情侣网络摄像头照片
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1151,7 +1196,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 10: 个人资料 / 头像 - 身穿深红礼服女性的电影感肖像
+### No. 11: 个人资料 / 头像 - 身穿深红礼服女性的电影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1229,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 11: 个人资料 / 头像 - 戏剧性光影的电影感人像
+### No. 12: 个人资料 / 头像 - 戏剧性光影的电影感人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1219,7 +1264,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 12: 个人资料 / 头像 - 乡间小路上低头看鞋的女孩
+### No. 13: 个人资料 / 头像 - 乡间小路上低头看鞋的女孩
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1289,7 +1334,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 13: 个人资料 / 头像 - 房间内 Cosplayer 模型对比
+### No. 14: 个人资料 / 头像 - 房间内 Cosplayer 模型对比
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1385,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 14: 个人资料 / 头像 - Nano Banana Pro 奢华美容肖像提示词
+### No. 15: 个人资料 / 头像 - Nano Banana Pro 奢华美容肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1377,7 +1422,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 15: 个人资料 / 头像 - Nano Banana Pro 的时尚编辑肖像提示词
+### No. 16: 个人资料 / 头像 - Nano Banana Pro 的时尚编辑肖像提示词
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1410,7 +1455,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 16: 个人资料 / 头像 - 奢华企业时尚人像
+### No. 17: 个人资料 / 头像 - 奢华企业时尚人像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1498,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 17: 个人资料 / 头像 - 马尾辫肖像提示词
+### No. 18: 个人资料 / 头像 - 马尾辫肖像提示词
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1518,7 +1563,7 @@ Format："{argument name="format" default="4:3 横屏"}"
 
 ---
 
-### No. 18: 个人资料 / 头像 - 南亚女性电影感肖像
+### No. 19: 个人资料 / 头像 - 南亚女性电影感肖像
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1548,73 +1593,6 @@ Format："{argument name="format" default="4:3 横屏"}"
 - **多语言:** en
 
 **[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: 个人资料 / 头像 - 复古港式茶餐厅人像提示词
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 描述
-
-一个用于生成写实图像的详细提示词，描绘了一位身处复古香港茶餐厅的女性，捕捉了 90 年代电影美学，包含特定的灯光、相机设置和负面约束。
-
-#### 📝 提示词
-
-```
-复古港式茶餐厅人像，90 年代香港电影剧照美学，纪实抓拍氛围。
-
-主体：25 岁东亚女性，鹅蛋脸，细眉，深色眼睛；白皙皮肤带有细腻毛孔和自然纹理，无塑料感磨皮；淡妆，红唇。黑色长发披肩，发尾微卷，几缕碎发修饰脸型。
-
-表情：目光游离至镜头左侧，神态慵懒放松，嘴角带着一丝浅笑，仿佛午后发呆被定格。
-
-服装：米白色纯棉短袖衬衫，领口解开一颗扣子；深棕色高腰灯芯绒阔腿裤；黑色细皮带；珍珠耳环。干净利落的穿搭，细节中藏着复古感。
-
-姿势/动作：坐在茶餐厅靠窗卡座，身体微微转向窗户，一只手肘撑在桌上，手指轻握冒着热气的丝袜奶茶，另一只手随意托着下巴。坐姿放松，不僵硬。
-
-道具：桌上有菠萝包、竹蒸笼里的虾饺、金属奶茶杯、菜单板、木质筷筒。
-
-环境：前景是略微虚化的奶茶杯和蒸笼；中景是主体和卡座桌子；背景是茶餐厅内部——绿色马赛克瓷砖墙，红色霓虹灯招牌“Cha Chaan Teng”，老式吊扇，玻璃柜里的蛋挞和糕点；远处的食客呈现柔和的模糊效果。
-
-灯光：室内暖黄色吊灯作为主光，色温约 3200K，笼罩在一层薄薄的油烟雾气中；窗外阴天的冷日光作为轮廓光，形成冷暖色调对比。玻璃柜和瓷砖上有柔和的高光反射。
-
-相机：50mm 定焦镜头，f/2.0，半身照，机位略低于视线水平，浅景深，主体清晰，前景/背景自然虚化，轻微手持感的随意构图，胶片颗粒感，柯达金胶卷模拟，Eastmancolor 色彩风格。
-
-情绪：怀旧，慢节奏的午后慵懒，像是一部老港片中冻结的一帧画面。
-
-质量标签：ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.
-
-负面约束：No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.
-```
-
-#### 🖼️ 生成图片
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="个人资料 / 头像 - 复古港式茶餐厅人像提示词 - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="个人资料 / 头像 - 复古港式茶餐厅人像提示词 - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="个人资料 / 头像 - 复古港式茶餐厅人像提示词 - Image 3">
-</div>
-
-#### 📌 详情
-
-- **作者:** [Candy](https://x.com/CandyTravelight)
-- **来源:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **发布时间:** 2026年10月12日
-- **多语言:** zh
-
-**[👉 立即尝试 →](https://youmind.com/zh-CN/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6623,7 +6601,7 @@ Art-Deco 风格阳台铺设着光洁大理石地面，俯瞰之下是璀璨闪�
 
 <div align="center">
 
-### 🎯 15699 更多提示词未在此显示
+### 🎯 15700 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6686,6 +6664,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-10-29T08:02:47.380Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-10-30T08:02:49.662Z</sub>
 
 </div>

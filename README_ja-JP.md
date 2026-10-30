@@ -143,9 +143,9 @@ Raycast で使用すると、引数を動的に置き換えて迅速に反復で
 
 | 指標 | 数 |
 |--------|-------|
-| 📝 プロンプト総数 | **15819** |
+| 📝 プロンプト総数 | **15820** |
 | ⭐ おすすめ | **9** |
-| 🔄 最終更新 | **2026年10月29日木曜日 8:02:58 UTC** |
+| 🔄 最終更新 | **2026年10月30日金曜日 8:02:58 UTC** |
 
 </div>
 
@@ -654,7 +654,52 @@ Grok からの検索結果
 
 > 📝 公開日でソート（新しい順）
 
-### No. 1: プロフィール / アバター - Nano Banana プロンプト：犬とのリアルなストリートスナップ
+### No. 1: プロフィール / アバター - GPT Image 2.5 と Nano Banana 用：写実的な図書館ポートレートプロンプト
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 説明
+
+自然光、肌の質感、そして iPhone によるスナップ写真の美学を強調した、図書館の窓辺で読書をするアジア人女性の写実的な画像生成のための詳細なプロンプト。
+
+#### 📝 プロンプト
+
+```
+写実的な iPhone 写真スタイル、図書館の窓辺で読書するアジア人女性 のポートレート、自然光での手持ち撮影、わずかなノイズ、リアルな肌の質感。被写体：26 歳頃のアジア人女性、黒髪のロングヘアを低い位置でポニーテールにまとめ、ナチュラルメイク、毛穴や自然な肌の質感を残し、過度なスムージングはせず、プラスチックのような不自然さのない肌。表情：うつむいて読書に集中し、わずかに微笑んでいる。服装：オフホワイトのニットカーディガン、ライトグレーの半袖インナーシャツ、ダークカラーのストレートパンツ、黒のフラットシューズ。ポーズ：図書館の窓際にある木製テーブルに座り、片手でページをめくり、もう片方の手は顎に添え、体をカメラ側に少し向けている。小道具：テーブルの上に開かれた本、紙コップのコーヒー、細縁のメガネ。環境：前景はぼかした本棚の角と窓の外の緑の木々のボケ、中景は人物と木製テーブル、背景は図書館の書架が並ぶ様子と床から天井までの大きな窓から差し込む陽光。ライティング：窓からの自然光を主光源とし、被写体の左側から光が当たり、色温度は約 5000K 、室内の暖色系照明を補助光として使用。カメラ：iPhone 15 Pro メインカメラ 24mm 、f/1.78 、手持ち撮影、縦構図、上半身から膝上までのミディアムショット、浅い被写界深度、背景ボケ。カラーグレーディング：自然なホワイトバランス、わずかな暖色寄り、フィルムグレイン、シャドウ部分のディテールを保持。雰囲気：静かな集中、文学的な空気感。スタイル：イラストやレンダリングではなく、写実的な写真。品質タグ：highly detailed, photorealistic, natural skin texture, candid photography 。ネガティブ制約：No oil painting, No anime, No 3D render, No deformed hands, No plastic skin, No over-smoothing, No text watermark 。
+```
+
+#### 🖼️ 生成画像
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="プロフィール / アバター - GPT Image 2.5 と Nano Banana 用：写実的な図書館ポートレートプロンプト - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="プロフィール / アバター - GPT Image 2.5 と Nano Banana 用：写実的な図書館ポートレートプロンプト - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="プロフィール / アバター - GPT Image 2.5 と Nano Banana 用：写実的な図書館ポートレートプロンプト - Image 3">
+</div>
+
+#### 📌 詳細
+
+- **作者:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **ソース:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **公開日:** 2026年10月29日
+- **言語:** zh
+
+**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: プロフィール / アバター - Nano Banana プロンプト：犬とのリアルなストリートスナップ
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ Grok からの検索結果
 
 ---
 
-### No. 2: プロフィール / アバター - 参考写真を用いたリアルな学校の肖像画
+### No. 3: プロフィール / アバター - 参考写真を用いたリアルな学校の肖像画
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Grok からの検索結果
 
 ---
 
-### No. 3: プロフィール / アバター - ピンクのサテンドレスで魅せるエレガントな夜のポートレート
+### No. 4: プロフィール / アバター - ピンクのサテンドレスで魅せるエレガントな夜のポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Grok からの検索結果
 
 ---
 
-### No. 4: プロフィール / アバター - かわいい星型ナイトライトのポートレート比較
+### No. 5: プロフィール / アバター - かわいい星型ナイトライトのポートレート比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ GPT2.5 Flare、Nano Pro、Grok、SeeDream を使用し、「光る星型のナ�
 
 ---
 
-### No. 5: プロフィール / アバター - Nano Banana Pro 湖のポートレート比較
+### No. 6: プロフィール / アバター - Nano Banana Pro 湖のポートレート比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ GPT2.5 Flare、Nano Pro、Grok、SeeDream を使用し、「光る星型のナ�
 
 ---
 
-### No. 6: プロフィール / アバター - パープルセーターのポートレート比較
+### No. 7: プロフィール / アバター - パープルセーターのポートレート比較
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ GPT2.5 Flare、Nano Pro、Grok、SeeDream を使用し、「光る星型のナ�
 
 ---
 
-### No. 7: プロフィール / アバター - Pixar スタイルのツインポートレート
+### No. 8: プロフィール / アバター - Pixar スタイルのツインポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ GPT2.5 Flare、Nano Pro、Grok、SeeDream を使用し、「光る星型のナ�
 
 ---
 
-### No. 8: プロフィール / アバター - レトロ病院看護師コスプレ用プロンプト
+### No. 9: プロフィール / アバター - レトロ病院看護師コスプレ用プロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1111,7 +1156,7 @@ Color Palette: "{argument name="color palette" default="White, cream, muted teal
 
 ---
 
-### No. 9: プロフィール / アバター - 2000年代初期 ネットカフェ ウェブカメラ カップル
+### No. 10: プロフィール / アバター - 2000年代初期 ネットカフェ ウェブカメラ カップル
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1155,7 +1200,7 @@ Format: "{argument name="format" default="4:3 横長"}"
 
 ---
 
-### No. 10: プロフィール / アバター - 深紅のドレスを着た女性のシネマティックなポートレート
+### No. 11: プロフィール / アバター - 深紅のドレスを着た女性のシネマティックなポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1188,7 +1233,7 @@ Format: "{argument name="format" default="4:3 横長"}"
 
 ---
 
-### No. 11: プロフィール / アバター - シネマティックなドラマチックライティングのポートレート
+### No. 12: プロフィール / アバター - シネマティックなドラマチックライティングのポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1223,7 +1268,7 @@ Gemini Nano Banana Pro で生成された、シネマティックな照明とボ
 
 ---
 
-### No. 12: プロフィール / アバター - 田舎道で靴を見る少女
+### No. 13: プロフィール / アバター - 田舎道で靴を見る少女
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1293,7 +1338,7 @@ Gemini Nano Banana Pro で生成された、シネマティックな照明とボ
 
 ---
 
-### No. 13: プロフィール / アバター - 部屋にいるコスプレイヤー モデル比較
+### No. 14: プロフィール / アバター - 部屋にいるコスプレイヤー モデル比較
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1344,7 +1389,7 @@ Nano Banana Pro を含む4つのモデルが、部屋にいる日本人コスプ
 
 ---
 
-### No. 14: プロフィール / アバター - Nano Banana Pro 向け高級美容ポートレートプロンプト
+### No. 15: プロフィール / アバター - Nano Banana Pro 向け高級美容ポートレートプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1381,7 +1426,7 @@ Nano Banana Pro を含む4つのモデルが、部屋にいる日本人コスプ
 
 ---
 
-### No. 15: プロフィール / アバター - Nano Banana Pro 用ファッションエディトリアル・ポートレートプロンプト
+### No. 16: プロフィール / アバター - Nano Banana Pro 用ファッションエディトリアル・ポートレートプロンプト
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1414,7 +1459,7 @@ Nano Banana Pro を含む4つのモデルが、部屋にいる日本人コスプ
 
 ---
 
-### No. 16: プロフィール / アバター - 高級感あふれるビジネスファッションポートレート
+### No. 17: プロフィール / アバター - 高級感あふれるビジネスファッションポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1457,7 +1502,7 @@ Nano Banana Pro を含む4つのモデルが、部屋にいる日本人コスプ
 
 ---
 
-### No. 17: プロフィール / アバター - ポニーテールポートレートプロンプト
+### No. 18: プロフィール / アバター - ポニーテールポートレートプロンプト
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1522,7 +1567,7 @@ Nano Banana Pro を含む4つのモデルが、部屋にいる日本人コスプ
 
 ---
 
-### No. 18: プロフィール / アバター - 南アジアの女性 シネマティック・ポートレート
+### No. 19: プロフィール / アバター - 南アジアの女性 シネマティック・ポートレート
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1552,73 +1597,6 @@ Nano Banana Pro を含む4つのモデルが、部屋にいる日本人コスプ
 - **言語:** en
 
 **[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: プロフィール / アバター - レトロ香港茶餐廳ポートレートプロンプト
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 説明
-
-レトロな香港茶餐廳での女性を写実的に生成するための詳細プロンプト。90年代の映画美学、特定のライティング、カメラ設定、およびネガティブ制約を捉えています。
-
-#### 📝 プロンプト
-
-```
-レトロな香港茶餐廳ポートレート、90年代香港映画のスチール写真のような美学、ドキュメンタリー風の candid な雰囲気。
-
-被写体: 25歳の東アジア人女性、卵型の顔立ち、細い眉、黒い瞳; きめ細かい毛穴と自然な質感を持つ色白の肌、プラスチックのような平滑化なし; 薄いメイク、赤みがかった唇。肩に垂れた長い黒髪、毛先はわずかにカールし、数本の緩んだ髪が顔を縁取っている。
-
-表情: 視線はカメラから左側へ逸れ、怠惰でリラックスした様子、口角に微かな微笑み、まるで午後の昼寝中に夢見心地で捕らえられたかのように。
-
-服装: クリーム色の純綿半袖シャツ、襟はボタン1つ分開いている; ダークブラウンの高ウエストコーデュロイワイドパンツ; 黒い細ベルト; パールのイヤリング。清潔で整った装い、ディテールに隠されたヴィンテージ感。
-
-ポーズ/アクション: 茶餐廳の窓際席に座り、体をわずかに窓の方へ向けている。肘をテーブルに乗せ、指先で湯気の立つシルクストッキングミルクティーを持ち、もう一方の手は無造作に顎を支えている。リラックスした座り姿勢、硬さはない。
-
-小道具: テーブルの上にはパイナップルパン、竹製蒸し器に入ったエビ餃子、金属製のミルクティーカップ、メニューボード、木製の箸立てがある。
-
-環境: 前景はわずかにぼやけたミルクティーカップと蒸し器; 中景は被写体とテーブル席; 背景は茶餐廳の内装 — グリーンモザイクタイルの壁、赤いネオンサイン「Cha Chaan Teng」、古い天井扇風機、ガラスケース内のエッグタルトとペイストリー; 遠くの客はソフトなぼけとして見える。
-
-ライティング: 屋内の暖かい黄色ペンダントライトをキーライトとして使用、色温度は約3200K、薄い油煙の霧に包まれている; 曇り空からの冷たい日光が窓外からのリムライトとなり、暖色と寒色のコントラストを生む。ガラスケースやタイルへの柔らかなハイライト反射。
-
-カメラ: 50mm単焦点レンズ、f/2.0、ハーフボディショット、カメラ位置は目線よりやや低く、浅い被写界深度、被写体は鮮明、前景/背景は自然にぼかし、わずかに手持ち撮影のカジュアルなフレーミング、フィルムグレイン、コダックゴールドフィルムシミュレーション、Eastmancolorパレット。
-
-ムード: ノスタルジック、スローペースな午後の怠惰さ、古い香港映画の凍結フレームのような。
-
-品質タグ: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.
-
-ネガティブ制約: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.
-```
-
-#### 🖼️ 生成画像
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="プロフィール / アバター - レトロ香港茶餐廳ポートレートプロンプト - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="プロフィール / アバター - レトロ香港茶餐廳ポートレートプロンプト - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="プロフィール / アバター - レトロ香港茶餐廳ポートレートプロンプト - Image 3">
-</div>
-
-#### 📌 詳細
-
-- **作者:** [Candy](https://x.com/CandyTravelight)
-- **ソース:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **公開日:** 2026年10月12日
-- **言語:** zh
-
-**[👉 今すぐ試す →](https://youmind.com/ja-JP/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6657,7 +6635,7 @@ Nano Banana Pro で、真鍮の歯車要素と機械式ハチドリを備えた�
 
 <div align="center">
 
-### 🎯 15699 さらに多くのプロンプトがあります
+### 🎯 15700 さらに多くのプロンプトがあります
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6720,6 +6698,6 @@ The gallery features:
 **[📝 プロンプトを提出](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ このリポジトリにスターを付ける](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 この README は自動生成されています。最終更新： 2026-10-29T08:02:58.558Z</sub>
+<sub>🤖 この README は自動生成されています。最終更新： 2026-10-30T08:02:58.806Z</sub>
 
 </div>

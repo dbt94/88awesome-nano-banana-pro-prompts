@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15819** |
+| 📝 Toplam İstem | **15820** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **29 Ekim 2026 Perşembe 08:04:04 UTC** |
+| 🔄 Son Güncelleme | **30 Ekim 2026 Cuma 08:04:04 UTC** |
 
 </div>
 
@@ -654,7 +654,52 @@ En boy oranı 3:4 dikey posterdir. Sahneyi tanımlayan dikey Japon kaligrafisi v
 
 > 📝 Yayın tarihine göre sıralandı (en yeni önce)
 
-### No. 1: Profil / Avatar - Köpekli Gerçekçi Sokak Fotoğrafı İçin Nano Banana İstemi
+### No. 1: Profil / Avatar - GPT Image 2.5 ve Nano Banana için Fotogerçekçi Kütüphane Portresi İstemi
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Açıklama
+
+Doğal ışıklandırma, cilt dokusu ve samimi iPhone fotoğrafçılığı estetiğini vurgulayan, kütüphane penceresi yanında kitap okuyan Asyalı bir kadının fotogerçekçi görüntüsünü oluşturmak için detaylı istem.
+
+#### 📝 İstem
+
+```
+Gerçekçi iPhone fotoğraf stili, kütüphane penceresi kenarında kitap okuyan Asyalı bir kadının portresi, doğal ışıkla elde çekim, hafif gren, gerçekçi cilt dokusu. Konu: 26 yaşlarında Asyalı kadın, siyah uzun saçlar alçak atkuyruğu yapılmış, hafif makyaj, gözenekleri ve doğal dokusu korunan cilt, aşırı pürüzsüzleştirme yok, plastik görünüm yok. İfade: Başı öne eğik okumaya odaklanmış, hafif bir tebessüm. Giyim: Kırık beyaz triko hırka, açık gri kısa kollu iç giysi, koyu renk düz paça pantolon, siyah topuksuz ayakkabılar. Poz: Kütüphane penceresinin yanındaki ahşap masada oturuyor, bir eliyle sayfa çeviriyor, diğer eli çenesinde, vücudu kameraya doğru hafifçe dönük. Aksesuarlar: Masada açık bir kitap, karton bardakta kahve, ince çerçeveli gözlük. Ortam: Ön plan bulanıklaştırılmış kitaplık köşesi ve pencere dışındaki yeşil ağaç bokeh'i, orta plan kişi ve ahşap masa, arka plan ise kütüphane raf sıraları ve boydan boya pencerelerden içeri süzülen güneş ışığı. Işıklandırma: Ana kaynak olarak doğal pencere ışığı, konunun sol tarafından geliyor, renk sıcaklığı yaklaşık 5000K, dolgu ışığı olarak iç mekandaki sıcak tonlu lambalar. Kamera: iPhone 15 Pro ana kamera 24mm, f/1.78, elde çekim, dikey kompozisyon, üst bedenden dizlerin üzerine kadar orta plan çekim, sığ alan derinliği, arka plan bokeh. Renk düzenlemesi: Doğal beyaz dengesi, hafif sıcak ton, film greni, gölgelerde detaylar korunmuş. Atmosfer: Sessiz bir odaklanma, edebi bir hava. Stil: Gerçekçi fotoğraf; illüstrasyon veya render değil. Kalite etiketleri: yüksek detaylı, fotogerçekçi, doğal cilt dokusu, habersiz (candid) fotoğrafçılık. Negatif kısıtlamalar: Yağlıboya yok, anime yok, 3D render yok, deforme eller yok, plastik cilt yok, aşırı pürüzsüzleştirme yok, metin filigranı yok.
+```
+
+#### 🖼️ Oluşturulan Görseller
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="Profil / Avatar - GPT Image 2.5 ve Nano Banana için Fotogerçekçi Kütüphane Portresi İstemi - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="Profil / Avatar - GPT Image 2.5 ve Nano Banana için Fotogerçekçi Kütüphane Portresi İstemi - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="Profil / Avatar - GPT Image 2.5 ve Nano Banana için Fotogerçekçi Kütüphane Portresi İstemi - Image 3">
+</div>
+
+#### 📌 Detaylar
+
+- **Yazar:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Kaynak:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **Yayınlandı:** 29 Ekim 2026
+- **Diller:** zh
+
+**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: Profil / Avatar - Köpekli Gerçekçi Sokak Fotoğrafı İçin Nano Banana İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ En Boy Oranı: Dikey 9:16 / 1080x1920px (yatay değil)
 
 ---
 
-### No. 2: Profil / Avatar - Referans Fotoğrafıyla Gerçekçi Okul Portresi
+### No. 3: Profil / Avatar - Referans Fotoğrafıyla Gerçekçi Okul Portresi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Oran: Dikey 9:16 / 1080x1920px
 
 ---
 
-### No. 3: Profil / Avatar - Pembe Saten Elbiseyle Zarif Gece Portresi
+### No. 4: Profil / Avatar - Pembe Saten Elbiseyle Zarif Gece Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Hafif aydınlatılmış bir çeşme ve klasik mimariye yakın gece dış mekan o
 
 ---
 
-### No. 4: Profil / Avatar - Sevimli Yıldız Gece Lambası Portre Karşılaştırması
+### No. 5: Profil / Avatar - Sevimli Yıldız Gece Lambası Portre Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ Parlayan yıldızdan yayılan yumuşak ve sıcak ışığın yüzüne ve ellerin
 
 ---
 
-### No. 5: Profil / Avatar - Nano Banana Pro Göl Portresi Karşılaştırması
+### No. 6: Profil / Avatar - Nano Banana Pro Göl Portresi Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ Hafif su yansımaları, yumuşak bulutlu doğal ışık ve arka planda bulanıkl
 
 ---
 
-### No. 6: Profil / Avatar - Mor Kazak Portre Karşılaştırması
+### No. 7: Profil / Avatar - Mor Kazak Portre Karşılaştırması
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ Sıcak doğal aydınlatmaya sahip yumuşak bir iç mekan ortamı; temiz ve hafif
 
 ---
 
-### No. 7: Profil / Avatar - Pixar Tarzı İkiz Portre
+### No. 8: Profil / Avatar - Pixar Tarzı İkiz Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ En Boy Oranı: 4:5 (Dikey)
 
 ---
 
-### No. 8: Profil / Avatar - Retro Hastane Hemşiresi Kostüm Oyunu Promptu
+### No. 9: Profil / Avatar - Retro Hastane Hemşiresi Kostüm Oyunu Promptu
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1107,7 +1152,7 @@ Renk Paleti: "{argument name="color palette" default="Beyaz, krem, soluk turkuaz
 
 ---
 
-### No. 9: Profil / Avatar - 2000'lerin Başında İnternet Kafe Webcam Çifti
+### No. 10: Profil / Avatar - 2000'lerin Başında İnternet Kafe Webcam Çifti
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1151,7 +1196,7 @@ Format: "{argument name="format" default="4:3 yatay"}"
 
 ---
 
-### No. 10: Profil / Avatar - Kızıl Elbiseli Kadının Sinematik Portresi
+### No. 11: Profil / Avatar - Kızıl Elbiseli Kadının Sinematik Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1229,7 @@ Uzun, ipeksi koyu kahverengi saçlı genç bir kadının sinematik portresi; otu
 
 ---
 
-### No. 11: Profil / Avatar - Dramatik ışıklandırmalı sinematik portre
+### No. 12: Profil / Avatar - Dramatik ışıklandırmalı sinematik portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1219,7 +1264,7 @@ Sahne, dramatik ve çok renkli ışıklandırmalı karanlık bir ortamda geçiyo
 
 ---
 
-### No. 12: Profil / Avatar - Köy Yolunda Ayakkabısına Bakan Kız
+### No. 13: Profil / Avatar - Köy Yolunda Ayakkabısına Bakan Kız
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1289,7 +1334,7 @@ Fotogerçekçi. RAW fotoğraf. Pürüzsüz, parlayan cilt. Akıllı telefon ekra
 
 ---
 
-### No. 13: Profil / Avatar - Oda Modelindeki Cosplayer Karşılaştırması
+### No. 14: Profil / Avatar - Oda Modelindeki Cosplayer Karşılaştırması
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1385,7 @@ Dört modelin (Nano Banana Pro dahil) kendi odasındaki Japon bir cosplayer'ı g
 
 ---
 
-### No. 14: Profil / Avatar - Nano Banana Pro için Lüks Güzellik Portresi İstem
+### No. 15: Profil / Avatar - Nano Banana Pro için Lüks Güzellik Portresi İstem
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1377,7 +1422,7 @@ Negatif istem: Karikatür, illüstrasyon, plastik cilt, aşırı rötuş, deform
 
 ---
 
-### No. 15: Profil / Avatar - Nano Banana Pro İçin Moda Editoryal Portre İstemi
+### No. 16: Profil / Avatar - Nano Banana Pro İçin Moda Editoryal Portre İstemi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1410,7 +1455,7 @@ Uzun, düz ve ipeksi siyah saçlara, çarpıcı gri-yeşil gözlere, yumuşak pe
 
 ---
 
-### No. 16: Profil / Avatar - Lüks Kurumsal Moda Portresi
+### No. 17: Profil / Avatar - Lüks Kurumsal Moda Portresi
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1498,7 @@ Negatif İstem: Farklı yüz, kimlik kayması, değiştirilmiş yüz özellikler
 
 ---
 
-### No. 17: Profil / Avatar - At Kuyruğu Portre İstemi
+### No. 18: Profil / Avatar - At Kuyruğu Portre İstemi
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1518,7 +1563,7 @@ Fotogerçekçi. RAW fotoğraf. Pürüzsüz, ışıltılı cilt. Akıllı telefon
 
 ---
 
-### No. 18: Profil / Avatar - Güney Asyalı Kadın Sinematik Portre
+### No. 19: Profil / Avatar - Güney Asyalı Kadın Sinematik Portre
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1548,73 +1593,6 @@ Uzun dalgalı kahverengi saçlı, ela-yeşil gözlü, küçük siyah bindi, buru
 - **Diller:** en
 
 **[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: Profil / Avatar - Retro Hong Kong Cha Chaan Teng Portre Promptu
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Açıklama
-
-Retro Hong Kong cha chaan teng portresi için detaylı bir prompt. 90'lar film estetiğini yakalayan, belirli ışıklandırma, kamera ayarları ve negatif kısıtlamalar içeren fotogerçekçi bir kadın görseli oluşturma talimatı.
-
-#### 📝 İstem
-
-```
-Retro Hong Kong cha chaan teng portresi, 90'lar Hong Kong filmi sahne estetiği, samimi belgesel havası.
-
-Özne: 25 yaşında Doğu Asyalı kadın, oval yüz, ince kaşlar, koyu renkli gözler; plastik pürüzsüzlük olmadan, ince gözenekli ve doğal dokulu açık ten; hafif makyaj, kırmızımsı dudaklar. Omuzlara dökülen uzun siyah saçlar, uçlarda hafif kıvrımlar, yüzü çerçeveleyen birkaç gevşek tutam.
-
-İfade: Kameranın soluna düşen bakış, tembel ve rahat tavır, ağzın köşesinde hafif bir gülümseme, öğleden sonra hayallere dalmış gibi yakalanmış hissi.
-
-Kıyafet: Krem beyazı %100 pamuk kısa kollu gömlek, yaka bir düğme açık; koyu kahverengi yüksek bel kadife geniş palet pantolon; siyah ince kemer; inci küpeler. Temiz ve düzenli kombin, detaylarda gizlenmiş vintage his.
-
-Poz/Eylem: Cha chaan teng'in pencere kenarı masasında oturuyor, vücut hafifçe pencereye dönük, bir dirsek masada, parmaklar buharı tüten ipek çorba sütlü çayı (silk stocking milk tea) hafifçe tutuyor, diğer el çene altında rahatça duruyor. Rahat oturma pozisyonu, katı değil.
-
-Ekipmanlar: Masada ananas ekmeği, bambu buhar pişiricide karides dumplingleri, metal sütlü çay bardağı, menü panosu, ahşap chopstick tutucu var.
-
-Ortam: Ön plan hafif bulanık sütlü çay bardağı ve buhar pişirici; orta plan özne ve masa; arka plan cha chaan teng'in içi — yeşil mozaik fayans duvarlar, kırmızı neon tabela "Cha Chaan Teng", eski tip tavan vantilatörü, cam vitrinde yumurta tartları ve pastalar; uzaktaki müşteriler yumuşak bulanıklıklar.
-
-Işıklandırma: İç mekan sıcak sarı sarkıt lambalar ana ışık olarak, renk sıcaklığı yaklaşık 3200K, ince bir yağ dumanı sisi tabakasıyla sarılmış; dışarıdaki bulutlu gökyüzünden gelen soğuk gün ışığı rim light olarak, sıcak ve soğuk tonların kontrastı. Cam vitrinlerde ve fayanslarda yumuşak parlama yansımaları.
-
-Kamera: 50mm sabit odak lens, f/2.0, yarım boy çekim, kamera seviyesi göz hizasından biraz daha aşağıda, sığ alan derinliği, özne net, ön/arka plan doğal olarak bulanık, hafif el titremesi ile rastgele çerçeveleme, film greni, Kodak Gold film simülasyonu, Eastmancolor paleti.
-
-Ruh Hali: Nostaljik, yavaş tempolu öğleden sonra tembelliği, eski bir Hong Kong filminin dondurulmuş karesi gibi.
-
-Kalite etiketleri: ultra detaylı, fotogerçekçi, sinematik, yüksek çözünürlük, doğal cilt dokusu.
-
-Negatif kısıtlamalar: Yağlı boya yok, anime yok, 3D render yok, çizgi film yok, deforme eller yok, plastik cilt yok, aşırı doygun renkler yok, metin artefaktları yok, filigran yok.
-```
-
-#### 🖼️ Oluşturulan Görseller
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="Profil / Avatar - Retro Hong Kong Cha Chaan Teng Portre Promptu - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="Profil / Avatar - Retro Hong Kong Cha Chaan Teng Portre Promptu - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="Profil / Avatar - Retro Hong Kong Cha Chaan Teng Portre Promptu - Image 3">
-</div>
-
-#### 📌 Detaylar
-
-- **Yazar:** [Candy](https://x.com/CandyTravelight)
-- **Kaynak:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **Yayınlandı:** 12 Ekim 2026
-- **Diller:** zh
-
-**[👉 Şimdi dene →](https://youmind.com/tr-TR/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6611,7 +6589,7 @@ BOTU Universe adlı orijinal bir animasyon dizisi için sinematik 3D animasyon f
 
 <div align="center">
 
-### 🎯 15699 burada gösterilmeyen daha fazla istem
+### 🎯 15700 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6674,6 +6652,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-29T08:04:04.537Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-10-30T08:04:04.076Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15819** |
+| 📝 Total Prompts | **15820** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Thursday, October 29, 2026 at 8:02:42 AM UTC** |
+| 🔄 Last Updated | **Friday, October 30, 2026 at 8:02:44 AM UTC** |
 
 </div>
 
@@ -654,7 +654,52 @@ Aspect ratio is 3:4 vertical poster. Include vertical Japanese calligraphy descr
 
 > 📝 Sorted by publish date (newest first)
 
-### No. 1: Profile / Avatar - Nano Banana Prompt for Realistic Street Snap with Dog
+### No. 1: Profile / Avatar - Photorealistic Library Portrait Prompt for GPT Image 2.5 and Nano Banana
+
+![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
+
+#### 📖 Description
+
+A detailed prompt for generating a photorealistic image of an Asian woman reading by a library window, emphasizing natural lighting, skin texture, and candid iPhone photography aesthetics.
+
+#### 📝 Prompt
+
+```
+Realistic iPhone photo style, portrait of an Asian woman reading by a library window, natural light handheld shot, slight noise, realistic skin texture. Subject: Asian woman around 26 years old, black long hair in a low ponytail, light makeup, skin retaining pores and natural texture, no excessive smoothing, no plastic look. Expression: Head down focused on reading, slight smile. Clothing: Off-white knit cardigan, light gray short-sleeve inner shirt, dark straight-leg trousers, black flat shoes. Pose: Sitting at a wooden table by the library window, one hand turning pages, one hand resting on chin, body slightly turned towards the camera. Props: An open book on the table, a paper cup coffee, thin-framed glasses. Environment: Foreground is blurred corner of bookshelf and green tree bokeh outside window, midground is person and wooden table, background is rows of library shelves and sunlight outside floor-to-ceiling windows. Lighting: Natural window light as main source, coming from left side of subject, color temp approx 5000K, indoor warm lights as fill. Camera: iPhone 15 Pro main camera 24mm, f/1.78, handheld shot, vertical composition, medium shot from upper body to above knees, shallow depth of field, background bokeh. Color grading: Natural white balance, slight warm tone, film grain, details preserved in shadows. Mood: Quiet focus, literary atmosphere. Style: Realistic photo, not illustration or rendering. Quality tags: highly detailed, photorealistic, natural skin texture, candid photography. Negative constraints: No oil painting, No anime, No 3D render, No deformed hands, No plastic skin, No over-smoothing, No text watermark.
+```
+
+#### 🖼️ Generated Images
+
+##### Image 1
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520435_01uvas_HVzu_jyaQAAP7A-.jpg" width="600" alt="Profile / Avatar - Photorealistic Library Portrait Prompt for GPT Image 2.5 and Nano Banana - Image 1">
+</div>
+
+##### Image 2
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341519629_0vcg67_HVzvAjoa0AAHe58.jpg" width="600" alt="Profile / Avatar - Photorealistic Library Portrait Prompt for GPT Image 2.5 and Nano Banana - Image 2">
+</div>
+
+##### Image 3
+
+<div align="center">
+<img src="https://cms-assets.youmind.com/media/1793341520148_vs7p9g_HVzvBTqakAANO0i.jpg" width="600" alt="Profile / Avatar - Photorealistic Library Portrait Prompt for GPT Image 2.5 and Nano Banana - Image 3">
+</div>
+
+#### 📌 Details
+
+- **Author:** [JimmyAI｜AI Prompt](https://x.com/JimmyCarsttle)
+- **Source:** [Twitter Post](https://x.com/JimmyCarsttle/status/2115828745101828419)
+- **Published:** October 29, 2026
+- **Languages:** zh
+
+**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=37080)**
+
+---
+
+### No. 2: Profile / Avatar - Nano Banana Prompt for Realistic Street Snap with Dog
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -722,7 +767,7 @@ Aspect Ratio: Vertical 9:16 / 1080x1920px (no landscape)
 
 ---
 
-### No. 2: Profile / Avatar - Realistic Indoor Portrait with Satin Camisole
+### No. 3: Profile / Avatar - Realistic Indoor Portrait with Satin Camisole
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -788,7 +833,7 @@ Aspect Ratio: Vertical 9:16 / 1080x1920px
 
 ---
 
-### No. 3: Profile / Avatar - Elegant Night Portrait in Pink Satin Dress
+### No. 4: Profile / Avatar - Elegant Night Portrait in Pink Satin Dress
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -843,7 +888,7 @@ Nighttime outdoor setting near a softly lit fountain and classic architecture, w
 
 ---
 
-### No. 4: Profile / Avatar - Cute Star Night Light Portrait Comparison
+### No. 5: Profile / Avatar - Cute Star Night Light Portrait Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -896,7 +941,7 @@ Soft warm lighting from the glowing star casting a gentle glow on her face and h
 
 ---
 
-### No. 5: Profile / Avatar - Nano Banana Pro Lake Portrait Comparison
+### No. 6: Profile / Avatar - Nano Banana Pro Lake Portrait Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -951,7 +996,7 @@ Serene lake setting with gentle water reflections, soft overcast natural lightin
 
 ---
 
-### No. 6: Profile / Avatar - Purple Sweater Portrait Comparison
+### No. 7: Profile / Avatar - Purple Sweater Portrait Comparison
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1006,7 +1051,7 @@ Soft indoor setting with warm natural lighting and a clean, slightly blurred bac
 
 ---
 
-### No. 7: Profile / Avatar - Pixar Style Real Person Transformation
+### No. 8: Profile / Avatar - Pixar Style Real Person Transformation
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1051,7 +1096,7 @@ Aspect Ratio: 4:5 (Portrait)
 
 ---
 
-### No. 8: Profile / Avatar - Retro Hospital Nurse Cosplay Prompt
+### No. 9: Profile / Avatar - Retro Hospital Nurse Cosplay Prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1107,7 +1152,7 @@ Color Palette: "{argument name="color palette" default="White, cream, muted teal
 
 ---
 
-### No. 9: Profile / Avatar - Early 2000s Internet Cafe Webcam Couple
+### No. 10: Profile / Avatar - Early 2000s Internet Cafe Webcam Couple
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 ![Raycast](https://img.shields.io/badge/🚀-Raycast_Friendly-purple)
@@ -1151,7 +1196,7 @@ Format: "{argument name="format" default="4:3 landscape"}"
 
 ---
 
-### No. 10: Profile / Avatar - Cinematic Portrait of Woman in Crimson Dress
+### No. 11: Profile / Avatar - Cinematic Portrait of Woman in Crimson Dress
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1184,7 +1229,7 @@ Cinematic portrait of a young woman with long, silky dark brown hair, sitting an
 
 ---
 
-### No. 11: Profile / Avatar - Cinematic portrait with dramatic lighting
+### No. 12: Profile / Avatar - Cinematic portrait with dramatic lighting
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1219,7 +1264,7 @@ The scene is set in a dark environment with dramatic, multi-colored lighting. A 
 
 ---
 
-### No. 12: Profile / Avatar - Girl Looking at Shoe on Country Road
+### No. 13: Profile / Avatar - Girl Looking at Shoe on Country Road
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1289,7 +1334,7 @@ Photorealistic. RAW photo. Smooth, glowing skin. Create a vertical portrait imag
 
 ---
 
-### No. 13: Profile / Avatar - Cosplayer in Room Model Comparison
+### No. 14: Profile / Avatar - Cosplayer in Room Model Comparison
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1340,7 +1385,7 @@ A 23-year-old Japanese woman. Cosplayer. Short black hair. Wearing Sunshine Ikez
 
 ---
 
-### No. 14: Profile / Avatar - Luxury Beauty Portrait Prompt for Nano Banana Pro
+### No. 15: Profile / Avatar - Luxury Beauty Portrait Prompt for Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1377,7 +1422,7 @@ Negative prompt: Cartoon, illustration, plastic skin, excessive retouching, dist
 
 ---
 
-### No. 15: Profile / Avatar - Fashion Editorial Portrait Prompt for Nano Banana Pro
+### No. 16: Profile / Avatar - Fashion Editorial Portrait Prompt for Nano Banana Pro
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1410,7 +1455,7 @@ Create an ultra-realistic, high-quality fashion portrait of a beautiful young wo
 
 ---
 
-### No. 16: Profile / Avatar - Ultra-photorealistic corporate fashion portrait prompt
+### No. 17: Profile / Avatar - Ultra-photorealistic corporate fashion portrait prompt
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1453,7 +1498,7 @@ Negative prompt: Different face, identity drift, altered facial features, artifi
 
 ---
 
-### No. 17: Profile / Avatar - Ponytail Portrait Prompt
+### No. 18: Profile / Avatar - Ponytail Portrait Prompt
 
 ![Language-JA](https://img.shields.io/badge/Language-JA-blue)
 
@@ -1518,7 +1563,7 @@ Photorealistic. RAW photo. Smooth, glowing skin. Create a vertical portrait imag
 
 ---
 
-### No. 18: Profile / Avatar - South Asian Woman Cinematic Portrait
+### No. 19: Profile / Avatar - South Asian Woman Cinematic Portrait
 
 ![Language-EN](https://img.shields.io/badge/Language-EN-blue)
 
@@ -1548,73 +1593,6 @@ Ultra-realistic cinematic portrait of a beautiful young South Asian woman with l
 - **Languages:** en
 
 **[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36356)**
-
----
-
-### No. 19: Profile / Avatar - Retro Hong Kong Cha Chaan Teng Portrait Prompt
-
-![Language-ZH](https://img.shields.io/badge/Language-ZH-blue)
-
-#### 📖 Description
-
-A detailed prompt for generating a photorealistic portrait of a woman in a retro Hong Kong cafe setting, used in a comparison between GPT-image-2.5, Nano Banana 2, and Grok-imagine2.
-
-#### 📝 Prompt
-
-```
-Retro Hong Kong cha chaan teng portrait, 90s Hong Kong film still aesthetic, candid documentary vibe.
-
-Subject: A 25-year-old adult East Asian female with an oval face, thin eyebrows, and dark pupils; fair skin preserving fine pores and natural textures, rejecting plastic-like smoothing; light makeup with reddish lips. Long black hair draped over shoulders with naturally curled ends, strands falling by the face.
-
-Expression: Eyes looking off-camera to the left, relaxed and lazy demeanor, a faint smile at the corners of the mouth, like being caught daydreaming in the afternoon.
-
-Clothing: Cream white pure cotton short-sleeved shirt with one button open at the collar; dark brown high-waisted corduroy wide-leg pants; black thin belt; pearl earrings. Outfit is clean and sharp, with vintage vibes hidden in details.
-
-Pose/Action: Sitting in a window-side booth at a cha chaan teng, body slightly turned towards the window, one elbow resting on the table holding a steaming silk stocking milk tea, the other hand casually supporting her chin. Relaxed posture, not stiff.
-
-Props: On the table are pineapple buns, shrimp dumplings in bamboo steamers, metal milk tea cups, menu boards, wooden chopstick holders.
-
-Environment: Foreground features slightly blurred milk tea cups and steamers; mid-ground shows the subject and booth table; background reveals the interior of the cha chaan teng—green mosaic tile walls, red neon sign 'Cha Chaan Teng', old-style ceiling fans, glass cabinets displaying egg tarts and pastries; distant diners appear as soft blurs.
-
-Lighting: Warm yellow indoor pendant lights as main light, color temperature around 3200K, wrapped in a thin haze of cooking oil smoke; cool daylight from outside serves as rim light, creating warm-cool contrast. Soft highlights reflect on glass cabinets and tiles.
-
-Camera: 50mm prime lens, f/2.0, half-body shot, eye-level slightly low angle, shallow depth of field, subject clear while foreground/background naturally blurred, slightly handheld casual framing, film grain, Kodak Gold film simulation, Eastmancolor palette.
-
-Mood: Nostalgic, slow-paced afternoon laziness, like a frozen frame from an old Hong Kong movie.
-
-Quality Tags: ultra detailed, photorealistic, cinematic, high resolution, natural skin texture.
-
-Negative Constraints: No oil painting, No anime, No 3D render, No cartoon, no deformed hands, no plastic skin, no oversaturated colors, no text artifacts, no watermark.
-```
-
-#### 🖼️ Generated Images
-
-##### Image 1
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552146_fhafv9_HUY1Uu-agAAlRrb.jpg" width="600" alt="Profile / Avatar - Retro Hong Kong Cha Chaan Teng Portrait Prompt - Image 1">
-</div>
-
-##### Image 2
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552110_pf4wvx_HUY1XXxaEAAxTgm.jpg" width="600" alt="Profile / Avatar - Retro Hong Kong Cha Chaan Teng Portrait Prompt - Image 2">
-</div>
-
-##### Image 3
-
-<div align="center">
-<img src="https://cms-assets.youmind.com/media/1791873552438_6qxh8f_HUY1Z0oaUAAPK9H.jpg" width="600" alt="Profile / Avatar - Retro Hong Kong Cha Chaan Teng Portrait Prompt - Image 3">
-</div>
-
-#### 📌 Details
-
-- **Author:** [Candy](https://x.com/CandyTravelight)
-- **Source:** [Twitter Post](https://x.com/CandyTravelight/status/2109433869103435905)
-- **Published:** October 12, 2026
-- **Languages:** zh
-
-**[👉 Try it now →](https://youmind.com/en-US/nano-banana-pro-prompts?id=36315)**
 
 ---
 
@@ -6633,7 +6611,7 @@ Create a cinematic 3D animated-film still for an original animated series called
 
 <div align="center">
 
-### 🎯 15699 more prompts not shown here
+### 🎯 15700 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6696,6 +6674,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-10-29T08:02:42.620Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-10-30T08:02:45.014Z</sub>
 
 </div>
