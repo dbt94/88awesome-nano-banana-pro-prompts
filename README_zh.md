@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | 指标 | 数量 |
 |--------|-------|
-| 📝 提示词总数 | **15852** |
+| 📝 提示词总数 | **15853** |
 | ⭐ 精选 | **9** |
-| 🔄 最后更新 | **2026年11月16日星期一 UTC 12:03:17** |
+| 🔄 最后更新 | **2026年11月17日星期二 UTC 12:02:02** |
 
 </div>
 
@@ -6451,7 +6451,7 @@ Nano Banana 与 GPT Image 在奢华商业海报生成方面的对比。包含两
 
 <div align="center">
 
-### 🎯 15732 更多提示词未在此显示
+### 🎯 15733 更多提示词未在此显示
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6514,6 +6514,6 @@ The gallery features:
 **[📝 提交提示词](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ 给仓库点星](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 此 README 自动生成。最后更新： 2026-11-16T12:03:17.355Z</sub>
+<sub>🤖 此 README 自动生成。最后更新： 2026-11-17T12:02:02.667Z</sub>
 
 </div>

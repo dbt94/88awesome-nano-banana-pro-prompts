@@ -143,9 +143,9 @@ by {argument name="author" default="Steve Jobs"}
 
 | เมตริก | จำนวน |
 |--------|-------|
-| 📝 คำสั่งทั้งหมด | **15852** |
+| 📝 คำสั่งทั้งหมด | **15853** |
 | ⭐ แนะนำ | **9** |
-| 🔄 อัปเดตล่าสุด | **วันจันทร์ที่ 16 พฤศจิกายน พ.ศ. 2569 เวลา 12 นาฬิกา 03 นาที 34 วินาที UTC** |
+| 🔄 อัปเดตล่าสุด | **วันอังคารที่ 17 พฤศจิกายน พ.ศ. 2569 เวลา 12 นาฬิกา 02 นาที 24 วินาที UTC** |
 
 </div>
 
@@ -6447,7 +6447,7 @@ Input A คือหัวข้อใดก็ได้ (วัตถุ, ส�
 
 <div align="center">
 
-### 🎯 15732 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
+### 🎯 15733 คำสั่งเพิ่มเติมที่ไม่ได้แสดงที่นี่
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6510,6 +6510,6 @@ The gallery features:
 **[📝 ส่งคำสั่ง](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ ให้ดาวกับที่เก็บนี้](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-16T12:03:34.147Z</sub>
+<sub>🤖 README นี้ถูกสร้างขึ้นโดยอัตโนมัติ อัปเดตล่าสุด: 2026-11-17T12:02:24.719Z</sub>
 
 </div>

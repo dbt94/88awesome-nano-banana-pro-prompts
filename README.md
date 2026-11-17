@@ -143,9 +143,9 @@ When used in Raycast, you can dynamically replace the arguments for quick iterat
 
 | Metric | Count |
 |--------|-------|
-| 📝 Total Prompts | **15852** |
+| 📝 Total Prompts | **15853** |
 | ⭐ Featured | **9** |
-| 🔄 Last Updated | **Monday, November 16, 2026 at 12:03:13 PM UTC** |
+| 🔄 Last Updated | **Tuesday, November 17, 2026 at 12:01:57 PM UTC** |
 
 </div>
 
@@ -6448,7 +6448,7 @@ Output: ONE image, 1:1 Aspect Ratio, Product Photography, "Woodpunk" aesthetic, 
 
 <div align="center">
 
-### 🎯 15732 more prompts not shown here
+### 🎯 15733 more prompts not shown here
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6511,6 +6511,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2026-11-16T12:03:13.377Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2026-11-17T12:01:57.251Z</sub>
 
 </div>

@@ -143,9 +143,9 @@ Raycast'te kullanıldığında, hızlı yinelemeler için argümanları dinamik 
 
 | Metrik | Sayı |
 |--------|-------|
-| 📝 Toplam İstem | **15852** |
+| 📝 Toplam İstem | **15853** |
 | ⭐ Öne Çıkan | **9** |
-| 🔄 Son Güncelleme | **16 Kasım 2026 Pazartesi 12:04:16 UTC** |
+| 🔄 Son Güncelleme | **17 Kasım 2026 Salı 12:03:18 UTC** |
 
 </div>
 
@@ -6428,7 +6428,7 @@ Doku: Yüksek Parlak Vernik. Ahşap pahalı, pürüzsüz ve derinlemesine doygun
 
 <div align="center">
 
-### 🎯 15732 burada gösterilmeyen daha fazla istem
+### 🎯 15733 burada gösterilmeyen daha fazla istem
 
 Due to GitHub's content length limitations, we can only display the first 120 regular prompts in this README.
 
@@ -6491,6 +6491,6 @@ Detaylı yönergeler için [CONTRIBUTING.md](docs/CONTRIBUTING.md) dosyasına ba
 **[📝 Bir İstem Gönder](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Bu depoya yıldız verin](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-16T12:04:16.565Z</sub>
+<sub>🤖 Bu README otomatik olarak oluşturulmuştur. Son güncelleme: 2026-11-17T12:03:18.826Z</sub>
 
 </div>
